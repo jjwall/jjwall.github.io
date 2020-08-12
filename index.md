@@ -79,3 +79,19 @@ Developed by:
 * [apples](https://github.com/apples/) - **Jeramy Harrison**
 * [jjwall](https://github.com/jjwall/) - **Jacob Wallace**
 * [WiredOverload](https://github.com/WiredOverload/) - **Michael Hodges**
+
+* * *
+
+## **Ludum Dare 43: Creatures of the Night**
+<p align="center">
+    <img
+        alt="Creatures of the Night"
+        src="./assets/images/creatures.png"
+            width="800"
+    />
+</p>
+
+* Play it here: [https://gizmolo.itch.io/creatures-of-the-night](https://github.com/jjwall/)
+* Ludum Dare submission: [https://ldjam.com/events/ludum-dare/43/creatures-of-the-night](https://ldjam.com/events/ludum-dare/43/creatures-of-the-night)
+* Source code: [https://github.com/jjwall/LD43](https://github.com/jjwall/LD43)
+* <u>About</u>: This was the first game I developed using my game engine, BoardhouseTS. It used a much older version of my engine that used PixiJS as the rendering layer. PixiJS has since been thrown out in favor of Three.js.
