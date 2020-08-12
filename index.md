@@ -55,7 +55,7 @@ Developed by:
     />
 </p>
 
-* Play it here: [srw-og2-multiplayer.herokuapp.com](srw-og2-multiplayer.herokuapp.com)
+* Play it here: [https://srw-og2-multiplayer.herokuapp.com/](https://srw-og2-multiplayer.herokuapp.com/)
 * Source code: [https://github.com/MagentaReds/project-3-srw-multiplayer](https://github.com/MagentaReds/project-3-srw-multiplayer)
 * Tech used: jQuery, jQuery UI, Node.js, Express.js, MongoDB, Mongoose, Socket.io, Embeddedjs, Passport, Bootstrap 
 * <u>About</u>: This app was built for my final project at the UT Coding Bootcamp with 2 other cohorts. It is a multiplayer tactical role-playing game based off of the Bandai series Super Robot Wars. I was in charge of building the gameplay UI on the front-end and intergrating socket.io so that the various clients playing would remained synced. Since games of this genre are typically designed to be single player games, I assisted our group's game engine developer with much of the game design to ensure that gameplay was fair. 
