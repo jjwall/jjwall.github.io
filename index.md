@@ -9,7 +9,7 @@ layout: default
 <p align="center">
     <img
         alt="Exquisite Adventure"
-        src="./assets/images/exq_adv.png"
+        src="./assets/images/exq_adv_dark.png"
         width="600"
     />
 </p>
