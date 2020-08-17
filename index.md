@@ -14,7 +14,7 @@ layout: default
     />
 </p>
 
-* <u>About</u>: This is my current app I am working on and is slated for a Q1 2021 release  Development is currently focused on iOS but an Android version will be available as well. The project is written with Boardhouse and uses Cordova to target native mobile platforms. It will feature an [Exquisite Corpse](https://en.wikipedia.org/wiki/Exquisite_corpse) artistic mode where users can contribute to creating entities that will be seen in other parts of the app. Project goals are to learn more about mobile development and to better understand both the iOS and Android ecosystems.
+* <u>About</u>: This is my current app I am working on and is slated for a Q1 2021 release. Development is currently focused on iOS but an Android version will be available as well. The project is written with Boardhouse and uses Cordova to target native mobile platforms. It will feature an [Exquisite Corpse](https://en.wikipedia.org/wiki/Exquisite_corpse) artistic mode where users can contribute to creating entities that will be seen in other parts of the app. Project goals are to learn more about mobile development and to better understand both the iOS and Android ecosystems.
 * Tech used: Cordova, XCode, TypeScript, Webpack, Babel, Node, Three.js
 
 * * *
