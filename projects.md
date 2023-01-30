@@ -5,6 +5,8 @@ layout: default
 <b>[About](./)</b> | <b>Projects</b> | <b>[Resume](./resume.html)</b>
 * * *
 
+Many of my side projects come from a weekend hackathon game jam competition called Ludum Dare. You can check out my entire portofolio of games from there following this [link](https://ldjam.com/users/gizmolo/games). Below I've highlighted some of my notable projects.
+
 ## Updog
 <p align="center">
     <img
