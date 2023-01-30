@@ -5,6 +5,23 @@ layout: default
 <b>[About](./)</b> | <b>Projects</b> | <b>[Resume](./resume.html)</b>
 * * *
 
+## Updog
+<p align="center">
+    <img
+        alt="Updog"
+        src="./assets/images/sadie_main_capsule_final.png"
+        width="600"
+    />
+</p>
+
+* Steam page: [https://store.steampowered.com/app/1967010/Updog/](https://store.steampowered.com/app/1967010/Updog/)
+* Ludum Dare submission: [https://ldjam.com/events/ludum-dare/50/updog-the-ascension-of-180-sadie](https://ldjam.com/events/ludum-dare/50/updog-the-ascension-of-180-sadie)
+* Source code: [https://github.com/apples/ld50](https://github.com/apples/ld50)
+* Tech used: Unity, Blender, Krita, Aseprite, Logic Pro
+* <u>About</u>: This was my first game I ever published to Steam! I worked with a team of three other developers and used the company Moonflower Games as the publisher. The game started out as a Ludum Dare Jam entry for LD 50 and since the team enjoyed working with each other so much we decided to expand it and launch a Steam release. Working on this game was my first real experience with Unity.
+
+* * *
+
 ## Exquisite Adventure
 <p align="center">
     <img
@@ -15,7 +32,7 @@ layout: default
 </p>
 
 * Tech used: Cordova, XCode, TypeScript, Webpack, Babel, Node, Three.js
-* <u>About</u>: This is my current app I am working on and is slated for a Q1 2021 release. Development is currently focused on iOS but an Android version will be available as well. The project is written with Boardhouse and uses Cordova to target native mobile platforms. It will feature an [Exquisite Corpse](https://en.wikipedia.org/wiki/Exquisite_corpse) artistic mode where users can contribute to creating entities that will be seen in various parts of the app. Project goals are to learn more about mobile development and to better understand both the iOS and Android ecosystems.
+* <u>About</u>: This project is written with Boardhouse and uses Cordova to target native mobile platforms. It features an [Exquisite Corpse](https://en.wikipedia.org/wiki/Exquisite_corpse) artistic mode where users can contribute to creating entities that will be seen in various parts of the app. Project goals are to learn more about mobile development and to better understand both the iOS and Android ecosystems.
 
 * * *
 
