@@ -108,5 +108,5 @@ Hosted Web Application Platform team (HWAP)
     />
 </p>
 
-* Office administrator for the most successful branch in the nation
+* Office administrator for the Tanglewood branch, the most successful branch in the nation
 * Curated materials and coursework for coding curriculum
