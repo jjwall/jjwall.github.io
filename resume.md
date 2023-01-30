@@ -31,6 +31,8 @@ layout: default
 * Major: Economics
 * Minor: Business Foundations
 
+---
+
 # Jobs
 ## Lead Software Developer, Consultant
 <i>Deloitte, Washington, D.C.</i>
@@ -38,7 +40,7 @@ layout: default
     <img
         alt="Deloitte"
         src="./assets/images/Deloitte-Logo_cropped.png"
-        width="600"
+        width="400"
     />
 </p>
 
@@ -55,7 +57,7 @@ sessions for Department of Defense client facing team members
     <img
         alt="T-Cetra"
         src="./assets/images/t-cetra-logo.png"
-        width="600"
+        width="400"
     />
 </p>
 
@@ -71,7 +73,7 @@ tokenizing existing and newly added credit card data
     <img
         alt="Reynolds and Reynolds"
         src="./assets/images/Reynolds_&_Reynolds_logo.png"
-        width="600"
+        width="400"
     />
 </p>
 
@@ -80,4 +82,31 @@ tokenizing existing and newly added credit card data
 Hosted Web Application Platform team (HWAP)
 * Created app logging for developer support and permission items for global security
 
+---
+
 # Volunteer Service
+## Mentor, Ambassador
+<i>Codum, Germany, Upper Bavaria</i>
+<p align="center">
+    <img
+        alt="Code Ninjas"
+        src="./assets/images/codum_cropped.png"
+        width="300"
+    />
+</p>
+
+* Mentored junior developers helping them navigate the learning journey as well as career developed
+* Ambassador for the organization spreading the word through my network and social medias
+
+## Sensei
+<i>Code Ninjas, Houston, Tx</i>
+<p align="center">
+    <img
+        alt="Code Ninjas"
+        src="./assets/images/code-ninjas-logo.png"
+        width="400"
+    />
+</p>
+
+* Office administrator for the most successful branch in the nation
+* Curated materials and coursework for coding curriculum
