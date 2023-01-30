@@ -3,5 +3,6 @@
 
 @import "{{ site.theme }}";
 footer {
-    display: none;
+    // display: none;
+    content: "&copy; Copyright 2023 Jake Wallace"
 }
