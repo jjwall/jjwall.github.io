@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Resume
-[Projects](./) | Resume
+<b>[Projects](./index.html)</b> | <b>Resume</b>
 * * *
 
 ## Education
