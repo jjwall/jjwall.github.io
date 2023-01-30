@@ -1,132 +1,16 @@
 ---
 layout: default
 ---
-# Projects
-<b>Projects</b> | <b>[Resume](./resume.html)</b>
+# About
+<b>About</b> | <b>[Projects](./projects.html)</b> | <b>[Resume](./resume.html)</b>
 * * *
 
-## Exquisite Adventure
-<p align="center">
-    <img
-        alt="Exquisite Adventure"
-        src="./assets/images/exq_adv_dark.png"
-        width="600"
-    />
-</p>
+Hi there, thanks for stopping by my portfolio site. My name is Jake Wallace. I am a software developer, architect and tech mentor. My passion for technology ignited at the young age of five years old when I first sat down on the couch and witnessed my older brother playing through The Legend of Zelda: Ocarina of Time for the Nintendo 64. Even at that age I understood someone had created this game! If they could create something as amazing as Zelda, perhaps I could create my own games too. It was at eight years old when I was first exposed to Adobe Flash. For the next six years I would be scripting games trying to emulate some of my favorite titles from popular sites back in the day like Addicting Games and New Grounds. After playing some popular MMORPGs (Massively Multiplayer Online Role-Playing Games) like RuneScape and Maple Story I soon found myself wanting to create a similar type of online multiplayer game. Unfortunately, I did not know enough about coding and technology to make this happen and my dreams began to fade. 
 
-* Tech used: Cordova, XCode, TypeScript, Webpack, Babel, Node, Three.js
-* <u>About</u>: This is my current app I am working on and is slated for a Q1 2021 release. Development is currently focused on iOS but an Android version will be available as well. The project is written with Boardhouse and uses Cordova to target native mobile platforms. It will feature an [Exquisite Corpse](https://en.wikipedia.org/wiki/Exquisite_corpse) artistic mode where users can contribute to creating entities that will be seen in various parts of the app. Project goals are to learn more about mobile development and to better understand both the iOS and Android ecosystems.
+In addition to this, my family made a big move from Texas to California around the time I was to enter high school. This was a pivotal time period for me and in the interest to make friends and not seem like such a nerd, I was quick to put my passion for coding and game development away and engage in the immediate extracurricular activities around me. Flash forward to nearing my college graduation. I had pursued a degree in Economics because I was good at math and saw it as my easy way out of college. But as I saw some friends get office jobs they loathed I quickly made a realization that I desperately needed to find a career path I was passionate about less I was destined for the same fate of hating my job. It was around this time I became an avid podcast listener and listening to one of my favorites, The Tim Ferriss Show, I heard the quote: "Be the person that you needed when you were twelve years old." My mind immediately flashed back to twelve year old me, sitting at the computer, and struggling to comprehend the nuances of networking programming. What had happened to my passion for game development and coding over the last decade of my life? It dawned on me that this very well could be my path forward in life. To reignite my passion and embody the person with the knowledge and wisdom that my child self lacked. I was blessed to receive mentorship from friends in industry working at companies like Amazon and Facebook at the time. They encouraged me to attend an educational bootcamp that specialized in coding. I had my doubts as I had only recently graduated college with a good degree yet I was prepared to throw all of that out the window and start fresh.
 
-* * *
+Reflecting back, this was the best decision I had ever made. At the time I was working a full time sales job while taking the coding bootcamp part time with two night classes during the week and one all day class on Saturday for the next six months. By month five of the program, I was all in. I quit my sales job and went full time into learning, building out my portfolio and becoming relentless in my pursuit to land my first developer job. Three months after the six month coding bootcamp had ended, I received my offer letter. The pay wasn't stellar and I wasn't doing game development, but I achieved my dream nonetheless. Flash forward to today and I have had the honor of working for three companies as an Entry Level, Mid Level, and Lead Software Developer. My experience is diverse with experience in both commercial and federal sectors. I have worked small, mid-sized, and large enterprises. And I have developed and designed applications for both consumer and enterpise technology. Not to mention the amazing mentorship I have had throughout my storied career.
 
-## BoardhouseTS
-<p align="center">
-    <a href="https://jjwall.github.io/BoardhouseTS/">
-        <img
-            alt="BoardhouseTS"
-            src="./assets/images/boardhouse_logo_med.png"
-            width="800"
-        />
-    </a>
-</p>
+With the wealth of knowledge, wisdom, and experience I have accumulated throughout my career it has weighed on my heart to give back. The profundity of knowing how much my life has been enriched simply by learning how to code and work with technology cannot be understated. God has certainly been looking after me and has awaked me to the reality that I am here to serve. As such I have been compelled to mentor others who are seeking the same freedom and abundance that a mastery in technology has afforded me. The organization I have started to direct these mentorships is called Boardhouse Technology Academy. For anyone interested they can book a free discovery call [here](https://calendly.com/jacobwallace/discovery-call) or reach out to me at [jake@boardhouse.academy](mailto:jake@boardhouse.academy?subject=Discovery Call). In addition, on this site you can view my qualifications [here](./resume.html) and the (non-professional) projects I have worked on [here](./projects.html).
 
-* Source code: [https://github.com/jjwall/BoardhouseTS](https://github.com/jjwall/BoardhouseTS)
-* Site: [https://jjwall.github.io/BoardhouseTS/](https://jjwall.github.io/BoardhouseTS/)
-* <u>About</u>: This is an onging project written in TypeScript. It is a game engine for browsers. The project goals are to enable users to quickly develop prototypes, which makes it a perfect game engine to use for weekend game dev competitions such as Ludum Dare, Global Game Jam, and Game Makers Tool Kit. The engine features a React-like UI layer, an Entity Component System, State management for handling scenes, and uses Three.js as the rendering layer. Currently I am in the process of using Cordova to enable exporting projects into native iOS and Android code.
-
-* * *
-
-## Global Game Jam 2020: Occupational Hazards
-
-<p align="center">
-    <img
-        alt="Occupational Hazards"
-        src="./assets/images/hazards.png"
-        width="800"
-    />
-</p>
-
-* Play it here: [https://alchemical.itch.io/occupational-hazards](https://alchemical.itch.io/occupational-hazards)
-* Global Game Jam submission: [https://globalgamejam.org/2020/games/occupational-hazards-5](https://globalgamejam.org/2020/games/occupational-hazards-5)
-* Source code: [https://github.com/apples/ggj2020](https://github.com/apples/ggj2020)
-* Tech used: TypeScript, Webpack, Babel, Node, Three.js
-* <u>About</u>: This was a game written in my game engine, BoardhouseTS, by three developers (see below) for the 2020 Global Game Jam. I was not part of the team that wrote any of the game code, I only provided the engine code. Very little communication was needed from me for them to consume the APIs exposed by my game engine. The game got 4th place at the Houston, TX branch of GGJ.
-
-Developed by:
-* [apples](https://github.com/apples/) - **Jeramy Harrison**
-* [jrvaughan917](https://github.com/jrvaughan917/) - **James Vaughan**
-* [WiredOverload](https://github.com/WiredOverload/) - **Michael Hodges**
-
-* * *
-
-## Super Robot Wars
-
-<p align="center">
-    <img
-        alt="Super Robot Wars"
-        src="./assets/images/SRW1.png"
-        width="800"
-    />
-</p>
-
-* Play it here: [https://srw-og2-multiplayer.herokuapp.com/](https://srw-og2-multiplayer.herokuapp.com/)
-* Source code: [https://github.com/MagentaReds/project-3-srw-multiplayer](https://github.com/MagentaReds/project-3-srw-multiplayer)
-* Tech used: jQuery, jQuery UI, Node.js, Express.js, MongoDB, Mongoose, Socket.io, Embeddedjs, Passport, Bootstrap 
-* <u>About</u>: This app was built for my final project at the UT Coding Bootcamp with 2 other cohorts. It is a multiplayer tactical role-playing game based off of the Bandai series Super Robot Wars. I was in charge of building the gameplay UI on the front-end and intergrating socket.io so that the various clients playing would remained synced. Since games of this genre are typically designed to be single player games, I assisted our group's game engine developer with much of the game design to ensure that gameplay was fair. 
-
-* * *
-
-## Ludum Dare 45: Space Base Continuum
-
-<p align="center">
-    <img
-        alt="Space Base Continuum"
-        src="./assets/images/space_base.png"
-        width="800"
-    />
-</p>
-
-* Play it here: [https://gizmolo.itch.io/space-base-continuum](https://gizmolo.itch.io/space-base-continuum)
-* Ludum Dare submission: [https://ldjam.com/events/ludum-dare/45/space-base-continuum](https://ldjam.com/events/ludum-dare/45/space-base-continuum)
-* Source code: [https://github.com/jjwall/LD45](https://github.com/jjwall/LD45)
-* Tech used: TypeScript, Webpack, Babel, Node, Three.js
-* <u>About</u>: The project was also developed using my game engine, BoardhouseTS, for Ludum Dare 45. I was the sole developer of the game code and also created all the art and sound assets used in the game. My inspiration was to try and create a simpler version of StarCraft. My learning goals were to understand how to currently implement MouseEvents into my engine.
-
-* * *
-
-## Global Game Jam 2019: Pale Blue Dot
-<p align="center">
-    <img
-        alt="Pale Blue Dot"
-        src="./assets/images/pale_blue_dot.png"
-        width="800"
-    />
-</p>
-
-* Play it here: [https://wiredoverload.itch.io/pale-blue-dot](https://wiredoverload.itch.io/pale-blue-dot)
-* Global Game Jam submission: [https://globalgamejam.org/2019/games/pale-blue-dot-2](https://globalgamejam.org/2019/games/pale-blue-dot-2)
-* Source code: [https://github.com/WiredOverload/PaleBlueDot](https://github.com/WiredOverload/PaleBlueDot)
-* Tech used: TypeScript, Webpack, Node, Three.js
-* <u>About</u>: This was the first project where I pulled in additional developers to build a game using my game engine, BoardhouseTS. It was also the first time I got a chance to compete in a Global Game Jam. I worked on the code for the asteroids and creating the visual assets.
-
-Developed by:
-* [apples](https://github.com/apples/) - **Jeramy Harrison**
-* [jjwall](https://github.com/jjwall/) - **Jacob Wallace**
-* [WiredOverload](https://github.com/WiredOverload/) - **Michael Hodges**
-
-* * *
-
-## **Ludum Dare 43: Creatures of the Night**
-<p align="center">
-    <img
-        alt="Creatures of the Night"
-        src="./assets/images/creatures.png"
-            width="800"
-    />
-</p>
-
-* Play it here: [https://gizmolo.itch.io/creatures-of-the-night](https://gizmolo.itch.io/creatures-of-the-night)
-* Ludum Dare submission: [https://ldjam.com/events/ludum-dare/43/creatures-of-the-night](https://ldjam.com/events/ludum-dare/43/creatures-of-the-night)
-* Source code: [https://github.com/jjwall/LD43](https://github.com/jjwall/LD43)
-* Tech used: TypeScript, Webpack, Node, PixiJS
-* <u>About</u>: This was the first game I developed using my game engine, BoardhouseTS. It used a much older version of my engine that used PixiJS as the rendering layer. PixiJS has since been thrown out in favor of Three.js.
+Keep elevating and reaching for the stars 🚀✨
