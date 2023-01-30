@@ -2,8 +2,12 @@
 layout: default
 ---
 
-## Welcome to another page
+# Resume
+[Projects](./) | Resume
+* * *
 
-_yay_
+## Education
 
-[back](./)
+## Jobs
+
+## Volunteer

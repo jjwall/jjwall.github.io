@@ -2,7 +2,7 @@
 layout: default
 ---
 # Projects
-[Resume](./resume.html)
+Projects | [Resume](./resume.html)
 * * *
 
 ## Exquisite Adventure
