@@ -3,5 +3,10 @@
 
 @import "{{ site.theme }}";
 footer > p > small {
-    content: '&copy; Copyright 2023 Jake Wallace'
+    position: absolute;
+    visibility: hidden;
+  }
+footer > p > small:before {
+    content: "&copy; Copyright 2023 Jake Wallace";
+    visibility: visible;
 }
