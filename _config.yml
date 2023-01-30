@@ -3,19 +3,33 @@ title: Jake Wallace
 # description: I am a developer specializing in TypeScript and the JavaScript ecosystem. I enjoy making games.
 description:
   <p align="center">
+    <a href="https://www.instagram.com/jakewallace.io/">     
+      <img
+        alt="Jake Wallace's Instagram Profile"
+        src="./assets/icons/instagram.png"
+        width="50"
+      />
+    </a>
     <a href="https://www.linkedin.com/in/jacob-wallace">     
       <img
         alt="Jake Wallace's LinkedIn Profile"
-        src="./assets/icons/linkedin.png"
+        src="./assets/icons/linkedin2.png"
         width="50"
       />
     </a>
-    <a href="https://github.com/jjwall">     
+    # <a href="https://github.com/jjwall">     
+    #   <img
+    #     alt="Jake Wallace's GitHub Profile"
+    #     src="./assets/icons/github2.png"
+    #     width="50"
+    #   />
+    # </a>
+    # <a href="My YOUTUBE!!!!">     
       <img
-        alt="Jake Wallace's GitHub Profile"
-        src="./assets/icons/github.png"
+        alt="Jake Wallace's YouTube Profile"
+        src="./assets/icons/youtube.png"
         width="50"
       />
-    </a>
+    # </a>
   </p>
 logo: /assets/images/Jake_2023_cropped.png
