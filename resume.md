@@ -8,6 +8,7 @@ layout: default
 
 # Education
 ## UT Coding Bootcamp
+<i>Austin, TX, January 2017 - June 2017</i>
 <p align="center">
     <img
         alt="UT Center for Professional Education"
@@ -20,6 +21,7 @@ layout: default
 * Powered by: Trilogy Education (now 2U)
 
 ## The University of Texas at Austin
+Austin, TX, January 2012 - June 2016
 <p align="center">
     <img
         alt="The University of Texas at Austin"
@@ -35,7 +37,7 @@ layout: default
 
 # Work Experience
 ## Lead Software Developer, Consultant
-<i>Deloitte, Washington, D.C.</i>
+<i>Deloitte, Washington, D.C., August 2021 - Current</i>
 <p align="center">
     <img
         alt="Deloitte"
@@ -52,7 +54,7 @@ hours and $150,000 hard dollars
 sessions for Department of Defense client facing team members
 
 ## Mid-Level Software Developer
-<i>T-Cetra, Dublin, Oh</i>
+<i>T-Cetra, Dublin, OH, February 2021 - July 2021</i>
 <p align="center">
     <img
         alt="T-Cetra"
@@ -68,7 +70,7 @@ and efficient as a member of the Refactoring team
 tokenizing existing and newly added credit card data
 
 ## Software Developer
-<i>Reynolds and Reynolds, Houston, Tx</i>
+<i>Reynolds and Reynolds, Houston, TX, October 2017 - January 2021</i>
 <p align="center">
     <img
         alt="Reynolds and Reynolds"
@@ -86,7 +88,7 @@ Hosted Web Application Platform team (HWAP)
 
 # Volunteer Service
 ## Mentor, Ambassador
-<i>Codum, Germany, Upper Bavaria</i>
+<i>Codum, Germany, Upper Bavaria, November 2022 - Current</i>
 <p align="center">
     <img
         alt="Code Ninjas"
@@ -99,7 +101,7 @@ Hosted Web Application Platform team (HWAP)
 * Ambassador for the organization spreading the word through my network and social medias
 
 ## Sensei
-<i>Code Ninjas, Houston, Tx</i>
+<i>Code Ninjas, Houston, Tx, July 2019 - Current</i>
 <p align="center">
     <img
         alt="Code Ninjas"
