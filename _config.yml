@@ -6,7 +6,7 @@ description:
     <a href="https://www.youtube.com/">     
       <img
         alt="Jake Wallace's YouTube Profile"
-        src="./assets/icons/youtube.png"
+        src="./assets/icons/youtube2.png"
         width="50"
         style="padding-left:5px;"
       />
@@ -31,7 +31,7 @@ description:
       <img
         alt="Jake Wallace's GitHub Profile"
         src="./assets/icons/github2.png"
-        width="50"
+        width="55"
         style="padding-left:5px;"
       />
     </a>
