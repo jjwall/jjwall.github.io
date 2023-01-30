@@ -24,7 +24,7 @@ layout: default
     <img
         alt="The University of Texas at Austin"
         src="./assets/images/UT_Austin_logo.png"
-        width="400"
+        width="300"
     />
 </p>
 
@@ -33,14 +33,14 @@ layout: default
 
 ---
 
-# Jobs
+# Work Experience
 ## Lead Software Developer, Consultant
 <i>Deloitte, Washington, D.C.</i>
 <p align="center">
     <img
         alt="Deloitte"
         src="./assets/images/Deloitte-Logo_cropped.png"
-        width="400"
+        width="300"
     />
 </p>
 
@@ -57,7 +57,7 @@ sessions for Department of Defense client facing team members
     <img
         alt="T-Cetra"
         src="./assets/images/t-cetra-logo.png"
-        width="400"
+        width="300"
     />
 </p>
 
