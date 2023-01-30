@@ -2,20 +2,20 @@ theme: jekyll-theme-minimal
 title: Jake Wallace
 # description: I am a developer specializing in TypeScript and the JavaScript ecosystem. I enjoy making games.
 description:
-<p align="center">
-  <a href="https://jjwall.github.io/BoardhouseTS/">     
-    <img
-      alt="Exquisite Adventure"
-      src="./assets/images/exq_adv_dark.png"
-      width="50"
-    />
-  </a>
-  <a href="https://jjwall.github.io/BoardhouseTS/">     
-    <img
-      alt="Exquisite Adventure"
-      src="./assets/images/exq_adv_dark.png"
-      width="50"
-    />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://jjwall.github.io/BoardhouseTS/">     
+      <img
+        alt="Exquisite Adventure"
+        src="./assets/images/exq_adv_dark.png"
+        width="50"
+      />
+    </a>
+    <a href="https://jjwall.github.io/BoardhouseTS/">     
+      <img
+        alt="Exquisite Adventure"
+        src="./assets/images/exq_adv_dark.png"
+        width="50"
+      />
+    </a>
+  </p>
 logo: /assets/images/Jake_2023_cropped.png
