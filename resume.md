@@ -95,7 +95,7 @@ Hosted Web Application Platform team (HWAP)
     />
 </p>
 
-* Mentored junior developers helping them navigate the learning journey as well as career developed
+* Mentored junior developers helping them navigate the coding learning journey as well as career development
 * Ambassador for the organization spreading the word through my network and social medias
 
 ## Sensei
