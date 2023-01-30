@@ -8,7 +8,7 @@ description:
         alt="Jake Wallace's Instagram Profile"
         src="./assets/icons/instagram.png"
         width="50"
-        padding-left="10"
+        style="padding-left:10px;"
       />
     </a>
     <a href="https://www.linkedin.com/in/jacob-wallace">     
@@ -16,7 +16,7 @@ description:
         alt="Jake Wallace's LinkedIn Profile"
         src="./assets/icons/linkedin2.png"
         width="50"
-        padding-left="10"
+        style="padding-left:10px;"
       />
     </a>
     <a href="https://github.com/jjwall">     
@@ -24,7 +24,7 @@ description:
         alt="Jake Wallace's GitHub Profile"
         src="./assets/icons/github2.png"
         width="50"
-        padding-left="10"
+        style="padding-left:10px;"
       />
     </a>
   </p>
