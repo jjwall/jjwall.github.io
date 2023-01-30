@@ -17,19 +17,20 @@ description:
         width="50"
       />
     </a>
-    # <a href="https://github.com/jjwall">     
-    #   <img
-    #     alt="Jake Wallace's GitHub Profile"
-    #     src="./assets/icons/github2.png"
-    #     width="50"
-    #   />
-    # </a>
-    # <a href="My YOUTUBE!!!!">     
+    <a href="https://github.com/jjwall">     
       <img
-        alt="Jake Wallace's YouTube Profile"
-        src="./assets/icons/youtube.png"
+        alt="Jake Wallace's GitHub Profile"
+        src="./assets/icons/github2.png"
         width="50"
       />
-    # </a>
+    </a>
   </p>
 logo: /assets/images/Jake_2023_cropped.png
+
+# <a href="My YOUTUBE!!!!">     
+#   <img
+#     alt="Jake Wallace's YouTube Profile"
+#     src="./assets/icons/youtube.png"
+#     width="50"
+#   />
+# </a>
