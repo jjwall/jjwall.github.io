@@ -8,7 +8,7 @@ layout: default
 
 # Education
 ## UT Coding Bootcamp
-<i>Austin, TX, January 2017 - June 2017</i>
+<i>Austin, TX, January 2017 - July 2017</i>
 <p align="center">
     <img
         alt="UT Center for Professional Education"
@@ -21,7 +21,7 @@ layout: default
 * Powered by: Trilogy Education (now 2U)
 
 ## The University of Texas at Austin
-Austin, TX, January 2012 - June 2016
+<i>Austin, TX, January 2012 - June 2016</i>
 <p align="center">
     <img
         alt="The University of Texas at Austin"
@@ -75,7 +75,7 @@ tokenizing existing and newly added credit card data
     <img
         alt="Reynolds and Reynolds"
         src="./assets/images/Reynolds_&_Reynolds_logo.png"
-        width="400"
+        width="350"
     />
 </p>
 
@@ -101,7 +101,7 @@ Hosted Web Application Platform team (HWAP)
 * Ambassador for the organization spreading the word through my network and social medias
 
 ## Sensei
-<i>Code Ninjas, Houston, Tx, July 2019 - Current</i>
+<i>Code Ninjas, Houston, TX, July 2019 - October 2022</i>
 <p align="center">
     <img
         alt="Code Ninjas"
