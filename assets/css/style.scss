@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
-footer {
-    content: "&copy; Copyright 2023 Jake Wallace"
+footer > p > small {
+    visibility: hidden;
+}
+footer > p > small:after {
+    content: '&copy; Copyright 2023 Jake Wallace'
 }
