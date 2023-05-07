@@ -8,14 +8,12 @@ layout: default
 ## Recent Podcast Episode
 
 {% include youtube.html id="BwfBOHgn9wU" %}
-
 <br>
 
 ## Recent Developer Log
 
 {% include youtube.html id="zpxbBkUNjMY" %}
-
-
+<br>
 
 ## Recent Game Dev Project
 <p align="center">

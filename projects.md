@@ -60,7 +60,7 @@ Many of my side projects come from a weekend hackathon game jam competition call
     <a href="https://jjwall.github.io/BoardhouseTS/">
         <img
             alt="BoardhouseTS"
-            src="./assets/projects/boardhouse_logo_med.png"
+            src="./assets/logos/boardhouse_logo_med.png"
             width="800"
         />
     </a>
