@@ -9,10 +9,12 @@ layout: default
 
 {% include youtube.html id="BwfBOHgn9wU" %}
 
+<br>
 
 ## Recent Developer Log
 
 {% include youtube.html id="zpxbBkUNjMY" %}
+
 
 
 ## Recent Game Dev Project
