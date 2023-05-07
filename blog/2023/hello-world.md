@@ -2,7 +2,7 @@
 layout: default
 ---
 # Hello, World!
-<b>[Back](./blog.html)</b>
+<b>[Back](/blog.html)</b>
 * * *
 
 January 2023

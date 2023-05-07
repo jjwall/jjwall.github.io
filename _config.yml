@@ -6,7 +6,7 @@ description:
     <a href="https://www.youtube.com/@actionjake">     
       <img
         alt="Jake Wallace's YouTube Profile"
-        src="./assets/icons/youtube.png"
+        src="/assets/icons/youtube.png"
         width="50"
         style="padding-left:5px;"
       />
@@ -14,7 +14,7 @@ description:
     <a href="https://www.instagram.com/jakewallace.io/">     
       <img
         alt="Jake Wallace's Instagram Profile"
-        src="./assets/icons/instagram.png"
+        src="/assets/icons/instagram.png"
         width="50"
         style="padding-left:5px;"
       />
@@ -22,7 +22,7 @@ description:
     <a href="https://www.linkedin.com/in/jacob-wallace">     
       <img
         alt="Jake Wallace's LinkedIn Profile"
-        src="./assets/icons/linkedin2.png"
+        src="/assets/icons/linkedin2.png"
         width="50"
         style="padding-left:5px;"
       />
@@ -30,7 +30,7 @@ description:
     <a href="https://github.com/jjwall">     
       <img
         alt="Jake Wallace's GitHub Profile"
-        src="./assets/icons/github4.png"
+        src="/assets/icons/github4.png"
         width="50"
         style="padding-left:5px;"
       />
