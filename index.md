@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-# About
-<b>About</b> | <b>[Projects](./projects.html)</b> | <b>[Resume](./resume.html)</b>
+# Home
+<b>Home</b> | <b>[Projects](./projects.html)</b> | <b>[Resume](./resume.html)</b>
 * * *
 
 Hi there, thanks for stopping by my portfolio site. My name is Jake Wallace. I am a software developer, architect and tech mentor. My passion for technology ignited at the young age of five years old when I first sat down on the couch and witnessed my older brother playing through The Legend of Zelda: Ocarina of Time for the Nintendo 64. Even at that age I understood someone had created this game! If they could create something as amazing as Zelda, perhaps I could create my own games too. It was at eight years old when I was first exposed to Adobe Flash. For the next six years I would be scripting games trying to emulate some of my favorite titles from popular sites back in the day like Addicting Games and New Grounds. After playing some popular MMORPGs (Massively Multiplayer Online Role-Playing Games) like RuneScape and MapleStory I soon found myself wanting to create a similar type of online multiplayer game. Unfortunately, I did not know enough about coding and technology to make this happen and my dreams began to fade. 
