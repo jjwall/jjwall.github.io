@@ -6,4 +6,4 @@ layout: default
 * * *
 
 ## Contents
-* [01-30-2023 Hello, World!](./blog/2023/hello-world.html)
+* [2023-05-07 Hello, World!](./blog/2023/hello-world.html)
