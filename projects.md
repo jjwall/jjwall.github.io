@@ -10,7 +10,7 @@ Many of my side projects come from a weekend hackathon game jam competition call
 ## Grav Garb
 <p align="center">
     <img
-        alt="Updog"
+        alt="Grav Garb"
         src="./assets/projects/grav_garb_thumbnail3.png"
         width="600"
     />
