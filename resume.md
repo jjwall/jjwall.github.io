@@ -12,7 +12,7 @@ layout: default
 <p align="center">
     <img
         alt="UT Center for Professional Education"
-        src="./assets/images/ut_coding.png"
+        src="./assets/logos/ut_coding.png"
         width="600"
     />
 </p>
@@ -25,7 +25,7 @@ layout: default
 <p align="center">
     <img
         alt="The University of Texas at Austin"
-        src="./assets/images/UT_Austin_logo.png"
+        src="./assets/logos/UT_Austin_logo.png"
         width="300"
     />
 </p>
@@ -41,7 +41,7 @@ layout: default
 <p align="center">
     <img
         alt="Deloitte"
-        src="./assets/images/Deloitte-Logo_cropped.png"
+        src="./assets/logos/Deloitte-Logo_cropped.png"
         width="300"
     />
 </p>
@@ -58,7 +58,7 @@ sessions for Department of Defense client facing team members
 <p align="center">
     <img
         alt="T-Cetra"
-        src="./assets/images/t-cetra-logo.png"
+        src="./assets/logos/t-cetra-logo.png"
         width="300"
     />
 </p>
@@ -74,7 +74,7 @@ tokenizing existing and newly added credit card data
 <p align="center">
     <img
         alt="Reynolds and Reynolds"
-        src="./assets/images/Reynolds_&_Reynolds_logo.png"
+        src="./assets/logos/Reynolds_&_Reynolds_logo.png"
         width="350"
     />
 </p>
@@ -92,7 +92,7 @@ Hosted Web Application Platform team (HWAP)
 <p align="center">
     <img
         alt="Code Ninjas"
-        src="./assets/images/codum_cropped.png"
+        src="./assets/logos/codum_cropped.png"
         width="300"
     />
 </p>
@@ -105,7 +105,7 @@ Hosted Web Application Platform team (HWAP)
 <p align="center">
     <img
         alt="Code Ninjas"
-        src="./assets/images/code-ninjas-logo.png"
+        src="./assets/logos/code-ninjas-logo.png"
         width="400"
     />
 </p>
