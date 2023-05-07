@@ -7,11 +7,28 @@ layout: default
 
 Many of my side projects come from a weekend hackathon game jam competition called Ludum Dare. You can check out my entire portofolio of games from there following this [link](https://ldjam.com/users/gizmolo/games). Below I've highlighted some of my notable projects.
 
+## Grav Garb
+<p align="center">
+    <img
+        alt="Updog"
+        src="./assets/projects/grav_garb_thumbnail3.png"
+        width="600"
+    />
+</p>
+
+* Play it here: [https://alchemical.itch.io/grav-garb](https://alchemical.itch.io/grav-garb)
+* Ludum Dare submission: [https://ldjam.com/events/ludum-dare/53/grav-garb](https://ldjam.com/events/ludum-dare/53/grav-garb)
+* Source code: [https://github.com/apples/ludum-dare-53](https://github.com/apples/ludum-dare-53)
+* Tech used: Godot 4.0, ASP.NET, Aseprite, LMMS, JSFXR
+* <u>About</u>: My team's submission for Ludum Dare 53! This was my first game project where I was extensively involved with the game programming using Godot. As Godot 4.0 was released shortly before the competition, I used the jam as a good excuse to learn Godot. I am incredibly impressed with how much fun Godot is to build games with! This game was also made with 6 other people so it was the biggest team I've ever been a part of for a game jam competition. We all worked so well together :)
+
+* * *
+
 ## Updog
 <p align="center">
     <img
         alt="Updog"
-        src="./assets/images/sadie_main_capsule_final.png"
+        src="./assets/projects/sadie_main_capsule_final.png"
         width="600"
     />
 </p>
@@ -28,7 +45,7 @@ Many of my side projects come from a weekend hackathon game jam competition call
 <p align="center">
     <img
         alt="Exquisite Adventure"
-        src="./assets/images/exq_adv_dark.png"
+        src="./assets/projects/exq_adv_dark.png"
         width="600"
     />
 </p>
@@ -43,7 +60,7 @@ Many of my side projects come from a weekend hackathon game jam competition call
     <a href="https://jjwall.github.io/BoardhouseTS/">
         <img
             alt="BoardhouseTS"
-            src="./assets/images/boardhouse_logo_med.png"
+            src="./assets/projects/boardhouse_logo_med.png"
             width="800"
         />
     </a>
@@ -60,7 +77,7 @@ Many of my side projects come from a weekend hackathon game jam competition call
 <p align="center">
     <img
         alt="Occupational Hazards"
-        src="./assets/images/hazards.png"
+        src="./assets/projects/hazards.png"
         width="800"
     />
 </p>
@@ -83,7 +100,7 @@ Developed by:
 <p align="center">
     <img
         alt="Super Robot Wars"
-        src="./assets/images/SRW1.png"
+        src="./assets/projects/SRW1.png"
         width="800"
     />
 </p>
@@ -100,7 +117,7 @@ Developed by:
 <p align="center">
     <img
         alt="Space Base Continuum"
-        src="./assets/images/space_base.png"
+        src="./assets/projects/space_base.png"
         width="800"
     />
 </p>
@@ -117,7 +134,7 @@ Developed by:
 <p align="center">
     <img
         alt="Pale Blue Dot"
-        src="./assets/images/pale_blue_dot.png"
+        src="./assets/projects/pale_blue_dot.png"
         width="800"
     />
 </p>
@@ -139,7 +156,7 @@ Developed by:
 <p align="center">
     <img
         alt="Creatures of the Night"
-        src="./assets/images/creatures.png"
+        src="./assets/projects/creatures.png"
             width="800"
     />
 </p>
