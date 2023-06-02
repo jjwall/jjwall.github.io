@@ -7,7 +7,7 @@ layout: default
 
 ## Recent Podcast Episode
 
-{% include youtube.html id="BwfBOHgn9wU" %}
+{% include youtube.html id="nukOc5qGGgI" %}
 
 ## Recent Developer Log
 
@@ -25,4 +25,4 @@ layout: default
 </p>
 
 ## Recent Blog Post
-[Hello, World!](./blog/2023/hello-world.html)
+[Skate Spill](./blog/2023/skate-spill.html)
