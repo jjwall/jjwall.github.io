@@ -71,6 +71,14 @@ Well, I made the turn, I truly ripped it, but because it was so tight and I was 
 
 While my foot stuck to the ground, the forward momentum of my body kept moving. My body hit the ground hard and I immediately began yelping. Someone nearby who heard my wailing said to me “ooh you got the wind knocked out of you, give it a second and it’ll pass.” But this was no wind that got knocked out of my sails. This was a sharp pain in my left leg, ankle, and foot that I had never experienced before.
 
+<p align="center">
+    <img
+        alt="X-ray of my tibia"
+        src="/assets/blog/2023-06-02-x-ray.jpg"
+        width="400"
+    />
+</p>
+
 Lou, a new friend I had met that day and Andre, immediately took action and helped me get to the nearby bench. My leg was SWOLLEN. Andre rushed to a nearby CVS and got me ice, wraps, and coconut water while Lou kept me company by distracting away my pain with conversation. The hope was that this was a bad sprain, but as the pain began to swell, it did not seem like this was the case.
 
 <p align="center">
@@ -85,13 +93,21 @@ I called Zach and informed him of a change of lunch plans. He drove over to my l
 
 <p align="center">
     <img
-        alt="X-ray of my tibia"
-        src="/assets/blog/2023-06-02-x-ray.jpg"
+        alt="Express care"
+        src="/assets/blog/2023-06-02-express-care.jpg"
         width="400"
     />
 </p>
 
 What makes matters worse is that I was supposed to fly to Hawaii the next day to meet up with both nuclear and extended family for my dad’s retirement celebration. However, because this was a tibia fracture, it meant that the injury was severe. If I were to get on a plane and fly I would be subject to non-local swelling and, as a result, put my life at risk. The news that I was going to miss this trip was devastating and it was the first thing throughout this experience that made me cry. I knew how much this trip meant to my dad.
+
+<p align="center">
+    <img
+        alt="Nice and big metal pins in my leg"
+        src="/assets/blog/2023-06-02-pins-in-leg.jpg"
+        width="400"
+    />
+</p>
 
 Instead, I had to spend the next 8 days in a hospital where I received two back to back surgeries. I am on the road to recovery now and have been able to reflect on my injury. It is my belief that everything happens for a reason, and I am not upset with my circumstances. I want to thank everyone who has helped me recover along the way including my roommate Justin for taking care of me at home, Zach for getting me to the clinic and hospital, Lou for carrying me to the makeshift Tesla ambulance, Andre for providing some much needed supplies, my parents for flying from Texas to San Diego to be with me during my final surgery and everyone who was able to visit me at the hospital!
 
