@@ -83,7 +83,7 @@ While my foot stuck to the ground, the forward momentum of my body kept moving. 
     <img
         alt="X-ray of my tibia"
         src="/assets/blog/2023-06-02-x-ray.jpg"
-        width="400"
+        width="600"
     />
 </p>
 
