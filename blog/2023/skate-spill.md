@@ -35,7 +35,7 @@ The park is about a 30 minute drive from where I currently live, but that didn�
 
 <p align="center">
     <img
-        alt="Pacific Ranch Highlands Recreation Center Pump Track"
+        alt="Dope skate friends"
         src="/assets/blog/2023-06-02-skate-community.jpg"
         width="600"
     />
@@ -47,18 +47,58 @@ There was a moment there where I thought – hey I could get to the restaurant e
 
 My friend Andre that I met at the pump track was there when I returned and after speaking to him for a bit I was inspired to give it my all. For the next 15 minutes I was doing some of the best skating of my life. Going as fast as I could through the track’s bumps, humps and turns and having the time of my life. Little by little I was chipping away at my limitations.
 
+<p align="center">
+    <img
+        alt="An old-school Doug Saladino board"
+        src="/assets/blog/2023-06-02-doug-saladino-board.jpg"
+        width="400"
+    />
+</p>
+
 In particular there is one turn I had been struggling with. It was a tight toeside turn for me on the smaller of the two tracks. In fact, I think it’s the tightest turn at the park. At first, I was comfortably going through it slowly, but I had only recently successfully made the turn going at a moderate pace.
 
 I was pumped up now, the juices were flowing, I had just seen a boarder shred through that very turn and I decided it was time to rip it. It was one of the last lines I would take for the day before heading to meet Zach for lunch. Doing my usual routine on the smaller track, I started at the beginning snaking through the designed figure 8 of the track. The tight toeside turn I was focused on was the last turn of my line. Coming in proximity to it, I was boosting through the pumps right before it to get as much speed as I could. I was gonna rip this thing as intended.
 
 Well, I made the turn, I truly ripped it, but because it was so tight and I was going so fast, my board came off the edge a bit at the very end of the turn. Because the ground wasn’t flat there my board began to wobble and my left foot came off my board and touched the ground. Normally, this would induce a classic fall that any skilled boarder would know how to roll out and “fall” appropriately so you don’t injure your wrists or head. I had fallen like this plenty of times so I was well prepared to consciously take the fall. Unfortunately, as my left foot touched the ground it PERFECTLY planted itself on the concrete and stuck itself to it as any good skateboarding shoe with good grip should.
 
+<p align="center">
+    <img
+        alt="Collage of injury to first care received"
+        src="/assets/blog/2023-06-02-evolution-of-pain.jpg"
+        width="400"
+    />
+</p>
+
 While my foot stuck to the ground, the forward momentum of my body kept moving. My body hit the ground hard and I immediately began yelping. Someone nearby who heard my wailing said to me “ooh you got the wind knocked out of you, give it a second and it’ll pass.” But this was no wind that got knocked out of my sails. This was a sharp pain in my left leg, ankle, and foot that I had never experienced before.
 
 Lou, a new friend I had met that day and Andre, immediately took action and helped me get to the nearby bench. My leg was SWOLLEN. Andre rushed to a nearby CVS and got me ice, wraps, and coconut water while Lou kept me company by distracting away my pain with conversation. The hope was that this was a bad sprain, but as the pain began to swell, it did not seem like this was the case.
 
+<p align="center">
+    <img
+        alt="Lou carries me to makeshift Tesla ambulance"
+        src="/assets/blog/2023-06-02-lou-carrying-me.jpg"
+        width="400"
+    />
+</p>
+
 I called Zach and informed him of a change of lunch plans. He drove over to my location as quickly as he could and he and Lou helped carry me from the skatepark to Zach’s Tesla. We made it to an express care clinic where they were able to x-ray my leg and provide some Tylenol. The PA reported that the leg was indeed broken and I would likely need surgery to repair it.
+
+<p align="center">
+    <img
+        alt="X-ray of my tibia"
+        src="/assets/blog/2023-06-02-x-ray.jpg"
+        width="400"
+    />
+</p>
 
 What makes matters worse is that I was supposed to fly to Hawaii the next day to meet up with both nuclear and extended family for my dad’s retirement celebration. However, because this was a tibia fracture, it meant that the injury was severe. If I were to get on a plane and fly I would be subject to non-local swelling and, as a result, put my life at risk. The news that I was going to miss this trip was devastating and it was the first thing throughout this experience that made me cry. I knew how much this trip meant to my dad.
 
 Instead, I had to spend the next 8 days in a hospital where I received two back to back surgeries. I am on the road to recovery now and have been able to reflect on my injury. It is my belief that everything happens for a reason, and I am not upset with my circumstances. I want to thank everyone who has helped me recover along the way including my roommate Justin for taking care of me at home, Zach for getting me to the clinic and hospital, Lou for carrying me to the makeshift Tesla ambulance, Andre for providing some much needed supplies, my parents for flying from Texas to San Diego to be with me during my final surgery and everyone who was able to visit me at the hospital!
+
+<p align="center">
+    <img
+        alt="Cheesing at the hospital"
+        src="/assets/blog/2023-06-02-hospital-bed-cheesing.jpg"
+        width="400"
+    />
+</p>
