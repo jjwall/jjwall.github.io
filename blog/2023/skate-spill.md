@@ -9,11 +9,37 @@ June 2023
 
 Welp, I took a bad fall on my skateboard a few weeks ago and wanted to share the story for all those interested and concerned. For background, I’ve been an avid “boarder” all of my life. My parents are skiiers, but to switch it up, they decided to put my brother and me on snowboards when we were very young. Growing up in Northern California we had great access to ski resorts like Heavenly and Tahoe. I was riding a snowboard starting at four years old and was in love with boarding from the get-go.
 
+<p align="center">
+    <img
+        alt="Pacific Ranch Highlands Recreation Center Pump Track"
+        src="/assets/blog/2023-06-02-big-track-1.jpg"
+        width="600"
+    />
+</p>
+
 Of course, this passion led to other forms of boarding including wakeboarding, skateboarding, and surfing. At this point, being on a board of some sort is simply in my DNA. As I got older I moved away from skateboarding and wakeboarding due to the extremity of these sports and focused more on surfing and snowboarding. Although, now that I’ve moved back to California from Texas, I have easy access not only to beaches and mountains, but also to amazing skate parks. So naturally, I’ve picked skateboarding back up.
+
+<p align="center">
+    <img
+        alt="Pacific Ranch Highlands Recreation Center Pump Track"
+        src="/assets/blog/2023-06-02-big-track-2.jpg"
+        width="600"
+    />
+</p>
 
 Jack, one of my new friends from San Diego introduced me to the pump track. Specifically the pump track at Pacific Highlands Ranch Recreation Center. I heard the park there went viral on TikTok a ways back so it has certainly become very popular over the past few years. The first time we went it was a struggle and going down the track I probably looked like it was my first time ever on a skateboard. But several attempts later and I was able to make a lap around the entire big track! It was safe to say I was hooked.
 
+{% include youtube.html id="3sTv9tkKvD8" %}
+
 The park is about a 30 minute drive from where I currently live, but that didn’t stop me from going there 3-4 times a week for the next two months. Seriously, this is probably the most fun I’ve ever had on a board! Not to mention the wonderful and kindred souls I get to meet there, it’s truly a vibrant skate community! There is no judgment based on skill level. Everyone there is willing to help you out and be your friend. One major reason I kept going so frequently was just so that I could be around these awesome folks.
+
+<p align="center">
+    <img
+        alt="Pacific Ranch Highlands Recreation Center Pump Track"
+        src="/assets/blog/2023-06-02-skate-community.jpg"
+        width="600"
+    />
+</p>
 
 On to the spill. It was May 19th, 2023. Jack and I had met up there for a morning skate sesh. I work remotely, so often I would come to the park during a work day and do some work on my computer while taking breaks to skate. Today was one of those days. I got about an an hour of skating in with Jack before my morning meetings began and everything was swell. Jack wrapped up and headed home and I went to a nearby picnic table to begin my work for the day. After a few hours of meetings and work I had a little wiggle room to get some skating in before I was to meet my friend Zach for lunch.
 
