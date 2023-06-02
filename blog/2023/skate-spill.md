@@ -59,13 +59,21 @@ In particular there is one turn I had been struggling with. It was a tight toesi
 
 I was pumped up now, the juices were flowing, I had just seen a boarder shred through that very turn and I decided it was time to rip it. It was one of the last lines I would take for the day before heading to meet Zach for lunch. Doing my usual routine on the smaller track, I started at the beginning snaking through the designed figure 8 of the track. The tight toeside turn I was focused on was the last turn of my line. Coming in proximity to it, I was boosting through the pumps right before it to get as much speed as I could. I was gonna rip this thing as intended.
 
-Well, I made the turn, I truly ripped it, but because it was so tight and I was going so fast, my board came off the edge a bit at the very end of the turn. Because the ground wasn’t flat there my board began to wobble and my left foot came off my board and touched the ground. Normally, this would induce a classic fall that any skilled boarder would know how to roll out and “fall” appropriately so you don’t injure your wrists or head. I had fallen like this plenty of times so I was well prepared to consciously take the fall. Unfortunately, as my left foot touched the ground it PERFECTLY planted itself on the concrete and stuck itself to it as any good skateboarding shoe with good grip should.
-
 <p align="center">
     <img
         alt="Collage of injury to first care received"
         src="/assets/blog/2023-06-02-evolution-of-pain.jpg"
         width="400"
+    />
+</p>
+
+Well, I made the turn, I truly ripped it, but because it was so tight and I was going so fast, my board came off the edge a bit at the very end of the turn. Because the ground wasn’t flat there my board began to wobble and my left foot came off my board and touched the ground. Normally, this would induce a classic fall that any skilled boarder would know how to roll out and “fall” appropriately so you don’t injure your wrists or head. I had fallen like this plenty of times so I was well prepared to consciously take the fall. Unfortunately, as my left foot touched the ground it PERFECTLY planted itself on the concrete and stuck itself to it as any good skateboarding shoe with good grip should.
+
+<p align="center">
+    <img
+        alt="My injured leg"
+        src="/assets/blog/2023-06-02-injured-leg.jpg"
+        width="600"
     />
 </p>
 
