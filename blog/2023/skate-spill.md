@@ -7,7 +7,7 @@ layout: default
 
 June 2023
 
-Welp, I took a bad fall on my skateboard a few weeks ago and wanted to share the story for all those interested and concerned. For background, I’ve been an avid “boarder” all of my life. My parents are skiiers, but to switch it up, they decided to put my brother and me on snowboards when we were very young. Growing up in Northern California we had great access to ski resorts like Heavenly and Tahoe. I was riding a snowboard starting at four years old and was in love with boarding from the get-go.
+Welp, I took a bad fall on my skateboard a few weeks ago and wanted to share the story for all those interested and concerned. For background, I’ve been an avid “boarder” all of my life. My parents are skiiers, but to switch it up, they decided to put my brother and me on snowboards when we were very young. Growing up in Northern California we had great access to ski resorts like Heavenly and Lake Tahoe. I was riding a snowboard starting at four years old and was in love with boarding from the get-go.
 
 <p align="center">
     <img
@@ -117,7 +117,7 @@ What makes matters worse is that I was supposed to fly to Hawaii the next day to
     />
 </p>
 
-Instead, I had to spend the next 8 days in a hospital where I received two back to back surgeries. I am on the road to recovery now and have been able to reflect on my injury. It is my belief that everything happens for a reason, and I am not upset with my circumstances. I want to thank everyone who has helped me recover along the way including my roommate Justin for taking care of me at home, Zach for getting me to the clinic and hospital, Lou for carrying me to the makeshift Tesla ambulance, Andre for providing some much needed supplies, my parents for flying from Texas to San Diego to be with me during my final surgery and everyone who was able to visit me at the hospital!
+Instead, I had to spend the next eight days in a hospital where I received two back to back surgeries. I am on the road to recovery now and have been able to reflect on my injury. It is my belief that everything happens for a reason, and I am not upset with my circumstances. I want to thank everyone who has helped me recover along the way including my roommate Justin for taking care of me at home, Zach for getting me to the clinic and hospital, Lou for carrying me to the makeshift Tesla ambulance, Andre for providing some much needed supplies, the amazing staff at UC San Diego Hillcrest, my parents for flying from Texas to San Diego to be with me during my final surgery and everyone who was able to visit me at the hospital!
 
 <p align="center">
     <img
