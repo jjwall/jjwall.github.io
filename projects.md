@@ -7,7 +7,7 @@ layout: default
 
 Many of my side projects come from a weekend hackathon game jam competition called Ludum Dare. You can check out my entire portofolio of games from there following this [link](https://ldjam.com/users/gizmolo/games). Below I've highlighted some of my notable projects.
 
-## Grav Garb
+## Ludum Dare 53: Grav Garb
 <p align="center">
     <img
         alt="Grav Garb"
