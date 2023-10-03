@@ -7,6 +7,23 @@ layout: default
 
 Many of my side projects come from a weekend hackathon game jam competition called Ludum Dare. You can check out my entire portofolio of games from there following this [link](https://ldjam.com/users/gizmolo/games). Below I've highlighted some of my notable projects.
 
+## Ludum Dare 54: Raft Blaster
+<p align="center">
+    <img
+        alt="Raft Blaster"
+        src="./assets/projects/raft_blaster.png"
+        width="600"
+    />
+</p>
+
+* Play it here: [https://alchemical.itch.io/raft-blaster](https://alchemical.itch.io/raft-blaster)
+* Ludum Dare submission: [https://ldjam.com/events/ludum-dare/54/raft-blaster](https://ldjam.com/events/ludum-dare/54/raft-blaster)
+* Source code: [https://github.com/apples/ludum-dare-54](https://github.com/apples/ludum-dare-54)
+* Tech used: Godot 4.1, Aseprite, Presonus Studio One 4
+* <u>About</u>: My team's submission for Ludum Dare 54! There was 8 of us this time around with a similar composition to LD54. We had a dedicated artist and a dedicated musician / sound designer which allowed for the programming team to take the extra time to tweak, polish, and extend where needed. This was a fun one to make! Still very much impressed with how fun it is to work in Godot. I see a bright future ahead for Godot developers :D
+
+* * *
+
 ## Ludum Dare 53: Grav Garb
 <p align="center">
     <img

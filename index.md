@@ -15,10 +15,10 @@ layout: default
 
 ## Recent Game Dev Project
 <p align="center">
-    <a href="https://alchemical.itch.io/grav-garb">
+    <a href="https://alchemical.itch.io/raft-blaster">
         <img
-            alt="Grav Garb"
-            src="./assets/projects/grav_garb_thumbnail3.png"
+            alt="Raft Blaster"
+            src="./assets/projects/raft_blaster.png"
             width="600"
         />
     </a>
