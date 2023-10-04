@@ -11,7 +11,7 @@ Many of my side projects come from a weekend hackathon game jam competition call
 <p align="center">
     <img
         alt="Raft Blaster"
-        src="./assets/projects/raft_blaster.png"
+        src="./assets/projects/raft_blaster2.png"
         width="600"
     />
 </p>
