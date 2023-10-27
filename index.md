@@ -5,13 +5,13 @@ layout: default
 <b>Home</b> | <b>[Projects](./projects.html)</b> | <b>[Resume](./resume.html)</b> | <b>[Blog](./blog.html)</b>
 * * *
 
+## Recent Podcast Episode
+
+{% include youtube.html id="rrfExPSQ724" %}
+
 ## Recent Game Dev Project
 
 {% include youtube.html id="-OolHIzbMe0" %}
-
-## Recent Podcast Episode
-
-{% include youtube.html id="uvLqZDJSh5Y" %}
 
 ## Recent Developer Log
 
