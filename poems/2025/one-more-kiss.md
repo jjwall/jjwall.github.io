@@ -5,9 +5,8 @@ layout: default
 <b>[Back](/poems.html)</b>
 * * *
 
+<i><b>“One More Kiss”</b></i><br>
 March 8th, 2024
-
-<i><b>“One More Kiss”</b></i>
 
 Don’t look in my house for I will be exposed.
 
@@ -29,7 +28,8 @@ Only one more kiss will do.
 
 ~ ~ ~
 
-<i><b>“Un Beso Más”</b></i>
+<i><b>“Un Beso Más”</b></i><br>
+8 de marzo de 2024
 
 No mires dentro de mi casa, pues quedaré expuesto.
 

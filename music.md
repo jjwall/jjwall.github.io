@@ -13,7 +13,7 @@ I have been fascinated with music all of my life having taken drumming lessons s
 * [Sincerity](https://soundcloud.com/jingleheimer-1/sincerity)
 
 ### 2017
-* [In the Light](https://soundcloud.com/jingleheimer-1/in-the-light)
+* [In The Light](https://soundcloud.com/jingleheimer-1/in-the-light)
 
 ### 2016
 * [So Fly](https://soundcloud.com/jingleheimer-1/so-fly)
