@@ -20,3 +20,14 @@ As I lay recovering, the hardest part wasn’t the pain—it was knowing I was b
 You can imagine when I was pulled from this meaningful & purposeful work b/c of my medical leave, I was absolutely crushed. But God always has a plan, and I am now happier than ever working for the Cyber AI group.
 
 As I return to my work, I carry the lessons of 2024 with me. Pain is a great teacher. Setbacks are often blessings in disguise. As Zhuangzi reminds us, “The great man does not seek reputation—he simply walks his path. Titles and honors mean nothing. Gain and loss are illusions. In perfection, this is the path he follows.”
+
+<p align="left">
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7308859899998875648/">     
+        <img
+        alt="Jake Wallace's Crisis of Career LinkedIn Blog"
+        src="/assets/icons/linkedin2.png"
+        width="50"
+        style="padding-left:5px;"
+        />
+    </a>
+</p>
