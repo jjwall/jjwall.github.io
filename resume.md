@@ -18,14 +18,24 @@ Below you can find a snapshot of my academic and professional endeavors. If you 
     />
 </p>
 
+<b>Cyber AI Engineering Manager, Innovations Portfolio</b><br>
+<i>Austin, TX, January 2024 - June 2024</i>
+
+---
+
+<b>Lead Software Architect</b><br>
+<i>Washington, D.C., January 2024 - June 2024</i>
+* Tech used: TypeScript, Deno, Node.js, React, React Native, Wickr SDK, AWS Console, AWS CodeCommit, AWS CodePipeline, AWS CodeDeploy
+* Technical lead, developer & architect of METCC-P medic bots built atop AWS Wickr, an NSA approved end-to-end encrypted Voice Over Internet Protocol Communication system. 
+* This team helped to pioneer the US Military to transition from antiquated communication systems to modern communication protocols.
+* In addition to this, I was responsible for traveling to various U.S. military bases across the country to conduct in-person training sessions. These sessions were designed to simulate active combat scenarios, focusing on the NETCCN / METCC-P medic bot communication system, and were attended by large groups of military personnel.
+
+---
+
 <b>Lead Software Developer</b><br>
 <i>Washington, D.C., August 2021 - January 2024</i>
-* Tech used: TypeScript, React Native, Node, MongoDB, VS Code, Git, Wickr SDK, AWS Console
-* Designed the architecture and led development of Wickr chat bots for a Virtual 
-Health firm initiative that resulted in the approval of an internal investment of 5000 
-hours and $150,000 hard dollars
-* Fostered high coding and deployment standards by leading weekly technical training 
-sessions for Department of Defense client facing team members
+* Tech used: TypeScript, Angular, Node.js, NPM, Webpack, MongoDb, VS Code, Git, GitHub
+* Led development efforts as part of the JAIMI Cross-Military CRM project categorizing weapon systems data across all US Alliances stored in NIPR and SIPR networks.
 
 ## T-Cetra
 <p align="center">
@@ -55,7 +65,7 @@ tokenizing existing and newly added credit card data
 
 <b>Software Developer</b><br>
 <i>Houston, TX, October 2017 - January 2021</i><br>
-* Tech used: TypeScript, React, Redux, NPM, C#, ASP.NET MVC, SQL
+* Tech used: TypeScript, JavaScript, React, Redux, Node.js, NPM, C#, ASP.NET MVC, SQL
 * Ensured integrity and security of software for Support and Admin applications of 
 Hosted Web Application Platform team (HWAP)
 * Created app logging for developer support and permission items for global security
