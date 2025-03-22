@@ -20,7 +20,7 @@ IamHappyIamHealthyIamWHOLE! <br>
 Isaiah 9:6-7 KJV</i>
 
 ## Featured Poem
-...
+[One More Kiss](./poems/2025/one-more-kiss.html)
 
 ## Featured Music Production
 [Sincerity](https://soundcloud.com/jingleheimer-1/sincerity)
