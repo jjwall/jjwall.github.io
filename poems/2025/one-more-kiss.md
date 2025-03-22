@@ -7,9 +7,9 @@ layout: default
 
 March 8th, 2024
 
-<i><b>“One More Kiss”</b>
+<i><b>“One More Kiss”</b></i>
 
-Don’t look in my house for I will be exposed.
+<i>Don’t look in my house for I will be exposed.
 
 My rooms are full of possessions that remind me of you.
 
@@ -23,15 +23,15 @@ This single garb will do.
 
 I need nothing because you are my everything.
 
-Only one more kiss will do.
+Only one more kiss will do.</i>
 
 ♥️💋
 
 ~ ~ ~
 
-<b>“Un Beso Más”</b>
+<i><b>“Un Beso Más”</b></i>
 
-No mires dentro de mi casa, pues quedaré expuesto.
+<i>No mires dentro de mi casa, pues quedaré expuesto.
 
 Mis habitaciones están llenas de posesiones que me recuerdan a ti.
 
@@ -45,9 +45,9 @@ Este solo atuendo bastará.
 
 No necesito nada porque tú lo eres todo para mí.
 
-Solo un beso más bastará.
+Solo un beso más bastará.</i>
 
-♥️💋</i>
+♥️💋
 
 <p align="left">
     <a href="https://www.instagram.com/p/DHN7_krxzMW/?igsh=MXR3aHQ1dWUyOWt3eA==">     
