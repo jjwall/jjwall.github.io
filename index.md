@@ -9,7 +9,7 @@ layout: default
 ...
 
 ## Featured Blogpost
-[Skate Spill](./blog/2023/skate-spill.html)
+[The Ultimate Crisis of My Career](./blog/2025/crisis-of-career.html)
 
 ## Featured Podcast Episode
 
