@@ -18,13 +18,16 @@ Below you can find a snapshot of my academic and professional endeavors. If you 
     />
 </p>
 
-<b>Cyber AI Engineering Manager, Innovations Portfolio</b><br>
+<b>Engineering Manager, Cyber AI Innovations Portfolio</b><br>
 <i>San Francisco, CA, June 2024 - Current</i>
 
 ---
 
-<b>Technical Lead, Deloitte US Strategy</b><br>
+<b>Technical Lead, Hybrid AI Innovations (Deloitte US Strategy)</b><br>
 <i>Austin, TX, January 2024 - June 2024</i>
+* Tech used: Python, TypeScript, VS Code, VS Code Plugin Extensions Development Framework, Ollama, Huggingface, Intel's OpenVINO, Qualcomm Neural Network
+* Led application engineering, architectural design, and AI development for Dell with the Hybrid AI group under Deloitte US Strategy. Spearheaded the creation of "Neuron," a Copilot-like coding assistant that leverages on-device AI to provide code suggestions while ensuring complete privacy over the AI-scanned codebase. Delivered key innovations that enhanced developer productivity and maintained strict data security protocols.
+* In addition to this, I was a technical lead over an Deloitte US Strategy platform known as “Celium” supporting Intel which was used to fine tune and optimize on-device AI processes on top of Intel & its competitors’ CPU, GPU, & NPU chip architectures. This project explored open source and commercially available black box technologies to discover the best configuration for on-device AI processing. Some model platforms and frameworks that were used as part of the platform were Intel’s OpenVINO, Huggingface, Ollama, as well as Qualcomm’s QNN.
 
 ---
 
@@ -37,7 +40,7 @@ Below you can find a snapshot of my academic and professional endeavors. If you 
 
 ---
 
-<b>Lead Software Developer, Application Modernization and Innovation</b><br>
+<b>Lead Software Developer, Application Modernization & Innovation</b><br>
 <i>Washington, D.C., August 2021 - October 2024</i>
 * Tech used: TypeScript, Angular, Node.js, NPM, Webpack, MongoDb, VS Code, Git, GitHub
 * Led development efforts as part of the JAIMI Cross-Military CRM project categorizing weapon systems data across all US Alliances stored in NIPR and SIPR networks.
