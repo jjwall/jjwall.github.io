@@ -89,7 +89,7 @@ Hosted Web Application Platform team (HWAP)
 ---
 
 # Volunteer Service
-## Mentor, Ambassador
+## Codum
 <p align="center">
     <img
         alt="Code Ninjas"
@@ -98,11 +98,12 @@ Hosted Web Application Platform team (HWAP)
     />
 </p>
 
-<i>Codum, Germany, Upper Bavaria, November 2022 - November 2023</i>
+<b>Software Developer Mentor, Codum Brand Ambassador</b><br>
+<i>Germany, Upper Bavaria, November 2022 - November 2023</i>
 * Mentored junior developers helping them navigate the coding learning journey as well as career development
 * Ambassador for the organization spreading the word through my network and social medias
 
-## Sensei
+## Code Ninjas
 <p align="center">
     <img
         alt="Code Ninjas"
@@ -111,6 +112,7 @@ Hosted Web Application Platform team (HWAP)
     />
 </p>
 
-<i>Code Ninjas, Houston, TX, July 2019 - October 2022</i>
+<b>Sensei</b><br>
+<i>Houston, TX, July 2019 - October 2022</i>
 * Office administrator for the Tanglewood branch, the most successful branch in the nation
 * Curated materials and coursework for coding curriculum
