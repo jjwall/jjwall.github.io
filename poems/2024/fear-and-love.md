@@ -82,3 +82,14 @@ Elijo actuar desde el amor, no desde el miedo.
 Entonces, ¿por qué el miedo me ha golpeado?
 
 😔🫀❤️‍🩹
+
+<p align="left">
+    <a href="https://www.instagram.com/p/DHVxDjxRB-p/?igsh=MTViMTlzaTVrYzZpaw==">     
+      <img
+        alt="Jake Wallace's Fear & Love Poem Instagram Post"
+        src="/assets/icons/instagram.png"
+        width="50"
+        style="padding-left:5px;"
+      />
+    </a>
+</p>
