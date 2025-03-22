@@ -9,8 +9,7 @@ layout: default
 Below you can find a snapshot of my academic and professional endeavors. If you are interested in working with me or would like to see a copy of my actual resume, add and reach out to me on Discord (<b>gizmolo</b>).
 
 # Work Experience
-## Lead Software Developer, Consultant
-<i>Deloitte, Washington, D.C., August 2021 - Current</i>
+## Deloitte
 <p align="center">
     <img
         alt="Deloitte"
@@ -19,6 +18,8 @@ Below you can find a snapshot of my academic and professional endeavors. If you 
     />
 </p>
 
+<b>Lead Software Developer</b><br>
+<i>Washington, D.C., August 2021 - January 2024</i>
 * Tech used: TypeScript, React Native, Node, MongoDB, VS Code, Git, Wickr SDK, AWS Console
 * Designed the architecture and led development of Wickr chat bots for a Virtual 
 Health firm initiative that resulted in the approval of an internal investment of 5000 
@@ -26,8 +27,7 @@ hours and $150,000 hard dollars
 * Fostered high coding and deployment standards by leading weekly technical training 
 sessions for Department of Defense client facing team members
 
-## Mid-Level Software Developer
-<i>T-Cetra, Dublin, OH, February 2021 - July 2021</i>
+## T-Cetra
 <p align="center">
     <img
         alt="T-Cetra"
@@ -36,14 +36,15 @@ sessions for Department of Defense client facing team members
     />
 </p>
 
+<b>Mid-Level Software Developer</b><br>
+<i>Dublin, OH, February 2021 - July 2021</i><br>
 * Tech used: TypeScript, Angular, C#, .NET Core, SQL, Git, Azure DevOps
 * Assisted in upgrading existing systems by making them more modular, extendable, 
 and efficient as a member of the Refactoring team
 * Implemented third-party APIs to outsource credit card security to TokenEx by 
 tokenizing existing and newly added credit card data
 
-## Software Developer
-<i>Reynolds and Reynolds, Houston, TX, October 2017 - January 2021</i>
+## Reynolds & Reynolds
 <p align="center">
     <img
         alt="Reynolds and Reynolds"
@@ -52,6 +53,8 @@ tokenizing existing and newly added credit card data
     />
 </p>
 
+<b>Software Developer</b><br>
+<i>Houston, TX, October 2017 - January 2021</i><br>
 * Tech used: TypeScript, React, Redux, NPM, C#, ASP.NET MVC, SQL
 * Ensured integrity and security of software for Support and Admin applications of 
 Hosted Web Application Platform team (HWAP)
