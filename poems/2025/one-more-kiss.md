@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-# Skate Spill
+# One More Kiss
 <b>[Back](/blog.html)</b>
 * * *
 
 March 8th, 2024
 
-“One More Kiss”
+<i><b>“One More Kiss”</b>
 
 Don’t look in my house for I will be exposed.
 
@@ -29,7 +29,7 @@ Only one more kiss will do.
 
 ~ ~ ~
 
-“Un Beso Más”
+<b>“Un Beso Más”</b>
 
 No mires dentro de mi casa, pues quedaré expuesto.
 
@@ -47,7 +47,7 @@ No necesito nada porque tú lo eres todo para mí.
 
 Solo un beso más bastará.
 
-♥️💋
+♥️💋</i>
 
 <p align="left">
     <a href="https://www.instagram.com/p/DHN7_krxzMW/?igsh=MXR3aHQ1dWUyOWt3eA==">     
