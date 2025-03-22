@@ -19,12 +19,17 @@ Below you can find a snapshot of my academic and professional endeavors. If you 
 </p>
 
 <b>Cyber AI Engineering Manager, Innovations Portfolio</b><br>
+<i>San Francisco, CA, June 2024 - Current</i>
+
+---
+
+<b>Technical Lead, Deloitte US Strategy</b><br>
 <i>Austin, TX, January 2024 - June 2024</i>
 
 ---
 
-<b>Lead Software Architect</b><br>
-<i>Washington, D.C., January 2024 - June 2024</i>
+<b>Lead Software Architect, Military Health System</b><br>
+<i>Washington, D.C., October 2021 - January 2024</i>
 * Tech used: TypeScript, Deno, Node.js, React, React Native, Wickr SDK, AWS Console, AWS CodeCommit, AWS CodePipeline, AWS CodeDeploy
 * Technical lead, developer & architect of METCC-P medic bots built atop AWS Wickr, an NSA approved end-to-end encrypted Voice Over Internet Protocol Communication system. 
 * This team helped to pioneer the US Military to transition from antiquated communication systems to modern communication protocols.
@@ -32,8 +37,8 @@ Below you can find a snapshot of my academic and professional endeavors. If you 
 
 ---
 
-<b>Lead Software Developer</b><br>
-<i>Washington, D.C., August 2021 - January 2024</i>
+<b>Lead Software Developer, Application Modernization and Innovation</b><br>
+<i>Washington, D.C., August 2021 - October 2024</i>
 * Tech used: TypeScript, Angular, Node.js, NPM, Webpack, MongoDb, VS Code, Git, GitHub
 * Led development efforts as part of the JAIMI Cross-Military CRM project categorizing weapon systems data across all US Alliances stored in NIPR and SIPR networks.
 
