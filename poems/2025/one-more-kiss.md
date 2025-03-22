@@ -9,7 +9,7 @@ March 8th, 2024
 
 <i><b>“One More Kiss”</b></i>
 
-<i>Don’t look in my house for I will be exposed.
+Don’t look in my house for I will be exposed.
 
 My rooms are full of possessions that remind me of you.
 
@@ -23,7 +23,7 @@ This single garb will do.
 
 I need nothing because you are my everything.
 
-Only one more kiss will do.</i>
+Only one more kiss will do.
 
 ♥️💋
 
@@ -31,7 +31,7 @@ Only one more kiss will do.</i>
 
 <i><b>“Un Beso Más”</b></i>
 
-<i>No mires dentro de mi casa, pues quedaré expuesto.
+No mires dentro de mi casa, pues quedaré expuesto.
 
 Mis habitaciones están llenas de posesiones que me recuerdan a ti.
 
@@ -45,7 +45,7 @@ Este solo atuendo bastará.
 
 No necesito nada porque tú lo eres todo para mí.
 
-Solo un beso más bastará.</i>
+Solo un beso más bastará.
 
 ♥️💋
 
