@@ -22,6 +22,9 @@ Isaiah 9:6-7 KJV</i>
 ## Featured Poem
 ...
 
+## Featured Music Production
+[Sincerity](https://soundcloud.com/jingleheimer-1/sincerity)
+
 ## Featured Blogpost
 [The Ultimate Crisis of My Career](./blog/2025/crisis-of-career.html)
 
