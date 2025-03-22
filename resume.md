@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Resume
-<b>[Home](./)</b> | <b>[Projects](./projects.html)</b> | <b>Resume</b> | <b>[Blog](./blog.html)</b>
+<b>[Home](./)</b> | <b>[Poems](./poems.html)</b> | <b>[Projects](./projects.html)</b> | <b>Resume</b> | <b>[Blog](./blog.html)</b>
 * * *
 
 Below you can find a snapshot of my academic and professional endeavors. If you are interested in working with me or would like to see a copy of my actual resume, add and reach out to me on Discord (<b>gizmolo</b>).
