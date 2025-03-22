@@ -19,7 +19,11 @@ Below you can find a snapshot of my academic and professional endeavors. If you 
 </p>
 
 <b>Engineering Manager, Cyber AI Innovations Portfolio</b><br>
-<i>San Francisco, CA, June 2024 - Current</i>
+<i>San Francisco, CA, June 2024 - Current</i><br>
+Manager over all of Cyber AI’s internally developed innovation asset accelerators. This portfolio includes:
+* <b>TPRM Accelerator</b> - an on-device AI-powered TPRM service accelerator tool that reduces the amount of time TPRM analysts have to spend reviewing TPRM security documentation and answering TPRM questionnaires.
+* <b>Digital Analyst</b> - an AI-powered SaaS used by SOC analysts to rapidly support their triage of security alerts using advanced AI techniques to process current security alert information and historical triages.
+* <b>Pathfinder</b> - an AI-powered Cyber Security as a Service platform to facilitate Cyber Security processes across all cyber domains.
 
 ---
 
