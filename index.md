@@ -2,7 +2,7 @@
 layout: default
 ---
 # Home
-<b>Home</b> | <b>[Poems](./poems.html)</b> | <b>[Projects](./projects.html)</b> | <b>[Resume](./resume.html)</b> | <b>[Blog](./blog.html)</b>
+<b>Home</b> | <b>[Poems](./poems.html)</b> | <b>[Projects](./projects.html)</b> | <b>[Music](./music.html)</b> | <b>[Resume](./resume.html)</b> | <b>[Blog](./blog.html)</b>
 * * *
 
 ## Bio
