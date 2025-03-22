@@ -8,35 +8,6 @@ layout: default
 
 Below you can find a snapshot of my academic and professional endeavors. If you are interested in working with me or would like to see a copy of my actual resume, add and reach out to me on Discord (<b>gizmolo</b>).
 
-# Education
-## UT Coding Bootcamp
-<i>Austin, TX, January 2017 - July 2017</i>
-<p align="center">
-    <img
-        alt="UT Center for Professional Education"
-        src="./assets/logos/ut_coding.png"
-        width="600"
-    />
-</p>
-
-* Certificate: Full Stack Web Development
-* Powered by: Trilogy Education (now 2U)
-
-## The University of Texas at Austin
-<i>Austin, TX, January 2012 - June 2016</i>
-<p align="center">
-    <img
-        alt="The University of Texas at Austin"
-        src="./assets/logos/UT_Austin_logo.png"
-        width="300"
-    />
-</p>
-
-* Major: Economics
-* Minor: Business Foundations
-
----
-
 # Work Experience
 ## Lead Software Developer, Consultant
 <i>Deloitte, Washington, D.C., August 2021 - Current</i>
@@ -88,9 +59,37 @@ Hosted Web Application Platform team (HWAP)
 
 ---
 
+# Education
+## UT Coding Bootcamp
+<p align="center">
+    <img
+        alt="UT Center for Professional Education"
+        src="./assets/logos/ut_coding.png"
+        width="600"
+    />
+</p>
+
+<i>Austin, TX, January 2017 - July 2017</i>
+* Certificate: Full Stack Web Development
+* Powered by: Trilogy Education (now 2U)
+
+## The University of Texas at Austin
+<p align="center">
+    <img
+        alt="The University of Texas at Austin"
+        src="./assets/logos/UT_Austin_logo.png"
+        width="300"
+    />
+</p>
+
+<i>Austin, TX, January 2012 - June 2016</i>
+* Major: Economics
+* Minor: Business Foundations
+
+---
+
 # Volunteer Service
 ## Mentor, Ambassador
-<i>Codum, Germany, Upper Bavaria, November 2022 - Current</i>
 <p align="center">
     <img
         alt="Code Ninjas"
@@ -99,11 +98,11 @@ Hosted Web Application Platform team (HWAP)
     />
 </p>
 
+<i>Codum, Germany, Upper Bavaria, November 2022 - November 2023</i>
 * Mentored junior developers helping them navigate the coding learning journey as well as career development
 * Ambassador for the organization spreading the word through my network and social medias
 
 ## Sensei
-<i>Code Ninjas, Houston, TX, July 2019 - October 2022</i>
 <p align="center">
     <img
         alt="Code Ninjas"
@@ -112,5 +111,6 @@ Hosted Web Application Platform team (HWAP)
     />
 </p>
 
+<i>Code Ninjas, Houston, TX, July 2019 - October 2022</i>
 * Office administrator for the Tanglewood branch, the most successful branch in the nation
 * Curated materials and coursework for coding curriculum
