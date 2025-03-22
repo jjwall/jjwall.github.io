@@ -5,15 +5,18 @@ layout: default
 <b>Home</b> | <b>[Projects](./projects.html)</b> | <b>[Resume](./resume.html)</b> | <b>[Blog](./blog.html)</b>
 * * *
 
-## Recent Podcast Episode
+## Featured Blog Post
+[Skate Spill](./blog/2023/skate-spill.html)
+
+## Featured Podcast Episode
 
 {% include youtube.html id="rrfExPSQ724" %}
 
-## Recent Game Dev Project
+## Featured Game Dev Project
 
 {% include youtube.html id="-OolHIzbMe0" %}
 
-## Recent Developer Log
+## Featured Developer Log
 
 {% include youtube.html id="zpxbBkUNjMY" %}
 
@@ -27,6 +30,3 @@ layout: default
         />
     </a>
 </p> -->
-
-## Recent Blog Post
-[Skate Spill](./blog/2023/skate-spill.html)
