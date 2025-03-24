@@ -2,7 +2,7 @@
 layout: default
 ---
 # Music Productions
-<b>[Home](./)</b> | <b>[Poems](./poems.html)</b> | <b>[Projects](./projects.html)</b> | <b>Music</b> | <b>[Resume](./resume.html)</b> | <b>[Blog](./blog.html)</b>
+<b>[Back](/art.html)</b>
 * * *
 
 I have been fascinated with music all of my life having taken drumming lessons since the age of 9 and picked up piano and music production at the age of 14. I'm often inspired by existing tunes that I can't help but desire to cover. The following tracks are some SoundCloud tunes I've posted over the years, including both covers and originals. Unfortunately, I lost a lot of my music to cyber space when MySpace experienced a loss of their music data.
