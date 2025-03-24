@@ -7,10 +7,8 @@ layout: default
 
 ## Contents
 
-### <i>[Music Productions](./music.html)</i>
+### <i>[Music Productions](./art/music.html)</i>
 
 ### <i>[Commissioned Art](./art/commissions.html)</i>
 
-### <i>[Drawings](./drawings.html)</i>
-
-move drawings and music into /art. Update routes
+### <i>[Drawings](./art/drawings.html)</i>
