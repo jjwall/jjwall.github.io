@@ -9,6 +9,6 @@ layout: default
 
 ### <i>[Music Productions](./music.html)</i>
 
-### <i>[Commissioned Art](./commissions.html)</i>
+### <i>[Commissioned Art](./art/commissions.html)</i>
 
 ### <i>[Drawings](./drawings.html)</i>
