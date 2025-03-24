@@ -62,9 +62,9 @@ Manager over all of Cyber AI’s internally developed innovation asset accelerat
 <i>Dublin, OH, February 2021 - July 2021</i><br>
 * Tech used: TypeScript, Angular, C#, .NET Core, SQL, Git, Azure DevOps
 * Assisted in upgrading existing systems by making them more modular, extendable, 
-and efficient as a member of the Refactoring team
+and efficient as a member of the Refactoring Team.
 * Implemented third-party APIs to outsource credit card security to TokenEx by 
-tokenizing existing and newly added credit card data
+tokenizing existing and newly added credit card data.
 
 ## Reynolds & Reynolds
 <p align="center">
@@ -77,10 +77,9 @@ tokenizing existing and newly added credit card data
 
 <b>Software Developer</b><br>
 <i>Houston, TX, October 2017 - January 2021</i><br>
-* Tech used: TypeScript, JavaScript, React, Redux, Node.js, NPM, C#, ASP.NET MVC, SQL
-* Ensured integrity and security of software for Support and Admin applications of 
-Hosted Web Application Platform team (HWAP)
-* Created app logging for developer support and permission items for global security
+* Tech used: TypeScript, JavaScript, React, Redux, Node.js, NPM, JQuery, C#, ASP.NET MVC, SQL
+* Ensured integrity and security of software for the Support and Admin applications of Hosted Web Application Platform team (HWAP).
+* Created cross-application logging for developer support and permission items for global platform security.
 
 ---
 
@@ -96,7 +95,7 @@ Hosted Web Application Platform team (HWAP)
 
 <i>Austin, TX, January 2017 - July 2017</i>
 * Certificate: Full Stack Web Development
-* Powered by: Trilogy Education (now 2U)
+* Powered by: Trilogy Education (now edX)
 
 ## The University of Texas at Austin
 <p align="center">
@@ -125,8 +124,8 @@ Hosted Web Application Platform team (HWAP)
 
 <b>Software Developer Mentor, Codum Brand Ambassador</b><br>
 <i>Germany, Upper Bavaria, November 2022 - November 2023</i>
-* Mentored junior developers helping them navigate the coding learning journey as well as career development
-* Ambassador for the organization spreading the word through my network and social medias
+* Mentored junior developers helping them navigate their coding learning journies as well as their career growth & development.
+* Ambassador for the organization spreading the word through my professional network and social media channels.
 
 ## Code Ninjas
 <p align="center">
@@ -139,5 +138,5 @@ Hosted Web Application Platform team (HWAP)
 
 <b>Sensei</b><br>
 <i>Houston, TX, July 2019 - October 2022</i>
-* Office administrator for the Tanglewood branch, the most successful branch in the nation
-* Curated materials and coursework for coding curriculum
+* Office administrator for the Tanglewood branch in Houston, TX, the most successful branch by revenue earned across the globe.
+* Curated materials and coursework for the Tanglewood branch's coding curriculum.
