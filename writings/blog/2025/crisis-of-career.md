@@ -7,7 +7,7 @@ layout: default
 
 March 21st, 2025
 
-Fate, suffering, and a Divine Appointment have shaped the course of my career more than any title ever could. A year ago, I lay in a hospital bed, my leg shattered, my future uncertain. Today, I stand as the Cyber AI Engineering Manager over the Innovations Portfolio at Deloitte, leading the charge in AI-driven cybersecurity innovation. This is the story of how pain led me here.
+Fate, suffering, and a Divine Appointment have shaped the course of my career more than any title ever could. A year ago, I lay in a hospital bed, my leg shattered, my future uncertain. Today, I stand as the Engineering Manager over the Cyber AI Innovations Portfolio at Deloitte, leading the charge in AI-driven cybersecurity innovation. This is the story of how pain led me here.
 
 Now this new role doesn’t come with a title change on paper, but what it does come with is something far more valuable—a team and a mission I truly believe in.
 
