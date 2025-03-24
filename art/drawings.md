@@ -9,56 +9,56 @@ The Divine Feminine has always inspired my art. There's nothing I'd rather draw 
 
 <p align="center">
     <img
-        alt="2023-05-04 Sketch"
-        src="./assets/sketches/2023-05-04.jpg"
+        alt="2023-05-04 Drawing"
+        src="./assets/drawings/2023-05-04.jpg"
         width="600"
     />
 </p>
 
 <p align="center">
     <img
-        alt="2023-04-24 Sketch"
-        src="./assets/sketches/2023-04-24.jpg"
+        alt="2023-04-24 Drawing"
+        src="./assets/drawings/2023-04-24.jpg"
         width="600"
     />
 </p>
 
 <p align="center">
     <img
-        alt="2022-11-27 Sketch"
-        src="./assets/sketches/2022-11-27.jpg"
+        alt="2022-11-27 Drawing"
+        src="./assets/drawings/2022-11-27.jpg"
         width="600"
     />
 </p>
 
 <p align="center">
     <img
-        alt="2022-11-26 Sketch"
-        src="./assets/sketches/2022-11-26.jpg"
+        alt="2022-11-26 Drawing"
+        src="./assets/drawings/2022-11-26.jpg"
         width="600"
     />
 </p>
 
 <p align="center">
     <img
-        alt="2022-05-20 Sketch"
-        src="./assets/sketches/2022-05-20.jpg"
+        alt="2022-05-20 Drawing"
+        src="./assets/drawings/2022-05-20.jpg"
         width="600"
     />
 </p>
 
 <p align="center">
     <img
-        alt="2022-04-04 Sketch"
-        src="./assets/sketches/2022-04-04.jpg"
+        alt="2022-04-04 Drawing"
+        src="./assets/drawings/2022-04-04.jpg"
         width="600"
     />
 </p>
 
 <p align="center">
     <img
-        alt="2022-02-02 Sketch"
-        src="./assets/sketches/2022-02-02.jpg"
+        alt="2022-02-02 Drawing"
+        src="./assets/drawings/2022-02-02.jpg"
         width="600"
     />
 </p>
