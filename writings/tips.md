@@ -2,7 +2,7 @@
 layout: default
 ---
 # Tech Tips
-<b>[Back](/writings.html)</b>
+<b>[Back to Writings](/writings.html)</b>
 * * *
 
 ## Contents

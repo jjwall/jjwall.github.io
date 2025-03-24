@@ -2,7 +2,7 @@
 layout: default
 ---
 # Fictional Excerpts
-<b>[Back](/writings.html)</b>
+<b>[Back to Writings](/writings.html)</b>
 * * *
 
 ## Contents

@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-# Poems
-<b>[Back](/writings.html)</b>
+# Poetry
+<b>[Back to Writings](/writings.html)</b>
 * * *
 
 ## Contents
