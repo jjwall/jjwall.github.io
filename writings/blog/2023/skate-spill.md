@@ -2,7 +2,7 @@
 layout: default
 ---
 # Skate Spill
-<b>[Back](/blog.html)</b>
+<b>[Back to Blogposts](/writings/blog.html)</b>
 * * *
 
 June 2023

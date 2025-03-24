@@ -2,7 +2,7 @@
 layout: default
 ---
 # The Ultimate Crisis of My Career
-<b>[Back](/blog.html)</b>
+<b>[Back to Blogposts](/writings/blog.html)</b>
 * * *
 
 March 21st, 2025

@@ -22,13 +22,13 @@ IamHappyIamHealthyIamWHOLE! <br>
 Isaiah 9:6-7 KJV</i>
 
 ## <i>Featured Poem</i>
-[One More Kiss](./poems/2025/one-more-kiss.html)
+[One More Kiss](./writings/poems/2025/one-more-kiss.html)
 
 ## <i>Featured Music Production</i>
 [Sincerity](https://soundcloud.com/jingleheimer-1/sincerity)
 
 ## <i>Featured Blogpost</i>
-[The Ultimate Crisis of My Career](./blog/2025/crisis-of-career.html)
+[The Ultimate Crisis of My Career](./writings/blog/2025/crisis-of-career.html)
 
 ## <i>Featured Podcast Episode</i>
 

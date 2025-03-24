@@ -7,10 +7,10 @@ layout: default
 
 ## Contents
 
-### <i>[Poetry](./poems.html)</i>
+### <i>[Poetry](./writings/poems.html)</i>
 
-### <i>[Blogposts](./blog.html)</i>
+### <i>[Blogposts](./writings/blog.html)</i>
 
-### <i>[Fictional Excerpts](./fiction.html)</i>
+### <i>[Fictional Excerpts](./writings/fiction.html)</i>
 
-### <i>[Tech Tips](./tips.html)</i>
+### <i>[Tech Tips](./writings/tips.html)</i>
