@@ -13,4 +13,4 @@ back to the Myth of Light & Dark. I call it: The Morningstar Mythology.
 ## Contents
 
 ### 2025
-* [Conversations with the Divine Feminine, Part I](./fiction/2025/convo-w-df-part-1.html)
+* [Conversations with the Divine Feminine, Part I](./fiction/2025/convos-w-df-part-1.html)

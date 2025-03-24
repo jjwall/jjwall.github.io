@@ -24,6 +24,9 @@ Isaiah 9:6-7 KJV</i>
 ## <i>Featured Poem</i>
 [One More Kiss](./writings/poems/2025/one-more-kiss.html)
 
+## <i>Featured Fictional Excerpt</i>
+[One More Kiss](./writings/fiction/2025/convos-w-df-part-1.html)
+
 ## <i>Featured Music Production</i>
 [Sincerity](https://soundcloud.com/jingleheimer-1/sincerity)
 
