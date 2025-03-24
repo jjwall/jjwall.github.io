@@ -5,13 +5,15 @@ layout: default
 <b>Home</b> | <b>[Poems](./poems.html)</b> | <b>[Projects](./projects.html)</b> | <b>[Music](./music.html)</b> | <b>[Resume](./resume.html)</b> | <b>[Blog](./blog.html)</b>
 * * *
 
-## Bio
+## Biography
 <i><b>Artist & Entrepreneur</b></i><br>
 🕹️ Video Game Developer 🤓 <br>
 👨🏼‍💻 Cyber Al Engineering 🤖 <br>
 🐑 Follower of The Way 🦁 <br>
 🎹 Music Producer 🥁 <br>
+🎮 Soul Gamer 🌟 <br>
 ⛰️ Terra Firma 🏔️ <br>
+📝 Author ✍️ <br>
 God is Good. <br>
 God is Great. <br>
 IamHappyIamHealthyIamWHOLE! <br>
