@@ -6,6 +6,7 @@ layout: default
 * * *
 
 <i><b>“Conversations with the Divine Feminine, Part I”</b></i><br>
+March 21st, 2024
 
 <i><b>Legend</b></i><br>
 <b>DF</b> = Divine Feminine ☯️🖤 <br>
@@ -30,9 +31,9 @@ While Women are born Divine, men are born boys - they must go through Rites of P
 
 Often these Divine Rites of Passage for men have them facing those very Monsters I speak about. But these battles may also include conflicts with Evil Angels, Evil Demons, Evil Dragons and perhaps even a wrestling match with God Himself.
 
-The fear you inquire about comes not from a fear of these evil monsters, demons, angels, nor dragons. The fear is a Divine Fear of the Lord our God, both the Creator & Reality-Progenitor. Upon whose Hand my very Soul rests.
+The fear you inquire about comes not from a fear of these evil monsters, demons, angels, nor dragons. The fear is a Divine Fear of the Lord Our God, both the Creator & Reality-Progenitor. Upon whose Hand my very Soul rests.
 
-Remember I have sworn myself to you, and I shall not waver. 🙇🏼‍♂️
+Remember I have sworn myself to you, and I shall not waver 🙇🏼‍♂️
 
 <b>DF</b>: I see, and yet, is not the Divine Feminine also a Slayer? Must we always dance atop the slain, or is there another way? I’ve somehow known this yet not encountered such an eloquent explanation. Thank you for sharing. 
 I am curious, what makes you so willing to share these inner depths with me? Are you always so open?
