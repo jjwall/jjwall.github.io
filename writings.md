@@ -7,7 +7,7 @@ layout: default
 
 ## Contents
 
-### <i>[Poems](./poems.html)</i>
+### <i>[Poetry](./poems.html)</i>
 
 ### <i>[Blogposts](./blog.html)</i>
 
