@@ -25,7 +25,7 @@ Isaiah 9:6-7 KJV</i>
 [One More Kiss](./writings/poems/2025/one-more-kiss.html)
 
 ## <i>Featured Fictional Excerpt</i>
-[One More Kiss](./writings/fiction/2025/convos-w-df-part-1.html)
+[Conversations with the Divine Feminine, Part I](./writings/fiction/2025/convos-w-df-part-1.html)
 
 ## <i>Featured Blogpost</i>
 [The Ultimate Crisis of My Career](./writings/blog/2025/crisis-of-career.html)
