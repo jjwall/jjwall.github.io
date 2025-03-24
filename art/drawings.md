@@ -10,7 +10,7 @@ The Divine Feminine has always inspired my art. There's nothing I'd rather draw 
 <p align="center">
     <img
         alt="2023-05-04 Drawing"
-        src="./assets/drawings/2023-05-04.jpg"
+        src="/assets/drawings/2023-05-04.jpg"
         width="600"
     />
 </p>
@@ -18,7 +18,7 @@ The Divine Feminine has always inspired my art. There's nothing I'd rather draw 
 <p align="center">
     <img
         alt="2023-04-24 Drawing"
-        src="./assets/drawings/2023-04-24.jpg"
+        src="/assets/drawings/2023-04-24.jpg"
         width="600"
     />
 </p>
@@ -26,7 +26,7 @@ The Divine Feminine has always inspired my art. There's nothing I'd rather draw 
 <p align="center">
     <img
         alt="2022-11-27 Drawing"
-        src="./assets/drawings/2022-11-27.jpg"
+        src="/assets/drawings/2022-11-27.jpg"
         width="600"
     />
 </p>
@@ -34,7 +34,7 @@ The Divine Feminine has always inspired my art. There's nothing I'd rather draw 
 <p align="center">
     <img
         alt="2022-11-26 Drawing"
-        src="./assets/drawings/2022-11-26.jpg"
+        src="/assets/drawings/2022-11-26.jpg"
         width="600"
     />
 </p>
@@ -42,7 +42,7 @@ The Divine Feminine has always inspired my art. There's nothing I'd rather draw 
 <p align="center">
     <img
         alt="2022-05-20 Drawing"
-        src="./assets/drawings/2022-05-20.jpg"
+        src="/assets/drawings/2022-05-20.jpg"
         width="600"
     />
 </p>
@@ -50,7 +50,7 @@ The Divine Feminine has always inspired my art. There's nothing I'd rather draw 
 <p align="center">
     <img
         alt="2022-04-04 Drawing"
-        src="./assets/drawings/2022-04-04.jpg"
+        src="/assets/drawings/2022-04-04.jpg"
         width="600"
     />
 </p>
@@ -58,7 +58,7 @@ The Divine Feminine has always inspired my art. There's nothing I'd rather draw 
 <p align="center">
     <img
         alt="2022-02-02 Drawing"
-        src="./assets/drawings/2022-02-02.jpg"
+        src="/assets/drawings/2022-02-02.jpg"
         width="600"
     />
 </p>
