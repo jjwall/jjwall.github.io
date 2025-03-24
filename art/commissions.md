@@ -2,7 +2,7 @@
 layout: default
 ---
 # Commissioned Art
-<b>[Back](/art.html)</b>
+<b>[Back to Art](/art.html)</b>
 * * *
 
 ## Contents
