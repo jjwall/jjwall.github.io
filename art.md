@@ -12,3 +12,5 @@ layout: default
 ### <i>[Commissioned Art](./art/commissions.html)</i>
 
 ### <i>[Drawings](./drawings.html)</i>
+
+move drawings and music into /art. Update routes
