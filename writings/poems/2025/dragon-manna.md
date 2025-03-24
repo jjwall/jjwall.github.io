@@ -37,7 +37,7 @@ Oh, my sweet, sweet Penelope Lucy, will you not come and soothe this weary king?
 
 ~ ~ ~
 
-“Maná de Dragón [el Toque de la Ira]”
+<i><b>“Maná de Dragón [el Toque de la Ira]”</b></i><br>
 19 de marzo de 2025
 
 Si tu sangre hierve Roja Americana…
