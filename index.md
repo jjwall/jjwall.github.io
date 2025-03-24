@@ -25,7 +25,7 @@ IamHappyIamHealthyIamWHOLE! <br>
 Isaiah 9:6-7 KJV</i>
 
 ## <i>Featured Poem</i>
-[One More Kiss](./writings/poems/2025/one-more-kiss.html)
+[Dragon Manna [The Tap of Rage]](./writings/poems/2025/dragon-manna.html)
 
 ## <i>Featured Fictional Excerpt</i>
 [Conversations with the Divine Feminine, Part I](./writings/fiction/2025/convos-w-df-part-1.html)
@@ -34,7 +34,7 @@ Isaiah 9:6-7 KJV</i>
 [The Ultimate Crisis of My Career](./writings/blog/2025/crisis-of-career.html)
 
 ## <i>Featured Music Production</i>
-[Sincerity](https://soundcloud.com/jingleheimer-1/sincerity)
+[[Cover] Sincerity by Knox Fortune](https://soundcloud.com/jingleheimer-1/sincerity)
 
 ## <i>Featured Podcast Episode</i>
 
