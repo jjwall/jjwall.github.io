@@ -2,7 +2,7 @@
 layout: default
 ---
 # Drawings
-<b>[Back to Art](./art.md)</b>
+<b>[Back to Art](/art.md)</b>
 * * *
 
 The Divine Feminine has always inspired my art. There's nothing I'd rather draw then the Female Body. Kind of like a song you hear and you just HAVE to learn how to play it on your instrument of choice - I'll see art on Twitter X, in a video game, anime, film, TV show, or in an artbook and have to do my own sketch of it. The following are some sketches I've made over the years:
