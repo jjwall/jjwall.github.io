@@ -5,8 +5,6 @@ layout: default
 <b>[Back to Poetry](/writings/poems.html)</b>
 * * *
 
-February 12th, 2024
-
 <i><b>“Fear & Love”</b></i><br>
 February 12, 2024
 
