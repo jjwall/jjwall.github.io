@@ -5,6 +5,8 @@ layout: default
 <b>[Back to Writings](/writings.html)</b>
 * * *
 
+Some ramblings on life, mythology, and technology. If this interests you, read on my Wayward Soldier 😌✨
+
 ## Contents
 
 ### 2025
