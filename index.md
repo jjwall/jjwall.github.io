@@ -27,11 +27,11 @@ Isaiah 9:6-7 KJV</i>
 ## <i>Featured Fictional Excerpt</i>
 [One More Kiss](./writings/fiction/2025/convos-w-df-part-1.html)
 
-## <i>Featured Music Production</i>
-[Sincerity](https://soundcloud.com/jingleheimer-1/sincerity)
-
 ## <i>Featured Blogpost</i>
 [The Ultimate Crisis of My Career](./writings/blog/2025/crisis-of-career.html)
+
+## <i>Featured Music Production</i>
+[Sincerity](https://soundcloud.com/jingleheimer-1/sincerity)
 
 ## <i>Featured Podcast Episode</i>
 
