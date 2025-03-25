@@ -24,7 +24,7 @@ Say prayers and burn incense to The Virgin Mother Mary & Our, Oh So Holy, Lady o
 
 The Truth is this: inside each and every one of us there is a Dragon needing to be tamed & tussled with. Jacob wrestled with God, showing us The Way.
 
-Most forsake this Divine Calling, leaving it to the next heir to the Throne, but for those of us who face & conquer the Dragon within - welcome to Paradise my Kings, Queens, Princes, Princesses, Shaman, and Prophets.
+Most forsake this Divine Calling, leaving it to the next heir to the Throne, but for those of us who face & conquer the Dragon within - welcome to Paradise my Kings, Queens, Princes, Princesses, Shaman, Magicians, and Prophets.
 
 This is your Kingdom now.
 
@@ -56,7 +56,7 @@ Recita oraciones y quema incienso a La Virgen Madre María y Nuestra, Oh Tan San
 
 La Verdad es esta: dentro de cada uno de nosotros hay un Dragón que necesita ser domado y enfrentado. Jacob luchó con Dios, mostrándonos El Camino.
 
-La mayoría abandona este Llamado Divino, dejándolo para el próximo heredero del Trono, pero para aquellos de nosotros que enfrentamos y conquistamos al Dragón interior—bienvenidos al Paraíso, mis Reyes, Reinas, Príncipes, Princesas, Chamanes y Profetas.
+La mayoría abandona este Llamado Divino, dejándolo para el próximo heredero del Trono, pero para aquellos de nosotros que enfrentamos y conquistamos al Dragón interior—bienvenidos al Paraíso, mis Reyes, Reinas, Príncipes, Princesas, Chamanes, Magos y Profetas.
 
 Este es ahora su Reino.
 
