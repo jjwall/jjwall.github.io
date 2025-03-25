@@ -27,7 +27,6 @@ As I return to my work, I carry the lessons of 2024 with me. Pain is a great tea
         alt="Jake Wallace's Crisis of Career LinkedIn Blog"
         src="/assets/icons/linkedin2.png"
         width="50"
-        style="padding-left:5px;"
         />
     </a>
 </p>

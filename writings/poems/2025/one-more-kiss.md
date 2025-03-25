@@ -55,7 +55,6 @@ Solo un beso más bastará.
         alt="Jake Wallace's One More Kiss Poem Instagram Post"
         src="/assets/icons/instagram.png"
         width="50"
-        style="padding-left:5px;"
       />
     </a>
 </p>
