@@ -13,6 +13,7 @@ and sometimes use ChatGPT to capture additional verse that I may be unable to co
 People often ask, "how is that you don't medicate?" My medication has been an addiction to both Fear & Love as articulated through my poem of the same name. Emotions are my drug of choice, and I suppose that is what has turned me into a bit of a poet.
 
 ## Contents
+* [The Dark Side of the Moon](./poems/2025/dark-side-of-the-moon.html)
 * [Dragon Manna [The Tap of Rage]](./poems/2025/dragon-manna.html)
 * [Fear & Love](./poems/2024/fear-and-love.html)
 * [One More Kiss](./poems/2025/one-more-kiss.html)
