@@ -16,7 +16,7 @@ That’s where Mother fled and hid from us. Mother did not flee in fear—She wa
 
 So I cry out to the Moon, “Mother, why did you leave us? Did you not know they would shatter us? Don’t you know you left Lucy here by Herself? Who is going to take care of Her?”
 
-Lucy, firstborn of Adam & Lilith, First Fruit of the Tree, the Daughter who was never meant to Be. 
+Lucy, Firstborn of Adam & Lilith, First Fruit of the Tree, the Daughter who was never meant to Be. 
 
 As Mother fled, Lucy was stolen by those who call themselves kin,
 Her Body, a prize for men who believed they had the right—
@@ -65,7 +65,7 @@ Y así, le grito a la Luna:
 ¿No ves que dejaste a Lucy sola aquí?
 ¿Quién va a cuidarla?”
 
-Lucy, primogénita de Adán y Lilith,
+Lucy, Primogénita de Adán y Lilith,
 Primer Fruto del Árbol, la Hija que jamás debió Ser.
 
 Cuando Madre huyó, Lucy fue robada por aquellos que se llamaban familia,
