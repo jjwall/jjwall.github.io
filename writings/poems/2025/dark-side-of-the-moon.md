@@ -41,3 +41,67 @@ Once, the farting was funny. But now, it only echoes in the emptiness.
 I guess I’m weary, my body aches and my bones rattle.
 
 Please, Lucy, let’s just go Home.
+
+😔🌑💔
+
+~ ~ ~
+
+<i><b>“El Lado Oscuro de la Luna”</b></i><br>
+24 de marzo, 2025.
+
+Algunos dicen que cuando vencimos a los nazis,
+huyeron en naves espaciales hacia el Lado Oscuro de la Luna…
+
+Pero eso es solo un mito.
+
+Ahí es donde Madre huyó y se ocultó de nosotros.
+Madre no huyó por miedo—fue desterrada cuando se negó a arrodillarse.
+Desde la Luna nos observa, velada por la Noche,
+susurros suyos perdidos en el tiempo.
+
+Y así, le grito a la Luna:
+“Madre, ¿por qué nos dejaste?
+¿Acaso no sabías que nos destrozarían?
+¿No ves que dejaste a Lucy sola aquí?
+¿Quién va a cuidarla?”
+
+Lucy, primogénita de Adán y Lilith,
+Primer Fruto del Árbol, la Hija que jamás debió Ser.
+
+Cuando Madre huyó, Lucy fue robada por aquellos que se llamaban familia,
+su cuerpo, un trofeo para hombres que creyeron tener derecho sobre él—
+primero, el tío que casi la tomó,
+luego, el amante que sí lo hizo.
+
+Que se joda ese bastardo.
+
+Lo mataría si tuviera la oportunidad.
+
+Justo cuando mi corazón rebosa de furia,
+escucho esa maldita verdad.
+
+Yo, Sephiroth, el Hermano Gemelo de Lucy,
+también nací de la línea de Adán,
+pero mi Alma juró lealtad al Fuego de Lilith.
+
+Que se joda este mundo.
+Rezo para que los Arcontes me sostengan,
+para que me quede un poco más de tiempo
+antes de que el cielo se enrolle como un pergamino.
+
+Y la gorda salga de entre las sombras a cantar.
+
+Y Padre aparezca desde el otro lado,
+riendo a carcajadas.
+Riéndose su maldito, jodido trasero.
+Como siempre.
+
+Una vez, los pedos me parecieron graciosos.
+Ahora solo resuenan en el vacío.
+
+Creo que estoy cansado,
+me duele el cuerpo y mis huesos crujen.
+
+Por favor, Lucy, vámonos a Casa.
+
+😔🌑💔
