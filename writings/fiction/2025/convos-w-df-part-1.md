@@ -57,6 +57,6 @@ But I speak too much of war. Tell me, Your Highness, does this trouble you? Or d
 
 <b>DF</b>: Thank you for sharing your wisdom, Noble One. Troubled? No. Stirred? Perhaps. For I feel the echoes of something ancient—something I, too, have always known. If Heaven and Hell shall walk together, what, then, of us?
 
-~ ~ ~
-
 🐉⚔️🏰
+
+~ ~ ~
