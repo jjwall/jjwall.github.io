@@ -10,6 +10,7 @@ Some ramblings on life, mythology, and technology. If this interests you, read o
 ## Contents
 
 ### 2025
+* [2025-03-26 Healing Using AI: Transcending Mythic Patterns of Attracting Toxic Partners](./blog/2025/transcend-toxic-partners.html)
 * [2025-03-21 The Ultimate Crisis of My Career](./blog/2025/crisis-of-career.html)
 
 ### 2023
