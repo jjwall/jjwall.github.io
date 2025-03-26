@@ -36,4 +36,4 @@ While Jacob understands the massive shift and impact Generative Artificial Intel
 
 In a future blogpost, we will explore a much needed revolution in education to help high tech curricula stay on top of all the rapid paced changes seen in both the Full Stack Web Development and AI Development fields.
 
-Remember to always keep reaching for the stars 🚀✨
+And, as always, remember to keep reaching for the stars 🚀✨
