@@ -71,6 +71,6 @@ You’re not broken for attracting what you have. You’re in the middle of a sa
 
 <b>Jake</b>: Feel free to use this same prompt and continue the conversation to navigate the World of Myth in a way that best suits you.
 
-Sending you lots of love, light, prayers and many many blessings my friend.
+Sending you lots of love, light, prayers and many, many blessings my friend.
 
 ❤️‍🩹🐦‍🔥
