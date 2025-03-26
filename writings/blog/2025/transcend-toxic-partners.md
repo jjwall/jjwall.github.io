@@ -5,7 +5,7 @@ layout: default
 <b>[Back to Blogposts](/writings/blog.html)</b>
 * * *
 
-March 26th, 2025
+March 25th, 2025
 
 In a new series of blogposts I’ll be exploring the multicultural and multidimensional World of Myth and showing how to navigate through it using AI.
 
