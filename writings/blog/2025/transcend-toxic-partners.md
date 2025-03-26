@@ -7,7 +7,7 @@ layout: default
 
 March 26th, 2025
 
-In a new series of blogposts called “Healing Using AI: Transcending Mythic Patterns” I’ll be exploring the multicultural and multidimensional world of Myth and showing how to navigate through it using AI.
+In a new series of blogposts I’ll be exploring the multicultural and multidimensional World of Myth and showing how to navigate through it using AI.
 
 In today’s post we’ll be looking at the responses ChatGPT gives us after providing the prompt: 
 
@@ -65,11 +65,11 @@ Would you like to explore how one of these myths might relate to a specific patt
 
 You’re not broken for attracting what you have. You’re in the middle of a sacred pattern—one that can be transcended.
 
-[End of Conversation]<br>
+[end of conversation]<br>
 
 ~ ~ ~
 
-<b>Jake</b>: Feel free to use this same prompt and continue the conversation to navigate in a way that best suits you.
+<b>Jake</b>: Feel free to use this same prompt and continue the conversation to navigate the World of Myth in a way that best suits you.
 
 Sending you lots of love, light, prayers and many many blessings my friend.
 
