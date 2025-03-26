@@ -26,7 +26,7 @@ The alternative educational coding bootcamp Jacob attended was known as The Univ
 
 #### <i>The Industry Shift</i>
 
-In December of 2024, Jacob was saddened to learn that edX announced the shutdown of all its coding bootcamp programs. This reflects a broader trend: with the scaling back of the software industry and the rise of AI, what was once merely <i>difficult</i> for junior developers is now nearly <i>impossible</i> as companies like Meta, Google, and Apple are offloading mid-level software development to AI system.
+In December of 2024, Jacob was saddened to learn that edX announced the shutdown of all its coding bootcamp programs. This reflects a broader trend: with the scaling back of the software industry and the rise of AI, what was once merely <i>difficult</i> for junior developers is now nearly <i>impossible</i> as companies like Meta, Google, and Apple are offloading mid-level software development to AI systems.
 
 While Jacob understands the massive shift and impact Generative Artificial Intelligence has had on the tech industry, Jacob still strongly feels there is a path to breaking into the industry for newcomers. 
 
