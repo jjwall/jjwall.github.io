@@ -16,9 +16,9 @@ Among the many guests he heard on [The Tim Ferriss Show](https://tim.blog/podcas
 
 #### <i>Bootcamp Beginnings</i>
 
-From a series of serendipitous connections and influences from friends in the high tech industry, [Will Siegfried](https://www.linkedin.com/in/will-siegfried1/) at Meta, and [William Labanowski](https://www.linkedin.com/in/william-labanowski-88aa8489/) at Amazon who is now running his own social betting platform, [WagerLab](https://www.wagerlab.app/), Jacob was inspired to attend a coding bootcamp just months after graduating, Jacob was willing to throw his degree into the fire and start fresh building upon the cornerstone of his True Passion, video game development. 
+From a series of serendipitous connections and influences from friends in the high tech industry, [Will Siegfried](https://www.linkedin.com/in/will-siegfried1/) at Meta, and [William Labanowski](https://www.linkedin.com/in/william-labanowski-88aa8489/) at Amazon who is now running his own social betting platform, [WagerLab](https://www.wagerlab.app/), Jacob was inspired to attend a coding bootcamp. Just months after graduating, Jacob felt ready to throw his degree into the fire and start fresh building upon the cornerstone of his True Passion, video game development. 
 
-While the gaming industry wasn’t the professional path Jacob took, Jacob used video game development as a means to fuel his career growth. Having had the dream of building an online networked multiplayer real-time action game since he was twelve years old being influenced by games including World of Warcraft, Guild Wars, RuneScape, and Maple Story, to name a few, Jacob quickly learned the ropes of Full Stack Application Development - learning the ins & outs of front-end user interface and user experience design & development, back end web server development, and writing the glue code to bring together client-server architecture and make full stack applications work end-to-end.
+While the gaming industry wasn’t the professional path Jacob took, Jacob used video game development as a means to fuel his career growth. Since the age of twelve, Jacob dreamed of building an online, networked, real-time multiplayer action game - inspired by titles like World of Warcraft, Guild Wars, RuneScape, and Maple Story. Jacob quickly learned the ropes of Full Stack Application Development - learning the ins and outs of front-end UI and UX design and development, back end web server development, and writing the glue code to bring together client-server architecture and make full stack applications work end-to-end.
 
 By the age of 25, Jacob had pseudo-mastery of the skills required to realize his twelve-year-old self’s Truest and Purest Dreams. He continued to refine his skillset in his professional career building business application software and helped start an online game development collective known as Comfy Game Dev, teaming up with his game development friends to compete in semi-annual game jam hackathons such as Global Game Jam, Game Maker’s Toolkit, and Ludum Dare.
 
@@ -26,7 +26,7 @@ The alternative educational coding bootcamp Jacob attended was known as The Univ
 
 #### <i>The Industry Shift</i>
 
-In December of 2024, Jacob was saddened to learn that edX has announced the shutdown of all its coding bootcamp programs. This reflects a broader trend: with the scaling back of the software industry and the rise of AI, what was once merely <i>difficult</i> for junior developers is now nearly <i>impossible</i> as ompanies like Meta, Google, and Apple are offloading mid-level software development to AI system.
+In December of 2024, Jacob was saddened to learn that edX has announced the shutdown of all its coding bootcamp programs. This reflects a broader trend: with the scaling back of the software industry and the rise of AI, what was once merely <i>difficult</i> for junior developers is now nearly <i>impossible</i> as companies like Meta, Google, and Apple are offloading mid-level software development to AI system.
 
 While Jacob understands the massive shift and impact Generative Artificial Intelligence has had on the tech industry, Jacob still strongly feels there is a path to breaking into the industry for newcomers. 
 
@@ -36,4 +36,4 @@ While Jacob understands the massive shift and impact Generative Artificial Intel
 
 In a future blogpost, we will explore a much needed revolution in education to help high tech curricula stay on top of all the rapid paced changes seen in both the Full Stack Web Development and AI Development fields.
 
-Remember to never keep reaching for the stars 🚀✨
+Remember to always keep reaching for the stars 🚀✨
