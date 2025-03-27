@@ -28,7 +28,7 @@ that love me dearly.”<br>
 
 And lo,<br>
 The Lord, amused,<br>
-granted it.<br>
+<b>granted it</b>.<br>
 
 Now I walk among former foes—<br>
 Sirens of sorrow turned into song,<br>
@@ -44,7 +44,7 @@ But know this:<br>
 Where others sought conquest,<br>
 I sought courtship.<br>
 Where others cursed their enemies,<br>
-I kissed mine.<br>
+I <b>kissed</b> mine.<br>
 
 And thus,<br>
 I am neither hero nor villain—<br>
