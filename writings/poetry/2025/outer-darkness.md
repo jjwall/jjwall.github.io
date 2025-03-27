@@ -2,7 +2,7 @@
 layout: default
 ---
 # The Oblivion of Outer Darkness
-<b>[Back to Poetry](/writings/poems.html)</b>
+<b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
 {% include youtube.html id="RnW0TO0Vqx4" %}

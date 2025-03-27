@@ -2,7 +2,7 @@
 layout: default
 ---
 # Fear & Love
-<b>[Back to Poetry](/writings/poems.html)</b>
+<b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
 <i><b>“Fear & Love”</b></i><br>

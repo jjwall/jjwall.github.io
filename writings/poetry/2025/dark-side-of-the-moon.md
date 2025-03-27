@@ -2,7 +2,7 @@
 layout: default
 ---
 # The Dark Side of the Moon
-<b>[Back to Poetry](/writings/poems.html)</b>
+<b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
 <i><b>“The Dark Side of the Moon”</b></i><br>

@@ -2,7 +2,7 @@
 layout: default
 ---
 # The Prayer of Voltaire
-<b>[Back to Poetry](/writings/poems.html)</b>
+<b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
 {% include youtube.html id="bYCG92Gjwgc" %}

@@ -2,7 +2,7 @@
 layout: default
 ---
 # Dragon Manna [The Tap of Rage]
-<b>[Back to Poetry](/writings/poems.html)</b>
+<b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
 <i><b>“Dragon Manna [The Tap of Rage]”</b></i><br>

@@ -2,7 +2,7 @@
 layout: default
 ---
 # One More Kiss
-<b>[Back to Poetry](/writings/poems.html)</b>
+<b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
 <i><b>“One More Kiss”</b></i><br>
