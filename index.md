@@ -25,7 +25,7 @@ IamHappyIamHealthyIamWHOLE! <br>
 Isaiah 9:6-7 KJV</i>
 
 ## <i>Featured Poem</i>
-[Dragon Manna [The Tap of Rage]](./writings/poetry/2025/dragon-manna.html)
+[The Oblivion of Outer Darkness](./writings/poetry/2025/outer-darkness.html)
 
 ## <i>Featured Blogpost</i>
 [Healing Using AI: Transcending Mythic Patterns of Attracting Toxic Partners](./writings/blog/2025/transcend-toxic-partners.html)
