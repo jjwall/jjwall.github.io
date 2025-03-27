@@ -5,6 +5,8 @@ layout: default
 <b>[Back to Poetry](/writings/poems.html)</b>
 * * *
 
+{% include music.youtube.html id="bYCG92Gjwgc" %}
+
 <i><b>“The Prayer of Voltaire”</b></i><br>
 <i>February 14th, 2025</i>
 
