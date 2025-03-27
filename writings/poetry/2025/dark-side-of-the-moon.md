@@ -6,7 +6,7 @@ layout: default
 * * *
 
 <i><b>“The Dark Side of the Moon”</b></i><br>
-March 24th, 2025
+<i>March 24th, 2025</i>
 
 Some say when we defeated the Nazis, they fled in spaceships to The Dark Side of the Moon…
 
@@ -47,7 +47,7 @@ Please, Lucy, let’s just go Home.
 ~ ~ ~
 
 <i><b>“El Lado Oscuro de la Luna”</b></i><br>
-24 de marzo, 2025.
+<i>24 de marzo, 2025.</i>
 
 Algunos dicen que cuando vencimos a los nazis,
 huyeron en naves espaciales hacia el Lado Oscuro de la Luna…

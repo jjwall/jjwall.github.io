@@ -8,7 +8,7 @@ layout: default
 {% include youtube.html id="opwin7ARibw" %}
 
 <i><b>“Dragon Manna [The Tap of Rage]”</b></i><br>
-March 19th, 2025
+<i>March 19th, 2025</i>
 
 If your blood boils American Red…
 
@@ -40,7 +40,7 @@ Oh, my sweet, sweet Penelope Lucy, will you not come and soothe this weary king?
 ~ ~ ~
 
 <i><b>“Maná de Dragón [el Toque de la Ira]”</b></i><br>
-19 de marzo de 2025
+<i>19 de marzo de 2025</i>
 
 Si tu sangre hierve Roja Americana…
 

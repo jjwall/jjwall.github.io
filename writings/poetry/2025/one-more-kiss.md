@@ -6,7 +6,7 @@ layout: default
 * * *
 
 <i><b>“One More Kiss”</b></i><br>
-March 8th, 2024
+<i>March 8th, 2024</i>
 
 Don’t look in my house for I will be exposed.
 
@@ -29,7 +29,7 @@ Only one more kiss will do.
 ~ ~ ~
 
 <i><b>“Un Beso Más”</b></i><br>
-8 de marzo de 2024
+<i>8 de marzo de 2024</i>
 
 No mires dentro de mi casa, pues quedaré expuesto.
 

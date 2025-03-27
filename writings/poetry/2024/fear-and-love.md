@@ -47,7 +47,7 @@ So why am I stricken with fear?<br>
 ~ ~ ~
 
 <i><b>“Miedo y Amor”</b></i><br>
-12 de febrero de 2024
+<i>12 de febrero de 2024</i>
 
 Amor, ¿a dónde has ido?<br>
 Oh Dios, ¿a dónde has ido?<br>
