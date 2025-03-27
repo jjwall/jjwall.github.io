@@ -5,6 +5,8 @@ layout: default
 <b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
+{% include youtube.html id="opwin7ARibw" %}
+
 <i><b>“Dragon Manna [The Tap of Rage]”</b></i><br>
 March 19th, 2025
 
