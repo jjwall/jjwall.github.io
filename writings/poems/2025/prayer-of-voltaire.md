@@ -14,13 +14,14 @@ Voltaire, that cheeky Sage of Wit,<br>
 once uttered a single prayer to the Infinite:<br>
 
 > “Oh Lord, make my enemies ridiculous.”<br>
-And the Lord, with a wink, obliged.
+
+And the Lord, with a wink, obliged.<br>
 
 But I—<br>
 a Trickster of a gentler kind,<br>
 a Sorcerer of Sighs,<br>
 have my own variation<br>
-of this most pious invocation.<br>
+of this most pious invocation:<br>
 
 > “Oh Lord,<br>
 make my enemies into beautiful ladies<br>
