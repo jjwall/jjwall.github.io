@@ -18,7 +18,7 @@ Included with the English translations of my poetry are the Spanish translations
 In addition to this, I embed a YouTube Music song with each poem to help further convey the emotional messaging that embodied in its form.
 
 ## Contents
-* [The Dark Side of the Moon](./poems/2025/dark-side-of-the-moon.html)
-* [Dragon Manna [The Tap of Rage]](./poems/2025/dragon-manna.html)
-* [Fear & Love](./poems/2024/fear-and-love.html)
-* [One More Kiss](./poems/2025/one-more-kiss.html)
+* [The Dark Side of the Moon](./poetry/2025/dark-side-of-the-moon.html)
+* [Dragon Manna [The Tap of Rage]](./poetry/2025/dragon-manna.html)
+* [Fear & Love](./poetry/2024/fear-and-love.html)
+* [One More Kiss](./poetry/2025/one-more-kiss.html)
