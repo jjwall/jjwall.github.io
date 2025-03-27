@@ -5,6 +5,8 @@ layout: default
 <b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
+{% include youtube.html id="ZiIjLL9wq4Q" %}
+
 <i><b>“The Dark Side of the Moon”</b></i><br>
 <i>March 24th, 2025</i>
 
