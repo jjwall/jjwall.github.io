@@ -5,6 +5,8 @@ layout: default
 <b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
+{% include youtube.html id="KWEbYsXeDvE" %}
+
 <i><b>“Fear & Love”</b></i><br>
 February 12, 2024
 
