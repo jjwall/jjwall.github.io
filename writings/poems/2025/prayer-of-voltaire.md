@@ -5,14 +5,14 @@ layout: default
 <b>[Back to Poetry](/writings/poems.html)</b>
 * * *
 
-<!-- {% include youtube.html id="bYCG92Gjwgc" %} -->
+{% include youtube.html id="bYCG92Gjwgc" %}
 
-<div style="position:relative;width:267px;height:25px;overflow:hidden;">
+<!-- <div style="position:relative;width:267px;height:25px;overflow:hidden;">
   <div style="position:absolute;top:-276px;left:-5px">
     <iframe width="300" height="300" src="https://www.youtube.com/embed/youtubeID?rel=bYCG92Gjwgc">
     </iframe>
   </div>
-</div>
+</div> -->
 
 <i><b>“The Prayer of Voltaire”</b></i><br>
 <i>February 14th, 2025</i>
