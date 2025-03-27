@@ -5,6 +5,8 @@ layout: default
 <b>[Back to Poetry](/writings/poems.html)</b>
 * * *
 
+{% include youtube.html id="RnW0TO0Vqx4" %}
+
 <i><b>“The Oblivion of Outer Darkness”</b></i><br>
 <i>March 27th, 2025</i>
 
