@@ -67,3 +67,13 @@ and may we still remember<br>
 why we were placed Down Here.<br>
 
 🐍⛎🦂
+
+<p align="left">
+    <a href="https://www.instagram.com/p/DHtMfQXRLVI/?img_index=1">     
+      <img
+        alt="Jake Wallace's The Oblivion of Outer Darkness Poem Instagram Post"
+        src="/assets/icons/instagram.png"
+        width="50"
+      />
+    </a>
+</p>
