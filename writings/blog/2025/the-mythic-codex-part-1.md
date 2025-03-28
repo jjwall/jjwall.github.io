@@ -60,6 +60,6 @@ And remember, you are a <b>spiritual warrior</b> who specifically <i>chose this 
 
 In the next entry of this nine-fold blogpost series, we'll ascend to the next layer of Soul Identification: <i>The Soul’s Cultural Identification</i>.
 
-If this interests you, please follow me on my Instagram account [@jakewallace.io](https://www.instagram.com/jakewallace.io) to stay tuned as I work on writing, editing, and refining my thoughts on various mythological matters. Social media is a space where I share other aspects of my writings such as: poetry, fictional excerpts and tech tips. I also share other aspects of my creative journey—video games I’m developing, music I’m producing, sketches I’m drawing, and commissioned artwork for my projects.
+If this interests you, please follow me on my Instagram account [@jakewallace.io](https://www.instagram.com/jakewallace.io) to stay tuned as I work on writing, editing, and refining my thoughts on various mythological matters. Social media is a space where I share additional aspects of my writings such as: poetry, fictional excerpts and tech tips. There I also share other facets of my creative journey—video games I’m developing, music I’m producing, sketches I’m drawing, and artwork I'm commissioning my projects.
 
 And as always—remember: keep reaching for the stars 🚀✨
