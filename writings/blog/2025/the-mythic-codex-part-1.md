@@ -34,7 +34,7 @@ Let’s break it down. From the lowest level of identification to the highest le
 
 Through this nine-part blogpost series, we will explore each layer of the Soul’s Personal Identification starting with the <i>Ancestral Identification</i>, and move up to the next layer of identification with each subsequent blogpost of the series.
 
-#### <i>Soul as The Personal Mythic Codex: Ancestral Identification</i>
+#### <i>Soul as The Personal Mythic Codex: The Soul's Ancestral Identification</i>
 
 The <i>Ancestral identification</i> truly makes up your <b>root system</b>. This completely relates to your <i>physical body</i> in its <i>present-day incarnate form</i>. Not only can this be tied to lineages from both your Mother’s and Father’s bloodlines, but this can also be tied to your immediate (AKA nuclear) and extended families. Often trauma is passed down <i>through the ancestral lineages</i>, and what’s not healed, <b>must</b> be healed by the next in line. 
 
