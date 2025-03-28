@@ -25,7 +25,7 @@ I think people often get tripped up on what “mythology” actually is. Paul Ch
 
 Myth is like a <i>story-blueprint</i> for the human psyche to experience trials & tribulations for the sake of growth, healing, and more importantly, <i>transcendence</i>.
 
-To help get a grasp on what a potential “story-blueprint” may look like for a given human being, see my blogpost series on: [Soul as The Mythic Codex](/writings/blog/2025/the-mythic-codex-part-1.html)). That post supports understanding the <i>mythic configurations</i> a Soul may take on as it incarnates into a <i>human-body-avatar</i>.
+To help get a grasp on what a potential “story-blueprint” may look like for a given human being, see my blogpost series on: [Soul as The Personal Mythic Codex](/writings/blog/2025/the-mythic-codex-part-1.html)). That post supports understanding the <i>mythic configurations</i> a Soul may take on as it incarnates into a <i>human-body-avatar</i>.
 
 We can see this idea of Soul as a Mythic Codex in action through the “mythic rhyming” that happens across all Myths, Legends, Religions, Indigenous Cultures, and Ancient Societies alike.
 
