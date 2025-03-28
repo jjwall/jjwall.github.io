@@ -14,7 +14,7 @@ Today I wanted to share a snippet from a book I’m currently writing.
 In this nine-part blogpost series we will explore the Introduction to the concept of “Soul as The Personal Mythic Codex.”
 
 #### <i>Soul as The Personal Mythic Codex: An Introduction</i>
-What is Soul? I could show you 1000 fingers pointing to same Moon, and yet we all get a different perspective on what the Moon is as we all look upon it with our unique set of eyes and perspectives. So it has dawned on me to share my perspective on what I feel what the Moon, or in this case, what the Soul is.
+What is <i>Soul</i>? I could show you 1000 fingers pointing to same Moon, and yet we all get a different perspective on what the Moon is as we all look upon it with our unique set of eyes and perspectives. So it has dawned on me to share my perspective on what I feel what the Moon, or in this case, what the Soul is.
 
 We choose these bodies and the parents we are born to. Our parents did not choose to have us–what I mean to say here is: our parents did not choose the Soul that would incarnate as a human being in the baby’s body that they chose to have at a given point in time. We chose the baby human-avatar-body born to our parents as a vehicle with which our Soul would embody.
 
@@ -45,6 +45,8 @@ And also, as some additional high-level information on healing past-lives relate
 In addition to this, we can really <i>feel into the trauma</i> that may have been carried over from previous generations into our own bodies today. <i>Yoga</i> is a great practice to explore the unique sensations your body signals to you on a day-to-day and moment-to-moment bases. For the particularly challenging pains and sensations you feel in your body (ex. for me, I’ve routinely struggled with an <i><b>extremely</b></i> tight left hip all of my life), it’s good to explore why the intensities of such sensations and pain you may be experiencing in one or more areas of your body to better understand your self, and perhaps to better understand your ancestral line. 
 
 An amazing book written by Jacques Martel that offers <i>profound spiritual understanding of the psychosomatic symptoms of the physical body</i> is called [The Encyclopedia of Ailments and Diseases: How to Heal the Conflicted Feelings, Emotions, and Thoughts at the Root of Illness](https://www.amazon.com/Encyclopedia-Ailments-Diseases-Conflicted-Feelings/dp/1644111896?crid=27GL1B6B0EP18&dib=eyJ2IjoiMSJ9.lmqlUqe7uyZviFA34X67uF14kNGimJTDS38WX9El1eS0avQPZSjTVltxaMqTOqJXV7xuAhajlLr-2BCVyJDxeL0E9el-Q2TG7hDuEj9GcxD5NJUFsAncifRhQKaEnt9bT4gerhJsYynY-zNOR_u6pN3MYNn8XC_hOTIzbeMB_KUcZnYVjkAZLwC7Awpho4MsqJ0iJSotHTMcoYITGsUt6DCzaZBsN4o6y3pHjwDK5SU.qGiNPBgkETM3p4UZ_75YO6XPQ2lKDK7J5Ir4AaK2vcY&dib_tag=se&keywords=the+encyclopedia+of+illnesses+and+disease&qid=1743174406&s=books&sprefix=the+encuclopedia+of+illnesses+and+disease%2Cstripbooks%2C122&sr=1-1).
+
+And one more book I feel I should mention called How to Eat, Move, and Be Happy, written by Paul Chek that covers the fundamentals of Holistic Health as laid out by his Four Doctor Approach (Dr. Happy, Dr. Quiet, Dr. Movement and Dr. Diet) - an essential understanding for physical wellness despite all the traumas and pains we may be facing in this lifetime.
 
 ~ ~ ~
 
