@@ -14,7 +14,7 @@ Today, I'm sharing a glimpse into the book I'm currently writing—a nine-part e
 #### <i>Soul as The Personal Mythic Codex: An Introduction</i>
 What is <i>Soul</i>? I could show you a thousand fingers pointing to the same Moon, and yet each of us would see something different—each perspective shaped by our unique eyes and life experiences. So it has dawned on me to share what I feel the Moon—or in this case, the Soul—truly is.
 
-We choose the bodies we are born into, and the parents we are born to. Our parents may choose to conceive a child, but they do not choose which <i>Soul</i> incarnates. It is <i>we</i> who choose the specific baby-avatar-body and family lineage as a vessel for our Soul's descent into this realm. 
+We choose the bodies we are born into, and the parents we are born to. Our parents may choose to conceive a child, but they do not choose <i>which Soul</i> incarnates. It is <i>we</i> who choose the specific baby-avatar-body and family lineage as a vessel for our Soul's descent into this realm. 
 
 So then, what the heck is a Soul? My understanding is this: 
 > A Soul is a Personal Mythic Codex composed of Nine Layers of Unique Identification. Yes, your Soul includes aspects of your astral and cultural identities—but these only scratch the surface of what your Soul truly is in its full, integrated form.
