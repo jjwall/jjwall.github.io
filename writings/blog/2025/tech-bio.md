@@ -15,7 +15,7 @@ Having become fascinated with video games since the age of four, Jacob always th
 
 Soon after getting a B.A. in Economics from The University of Texas at Austin, Jacob discovered podcasts and became an avid listener to all sorts of entrepreneurs and self-help shows. 
 
-Among the many guests he heard on [The Tim Ferriss Show](https://tim.blog/podcast/), Jacob was particularly inspired by [Ryan Holiday](https://ryanholiday.net/) - a modern Stoic and bestselling author - and [David Heinemeier Hansson](https://dhh.dk/), the creator of the Ruby on Rails web development framework. 
+Among the many guests he heard on [The Tim Ferriss Show](https://tim.blog/podcast/), Jacob was particularly inspired by [Ryan Holiday](https://ryanholiday.net/) - a modern Stoic and bestselling author - and [David Heinemeier Hansson](https://dhh.dk/), the creator of the avant-garde Ruby on Rails web development framework. 
 
 Hearing that DHH didn’t pick up programming until he was twenty-five showed Jacob The Way to breaking into the tech industry, a highly competitive and cut throat professional field.
 
