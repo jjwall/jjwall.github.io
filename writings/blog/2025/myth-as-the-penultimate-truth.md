@@ -37,7 +37,7 @@ It’s my belief that this overarching mythic idea of the “serpent deity” ca
 
 In Christianity, the “serpent deity” appears in hidden form–through <i>Jesus the Christ</i>. While not described as a serpent outright, Jesus represents the archetype of the <i>Phoenix Rising</i>: death, transformation, and divine rebirth.
 
-Jesus was the <i>Chosen One</i>, crucified on a cross for no crime but spreading Truth and Love–only to rise from the dead (i.e. Ascend) three days later. 
+Jesus was the <i>Chosen One</i>, crucified on a cross for no crime but spreading Truth and Love–only to rise from the dead (i.e. <i>Ascend</i>) three days later. 
 
 The Phoenix Rising could be described as the pinnacle, or quintessential myth.
 
@@ -45,7 +45,7 @@ The Legendary arcs of Mohammed the Last Prophet, Krishna, Lao Tsu, and The Buddh
 
 All mythological stories in some way, shape, or form are meant to express this human idea of rebirth, transformation, and transcendence. 
 
-Our Soul descends from the Heavens into these human-body-avatars, only to be mired in sin, mud, and blood - perhaps even taking a trip of descent even further into the <i>Underworld</i> to find the <i>Pearl buried beneath the Depths</i>, and once uncovered, eventually our Soul must Ascend back to the Heavens–back to its Home.
+Our Soul descends from the Heavens into these human-body-avatars, only to be mired in sin, mud, and blood–perhaps even taking a trip of descent even further into the <i>Underworld</i> to find the <i>Pearl buried beneath the Depths</i>, and once uncovered, eventually our Soul must Ascend back to the Heavens–back to its Home.
 
 Our birthrite as a human being is a fusion of <i>growth</i>, <i>healing</i>, and <i>transcendence</i>. The metamorphosis of the caterpillar into a cocoon and finally a butterfly is the perfect metaphor found in nature to articulate the <i>Journey of the Human Soul</i>. Do <b>not</b> let any person, religion, culture, or society make you think otherwise.
 
