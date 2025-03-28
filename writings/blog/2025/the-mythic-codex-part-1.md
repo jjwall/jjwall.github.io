@@ -52,6 +52,8 @@ One powerful resource is Jacques Martel's [The Encyclopedia of Ailments and Dise
 
 And finally, Paul Chek's [How to Eat, Move, and Be Healthy!](https://www.amazon.com/How-Eat-Move-Be-Healthy/dp/158387013X?crid=3P6DGPZBSDIUJ&dib=eyJ2IjoiMSJ9.CCVQuVlg4-dNZx732KBRplGqcnzzfTZ30zqzHTy4YOcSGi_Or2WAgmGtjkTtBblPOI47KfeivicsHf2jPkYHS8MS3YfC6JUhRlWY6VLdX1vpxqcsGkVNcZTJWawH33d_jAdkg5MQ987ifRxA_WglWA.ZvSrpHXQvCLZG94nEJTA2TSw92NOqtqPqVZet2qjd_I&dib_tag=se&keywords=how+to+eat+move+and+be+healthy+paul+chek&qid=1743176497&sprefix=how+to+eat+move+%2Caps%2C152&sr=8-1) lays out the Four Doctor Approach—Dr. Happy, Dr. Quiet, Dr. Movement, and Dr. Diet—providing essential tools for maintaining holistic health in the face of ancestral and embodied trauma.
 
+And remember, you are a <b>spiritual warrior</b> who specifically <i>chose this body</i> to help heal your ancestral lineages.
+
 ❤️‍🩹👨‍👧‍👦🌟
 
 ~ ~ ~
