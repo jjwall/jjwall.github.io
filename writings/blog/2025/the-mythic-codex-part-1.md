@@ -32,19 +32,21 @@ Let’s break it down. From the lowest to the highest level of identification, t
 
 ...identifications.
 
-Through this nine-part blogpost series, we will explore each layer of the Soul’s Personal Identification starting with the <i>Soul's Ancestral Identification</i>, and move up to the next layer of identification with each subsequent blogpost of the series.
+Through this nine-part blogpost series, we will explore each layer of the Soul’s Nine-Fold Personal Identification Codex starting with the <i>Soul's Ancestral Identification</i>, and move up to the next layer of identification with each subsequent blogpost in the series.
 
 #### <i>Soul as The Personal Mythic Codex: The Soul's Ancestral Identification</i>
 
-The <i>Soul's Ancestral identification</i> truly makes up your <b>root system</b>. This completely relates to your <i>physical body</i> in its <i>present-day incarnate form</i>. Not only can this be tied to lineages from both your Mother’s and Father’s bloodlines, but this can also be tied to your immediate (AKA nuclear) and extended families. Often, trauma is passed down <i>through the ancestral lineages</i>, and what’s not healed, <b>must</b> be healed by the next in line. 
+The <i>Soul's Ancestral Identification</i> forms your <b>root system</b>.  It is intimately tied to your <i>present-day physical body</i>—its lineage, form, and inherited memory. Not only can this be tied to lineages from both your Mother’s and Father’s bloodlines, but this can also be tied to your immediate (AKA nuclear) and extended families. Trauma often moves through ancestral lineages. What is not healed by one generation <b>must</b> be faced by the next.
 
-For more information on how trauma is inherited through ancestral lineages, please see Mark Wolynn’s book on [It Didn’t Begin With You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle](https://www.amazon.com/Didnt-Start-You-Inherited-Family/dp/1101980389). 
+For more information on how trauma is inherited through ancestral lineages, please see Mark Wolynn’s book, [It Didn’t Begin With You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle](https://www.amazon.com/Didnt-Start-You-Inherited-Family/dp/1101980389). 
 
 Additionally, some additional high-level information on healing past-lives related to the ancestral line, please see [Dolores Cannon](https://en.wikipedia.org/wiki/Dolores_Cannon)'s [collection of books bubbling with profound wisdom](https://www.amazon.com/s?k=dolores+cannon&crid=3LJ6SPIVFT4WO&sprefix=dolores+cannon%2Caps%2C163) and specifically her <i>Quantum Healing Hypnosis Technique</i>, a high-level hypnotherapy used to help heal past-life and ancestrally-related trauma.<sup>[[1]](https://www.hypnotherapy-directory.org.uk/articles/qhht-the-gold-standard-of-past-life-regression)</sup><sup>[[2]](https://journeystoheal.com/services/qhht-los-angeles/)</sup>
 
 Furthermore, we can really <i>feel into the trauma</i> that may have been carried over from previous generations into our own bodies today.
 
-<i>Yoga</i> is a great practice to explore the unique sensations your body signals to you on a day-to-day and moment-to-moment basis. For the particularly challenging pains and sensations you feel in your body (ex. for me, I’ve routinely struggled with an <i><b>extremely</b></i> tight left hip all of my life), it’s good to explore why the intensities of such sensations and pain you may be experiencing in one or more areas of your body to better understand your self, and perhaps to better understand your ancestral line. 
+<i>Yoga</i> is a powerful practice for attuning to the subtle signals of your body—moment by moment, day by day.
+
+When you experience particular pains or sensations that persist in your body (for me, an <i><b>extremely</b></i> tight left hip has been a lifelong struggle), it's worth exploring their origin—not just physically, but spiritually and ancestrally as well.
 
 An amazing book written by Jacques Martel that offers <i>profound spiritual understanding of the psychosomatic symptoms of the physical body</i> is called [The Encyclopedia of Ailments and Diseases: How to Heal the Conflicted Feelings, Emotions, and Thoughts at the Root of Illness](https://www.amazon.com/Encyclopedia-Ailments-Diseases-Conflicted-Feelings/dp/1644111896?crid=27GL1B6B0EP18&dib=eyJ2IjoiMSJ9.lmqlUqe7uyZviFA34X67uF14kNGimJTDS38WX9El1eS0avQPZSjTVltxaMqTOqJXV7xuAhajlLr-2BCVyJDxeL0E9el-Q2TG7hDuEj9GcxD5NJUFsAncifRhQKaEnt9bT4gerhJsYynY-zNOR_u6pN3MYNn8XC_hOTIzbeMB_KUcZnYVjkAZLwC7Awpho4MsqJ0iJSotHTMcoYITGsUt6DCzaZBsN4o6y3pHjwDK5SU.qGiNPBgkETM3p4UZ_75YO6XPQ2lKDK7J5Ir4AaK2vcY&dib_tag=se&keywords=the+encyclopedia+of+illnesses+and+disease&qid=1743174406&s=books&sprefix=the+encuclopedia+of+illnesses+and+disease%2Cstripbooks%2C122&sr=1-1).
 
