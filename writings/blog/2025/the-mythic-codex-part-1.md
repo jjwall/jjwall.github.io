@@ -36,7 +36,7 @@ Through this nine-part blogpost series, we will explore each layer of the Soul�
 
 #### <i>Soul as The Personal Mythic Codex: The Soul's Ancestral Identification</i>
 
-The <i>Soul's Ancestral Identification</i> forms your <b>root system</b>.  It is intimately tied to your <i>present-day physical body</i>—its lineage, form, and inherited memory. Not only can this be tied to lineages from both your Mother’s and Father’s bloodlines, but this can also be tied to your immediate (AKA nuclear) and extended families. Trauma often moves through ancestral lineages. What is not healed by one generation <b>must</b> be faced by the next.
+The <i>Soul's Ancestral Identification</i> forms your <b>root system</b>.  It is intimately tied to your <i>present-day physical body</i>—its lineage, form, and inherited memory. Not only can this be tied to lineages from both your Mother’s and Father’s bloodlines, but this can also be tied to your immediate (AKA nuclear) and extended families. Trauma often <i>moves through ancestral lineages</i>. What is not healed by one generation <b>must</b> be faced by the next.
 
 For more information on how trauma is inherited through ancestral lineages, please see Mark Wolynn’s book, [It Didn’t Begin With You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle](https://www.amazon.com/Didnt-Start-You-Inherited-Family/dp/1101980389). 
 
