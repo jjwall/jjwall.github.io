@@ -49,4 +49,8 @@ Our Soul descends from the Heavens into these human-body-avatars, only to be mir
 
 Our birthrite as a human being is a fusion of <i>growth</i>, <i>healing</i>, and <i>transcendence</i>. The metamorphosis of the caterpillar into a cocoon and finally a butterfly is the perfect metaphor found in nature to articulate the <i>Journey of the Human Soul</i>. Do <b>not</b> let any person, religion, culture, or society make you think otherwise.
 
+🐛🦋🐦‍🔥
+
+~ ~ ~
+
 The stars are waiting. Keep reaching 🚀✨
