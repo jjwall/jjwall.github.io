@@ -24,11 +24,11 @@ IamHappyIamHealthyIamWHOLE! <br>
 <i>“For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace. Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the LORD of hosts will perform this.” <br>
 Isaiah 9:6-7 KJV</i>
 
+## <i>Featured Blogpost</i>
+[Myth as the Penultimate Truth](./writings/blog/2025/myth-as-the-penultimate-truth.html)
+
 ## <i>Featured Poem</i>
 [The Oblivion of Outer Darkness](./writings/poetry/2025/outer-darkness.html)
-
-## <i>Featured Blogpost</i>
-[Healing Using AI: Transcending Mythic Patterns of Attracting Toxic Partners](./writings/blog/2025/transcend-toxic-partners.html)
 
 ## <i>Featured Fictional Excerpt</i>
 [Conversations with the Divine Feminine, Part I](./writings/fiction/2025/convos-w-df-part-1.html)
