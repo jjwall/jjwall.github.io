@@ -50,7 +50,7 @@ An amazing book written by Jacques Martel that offers <i>profound spiritual unde
 
 And one more book I feel I should mention called [How to Eat, Move, and Be Healthy!](https://www.amazon.com/How-Eat-Move-Be-Healthy/dp/158387013X?crid=3P6DGPZBSDIUJ&dib=eyJ2IjoiMSJ9.CCVQuVlg4-dNZx732KBRplGqcnzzfTZ30zqzHTy4YOcSGi_Or2WAgmGtjkTtBblPOI47KfeivicsHf2jPkYHS8MS3YfC6JUhRlWY6VLdX1vpxqcsGkVNcZTJWawH33d_jAdkg5MQ987ifRxA_WglWA.ZvSrpHXQvCLZG94nEJTA2TSw92NOqtqPqVZet2qjd_I&dib_tag=se&keywords=how+to+eat+move+and+be+healthy+paul+chek&qid=1743176497&sprefix=how+to+eat+move+%2Caps%2C152&sr=8-1), written by Paul Chek that covers <i>the fundamentals of holistic health</i> as laid out by his <i>Four Doctor Approach to Holistic Health–Dr. Happy, Dr. Quiet, Dr. Movement, and Dr. Diet</i>–an essential understanding for physical wellness despite all the traumas and pains we may be facing in this lifetime.
 
-❤️‍🩹🧑‍🧑‍🧒‍🧒🌟
+❤️‍🩹👨‍👧‍👦🌟
 
 ~ ~ ~
 
