@@ -52,6 +52,6 @@ And one more book I feel I should mention called [How to Eat, Move, and Be Healt
 
 In the next blogpost in this series, we will explore the succeeding layer of Soul Identification in this <i>nine-fold perspective</i> of <i>Soul as The Personal Mythic Codex: the Soul’s Cultural Identification</i>.
 
-If this interested you, please follow me on my social media @jakewallace.io (link to IG account) to stay tuned as I work on writing, editing, and refining my thoughts on various mythological matters. This is also a space where I share other aspects of my writings such as: poetry, fictional excerpts and tech tips. In addition to this, on my accounts I also like to share some art that I’m creating such as video games I’m developing, sketches I’ve drawn, music I’ve produced, and art I’ve commissioned for some of my game projects.
+If this interested you, please follow me on my Instagram account [@jakewallace.io](https://www.instagram.com/jakewallace.io) to stay tuned as I work on writing, editing, and refining my thoughts on various mythological matters. Social media is also a space where I share other aspects of my writings such as: poetry, fictional excerpts and tech tips. In addition to this, on my social media accounts I also like to share some art that I’m creating such as video games I’m developing, sketches I’ve drawn, music I’ve produced, and art I’ve commissioned for some of my game projects.
 
 And as always–remember: keep reaching for the stars 🚀✨
