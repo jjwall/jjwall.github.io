@@ -12,7 +12,7 @@ layout: default
 Today, I'm sharing a glimpse into the book I'm currently writing—a nine-part exploration of a concept I call <i>Soul as The Personal Mythic Codex</i>.
 
 #### <i>Soul as The Personal Mythic Codex: An Introduction</i>
-What is <i>Soul</i>? I could show you a thousand fingers pointing to the same Moon, and yet each of us would see something different—each perspective shaped by our unique eyes and life experiences. So it has dawned on me to share what I feel the Moon—or in this case, the Soul—truly is.
+What is <i>Soul</i>? I could show you a thousand fingers pointing to the same Moon, and yet each of us would see something different—shaped by the lens of our own life experience. So it has dawned on me to share what I feel the Moon—or in this case, the Soul—truly is.
 
 We choose the bodies we are born into, and the parents we are born to. Our parents may choose to conceive a child, but they do not choose <i>which Soul</i> incarnates. It is <i>we</i> who choose the specific baby-avatar-body and family lineage as a vessel for our Soul's descent into this realm. 
 
@@ -30,7 +30,7 @@ Let’s break it down. From the lowest to the highest level of identification, t
 - <b>Mythic</b>
 - <b>Cosmic / Proto-Mythic</b>
 
-...identifications.
+These are the Nine Layers of Identification that make up the Personal Mythic Codex of your Soul.
 
 Through this nine-part blogpost series, we will explore each layer of the Soul’s Nine-Fold Personal Identification Codex starting with the <i>Soul's Ancestral Identification</i>, and move up to the next layer of identification with each subsequent blogpost in the series.
 
@@ -40,7 +40,7 @@ The <i>Soul's Ancestral Identification</i> forms your <b>root system</b>.  It is
 
 For more information on how trauma is inherited through ancestral lineages, please see Mark Wolynn’s book, [It Didn’t Begin With You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle](https://www.amazon.com/Didnt-Start-You-Inherited-Family/dp/1101980389). 
 
-Additionally, for some additional high-level information on healing past-lives related to the ancestral line, please see [Dolores Cannon](https://en.wikipedia.org/wiki/Dolores_Cannon)'s [collection of books bubbling with profound wisdom](https://www.amazon.com/s?k=dolores+cannon&crid=3LJ6SPIVFT4WO&sprefix=dolores+cannon%2Caps%2C163) and specifically her <i>Quantum Healing Hypnosis Technique</i>, a high-level hypnotherapy used to help heal past-life and ancestrally-related trauma.<sup>[[1]](https://www.hypnotherapy-directory.org.uk/articles/qhht-the-gold-standard-of-past-life-regression)</sup><sup>[[2]](https://journeystoheal.com/services/qhht-los-angeles/)</sup>
+For further high-level insight on healing past-lives related to the ancestral line, please see [Dolores Cannon](https://en.wikipedia.org/wiki/Dolores_Cannon)'s [collection of books bubbling with profound wisdom](https://www.amazon.com/s?k=dolores+cannon&crid=3LJ6SPIVFT4WO&sprefix=dolores+cannon%2Caps%2C163) and specifically her <i>Quantum Healing Hypnosis Technique</i>, a high-level hypnotherapy used to help heal past-life and ancestrally-related trauma.<sup>[[1]](https://www.hypnotherapy-directory.org.uk/articles/qhht-the-gold-standard-of-past-life-regression)</sup><sup>[[2]](https://journeystoheal.com/services/qhht-los-angeles/)</sup>
 
 Furthermore, we can really <i>feel into the trauma</i> that may have been carried over from previous generations into our own bodies today.
 
@@ -48,11 +48,11 @@ Furthermore, we can really <i>feel into the trauma</i> that may have been carrie
 
 When you experience particular pains or sensations that persist in your body (for me, an <i><b>extremely</b></i> tight left hip has been a lifelong struggle), it's worth exploring their origin—not just physically, but spiritually and ancestrally as well.
 
-One powerful resource is Jacques Martel's [The Encyclopedia of Ailments and Diseases: How to Heal the Conflicted Feelings, Emotions, and Thoughts at the Root of Illness](https://www.amazon.com/Encyclopedia-Ailments-Diseases-Conflicted-Feelings/dp/1644111896?crid=27GL1B6B0EP18&dib=eyJ2IjoiMSJ9.lmqlUqe7uyZviFA34X67uF14kNGimJTDS38WX9El1eS0avQPZSjTVltxaMqTOqJXV7xuAhajlLr-2BCVyJDxeL0E9el-Q2TG7hDuEj9GcxD5NJUFsAncifRhQKaEnt9bT4gerhJsYynY-zNOR_u6pN3MYNn8XC_hOTIzbeMB_KUcZnYVjkAZLwC7Awpho4MsqJ0iJSotHTMcoYITGsUt6DCzaZBsN4o6y3pHjwDK5SU.qGiNPBgkETM3p4UZ_75YO6XPQ2lKDK7J5Ir4AaK2vcY&dib_tag=se&keywords=the+encyclopedia+of+illnesses+and+disease&qid=1743174406&s=books&sprefix=the+encuclopedia+of+illnesses+and+disease%2Cstripbooks%2C122&sr=1-1), which offers spiritual insight into the pyschosomatic roots of physical symptoms.
+One powerful resource is Jacques Martel's [The Encyclopedia of Ailments and Diseases: How to Heal the Conflicted Feelings, Emotions, and Thoughts at the Root of Illness](https://www.amazon.com/Encyclopedia-Ailments-Diseases-Conflicted-Feelings/dp/1644111896?crid=27GL1B6B0EP18&dib=eyJ2IjoiMSJ9.lmqlUqe7uyZviFA34X67uF14kNGimJTDS38WX9El1eS0avQPZSjTVltxaMqTOqJXV7xuAhajlLr-2BCVyJDxeL0E9el-Q2TG7hDuEj9GcxD5NJUFsAncifRhQKaEnt9bT4gerhJsYynY-zNOR_u6pN3MYNn8XC_hOTIzbeMB_KUcZnYVjkAZLwC7Awpho4MsqJ0iJSotHTMcoYITGsUt6DCzaZBsN4o6y3pHjwDK5SU.qGiNPBgkETM3p4UZ_75YO6XPQ2lKDK7J5Ir4AaK2vcY&dib_tag=se&keywords=the+encyclopedia+of+illnesses+and+disease&qid=1743174406&s=books&sprefix=the+encuclopedia+of+illnesses+and+disease%2Cstripbooks%2C122&sr=1-1), which offers spiritual insight into the psychosomatic roots of physical symptoms.
 
 And finally, Paul Chek's [How to Eat, Move, and Be Healthy!](https://www.amazon.com/How-Eat-Move-Be-Healthy/dp/158387013X?crid=3P6DGPZBSDIUJ&dib=eyJ2IjoiMSJ9.CCVQuVlg4-dNZx732KBRplGqcnzzfTZ30zqzHTy4YOcSGi_Or2WAgmGtjkTtBblPOI47KfeivicsHf2jPkYHS8MS3YfC6JUhRlWY6VLdX1vpxqcsGkVNcZTJWawH33d_jAdkg5MQ987ifRxA_WglWA.ZvSrpHXQvCLZG94nEJTA2TSw92NOqtqPqVZet2qjd_I&dib_tag=se&keywords=how+to+eat+move+and+be+healthy+paul+chek&qid=1743176497&sprefix=how+to+eat+move+%2Caps%2C152&sr=8-1) lays out the Four Doctor Approach—Dr. Happy, Dr. Quiet, Dr. Movement, and Dr. Diet—providing essential tools for maintaining holistic health in the face of ancestral and embodied trauma.
 
-And remember, you are a <b>spiritual warrior</b> who specifically <i>chose this body</i> to help heal your ancestral lineages.
+Remember: you are a <i>spiritual warrior</i>. You chose this body, this bloodline, this moment—to heal what others could not.
 
 ❤️‍🩹👨‍👧‍👦🌟
 
