@@ -17,18 +17,20 @@ What is <i>Soul</i>? I could show you a thousand fingers pointing to the same Mo
 We choose the bodies we are born into, and the parents we are born to. Our parents may choose to conceive a child, but they do not choose which <i>Soul</i> incarnates. It is <i>we</i> who choose the specific baby-avatar-body and family lineage as a vessel for our Soul's descent into this realm. 
 
 So then, what the heck is a Soul? My understanding is this: 
-> A Soul is a Unique Personal Mythic Codex comprised of Nine Layers of Unique Identification. Yes, your Soul does include aspects of your astral and cultural identities, but these are only scratching the surface of what the Full and Integrated Identification of what Your Soul truly is.
+> A Soul is a Personal Mythic Codex composed of Nine Layers of Unique Identification. Yes, your Soul includes aspects of your astral and cultural identities—but these only scratch the surface of what your Soul truly is in its full, integrated form.
 
-Let’s break it down. From the lowest level of identification to the highest level of identification–we see this complex web of Identities that the Soul, or the Personal Mythic Codex is comprised of:
-- Ancestral
-- Cultural
-- Religious
-- Royal
-- Sanctified
-- Angelic & Demonic
-- Astral / Spiritual
-- Mythic
-- Cosmic / Proto-Mythic
+Let’s break it down. From the lowest to the highest level of identification, the Soul—your Personal Mythic Codex—is composed of:
+- <b>Ancestral</b>
+- <b>Cultural</b>
+- <b>Religious</b>
+- <b>Royal</b>
+- <b>Sanctified</b>
+- <b>Angelic & Demonic</b>
+- <b>Astral / Spiritual</b>
+- <b>Mythic</b>
+- <b>Cosmic / Proto-Mythic</b>
+
+...identifications.
 
 Through this nine-part blogpost series, we will explore each layer of the Soul’s Personal Identification starting with the <i>Soul's Ancestral Identification</i>, and move up to the next layer of identification with each subsequent blogpost of the series.
 
