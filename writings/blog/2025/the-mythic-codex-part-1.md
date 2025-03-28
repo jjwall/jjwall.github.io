@@ -5,7 +5,7 @@ layout: default
 <b>[Back to Blogposts](/writings/blog.html)</b>
 * * *
 
-<i>March 26th, 2025</i>
+<i>March 27th, 2025</i>
 
 #### <i>Soul as The Personal Mythic Codex: Preface</i>
 
