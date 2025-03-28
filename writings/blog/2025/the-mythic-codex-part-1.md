@@ -21,7 +21,7 @@ So then, what the heck is a Soul? My understanding is this:
 
 Let’s break it down. From the lowest to the highest level of identification, the Soul—your Personal Mythic Codex—is composed of:
 - <b>Ancestral</b>
-- <b>Cultural</b>
+- <b>Familial / Societal / Cultural</b>
 - <b>Religious</b>
 - <b>Royal</b>
 - <b>Sanctified</b>
