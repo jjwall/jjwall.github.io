@@ -9,14 +9,12 @@ layout: default
 
 #### <i>Soul as The Personal Mythic Codex: Preface</i>
 
-Today I wanted to share a snippet from a book I’m currently writing.
-
-In this nine-part blogpost series we will explore the Introduction to the concept of “Soul as The Personal Mythic Codex.”
+Today, I'm sharing a glimpse into the book I'm currently writing—a nine-part exploration of a concept I call <i>Soul as The Personal Mythic Codex</i>.
 
 #### <i>Soul as The Personal Mythic Codex: An Introduction</i>
-What is <i>Soul</i>? I could show you 1000 fingers pointing to same Moon, and yet we all get a different perspective on what the Moon is as we all look upon it with our unique set of eyes and perspectives. So it has dawned on me to share my perspective on what I feel what the Moon, or in this case, what the Soul is.
+What is <i>Soul</i>? I could show you a thousand fingers pointing to the same Moon, and yet each of us would see something different—each perspective shaped by our unique eyes and life experiences. So it has dawned on me to share what I feel the Moon—or in this case, the Soul—truly is.
 
-We choose these bodies and the parents we are born to. Our parents did not choose to have us–what I mean to say here is: our parents did not choose the Soul that would incarnate as a human being in the baby’s body that they chose to have at a given point in time. We chose the baby <i>human-avatar-body</i> born to our parents as a vehicle with which our Soul would embody.
+We choose the bodies we are born into, and the parents we are born to. Our parents may choose to conceive a child, but they do not choose which <i>Soul</i> incarnates. It is <i>we</i> who choose the specific baby-avatar-body and family lineage as a vessel for our Soul's descent into this realm. 
 
 So then, what the heck is a Soul? My understanding is this: 
 > A Soul is a Unique Personal Mythic Codex comprised of Nine Layers of Unique Identification. Yes, your Soul does include aspects of your astral and cultural identities, but these are only scratching the surface of what the Full and Integrated Identification of what Your Soul truly is.
