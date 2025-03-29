@@ -5,6 +5,8 @@ layout: default
 <b>[Back to Blogposts](/writings/blog.html)</b>
 * * *
 
+{% include youtube.html id="SOE286bx8XU" %}
+
 <i>March 24th, 2025</i>
 
 Growing up Christian I naturally gravitated towards studying the Occult as well as Magick. I enjoyed reading grimoires, tomes and codices simply because it was taboo and I wasn’t “supposed” to study them. 
