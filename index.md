@@ -15,9 +15,13 @@ layout: default
 🎮 Soul Gamer 🌟 <br>
 ⛰️ Terra Firma 🏔️ <br>
 📝 Author ✍️ <br>
-God is Good. <br>
+
+> God is Good. <br>
 God is Great. <br>
-IamHappyIamHealthyIamWHOLE! <br>
+I am Happy! <br>
+I am Healthy! <br>
+I am WHOLE! <br>
+And Love is my Religion.<br>
 
 ~ ~ ~
 
