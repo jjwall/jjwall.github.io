@@ -20,7 +20,7 @@ So then, what the heck is a Soul? My understanding is this:
 > A Soul is a Personal Mythic Codex composed of Nine Layers of Unique Identification. Yes, your Soul includes aspects of your astral and cultural identities—but these only scratch the surface of what your Soul truly is in its full, integrated form.
 
 Let’s break it down. From the lowest to the highest level of identification, the Soul—your Personal Mythic Codex—is composed of:
-- <b>Ancestral</b>
+- <b>Ancestral</b> <i><~ lowest descent. In Part I, we are here.</i>
 - <b>Familial / Societal / Cultural</b>
 - <b>Religious</b>
 - <b>Royal</b>
@@ -28,7 +28,7 @@ Let’s break it down. From the lowest to the highest level of identification, t
 - <b>Angelic & Demonic</b>
 - <b>Astral / Spiritual</b>
 - <b>Mythic</b>
-- <b>Cosmic / Proto-Mythic</b>
+- <b>Cosmic / Proto-Mythic</b> <i><~ Highest Ascent!</i>
 
 These are the Nine Layers of Identification that make up the Personal Mythic Codex of your Soul.
 
