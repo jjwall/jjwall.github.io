@@ -33,12 +33,12 @@ This book is essentially an Apocryphal Text of how King Solomon summoned Demons 
 
 The Lore (that I wholeheartedly believe) is that King Solomon summoned these <i>Pure-Spirited</i> (i.e. non-evil) Demons to build <i>The Last Jewish Temple of God</i> before it was destroyed by the Babylonians.
 
-The Magic of Demonology contained in this book is known as the Ars Goetia which contain summoning rituals to summon the 72 Goetic Demons.
+The <i>Magic of Demonology</i> contained in this book is known as the <i>Ars Goetia</i> which contain <i>summoning rituals</i> to summon <i>the 72 Goetic Demons</i>.
 
 As <i>The Tetragrammaton (YHWH)</i> has <i>72 Holy Pronunciations</i>, it’s my understanding that these 72 Pure-Spirited Demons represent the 72 Physical Manifestations of the 72 Names of God the Creator, or what I like to call Him, <i>Jehovah Jiveh</i>.
 
 While Crowley is a <i><b>terrifying</b></i> figure and I’d recommend you tread lightly if you feel called to study his works, he has a great quote that has resonated deeply with me:
 
-> “Magic is simply the practice of turning your life into a work of art.”
+> “Magick is simply the practice of turning your life into a work of art.”
 
 📖🧙‍♂️💖
