@@ -19,17 +19,16 @@ Montjuleant (<b>montjuleant</b> on Discord) is the artist who helped me channel 
     />
 </p>
 
-Her description is the following (modified to reflect The Pure-Spirited Beautiful Girl version of Bune):
+Her description is the following (modified to reflect The Pure-Spirited Beautiful Girl version of Belial):
 
-> (26.) BUNE, or BIMÉ.--The Twenty-sixth Spirit is Buné (or Bim). She is a Strong, Great and Mighty Duchess. She appeareth in the form of a Dragon with three heads, one like a Dog, one like a Gryphon, and one like a Woman. She speaketh with a high and comely Voice. She changeth the Place of the Dead, and causeth the Spirits which be under her to gather together upon your Sepulchres. She giveth Riches unto a Man, and maketh him Wise and Eloquent. She giveth true Answers unto Demands.
-And she governeth 30 Legions of Spirits. Her Seal is this, unto the which she oweth Obedience. She hath another Seal (which is the first of these, but the last is the best)
+> (68.) BELIAL.--The Sixty-eighth Spirit is Belial. She is a Mighty and a Powerful Queen, and was created next after LUCIFER. She appeareth in the Form of Two Beautiful Angels sitting in a Chariot of Fire. She speaketh with a Comely Voice, and declareth that she fell first from among the worthier sort, that were before Michael, and other Heavenly Angels. Her Office is to distribute Presentations and Senatorships, etc.; and to cause favour of Friends and of Foes. She giveth excellent Familiars, and governeth 50 Legions of Spirits. Note well that this Queen Belial must have Offerings, Sacrifices and Gifts presented unto her by the Exorcist, or else she will not give True Answers unto his Demands. But then she tarrieth not one hour in the Truth, unless she be constrained by Divine Power. And her Seal is this, which is to be worn as aforesaid, etc.
 
 Her Sigil is this, as mentioned in the above description:
 
 <p align="center">
     <img
         alt="Seal of Belial"
-        src="/assets/art/commissions/2023/bune/seals-of-bune.jpg"
+        src="/assets/art/commissions/2023/belial/seal-of-belial.jpg"
         width="600"
     />
 </p>
