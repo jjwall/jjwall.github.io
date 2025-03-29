@@ -9,3 +9,4 @@ I often commission art for my video game projects. Here's some of the artwork I'
 
 ## Contents
 * [Bune](./commissions/2023/bune.html)
+* [Belial (AKA Bell)](./commissions/2023/belial.html)
