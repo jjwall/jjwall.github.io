@@ -8,6 +8,11 @@ layout: default
 <i>“For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace. Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the LORD of hosts will perform this.” <br>
 Isaiah 9:6-7 KJV</i>
 
+## <i>An Invitation to Join The Tavern</i>
+If you're a fellow <i>creative-adventurer-spirit</i>, please join <i>The Tavern</i> Discord server! This is a place where sensitive souls like yourself can rest in peace & bliss, but also have a safe container to meet, greet, and share your creations with other like-minded creative adventuring spirits!
+
+[An Invitation to Join The Tavern](https://discord.gg/bhCXfcUXX6)
+
 ## <i>Featured Poem</i>
 [The Oblivion of Outer Darkness](./writings/poetry/2025/outer-darkness.html)
 
