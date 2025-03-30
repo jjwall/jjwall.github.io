@@ -5,7 +5,7 @@ layout: default
 <b>Home</b> | <b>[Writings](./writings.html)</b> | <b>[Projects](./projects.html)</b> | <b>[Art](./art.html)</b> | <b>[Resume](./resume.html)</b>
 * * *
 
-## <i>The Prince of Peace Has Always Been Here
+## <i>The Prince of Peace Has Always Been Here</i>
 <i>“For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace. Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the LORD of hosts will perform this.” <br>
 Isaiah 9:6-7 KJV</i>
 
@@ -15,7 +15,7 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i>The Tavern<
 [An Invitation to Join The Tavern](https://discord.gg/bhCXfcUXX6)
 
 ## <i>Featured Poem</i>
-[The Oblivion of Outer Darkness](./writings/poetry/2025/outer-darkness.html)
+[The Dreamer & The Echo](./writings/poetry/2025/the-dreamer-and-the-echo.html)
 
 ## <i>Featured Blogpost</i>
 [Myth as the Penultimate Truth](./writings/blog/2025/myth-as-the-penultimate-truth.html)
