@@ -50,6 +50,8 @@ And what is tech but dream?
 When seen through eyes of Love Divine,
 they are the same bright beam.
 
+👨🏼‍💻❤️‍🔥🌳
+
 ~ ~ ~
 
 “El Soñador y el Eco”
@@ -95,3 +97,5 @@ Porque ¿qué es el mito sino verdad codificada?
 ¿Y qué es la tecnología sino sueño?
 Cuando se ven a través de los ojos del Amor Divino,
 son el mismo rayo brillante.
+
+👨🏼‍💻❤️‍🔥🌳

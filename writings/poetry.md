@@ -20,6 +20,7 @@ In addition to this, I embed a YouTube Music song with each poem to help further
 ## Contents
 * [The Dark Side of the Moon](./poetry/2025/dark-side-of-the-moon.html)
 * [Dragon Manna [The Tap of Rage]](./poetry/2025/dragon-manna.html)
+* [The Dreamer & The Echo](./poetry/2025/the-dreamer-and-the-echo.html)
 * [Fear & Love](./poetry/2024/fear-and-love.html)
 * [The Oblivion of Outer Darkness](./poetry/2025/outer-darkness.html)
 * [One More Kiss](./poetry/2025/one-more-kiss.html)
