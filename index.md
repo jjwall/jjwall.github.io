@@ -10,7 +10,7 @@ layout: default
 Isaiah 9:6-7 KJV</i>
 
 ## <i>An Invitation to Join The Tavern</i>
-If you're a fellow <i>creative-adventurer-spirit</i>, please join <i>The Tavern</i> Discord server! This is a place where sensitive souls like yourself can rest in peace & bliss, but also have a safe container to meet, greet, and share your creations with other like-minded creative adventuring spirits!
+If you're a fellow <i>creative-adventurer-spirit</i>, please join <i>The Tavern</i> <b>Discord</b> server! This is a place where sensitive souls like yourself can rest in peace & bliss, but also have a safe container to meet, greet, and share your creations with other like-minded creative adventuring spirits!
 
 [An Invitation to Join The Tavern](https://discord.gg/bhCXfcUXX6)
 
