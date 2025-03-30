@@ -5,6 +5,8 @@ layout: default
 <b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
+{% include youtube.html id="AMdeeEuYWoI" %}
+
 <i><b>“The Dreamer & The Echo”</b></i><br>
 <i>March 30th, 2025</i>
 
