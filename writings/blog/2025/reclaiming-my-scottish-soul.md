@@ -73,13 +73,15 @@ Well, much to our hero’s dismay, the English found out about this “secret we
 
 And thus, a hero, a legend, but perhaps more precisely, a Demon was born that day—Sir William Wallace, Guardian of Scotland and leader of the Scottish Rebellion against the English.
 
-<p align="center">
+ <img src="/assets/writings/blog/2025/reclaiming-my-scottish-soul/william-wallace.mp4" alt="My Animated GIF">
+
+<!-- <p align="center">
     <img
         alt="Sir William Wallace with Blue Scottish Warpaint & Fire"
         src="/assets/writings/blog/2025/reclaiming-my-scottish-soul/william-wallace.mp4"
         width="600"
     />
-</p>
+</p> -->
 
 If you would like Hollywood’s take on the legendary Scottish Rebellion against the English that transpired from the 1200s through the 1300s—please see Mel Gibson’s Braveheart and follow it up with Netflix’s Outlaw King
 
