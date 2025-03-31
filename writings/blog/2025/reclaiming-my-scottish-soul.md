@@ -83,7 +83,7 @@ And thus, a hero, a legend, but perhaps more precisely, a Demon was born that da
     />
 </p> -->
 
-If you would like Hollywood’s take on the legendary Scottish Rebellion against the English that transpired from the 1200s through the 1300s—please see Mel Gibson’s Braveheart and follow it up with Netflix’s Outlaw King
+If you would like Hollywood’s take on the legendary Scottish Rebellion against the English that transpired from the 1200s through the 1300s—please see Mel Gibson’s Braveheart and follow it up with Netflix’s Outlaw King.
 
 {% include youtube.html id="wHpO9AG_dkE" %}
 
@@ -156,11 +156,11 @@ In closing, as I’ve continued doing research on both my great, great grandfath
     <img
         alt="The Seal of Wallace"
         src="/assets/sigils/seal-of-wallace.png"
-        width="600"
+        width="200"
     />
 </p>
 
-Not unlike the Sigils of the Pure-Spirited Beautiful Girl Demons that inspired the art for some of my game projects in both Bune (link) and Belial (link).
+Not unlike the Sigils of the Pure-Spirited Beautiful Girl Demons that inspired the art for some of my game projects in both [Bune](/art/commissions/2024/bune.html) and [Belial](/art/commissions/2024/belial.html).
 
 I suppose this explains why my blood boils red—as I’m the great, great grand-nephew of a True Demon.
 
