@@ -56,7 +56,7 @@ Scotland and England, while close in proximity—had very different cultures. Ye
 
 Not to mention, the ancient civilization blueprint of the indigenous Celtic-Scots is absolutely fascinating. 
 
-While Native Americans had Chieftains and Tribes—Celtic-Scots had Kings and Kingdoms. The Kingdoms were very similarly in structure to Native American Tribes, the only difference were that Kingdoms were established on top of the rolling hills of the Scottish Highlands. This meant that the Kings had a solid foundation for forming good governance over their Kingdoms—and as such—Celtic-Scottish Kingdoms were much larger than that of Native American tribes.
+While Native Americans had Chieftains and Tribes—Celtic-Scots had Kings and Kingdoms. The Kingdoms were very similarly in structure to Native American Tribes, the only difference were that Kingdoms were established on top of the rolling hills of the Scottish Highlands. This meant that the Kings had a solid foundation for forming good governance over their Kingdoms—and as such—Celtic-Scottish Kingdoms were much larger than that of Native American Tribes.
 
 The Celtic religion and faith system equipped the Scots with Oracle-like guidance from Celtic Druids who were well versed in Earth Magic, inscribing runes and had atonement with the ley-lines of the lands as seen in archeological dig sites where Celtic Runes and Stone Ordinances were seemingly Divinely Designed, Constructed, and Placed.
 
