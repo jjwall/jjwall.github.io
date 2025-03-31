@@ -30,7 +30,7 @@ Things were mostly fine until King Edward I came into power. Edward’s silly li
 #### Of Empire & Reflection
 England has often perceived itself through its storied history as the most “civilized” of cultures, and Longshanks was determined to rule over Scotland—a country he deemed as inhabited by uncivilized indigenous peoples that needed to be slain and quarantined into various parts of their land so England could have total dominion over them.
 
-> A funny line in the movie that my family often quotes is when Edward I says, "The problem with Scotland is... it's full of Scots! 😂
+> A funny line in the movie that my family often quotes is when Edward I says, "The problem with Scotland is... it's full of Scots!" 😂
 
 This perception of the savage “outsiders” can be rhymically seen through the tactics and strategies of the British Empire throughout its storied history. 
 
