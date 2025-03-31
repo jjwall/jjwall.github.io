@@ -7,22 +7,25 @@ layout: default
 
 <i>March 31st, 2025</i>
 
-My paternal grandfather, James Eugene Wallace, who among friends & family went by “Jim”, among his two sons (my father, Nicholas Jesse Wallace and my uncle, Bruce Allen Wallace), went by “Dude”, and among his three grandsons (my brother, John Nicholas Wallace, my cousin, Nicholas Jesse Wallace II, and myself, Jacob James Wallace) went by “Grandpa Dude” was an astute scholar of our family lineage.
+#### Introduction
+My paternal grandfather, James Eugene Wallace—known as "Jim" to friends, "Dude" to his sons, and "Grandpa Dude" to us, his grandsons—was a devoted scholar to our family lineage.
 
 As I begun to find out later in life, James “Grandpa Dude” Wallace, with whom my middle name, James, is named after—worked hand-in-hand with the Family Tree Center of The Church of Latter-Day Saints to diligently track our family’s paternal heritage.
 
-As it was truly all men who dominated my father’s side of the family, my grandfather, father, and uncle helped to raise the three boys in the family between my brother, my cousin, and myself—through the strategy of blood & chaos, if you will.
+#### On Blood & Fire
+As it was truly all men who dominated my father’s side of the family, my grandfather, father, and uncle helped to raise the three boys in the family between my brother, my cousin, and myself—through the strategy of blood & fire, if you will.
 
 Not that there was any physical violence, but there was a lot of harsh, cold, and tough love shown to us three boys growing up from the men in the family. Though, this did have its pros. 
 
-For one, starting at the age of three, I was initiated into the chaos & blood of our so-called distant ancestor’s, Sir William Wallace’s legendary tales of leading the Scottish Rebellion against King “Longshanks” Edward I’s English Throne by allowing us to watch the academy award-winning, Braveheart—who Mel Gibson both directed & starred in.
+For one, starting at the age of three, I was initiated into the blood & fire of our so-called distant ancestor’s, Sir William Wallace’s legendary tales of leading the Scottish Rebellion against King “Longshanks” Edward I’s English Throne by allowing us to watch the academy award-winning, Braveheart—who Mel Gibson both directed & starred in.
 
-[[trailer of Braveheart here]]
+{% include youtube.html id="1NJO0jxBtMo" %}
 
-If you haven’t seen the movie or need a refresher on the plot—the movie tracks the legendary Guardian of Scotland, Sir William Wallace and the time when England was ruling over the Scottish lands. The Scottish people were free-spirited and loving, having no desire to pledge allegiance to any foreign king.
+If you haven’t seen the movie or need a refresher on the plot—the movie tracks the legendary Guardian of Scotland, Sir William Wallace and the time when England was ruling over the Scottish lands. The Scottish people were free-spirited, peaceful, and loving—having no desire to pledge allegiance to any foreign king.
 
 Things were mostly fine until King Edward I came into power. Edward’s silly little nickname “Longshanks” is how I know him, but he had another terrifying nickname as he was known as the “Hammer of the Scots.”
 
+#### Of Empire & Reflection
 England has often perceived itself through its storied history as the most “civilized” of cultures, and Longshanks was determined to rule over Scotland—a country he deemed as inhabited by uncivilized indigenous peoples that needed to be slain and quarantined into various parts of their land so England could have total dominion over them. 
 
 This perception of the savage “outsiders” can be rhymically seen throughout the tactics and strategies of the British Empire throughout history. One example is when they came to the Americas, the Native Americans were also seen as savages. And yet, not unlike the Scots of the 1200s, the Native Americans of the 1500s were an enlightened people. So while the English came over to the americas carrying their unhealed wounds, they projected their own fears and hate onto the “others” which was Divinely Reflected back to the English in the faces of the Native Americans.
