@@ -32,6 +32,8 @@ This perception of the savage “outsiders” can be rhymically seen throughout 
 
 Like the Scots, the Native Americans had no choice but to be the very demons the English perceived them to be.
 
+> "Freedom runs in our veins..."
+
 To compare, the Spanish conquered the Aztecs and neighboring Mesoamerican empires of present-day Mexico, and once the Aztec and sister-Mayan civilizations were defeated, the Spanish and Aztecs swapped women and they mixed—becoming one people. What we know today as Mexicans—an open, warm, faith-filled, heart-centered, family-focused people with deep connections to both Mayan and Spanish bloodlines—in most cases.
 
 However, a mix between English blood and Native American blood is a rare sight to see. As the English (and eventually the “White Americans”) slaughtered the Native-American tribes and ushered them into corners of the American lands deemed as “Indian Reservations.”
@@ -50,6 +52,8 @@ Not to mention, the ancient civilization blueprint of the indigenous Celtic-Scot
 
 The Celtic religion and faith system equipped the Scots with Oracle-like guidance from Celtic Druids who were well versed in Earth Magic, inscribing runes and had atonement with the ley-lines of the lands as seen in archeological dig sites where Celtic Runes and Stone Ordinances were seemingly Divinely Designed, Constructed, and Placed.
 
+> "The Dream of the Highlands has not died..."
+
 In addition to this, coronation of “Kings” was quite the ritual. Only the most noble of the Scots were deemed worthy of being christened “Kings” as seen in the lore of the Stone of Scone—or the Stone of Destiny—which is also known as Jacob’s Pillow Stone. The same Stone King Charles III was christened with in Edinburgh Castle in Edinburgh, Scotland back in 2022 after Queen Elizabeth passed away.
 
 The legend behind this Sacred Stone is that it was the Stone that Jacob, the Father of the Tribe of Israel, laid his head upon when he had the dream of the infamous “Jacob’s Ladder.” In this Dream, Jacob saw a Ladder streaming from the Heavens where Angels had access to and from the Earthy Realm—to come & go as they please—and be among us mortal men.
@@ -64,6 +68,8 @@ Prima nocta meant that before a newly married Scotsman could sleep with his wife
 Knowing prima nocta was an abhorrently illegal law, William decided to marry his wife in secret—having a marriage ceremony in a hidden forest tucked away behind the Scottish rolling hills.
 
 Well, much to our hero’s dismay, the English found out about this “secret wedding ceremony” and promptly killed his wife and burned her at the stake.
+
+> "And so the blood remembers..."
 
 And thus, a hero, a legend, but perhaps more precisely, a Demon was born that day—Sir William Wallace, Guardian of Scotland and leader of the Scottish Rebellion against the English.
 
@@ -101,6 +107,8 @@ And yet, the tree continued to light up. Eight generations. Nine generations. Te
 The Mormon man’s mind was blown. “I have never seen this in my entire life working here at The Family Tree Center!”
 
 Eventually the “Wallace” name became cryptic as it morphed into its Middle-English variant. And yet, sure enough, there he was, my great, great (…add a few more greats!) grandfather, Sir John Wallace—the full-bloodied brother of Sir William Wallace who co-led the Scottish Rebellion and met a similar fate by the hands of the English having been captured, gutted, disemboweled and crucified, and killed not unlike Sir William—all for the sake of Freedom.
+
+> "The blood remembers..."
 
 A quote Mel Gibson speaks as Sir Great Uncle William in Braveheart resonates deeply with me:
 > "Every man dies, not every man really lives."
