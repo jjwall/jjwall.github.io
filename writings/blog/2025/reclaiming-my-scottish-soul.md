@@ -108,7 +108,7 @@ As I’ve been on my own unique mytho-heroic Odyssey in my short lifetime thus f
 
 Grandpa dude always told the three of us Wallace boys that we were related to William Wallace. Yet, even as children—this was hard to believe. Like Jesus, I wondered—was William a real person? Or was he merely just a legend?
 
-My heroic journey took me to Salt Lake City, Utah as I was visiting for a men’s retreat there back in October of 2022. As I arrived early, having never been to Salt Lake before, I was so curious to see the Mormon Mothership Temple.
+My heroic journey took me to Salt Lake City, Utah as I was visiting for a men’s retreat there back in October of 2022. As I arrived early and having never been to Salt Lake before, I was so curious to see the Mormon Mothership Temple.
 
 Upon visiting, I came across The Family Tree Center—and my curious mind obliged. How far back have the Mormons been able to trace my paternal line?
 
