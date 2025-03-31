@@ -5,7 +5,7 @@ layout: default
 <b>Home</b> | <b>[Writings](./writings.html)</b> | <b>[Projects](./projects.html)</b> | <b>[Art](./art.html)</b> | <b>[Resume](./resume.html)</b>
 * * *
 
-## <i>Immanuel is the The Prince of Peace</i>
+## <i>Immanuel is The Prince of Peace</i>
 {% include youtube.html id="pWTPRvoW-vo" %}
 
 ## <i>An Invitation to Join The Tavern</i>
