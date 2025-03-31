@@ -67,7 +67,13 @@ Well, much to our hero’s dismay, the English found out about this “secret we
 
 And thus, a hero, a legend, but perhaps more precisely, a Demon was born that day—Sir William Wallace, Guardian of Scotland and leader of the Scottish Rebellion against the English.
 
-[Gif of William with Warpaint and Fire]
+<p align="center">
+    <img
+        alt="Sir William Wallace with Blue Scottish Warpaint & Fire"
+        src="/assets/writings/blog/2025/reclaiming-my-scottish-soul/william-wallace.mp4"
+        width="600"
+    />
+</p>
 
 If you would like Hollywood’s take on the legendary Scottish Rebellion against the English that transpired from the 1200s through the 1300s—please see Mel Gibson’s Braveheart and follow it up with Netflix’s Outlaw King
 
@@ -136,7 +142,13 @@ Yhit we suld thynk one our bearis befor,Of that parablys as now I say no mor. We
 #### Conclusion
 In closing, as I’ve continued doing research on both my great, great grandfather, Sir John Wallace—and my great, great grand uncle, Sir William Wallace—I came across Sir William’s Seal, which is this:
 
-[William’s Seal goes here]
+<p align="center">
+    <img
+        alt="The Seal of Wallace"
+        src="/assets/sigils/seal-of-wallace.png"
+        width="600"
+    />
+</p>
 
 Not unlike the Sigils of the Pure-Spirited Beautiful Girl Demons that inspired the art for some of my game projects in both Bune (link) and Belial (link).
 
