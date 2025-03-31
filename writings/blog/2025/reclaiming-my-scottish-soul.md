@@ -99,9 +99,7 @@ Eventually the “Wallace” name became cryptic as it morphed into its Middle-E
 A quote Mel Gibson speaks as Sir Great Uncle William in Braveheart resonates deeply with me:
 > "Every man dies, not every man really lives."
 
-The following is the opening lines of a poem by the minstrel Blind Harry titled, The Wallace:
-
-Taken from The Gutenberg Project, please see: [The Gutenberg Project Archives on William Wallace and Robert the Bruce](https://www.gutenberg.org/files/49580/49580-h/49580-h.htm).
+The following are the opening lines of a poem by the minstrel Blind Harry titled, <i>The Wallace</i>—which is archived by [The Gutenberg Project](https://www.gutenberg.org/files/49580/49580-h/49580-h.htm).
 
 <b>Modern-English ChatGPT Translation</b>:
 
