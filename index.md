@@ -6,8 +6,7 @@ layout: default
 * * *
 
 ## <i>Immanuel is the The Prince of Peace</i>
-<i>“For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace. Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the LORD of hosts will perform this.” <br>
-Isaiah 9:6-7 KJV</i>
+{% include youtube.html id="pWTPRvoW-vo" %}
 
 ## <i>An Invitation to Join The Tavern</i>
 If you're a fellow <i>creative-adventurer-spirit</i>, please join <i>The Tavern</i> <b>Discord</b> server! This is a place where sensitive souls like yourself can rest in peace & bliss, but also have a safe container to meet, greet, and share your creations with other like-minded creative adventuring spirits!
@@ -57,6 +56,9 @@ I am Happy! <br>
 I am Healthy! <br>
 I am WHOLE! <br>
 And Love is my Religion.<br>
+
+<i>“For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace. Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the LORD of hosts will perform this.” <br>
+Isaiah 9:6-7 KJV</i>
 
 <!-- <p align="center">
     <a href="https://alchemical.itch.io/raft-blaster">
