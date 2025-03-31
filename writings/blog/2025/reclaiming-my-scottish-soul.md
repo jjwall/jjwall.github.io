@@ -34,7 +34,7 @@ England has often perceived itself through its storied history as the most “ci
 
 This perception of the savage “outsiders” can be rhymically seen through the tactics and strategies of the British Empire throughout its storied history. 
 
-One example is when they came to the Americas, the Native Americans were also seen as savages. And yet, not unlike the Scots of the 1200s, the Native Americans of the 1500s were an enlightened people. So while the English came over to the Americas carrying their unhealed wounds, they projected their own fears and hate onto the “others” which was Divinely Reflected back to the English in the faces of the Native Americans.
+One example is when they came to the Americas, the Native Americans were also seen as savages. And yet, similar to the Scots of the 1200s, the Native Americans of the 1500s were an enlightened people. So while the English came over to the Americas carrying their unhealed wounds, they projected their own fears and hate onto the “others” which was Divinely Reflected back to the English in the faces of the Native Americans.
 
 Like the Scots, the Native Americans had no choice but to be the very demons the English perceived them to be.
 
