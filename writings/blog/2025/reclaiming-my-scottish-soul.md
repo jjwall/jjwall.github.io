@@ -64,7 +64,7 @@ The Celtic religion and faith system equipped the Scots with Oracle-like guidanc
 
 In addition to this, the coronation of “Kings” was quite the ritual.
 
-By merit alone, only the most noble of the Scots were deemed worthy of being christened “Kings” as seen in the lore of the Stone of Scone—or the Stone of Destiny—which is also known as Jacob’s Pillow Stone. The same Stone King Charles III was christened with in Edinburgh Castle in Edinburgh, Scotland back in 2022 after Queen Elizabeth passed away.
+Not by blood, but by merit—only the most noble of the Scots were deemed worthy of being christened “Kings” as seen in the lore of the Stone of Scone—or the Stone of Destiny—which is also known as Jacob’s Pillow Stone. The same Stone King Charles III was christened with at the Edinburgh Castle in Edinburgh, Scotland back in 2022 after Queen Elizabeth passed away.
 
 The legend behind this Sacred Stone is that it was the Stone that Jacob, the Father of the Tribe of Israel, laid his head upon when he had the dream of the infamous “Jacob’s Ladder.”
 
