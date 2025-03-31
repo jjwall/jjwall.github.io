@@ -126,7 +126,7 @@ Eventually the “Wallace” name became cryptic as it morphed into its Middle-E
 
 The following are the opening lines of a poem by the minstrel Blind Harry titled, <i>The Wallace</i>—which is archived by [The Gutenberg Project](https://www.gutenberg.org/files/49580/49580-h/49580-h.htm).
 
-<b>Modern-English ChatGPT Translation</b>:
+Here's the <b>Modern-English</b> version as translated by ChatGPT:
 
 > <b>The Opening Lines of The Wallace by Blind Harry</b><br>
 Our ancestors, whose tales we ought to read,
@@ -150,7 +150,7 @@ Of worthy blood that reigns in this region,
 And henceforth I will my process hold,
 Of William Wallace you have heard been told.
 
-<b>And here's the original, in Middle-English:</b>
+And here's the original, in <b>Middle-English</b>:
 > <b>The Opening Lines of The Wallace by Blind Harry</b><br>
 Our antecessowris that we suld of reide, And hald in mynde thar nobille worthi deid,We lat ourslide throu verray sleuthfulnes,And castis us ever till uther besynes.<br><br>
 Till honour ennymyis is our haile entent,It has beyne seyne in thir tymys bywent. Our ald ennemys cummyn of Saxonys blud,That nevyr yeit to Scotland wald do gud,But ever on fors and contrar haile thar will, Quhow gret kyndnes thar has beyne kyth thaim till.<br><br>
