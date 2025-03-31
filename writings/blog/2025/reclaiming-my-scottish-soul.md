@@ -172,7 +172,7 @@ In closing, as I’ve continued doing research on both my great, great grandfath
     />
 </p>
 
-Not unlike the Sigils of the Pure-Spirited Beautiful Girl Demons that inspired the art for some of my game projects in both [Bune](/art/commissions/2024/bune.html) and [Belial](/art/commissions/2024/belial.html).
+This Wallace Sigil evokes to me similar energy from the Sigils of the Pure-Spirited Beautiful Girl Demons that inspired the art for some of my video game projects in both [Bune](/art/commissions/2024/bune.html) and [Belial](/art/commissions/2024/belial.html).
 
 I suppose this explains why my blood boils red—as I’m the great, great grand-nephew of a True Demon.
 
