@@ -42,7 +42,9 @@ The truth is—neither the Scots nor the Native Americans were “savage others,
 
 It was the English’s fear and demonization of “the other” that transformed these enlightened tribesmen and warriors into true demons in their uninitiated English minds.
 
-Scotland and England, while close in proximity—had very different cultures. Yes, maybe Scotland was full of wild men and women, but they liked it this way. As they could truly live, express themselves, and most importantly to them, be free.
+
+#### Celtic Thrones: The Cycle of the Kings
+Scotland and England, while close in proximity—had very different cultures. Yes, maybe Scotland was full of wild men and women, but they liked it this way. As they could truly live, express themselves, and most importantly to them, <i>be free</i>.
 
 Not to mention, the ancient civilization blueprint of the indigenous Celtic-Scots is absolutely fascinating. While Native Americans had Chieftains and Tribes—Celtic-Scots had Kings and Kingdoms. The Kingdoms were very similarly in structure to Native American Tribes, the only difference were that Kingdoms were established on top of the rolling hills of the Scottish Highlands. This meant that the Kings had a solid foundation for forming good governance over their Kingdoms—and as such—Celtic-Scottish Kingdoms were much larger than that of Native American tribes.
 
@@ -52,6 +54,7 @@ In addition to this, coronation of “Kings” was quite the ritual. Only the mo
 
 The legend behind this Sacred Stone is that it was the Stone that Jacob, the Father of the Tribe of Israel, laid his head upon when he had the dream of the infamous “Jacob’s Ladder.” In this Dream, Jacob saw a Ladder streaming from the Heavens where Angels had access to and from the Earthy Realm—to come & go as they please—and be among us mortal men.
 
+#### Sir William Wallace & King Robert the Bruce
 Now—to get back to my so-called great ancestor, Sir William Wallace. The core plot surrounding the movie Braveheart is that to have total dominion and control over Scotland, King Edward I enacted an abhorrently-illegal law known as prima nocta.
 
 If you’re familiar with the movie, you’ll know this is how our hero, William Wallace was born in the flames.
@@ -66,10 +69,15 @@ And thus, a hero, a legend, but perhaps more precisely, a Demon was born that da
 
 [Gif of William with Warpaint and Fire]
 
-If you would like Hollywood’s take on the legendary Scottish Rebellion against the English that transpired from the 1200s through the 1300s—please see Mel Gibson’s Braveheart and follow it up with Netflix’s The Rebel King. This movie track the events of Robert the Bruce picking up the torch after Sir William Wallace was captured, gutted, disemboweled, crucified and killed—famously declining to swear allegiance to the English Throne and instead swearing allegiance to “Freedom!” and freedom, alone.
+If you would like Hollywood’s take on the legendary Scottish Rebellion against the English that transpired from the 1200s through the 1300s—please see Mel Gibson’s Braveheart and follow it up with Netflix’s Outlaw King
+
+{% include youtube.html id="wHpO9AG_dkE" %}
+
+Outlaw King tracks the events of Robert the Bruce picking up the torch after Sir William Wallace was captured, gutted, disemboweled, crucified and killed—famously declining to swear allegiance to the English Throne and instead swearing allegiance to “Freedom!” and freedom, alone.
 
 William was truly, a Brave Heart.
 
+#### The Descent into Ancestral Flame
 As I’ve been on my own unique mytho-heroic Odyssey in my short lifetime thus far—I have always been drawn to my Celtic-Scottish roots.
 
 Grandpa dude always told the three of us Wallace boys that we were related to William Wallace. Yet, even as children—this was hard to believe. Like Jesus, I wondered—was William a real person? Or was he merely just a legend.
@@ -84,17 +92,21 @@ Once my paternal grandparents were identified in the system, the tree started to
 
 And yet, the tree continued to light up. Eight generations. Nine generations. Ten generations. Eleven generations… TWELVE generations.
 
-The Mormon man’s mind was blown. “I have never seen this in my entire life working here at The Family Center.”
+The Mormon man’s mind was blown. “I have never seen this in my entire life working here at The Family Tree Center!”
 
 Eventually the “Wallace” name became cryptic as it morphed into its Middle-English variant. And yet, sure enough, there he was, my great, great (…add a few more greats!) grandfather, Sir John Wallace—the full-bloodied brother of Sir William Wallace who co-led the Scottish Rebellion and met a similar fate by the hands of the English having been captured, gutted, disemboweled and crucified, and killed not unlike Sir William—all for the sake of Freedom.
+
+A quote Mel Gibson speaks as Sir Great Uncle William in Braveheart resonates deeply with me:
+> "Every man dies, not every man really lives."
 
 The following is the opening lines of a poem by the minstrel Blind Harry titled, The Wallace:
 
 Taken from The Gutenberg Project, please see: [The Gutenberg Project Archives on William Wallace and Robert the Bruce](https://www.gutenberg.org/files/49580/49580-h/49580-h.htm).
 
-<b>(ChatGPT) Modern-English Translation</b>:
+<b>Modern-English ChatGPT Translation</b>:
 
-> Our ancestors, whose tales we ought to read,
+> <b>The Opening Lines of The Wallace by Blind Harry</b><br>
+Our ancestors, whose tales we ought to read,
 And hold in mind their noble, worthy deeds,
 We let slip away through sheer laziness,
 And always turn to other business.<br><br>
@@ -115,11 +127,15 @@ Of worthy blood that reigns in this region,
 And henceforth I will my process hold,
 Of William Wallace you have heard been told.
 
-And here's the original, in Middle-English:
-> <b>The Opening Lines of The Wallace</b><br>
-Our antecessowris that we suld of reide, And hald in mynde thar nobille worthi deid,We lat ourslide throu verray sleuthfulnes,And castis us ever till uther besynes. Till honour ennymyis is our haile entent,It has beyne seyne in thir tymys bywent. Our ald ennemys cummyn of Saxonys blud,That nevyr yeit to Scotland wald do gud,But ever on fors and contrar haile thar will, Quhow gret kyndnes thar has beyne kyth thaim till.It is weyle knawyne on mony divers syde,How they haff wrocht in to thar mychty pryde,To hald Scotland at undyr evermar,Bot God abuff has maid thar mycht to par. Yhit we suld thynk one our bearis befor,Of that parablys as now I say no mor. We reide of ane rycht famous of renowne,Of worthi blude that ryngis in this regioune,And hensfurth I will my proces hald,Of Wilyham Wallas yhe haf hard beyne tald.
+<b>And here's the original, in Middle-English:</b>
+> <b>The Opening Lines of The Wallace by Blind Harry</b><br>
+Our antecessowris that we suld of reide, And hald in mynde thar nobille worthi deid,We lat ourslide throu verray sleuthfulnes,And castis us ever till uther besynes.<br><br>
+Till honour ennymyis is our haile entent,It has beyne seyne in thir tymys bywent. Our ald ennemys cummyn of Saxonys blud,That nevyr yeit to Scotland wald do gud,But ever on fors and contrar haile thar will, Quhow gret kyndnes thar has beyne kyth thaim till.<br><br>
+It is weyle knawyne on mony divers syde,How they haff wrocht in to thar mychty pryde,To hald Scotland at undyr evermar,Bot God abuff has maid thar mycht to par.<br><br>
+Yhit we suld thynk one our bearis befor,Of that parablys as now I say no mor. We reide of ane rycht famous of renowne,Of worthi blude that ryngis in this regioune,And hensfurth I will my proces hald,Of Wilyham Wallas yhe haf hard beyne tald.
 
 
+#### Conclusion
 In closing, as I’ve continued doing research on both my great, great grandfather, Sir John Wallace—and my great, great grand uncle, Sir William Wallace—I came across Sir William’s Seal, which is this:
 
 [William’s Seal goes here]
@@ -131,4 +147,4 @@ I suppose this explains why my blood boils red—as I’m the great, great grand
 Lord Jesus God, the Anointed One—please forgive me and my ancestors! Bring redemption to our family line!
 
 With Love & Light, <br>
-Jacob James Wallace
+<i>Jacob James Wallace</i>
