@@ -184,3 +184,5 @@ Amen. And Freedom Forever!
 
 With Love & Light, <br>
 <i>Jacob James Wallace</i>
+
+🩸👿🔥
