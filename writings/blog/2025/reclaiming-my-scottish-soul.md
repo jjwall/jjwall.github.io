@@ -10,7 +10,7 @@ layout: default
 #### Introduction
 My paternal grandfather, James Eugene Wallace—known as "Jim" to friends, "Dude" to his sons, and "Grandpa Dude" to us, his grandsons—was a devoted scholar to our family lineage.
 
-As I begun to find out later in life, James “Grandpa Dude” Wallace, with whom my middle name, James, is named after—worked hand-in-hand with the Family Tree Center of The Church of Latter-Day Saints to diligently track our family’s paternal heritage.
+As I begun to find out later in life, James “Grandpa Dude” Wallace, with whom my middle name, James, is named after—worked hand-in-hand with the Family Tree Center of The Church of Jesus Christ of Latter-day Saints to diligently track our family’s paternal heritage.
 
 #### On Blood & Fire
 As it was truly all men who dominated my father’s side of the family, my grandfather, father, and uncle helped to raise the three boys in the family between my brother, my cousin, and myself—through the strategy of blood & fire, if you will.
