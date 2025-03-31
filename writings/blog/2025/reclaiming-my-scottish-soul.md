@@ -101,7 +101,7 @@ If you would like Hollywood’s take on the legendary Scottish Rebellion against
 
 Outlaw King tracks the events of <b>King Robert the Bruce</b> picking up the torch after <b>Sir William Wallace</b> was captured, gutted, disemboweled, crucified and killed—famously declining to swear allegiance to the English Throne and instead swearing allegiance to “Freedom!” and freedom, alone.
 
-Both William and the Bruce were truly, <i><b>Brave Hearts</b><i>.
+Both William and the Bruce were truly, <i><b>Brave Hearts</b></i>.
 
 #### The Descent into Ancestral Flame
 As I’ve been on my own unique mytho-heroic Odyssey in my short lifetime thus far—I have always been drawn to my Celtic-Scottish roots.
@@ -112,7 +112,7 @@ My heroic journey took me to Salt Lake City, Utah as I was visiting for a men’
 
 Upon visiting, I came across The Family Tree Center—and my curious mind obliged. How far back have the Mormons been able to trace my paternal line?
 
-A sweet Mormon man at the Center was happy to help me log on to a computer there and guide me through the process of traversing my family tree. I told him I was interested in tracing my paternal line, so once we put in my father’s information, it was easy to find his parents as well: Grandpa Dude and Grammy—Mary Wallace.
+A sweet Mormon man at the Center was happy to help me log on to a computer there and guide me through the process of traversing my family tree. I told him I was interested in tracing my paternal line, so once we put in my father’s information, it was easy to find his parents as well: Grandpa Dude and Grammy—my beloved grandmother, Mary Wallace.
 
 Once my paternal grandparents were identified in the system, the tree started to light up. I immediately go three generations back, then four generations back. I eventually get to seven generations back and that sweet Mormon man informed me, “this is typically when you’ll hit a dead end as it’s hard to trace family lines longer than seven generations.”
 
