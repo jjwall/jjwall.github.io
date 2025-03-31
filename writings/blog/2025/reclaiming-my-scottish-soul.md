@@ -10,7 +10,7 @@ layout: default
 #### Introduction
 > I speak a lineage written in <b>names</b>: <b>John</b>, <b>Bruce</b>, <b>Nicholas Jesse</b>... names shared between father and son, uncle and nephew. In my brother John I hear an ancient namesake—<b>Sir John Wallace</b>'s blood calling out to us. In Uncle Bruce, the name of <b>the Bruce</b> lives on, a steady drumbeat of courage. And through my father <b>Nicholas Jesse</b> and his namesake, my cousin <b>Nicholas Jesse II</b>, I witness a name passed like a torch from one generation to the next. Together, these names form the opening chord of my family's saga, ringing with reverence, rebellion, and <b>freedom</b>.
 
-My paternal grandfather, <i>James Eugene Wallace</i>—known as "Jim" to friends, "Dude" to his sons, and "Grandpa Dude" to us, his grandsons—was a devoted scholar to our family lineage.
+My paternal grandfather, <i>James Eldon Wallace</i>—known as "Jim" to friends, "Dude" to his sons, and "Grandpa Dude" to us, his grandsons—was a devoted scholar to our family lineage.
 
 As I came to find out later in life, <i>James “Grandpa Dude” Wallace</i>, with whom my middle name, <i>James</i>, is named after—worked hand-in-hand with the <i>Family Tree Center</i> of <i>The Church of Jesus Christ of Latter-day Saints</i> to diligently track our family’s paternal heritage.
 
