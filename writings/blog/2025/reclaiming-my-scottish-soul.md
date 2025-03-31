@@ -154,7 +154,11 @@ Not unlike the Sigils of the Pure-Spirited Beautiful Girl Demons that inspired t
 
 I suppose this explains why my blood boils red—as I’m the great, great grand-nephew of a True Demon.
 
-Lord Jesus God, the Anointed One—please forgive me and my ancestors! Bring redemption to our family line!
+> And so I pray: O Christ, Redeemer of Lineages<br>
+Bless the blood that burns within me.<br>
+Bless the sword of my ancestors.<br>
+And let the fire they lit become the light I walk by.<br><br>
+Amen. And Freedom Forever!
 
 With Love & Light, <br>
 <i>Jacob James Wallace</i>
