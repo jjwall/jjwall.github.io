@@ -7,6 +7,8 @@ layout: default
 
 <i>March 31st, 2025</i>
 
+My paternal grandfather, James Eugene Wallace, who among friends & family went by “Jim”, among his two sons (my father, Nicholas Jesse Wallace and my uncle, Bruce Allen Wallace), went by “Dude”, and among his three grandsons (my brother, John Nicholas Wallace, my cousin, Nicholas Jesse Wallace II, and myself, Jacob James Wallace) went by “Grandpa Dude” was an astute scholar of our family lineage.
+
 As I begun to find out later in life, James “Grandpa Dude” Wallace, with whom my middle name, James, is named after—worked hand-in-hand with the Family Tree Center of The Church of Latter-Day Saints to diligently track our family’s paternal heritage.
 
 As it was truly all men who dominated my father’s side of the family, my grandfather, father, and uncle helped to raise the three boys in the family between my brother, my cousin, and myself—through the strategy of blood & chaos, if you will.
