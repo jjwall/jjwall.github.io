@@ -101,7 +101,7 @@ If you would like Hollywood’s take on the legendary Scottish Rebellion against
 
 Outlaw King tracks the events of <b>King Robert the Bruce</b> picking up the torch after <b>Sir William Wallace</b> was captured, gutted, disemboweled, crucified and killed—famously declining to swear allegiance to the English Throne and instead swearing allegiance to “Freedom!” and freedom, alone.
 
-William was truly, a Brave Heart.
+Both William and the Bruce were truly, <i><b>Brave Hearts</b><i>.
 
 #### The Descent into Ancestral Flame
 As I’ve been on my own unique mytho-heroic Odyssey in my short lifetime thus far—I have always been drawn to my Celtic-Scottish roots.
