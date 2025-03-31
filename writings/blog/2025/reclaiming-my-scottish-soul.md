@@ -124,7 +124,7 @@ Eventually the “Wallace” name became cryptic as it morphed into its Middle-E
 
 > "The blood remembers..."
 
-The following are the opening lines of a poem by the minstrel Blind Harry titled, <i>The Wallace</i>—which is archived by [The Gutenberg Project](https://www.gutenberg.org/files/49580/49580-h/49580-h.htm).
+The following are the opening lines of a poem by the minstrel Blind Harry titled, <i>The Wallace</i>—archived by [The Gutenberg Project](https://www.gutenberg.org/files/49580/49580-h/49580-h.htm).
 
 Here's the <b>Modern-English</b> version as translated by ChatGPT:
 
