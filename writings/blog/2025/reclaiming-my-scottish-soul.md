@@ -8,7 +8,7 @@ layout: default
 <i>March 31st, 2025</i>
 
 #### Introduction
-> I speak a lineage written in <b>names</b>: <b>John</b>, <b>Bruce</b>, <b>Nicholas</b>... names shared between father and son, uncle and brother. In my brother John I hear an ancient namesake—<b>Sir John Wallace</b>'s blood calling out to us. In Uncle Bruce, the name of <b>the Bruce</b> lives on, a steady drumbeat of courage. And through my father <b>Nicholas Jesse</b> and his namesake, my cousin <b>Nicholas Jesse II</b>, I witness a name passed like a torch from one generation to the next. Together, these names form the opening chord of my family's saga, ringing with reverence, rebellion, and <b>freedom</b>.
+> I speak a lineage written in <b>names</b>: <b>John</b>, <b>Bruce</b>, <b>Nicholas</b>... names shared between father and son, uncle and newphew. In my brother John I hear an ancient namesake—<b>Sir John Wallace</b>'s blood calling out to us. In Uncle Bruce, the name of <b>the Bruce</b> lives on, a steady drumbeat of courage. And through my father <b>Nicholas Jesse</b> and his namesake, my cousin <b>Nicholas Jesse II</b>, I witness a name passed like a torch from one generation to the next. Together, these names form the opening chord of my family's saga, ringing with reverence, rebellion, and <b>freedom</b>.
 
 My paternal grandfather, James Eugene Wallace—known as "Jim" to friends, "Dude" to his sons, and "Grandpa Dude" to us, his grandsons—was a devoted scholar to our family lineage.
 
