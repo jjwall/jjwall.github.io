@@ -152,10 +152,10 @@ Of William Wallace you have heard been told.
 
 And here's the original, in <b>Middle-English</b>:
 > <b>The Opening Lines of The Wallace by Blind Harry</b><br><br>
-Our antecessowris that we suld of reide, And hald in mynde thar nobille worthi deid,We lat ourslide throu verray sleuthfulnes,And castis us ever till uther besynes.<br><br>
-Till honour ennymyis is our haile entent,It has beyne seyne in thir tymys bywent. Our ald ennemys cummyn of Saxonys blud,That nevyr yeit to Scotland wald do gud,But ever on fors and contrar haile thar will, Quhow gret kyndnes thar has beyne kyth thaim till.<br><br>
-It is weyle knawyne on mony divers syde,How they haff wrocht in to thar mychty pryde,To hald Scotland at undyr evermar,Bot God abuff has maid thar mycht to par.<br><br>
-Yhit we suld thynk one our bearis befor,Of that parablys as now I say no mor. We reide of ane rycht famous of renowne,Of worthi blude that ryngis in this regioune,And hensfurth I will my proces hald,Of Wilyham Wallas yhe haf hard beyne tald.
+Our antecessowris that we suld of reide, And hald in mynde thar nobille worthi deid, We lat ourslide throu verray sleuthfulnes, And castis us ever till uther besynes.<br><br>
+Till honour ennymyis is our haile entent, It has beyne seyne in thir tymys bywent. Our ald ennemys cummyn of Saxonys blud, That nevyr yeit to Scotland wald do gud, But ever on fors and contrar haile thar will, Quhow gret kyndnes thar has beyne kyth thaim till.<br><br>
+It is weyle knawyne on mony divers syde, How they haff wrocht in to thar mychty pryde, To hald Scotland at undyr evermar, Bot God abuff has maid thar mycht to par.<br><br>
+Yhit we suld thynk one our bearis befor, Of that parablys as now I say no mor. We reide of ane rycht famous of renowne, Of worthi blude that ryngis in this regioune, And hensfurth I will my proces hald, Of Wilyham Wallas yhe haf hard beyne tald.
 
 This poem both resonates with and echos the quote Mel Gibson speaks as Sir Great Uncle William in Braveheart:
 > "Every man dies, not every man really lives."
