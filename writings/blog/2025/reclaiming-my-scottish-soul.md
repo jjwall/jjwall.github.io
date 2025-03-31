@@ -120,7 +120,7 @@ And yet, the tree continued to light up. Eight generations. Nine generations. Te
 
 The Mormon man’s mind was blown. “I have never seen this in my entire life working here at The Family Tree Center!”
 
-Eventually the “Wallace” name became cryptic as it morphed into its Middle-English variant. And yet, sure enough, there he was, my great, great (…add a few more greats!) grandfather, <i><b>Sir John Wallace</b></i>—the full-blooded brother of Sir William Wallace who co-led the Scottish Rebellion and met a similar fate by the hands of the English having been captured, gutted, disemboweled, crucified, and killed similar to Sir Great Uncle William—all for the sake of Freedom.
+Eventually the “Wallace” name became cryptic as it morphed into its Middle-English variant. And yet, sure enough, there he was, my great, great (…add a few more greats!) grandfather, <i><b>Sir John Wallace</b></i>—the full-blooded brother of Sir William Wallace who co-led the Scottish Rebellion and met a similar fate by the hands of the English having been captured, gutted, disemboweled, crucified, and killed in the same way as Sir Great Uncle William—all for the sake of Freedom.
 
 > "The blood remembers..."
 
