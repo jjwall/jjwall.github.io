@@ -128,7 +128,7 @@ The following are the opening lines of a poem by the minstrel Blind Harry titled
 
 Here's the <b>Modern-English</b> version as translated by ChatGPT:
 
-> <b>The Opening Lines of The Wallace by Blind Harry</b><br>
+> <b>The Opening Lines of The Wallace by Blind Harry</b><br><br>
 Our ancestors, whose tales we ought to read,
 And hold in mind their noble, worthy deeds,
 We let slip away through sheer laziness,
@@ -151,7 +151,7 @@ And henceforth I will my process hold,
 Of William Wallace you have heard been told.
 
 And here's the original, in <b>Middle-English</b>:
-> <b>The Opening Lines of The Wallace by Blind Harry</b><br>
+> <b>The Opening Lines of The Wallace by Blind Harry</b><br><br>
 Our antecessowris that we suld of reide, And hald in mynde thar nobille worthi deid,We lat ourslide throu verray sleuthfulnes,And castis us ever till uther besynes.<br><br>
 Till honour ennymyis is our haile entent,It has beyne seyne in thir tymys bywent. Our ald ennemys cummyn of Saxonys blud,That nevyr yeit to Scotland wald do gud,But ever on fors and contrar haile thar will, Quhow gret kyndnes thar has beyne kyth thaim till.<br><br>
 It is weyle knawyne on mony divers syde,How they haff wrocht in to thar mychty pryde,To hald Scotland at undyr evermar,Bot God abuff has maid thar mycht to par.<br><br>
