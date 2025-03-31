@@ -194,7 +194,7 @@ With Love & Light, <br>
 🩸👿🔥
 
 <p align="left">
-    <a href="https://www.instagram.com/p/DH4GyJfykIy/?img_index=7&igsh=dHJzMG5lMDNuYTM0">     
+    <a href="https://www.instagram.com/p/DH4GyJfykIy/?img_index=1&igsh=dHJzMG5lMDNuYTM0">     
       <img
         alt="Jake Wallace's Reclaiming My Scottish Soul Blog Instagram Post"
         src="/assets/icons/instagram.png"
