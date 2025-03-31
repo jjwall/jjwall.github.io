@@ -106,7 +106,7 @@ Both William and the Bruce were truly, <i><b>Brave Hearts</b></i>.
 #### The Descent into Ancestral Flame
 As I’ve been on my own unique mytho-heroic Odyssey in my short lifetime thus far—I have always been drawn to my Celtic-Scottish roots.
 
-Grandpa dude always told the three of us Wallace boys that we were related to William Wallace. Yet, even as children—this was hard to believe. Like Jesus, I wondered—was William a real person? Or was he merely just a legend?
+Grandpa Dude always told the three of us Wallace boys that we were related to William Wallace. Yet, even as children—this was hard to believe. Like Jesus, I wondered—was William a real person? Or was he merely just a legend?
 
 My heroic journey took me to Salt Lake City, Utah as I was visiting for a men’s retreat there back in October of 2022. As I arrived early and having never been to Salt Lake before, I was so curious to see the Mormon Mothership Temple.
 
