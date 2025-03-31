@@ -95,11 +95,11 @@ And thus, a hero, a legend, but perhaps more precisely, a Demon was born that da
     />
 </p> -->
 
-If you would like Hollywood’s take on the legendary Scottish Rebellion against the English that transpired from the 1200s through the 1300s—please see Mel Gibson’s Braveheart and follow it up with Netflix’s Outlaw King.
+If you would like Hollywood’s take on the legendary Scottish Rebellion against the English that transpired from the 1200s through the 1300s—please see Mel Gibson’s <i>Braveheart</i> and follow it up with Netflix’s <i>Outlaw King</i>.
 
 <!-- {% include youtube.html id="wHpO9AG_dkE" %} -->
 
-Outlaw King tracks the events of Robert the Bruce picking up the torch after Sir William Wallace was captured, gutted, disemboweled, crucified and killed—famously declining to swear allegiance to the English Throne and instead swearing allegiance to “Freedom!” and freedom, alone.
+Outlaw King tracks the events of <b>King Robert the Bruce</b> picking up the torch after <b>Sir William Wallace</b> was captured, gutted, disemboweled, crucified and killed—famously declining to swear allegiance to the English Throne and instead swearing allegiance to “Freedom!” and freedom, alone.
 
 William was truly, a Brave Heart.
 
