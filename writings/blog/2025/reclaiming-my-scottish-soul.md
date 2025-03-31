@@ -124,9 +124,6 @@ Eventually the “Wallace” name became cryptic as it morphed into its Middle-E
 
 > "The blood remembers..."
 
-A quote Mel Gibson speaks as Sir Great Uncle William in Braveheart resonates deeply with me:
-> "Every man dies, not every man really lives."
-
 The following are the opening lines of a poem by the minstrel Blind Harry titled, <i>The Wallace</i>—which is archived by [The Gutenberg Project](https://www.gutenberg.org/files/49580/49580-h/49580-h.htm).
 
 <b>Modern-English ChatGPT Translation</b>:
@@ -159,6 +156,9 @@ Our antecessowris that we suld of reide, And hald in mynde thar nobille worthi d
 Till honour ennymyis is our haile entent,It has beyne seyne in thir tymys bywent. Our ald ennemys cummyn of Saxonys blud,That nevyr yeit to Scotland wald do gud,But ever on fors and contrar haile thar will, Quhow gret kyndnes thar has beyne kyth thaim till.<br><br>
 It is weyle knawyne on mony divers syde,How they haff wrocht in to thar mychty pryde,To hald Scotland at undyr evermar,Bot God abuff has maid thar mycht to par.<br><br>
 Yhit we suld thynk one our bearis befor,Of that parablys as now I say no mor. We reide of ane rycht famous of renowne,Of worthi blude that ryngis in this regioune,And hensfurth I will my proces hald,Of Wilyham Wallas yhe haf hard beyne tald.
+
+This poem both resonates with and echos the quote Mel Gibson speaks as Sir Great Uncle William in Braveheart:
+> "Every man dies, not every man really lives."
 
 
 #### Conclusion
