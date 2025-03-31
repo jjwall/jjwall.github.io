@@ -34,7 +34,7 @@ England has often perceived itself through its storied history as the most “ci
 
 This perception of the savage “outsiders” can be rhymically seen through the tactics and strategies of the British Empire throughout its storied history. 
 
-One example is when they came to the Americas, the Native Americans were also seen as savages. And yet, similar to the Scots of the 1200s, the Native Americans of the 1500s were an enlightened people. So while the English came over to the Americas carrying their unhealed wounds, they projected their own fears and hate onto the “others” which was Divinely Reflected back to the English in the faces of the Native Americans.
+One example is when they came to the Americas, the Native Americans were also seen as savages. And yet, similar to the Scots of the 1200's, the Native Americans of the 1500's were an enlightened people. So while the English came over to the Americas carrying their unhealed wounds, they projected their own fears and hate onto the “others” which was Divinely Reflected back to the English in the faces of the Native Americans.
 
 Like the Scots, the Native Americans had no choice but to be the very demons the English perceived them to be.
 
@@ -56,7 +56,7 @@ Scotland and England, while close in proximity—had very different cultures. Ye
 
 Not to mention, the ancient civilization blueprint of the indigenous Celtic-Scots is absolutely fascinating. 
 
-While Native Americans had Chieftains and Tribes—Celtic-Scots had Kings and Kingdoms. The Kingdoms were very similarly in structure to Native American Tribes, the only difference were that Kingdoms were established on top of the rolling hills of the Scottish Highlands. This meant that the Kings had a solid foundation for forming good governance over their Kingdoms—and as such—Celtic-Scottish Kingdoms were much larger than that of Native American Tribes.
+While Native Americans had Chieftains and Tribes—Celtic-Scots had Kings and Kingdoms. The Kingdoms were very similarly in structure to Native American Tribes, the only difference were that Kingdoms were established on top of the rolling hills of the Scottish Highlands. This meant that the Kings had a solid foundation for forming good governance over their Kingdoms—and, as a result—Celtic-Scottish Kingdoms were much larger than that of Native American Tribes.
 
 The Celtic religion and faith system equipped the Scots with Oracle-like guidance from Celtic Druids who were well versed in Earth Magic, inscribing runes and had atonement with the ley-lines of the lands as seen in archeological dig sites where Celtic Runes and Stone Ordinances were seemingly Divinely Designed, Constructed, and Placed.
 
