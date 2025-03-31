@@ -54,7 +54,9 @@ It was the English’s fear and demonization of “the other” that transformed
 #### Celtic Thrones: The Cycle of the Kings
 Scotland and England, while close in proximity—had very different cultures. Yes, maybe Scotland was full of wild men and women, but they liked it this way. As they could truly live, express themselves, and most importantly to them, <i>be free</i>.
 
-Not to mention, the ancient civilization blueprint of the indigenous Celtic-Scots is absolutely fascinating. While Native Americans had Chieftains and Tribes—Celtic-Scots had Kings and Kingdoms. The Kingdoms were very similarly in structure to Native American Tribes, the only difference were that Kingdoms were established on top of the rolling hills of the Scottish Highlands. This meant that the Kings had a solid foundation for forming good governance over their Kingdoms—and as such—Celtic-Scottish Kingdoms were much larger than that of Native American tribes.
+Not to mention, the ancient civilization blueprint of the indigenous Celtic-Scots is absolutely fascinating. 
+
+While Native Americans had Chieftains and Tribes—Celtic-Scots had Kings and Kingdoms. The Kingdoms were very similarly in structure to Native American Tribes, the only difference were that Kingdoms were established on top of the rolling hills of the Scottish Highlands. This meant that the Kings had a solid foundation for forming good governance over their Kingdoms—and as such—Celtic-Scottish Kingdoms were much larger than that of Native American tribes.
 
 The Celtic religion and faith system equipped the Scots with Oracle-like guidance from Celtic Druids who were well versed in Earth Magic, inscribing runes and had atonement with the ley-lines of the lands as seen in archeological dig sites where Celtic Runes and Stone Ordinances were seemingly Divinely Designed, Constructed, and Placed.
 
