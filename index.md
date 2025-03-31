@@ -13,11 +13,11 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i>The Tavern<
 
 [An Invitation to Join The Tavern](https://discord.gg/bhCXfcUXX6)
 
+## <i>Featured Blogpost</i>
+[Grandpa Dude and the Demon of Freedom: Reclaiming My Scottish Soul](./writings/blog/2025/reclaiming-my-scottish-soul.html)
+
 ## <i>Featured Poem</i>
 [The Dreamer & The Echo](./writings/poetry/2025/the-dreamer-and-the-echo.html)
-
-## <i>Featured Blogpost</i>
-[Myth as the Penultimate Truth](./writings/blog/2025/myth-as-the-penultimate-truth.html)
 
 ## <i>Featured Fictional Excerpt</i>
 [Conversations with the Divine Feminine, Part I](./writings/fiction/2025/convos-w-df-part-1.html)
