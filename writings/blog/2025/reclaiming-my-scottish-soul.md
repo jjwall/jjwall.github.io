@@ -19,7 +19,7 @@ As it was truly all men who dominated my father’s side of the family, my grand
 
 Not that there was any physical violence, but there was a lot of harsh, cold, and tough love shown to us three boys growing up from the men in the family. Though, this did have its pros. 
 
-For one, starting at the age of three, I was initiated into the blood & fire of our so-called distant ancestor’s, <i>Sir William Wallace’s</i> legendary tales of leading the Scottish Rebellion against King “Longshanks” Edward I’s English Throne by allowing us to watch the academy award-winning, <i>Braveheart</i>—who Mel Gibson both directed and starred in.
+For one, starting at the age of three, I was initiated into the blood & fire of our so-called distant ancestor’s, <i>Sir William Wallace’s</i> legendary tales of leading the <i>Scottish Rebellion</i> against King “Longshanks” Edward I’s English Throne by allowing us to watch the academy award-winning, <i>Braveheart</i>—a film both starred in and directed by Mel Gibson.
 
 {% include youtube.html id="1NJO0jxBtMo" %}
 
