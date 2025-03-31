@@ -28,9 +28,13 @@ If you haven’t seen the movie or need a refresher on the plot—the movie trac
 Things were mostly fine until King Edward I came into power. Edward’s silly little nickname “Longshanks” is how I know him, but he had another terrifying nickname as he was known as the “Hammer of the Scots.”
 
 #### Of Empire & Reflection
-England has often perceived itself through its storied history as the most “civilized” of cultures, and Longshanks was determined to rule over Scotland—a country he deemed as inhabited by uncivilized indigenous peoples that needed to be slain and quarantined into various parts of their land so England could have total dominion over them. 
+England has often perceived itself through its storied history as the most “civilized” of cultures, and Longshanks was determined to rule over Scotland—a country he deemed as inhabited by uncivilized indigenous peoples that needed to be slain and quarantined into various parts of their land so England could have total dominion over them.
 
-This perception of the savage “outsiders” can be rhymically seen throughout the tactics and strategies of the British Empire throughout history. One example is when they came to the Americas, the Native Americans were also seen as savages. And yet, not unlike the Scots of the 1200s, the Native Americans of the 1500s were an enlightened people. So while the English came over to the americas carrying their unhealed wounds, they projected their own fears and hate onto the “others” which was Divinely Reflected back to the English in the faces of the Native Americans.
+> A funny line in the movie that my family often quotes is when Edward I says, "The problem with Scotland is... it's full of Scots! 🤣
+
+This perception of the savage “outsiders” can be rhymically seen through the tactics and strategies of the British Empire throughout its storied history. 
+
+One example is when they came to the Americas, the Native Americans were also seen as savages. And yet, not unlike the Scots of the 1200s, the Native Americans of the 1500s were an enlightened people. So while the English came over to the Americas carrying their unhealed wounds, they projected their own fears and hate onto the “others” which was Divinely Reflected back to the English in the faces of the Native Americans.
 
 Like the Scots, the Native Americans had no choice but to be the very demons the English perceived them to be.
 
