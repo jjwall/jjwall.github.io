@@ -8,11 +8,11 @@ layout: default
 <i>March 31st, 2025</i>
 
 #### Introduction
-> I speak a lineage written in <b>names</b>: <b>John</b>, <b>Bruce</b>, <b>Nicholas Jesse</b>... names shared between father and son, uncle and newphew. In my brother John I hear an ancient namesake—<b>Sir John Wallace</b>'s blood calling out to us. In Uncle Bruce, the name of <b>the Bruce</b> lives on, a steady drumbeat of courage. And through my father <b>Nicholas Jesse</b> and his namesake, my cousin <b>Nicholas Jesse II</b>, I witness a name passed like a torch from one generation to the next. Together, these names form the opening chord of my family's saga, ringing with reverence, rebellion, and <b>freedom</b>.
+> I speak a lineage written in <b>names</b>: <b>John</b>, <b>Bruce</b>, <b>Nicholas Jesse</b>... names shared between father and son, uncle and nephew. In my brother John I hear an ancient namesake—<b>Sir John Wallace</b>'s blood calling out to us. In Uncle Bruce, the name of <b>the Bruce</b> lives on, a steady drumbeat of courage. And through my father <b>Nicholas Jesse</b> and his namesake, my cousin <b>Nicholas Jesse II</b>, I witness a name passed like a torch from one generation to the next. Together, these names form the opening chord of my family's saga, ringing with reverence, rebellion, and <b>freedom</b>.
 
 My paternal grandfather, <i>James Eugene Wallace</i>—known as "Jim" to friends, "Dude" to his sons, and "Grandpa Dude" to us, his grandsons—was a devoted scholar to our family lineage.
 
-As I begun to find out later in life, <i>James “Grandpa Dude” Wallace</i>, with whom my middle name, <i>James</i>, is named after—worked hand-in-hand with the <i>Family Tree Center</i> of <i>The Church of Jesus Christ of Latter-day Saints</i> to diligently track our family’s paternal heritage.
+As I came to find out later in life, <i>James “Grandpa Dude” Wallace</i>, with whom my middle name, <i>James</i>, is named after—worked hand-in-hand with the <i>Family Tree Center</i> of <i>The Church of Jesus Christ of Latter-day Saints</i> to diligently track our family’s paternal heritage.
 
 #### On Blood & Fire
 As it was truly all men who dominated my father’s side of the family, my grandfather, father, and uncle helped to raise the three boys in the family between my brother, my cousin, and myself—through the strategy of blood & fire, if you will.
@@ -23,7 +23,7 @@ For one, starting at the age of three, I was initiated into the blood & fire of 
 
 {% include youtube.html id="1NJO0jxBtMo" %}
 
-If you haven’t seen the movie or need a refresher on the plot—the movie tracks the legendary Guardian of Scotland, Sir William Wallace and the time when England was ruling over the Scottish lands. The Scottish people were free-spirited, peaceful, and loving—having no desire to pledge allegiance to any foreign king.
+If you haven’t seen the movie or need a refresher on the plot—the movie tracks the legendary Guardian of Scotland, Sir William Wallace and the time when England was ruling over the Scottish lands. The Scottish people were free-spirited and fiercly loving—loyal not to crowns, but to kin and the land itself.
 
 Things were mostly fine until King Edward I came into power. Edward’s silly little nickname “Longshanks” is how I know him, but he had another terrifying nickname as he was known as the “Hammer of the Scots.”
 
@@ -40,7 +40,7 @@ Like the Scots, the Native Americans had no choice but to be the very <i>demons<
 
 > "Freedom runs in our veins..."
 
-To compare, the Spanish conquered the <i>Aztecs</i> and neighboring <i>Mesoamerican Empires</i> of present-day Mexico, and once the Aztec and sister-Mayan civilizations were defeated, the Spanish and Aztecs swapped women and they mixed—becoming <i>one people</i>. What we know today as <i>Mexicans</i>—an open, warm, faith-filled, heart-centered, family-focused people with deep connections to both Mayan and Spanish bloodlines—in most cases.
+By contrast, when the Spanish conquered the <i>Aztecs</i> and neighboring <i>Mesoamerican Empires</i> of present-day Mexico, and once the Aztec and sister-Mayan civilizations were defeated, the Spanish and Aztecs swapped women and they mixed—becoming <i>one people</i>. What we know today as <i>Mexicans</i>—an open, warm, faith-filled, heart-centered, family-focused people with deep connections to both Mayan and Spanish bloodlines—in most cases.
 
 However, a mix between English blood and Native American blood is a rare sight to see. As the English (and eventually the “White Americans”) slaughtered the Native-American tribes and ushered them into corners of the American lands deemed as “Indian Reservations.”
 
@@ -68,7 +68,7 @@ Not by blood, but by merit—only the most noble of the Scots were deemed worthy
 
 The legend behind this Sacred Stone is that it was the Stone that Jacob, the Father of the Tribe of Israel, laid his head upon when he had the dream of the infamous “Jacob’s Ladder.”
 
-In this Dream, Jacob saw a Ladder streaming from the Heavens where <i>Angels</i> had access to and from the Earthy Realm—to come and go as they please—and be among us mortal men.
+In this Dream, Jacob saw a Ladder streaming from the Heavens where <i>Angels</i> had access to and from the Earthly Realm—to come and go as they please—and be among us mortal men.
 
 #### Sir William Wallace & King Robert the Bruce
 Now—to get back to my so-called great ancestor, Sir William Wallace. The core plot surrounding the movie Braveheart is that to have total dominion and control over Scotland, King Edward I enacted an abhorrently-illegal law known as prima nocta.
@@ -79,7 +79,7 @@ Prima nocta meant that before a newly married Scotsman could sleep with his wife
 
 Knowing prima nocta was an abhorrently illegal law, William decided to marry his wife in secret—having a marriage ceremony in a hidden forest tucked away behind the Scottish rolling hills.
 
-Well, much to our hero’s dismay, the English found out about this “secret wedding ceremony” and promptly killed his wife and burned her at the stake.
+But the winds of fate turned bitter. The English discovered this secret union and promptly killed his wife and burned her at the stake.
 
 > "And so the blood remembers..."
 
@@ -120,7 +120,9 @@ And yet, the tree continued to light up. Eight generations. Nine generations. Te
 
 The Mormon man’s mind was blown. “I have never seen this in my entire life working here at The Family Tree Center!”
 
-Eventually the “Wallace” name became cryptic as it morphed into its <i>Middle-English</i> variant. And yet, sure enough, there he was, my great, great (…add a few more greats!) grandfather, <i><b>Sir John Wallace</b></i>—the full-blooded brother of Sir William Wallace who co-led the Scottish Rebellion and met a similar fate by the hands of the English having been captured, gutted, disemboweled, crucified, and killed in the same way as Sir Great Uncle William—all for the sake of <i>Freedom</i>.
+Eventually the “Wallace” name became cryptic as it morphed into its <i>Middle-English</i> variant.
+
+And then, through digital roots and ancient echos—there he was, my great, great (…add a few more greats!) grandfather, <i><b>Sir John Wallace</b></i>—the full-blooded brother of Sir William Wallace who co-led the Scottish Rebellion and met a similar fate by the hands of the English having been captured, gutted, disemboweled, crucified, and killed in the same way as Sir Great Uncle William—all for the sake of <i>Freedom</i>.
 
 > "The blood remembers..."
 
@@ -173,6 +175,8 @@ In closing, as I’ve continued doing research on both my great, great grandfath
 </p>
 
 This Wallace Sigil evokes to me similar energy from the Sigils of the Pure-Spirited Beautiful Girl Demons that inspired the art for some of my video game projects in both [Bune](/art/commissions/2023/bune.html) and [Belial](/art/commissions/2023/belial.html).
+
+> "The old blood burns with new fire."
 
 I suppose this explains why my blood boils red—as I’m the great, great grand-nephew of a True Demon.
 
