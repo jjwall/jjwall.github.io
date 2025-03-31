@@ -70,6 +70,8 @@ The legend behind this Sacred Stone is that it was the Stone that Jacob, the Fat
 
 In this Dream, Jacob saw a Ladder streaming from the Heavens where <i>Angels</i> had access to and from the Earthly Realm—to come and go as they please—and be among us mortal men.
 
+> "The line is not broken—it is waking."
+
 #### Sir William Wallace & King Robert the Bruce
 Now—to get back to my so-called great ancestor, Sir William Wallace. The core plot surrounding the movie Braveheart is that to have total dominion and control over Scotland, King Edward I enacted an abhorrently-illegal law known as prima nocta.
 
