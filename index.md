@@ -20,7 +20,7 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i>The Tavern<
 [My Secret Royal Blood](./writings/poetry/2025/my-secret-royal-blood.html)
 
 ## <i>Featured Music Production</i>
-[[Cover] Sincerity by Knox Fortune](https://soundcloud.com/jingleheimer-1/sincerity)
+[Sincerity by Knox Fortune [Full Production Cover]](https://soundcloud.com/jingleheimer-1/sincerity)
 
 ## <i>Featured Fictional Excerpt</i>
 [Conversations with the Divine Feminine, Part I](./writings/fiction/2025/convos-w-df-part-1.html)
