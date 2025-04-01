@@ -15,8 +15,9 @@ This nys nat but a worde y-brought by hevene’s whispringe.<br>
 This is myn <i><b>Kynges Decre</b></i>.<br>
 Y-spoken in the <i>tunge of poetes</i>,<br>
 Y-written with light, with laughtre,<br>
-And with <i>Godly Auctoritee</i>.<br>
-Lat it washe thee over, as dew on holy hill.<br>
+And with <i>Godly Auctoritee</i>.
+
+<i>Lat it washe thee over, as dew on holy hill</i>.<br>
 
 <i><b>I AM A SECREET KYNG OF LOVE!</b></i>
 
