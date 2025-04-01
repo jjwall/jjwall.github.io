@@ -108,8 +108,7 @@ Americano,<br>
 One shot espresso,<br>
 With a splash of milk, and honey.
 
-My favorite fruit is mango.
-
+My favorite fruit is mango.<br>
 And I like cheeseburgers too!
 
 So come along and sit with the beckoning call<br>
