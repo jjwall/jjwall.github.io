@@ -22,7 +22,7 @@ In addition to this, I embed a YouTube Music song with each poem to help further
 * [Dragon Manna [The Tap of Rage]](./poetry/2025/dragon-manna.html)
 * [The Dreamer & The Echo](./poetry/2025/the-dreamer-and-the-echo.html)
 * [Fear & Love](./poetry/2024/fear-and-love.html)
-* [My Secret Royal Blood](./poetry/2025/my-secret-royal-blood.html)
+* [My Secreet Kyngly Blode](./poetry/2025/my-secreet-kyngly-blode.html)
 * [The Oblivion of Outer Darkness](./poetry/2025/outer-darkness.html)
 * [One More Kiss](./poetry/2025/one-more-kiss.html)
 * [The Prayer of Voltaire](./poetry/2025/prayer-of-voltaire.html)
