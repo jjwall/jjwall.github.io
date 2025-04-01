@@ -55,7 +55,7 @@ With the heavens, gods, angels or demons.
 
 As I am a <i>counselor among angels</i>.
 
-The one who wrestles with God.
+The one who <i>wrestles with God</i>.
 
 <i><b>But also he who pins that Motherfucker to the mat!</b></i>
 
