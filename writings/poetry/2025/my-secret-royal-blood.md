@@ -21,7 +21,7 @@ And <i>Divine Authority</i>.<br>
 
 <i><b>I AM A SECRET KING OF LOVE!</b></i>
 
-My Domain are the <i>Hidden Rolling Hills</i>,<br>
+My Domains are the <i>Hidden Rolling Hills</i>,<br>
 Pastures, Forests, and Lakes—<br>
 <i>Tucked away from the uninitiated</i>.
 
@@ -50,14 +50,14 @@ Already established here...
 
 I will inspire you to heal at every sphere of existence—<br>
 Be it the <i>roots of your ancestors</i>,<br>
-Or your <i>lacking cosmic boundaries...</i><br>
+Or your <i>unformed cosmic boundaries...</i><br>
 With the heavens, gods, angels or demons.
 
 As I am a <i>counselor among angels</i>.
 
 Not only the one who <i>wrestles with God</i>.<br>
 But also,<br>
-<i><b>He who pins that Motherfucker to the mat!</b></i>
+<i><b>The one who pins that Motherfucker to the mat!</b></i>
 
 Haha! We joke around here.<br>
 We keep it light.<br>
@@ -80,3 +80,5 @@ And to my <i>Sisterhood Alliances</i>.
         width="600"
     />
 </p>
+
+---
