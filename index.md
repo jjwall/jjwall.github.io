@@ -17,7 +17,7 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i>The Tavern<
 [Grandpa Dude and the Demon of Freedom: Reclaiming My Scottish Soul](./writings/blog/2025/reclaiming-my-scottish-soul.html)
 
 ## <i>Featured Poem</i>
-[The Dreamer & The Echo](./writings/poetry/2025/the-dreamer-and-the-echo.html)
+[My Secret Royal Blood](./writings/poetry/2025/my-secret-royal-blood.html)
 
 ## <i>Featured Music Production</i>
 [[Cover] Sincerity by Knox Fortune](https://soundcloud.com/jingleheimer-1/sincerity)
