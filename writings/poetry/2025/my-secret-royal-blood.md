@@ -83,65 +83,65 @@ And to my <i>Sisterhood Alliances</i>.
 
 ---
 
-“Myn Secreet Kyngly Blode”
-April the firste, in the Yere of Oure Lorde, 2025
+<i><b>“Myn Secreet Kyngly Blode”</b></i><br>
+<i>April the firste, in the Yere of Oure Lorde, 2025</i>
 
-This nys nat but a rym.
-This nys nat but a worde y-brought by hevene’s whispringe.
-This is myn Kynges Decre.
-Y-spoken in the tunge of poetes,
-Y-written with light, with laughtre,
-And with Godly Auctoritee.
-Lat it washe thee over, as dew on holy hill.
+This nys nat but a rym.<br>
+This nys nat but a worde y-brought by hevene’s whispringe.<br>
+This is myn Kynges Decre.<br>
+Y-spoken in the tunge of poetes,<br>
+Y-written with light, with laughtre,<br>
+And with Godly Auctoritee.<br>
+Lat it washe thee over, as dew on holy hill.<br>
 
-I AM A SECREET KYNG OF LOVE!
+<i><b>I AM A SECREET KYNG OF LOVE!</b></i>
 
-Myn Domes ben the Hid Rolling Hillës,
-The Pastures grene, the Forestës depe, and the Lakkës bright—
-Al y-hid from hem that be uninitiate.
+Myn Domes ben the Hid Rolling Hillës,<br>
+The Pastures grene, the Forestës depe, and the Lakkës bright—<br>
+Al y-hid from hem that be uninitiate.<br>
 
-If ever thou hast nede of aught—
-Cry upon me, and we shul makë our covenaunt.
+If ever thou hast nede of aught—<br>
+Cry upon me, and we shul makë our covenaunt.<br>
 
-I takë myn caffé thus—Americano,
-Oon shote of espresso,
-With a drope of milk and honi swete.
+I takë myn caffé thus—Americano,<br>
+Oon shote of espresso,<br>
+With a drope of milk and honi swete.<br>
 
-Myn fruyt moost dere is the mangó.
-And I likë cheeseburgers alsó!
+Myn fruyt moost dere is the mangó.<br>
+And I likë cheeseburgers alsó!<br>
 
-Cometh now, and sitten thee beside the clepe
-Of this auncient, kyngly, and Harmonious-Divine Blode.
+Cometh now, and sitten thee beside the clepe<br>
+Of this auncient, kyngly, and Harmonious-Divine Blode.<br>
 
-I shal thee teche that which thou most nede to knowe.
-I shal thee linkë to whom thy soule most shal fynde.
-I shal helpen thee growe in al the craftës thou muste.
-That thou mayest Seën the Kyngdom of God,
-Alreedy y-bielded here…
-On Erthe as it is in Hevene!
+I shal thee teche that which thou most nede to knowe.<br>
+I shal thee linkë to whom thy soule most shal fynde.<br>
+I shal helpen thee growe in al the craftës thou muste.<br>
+That thou mayest Seën the Kyngdom of God,<br>
+Alreedy y-bielded here…<br>
+On Erthe as it is in Hevene!<br>
 
-I shal thee inspire to hele at echë spere of being—
-Be it the rotes of thy eldres,
-Or thy unforméd boundës in the firmament—
-With the hevenes, goddes, aungels and feendës.
+I shal thee inspire to hele at echë spere of being—<br>
+Be it the rotes of thy eldres,<br>
+Or thy unforméd boundës in the firmament—<br>
+With the hevenes, goddes, aungels and feendës.<br>
 
-For I am a counseilour among aungels.
+For I am a counseilour among aungels.<br>
 
-Not only he that wrestleth with God—
-But also,
-He that throweth that God to the erthe, and pynneth that Motherfucker to the mat!
+Not only he that wrestleth with God—<br>
+But also,<br>
+He that throweth that God to the erthe, and pynneth that Motherfucker to the mat!<br>
 
-Haha! We japen in this halle.
-We holden it light.
-We maken merye.
-We Transcenden.
+Haha! We japen in this halle.<br>
+We holden it light.<br>
+We maken merye.<br>
+We Transcenden.<br>
 
-But moost worthily:
-We Realizen the Deepest Dremës of oure Soule.
+But moost worthily:<br>
+We Realizen the Deepest Dremës of oure Soule.<br>
 
-So drynken we now—to myn Bretheren,
-And to the Sisterhede Aliaunce.
+So drynken we now—to myn Bretheren,<br>
+And to the Sisterhede Aliaunce.<br>
 
-We drynken to oure Destinées.
+We drynken to oure Destinées.<br>
 
-[A Coroun. A Cuppe. A Sterre.]
+👑🍻✨
