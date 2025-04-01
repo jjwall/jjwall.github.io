@@ -12,7 +12,7 @@ layout: default
 
 This is not merely a poem.<br>
 This is not merely a channeled work.<br>
-This is my <i><b>Royal Decree</b></i>—<br>
+This is my <i><b>Royal Decree</b></i>.<br>
 Spoken in poetic tongue,<br>
 Encoded with light, laughter, and <i>Divine Authority</i>.<br>
 
