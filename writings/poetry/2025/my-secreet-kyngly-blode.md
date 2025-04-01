@@ -46,28 +46,28 @@ Alreedy y-bielded here…<br>
 <i>On Erthe as it is in Hevene!</i>
 
 I shal thee inspire to hele at echë spere of being—<br>
-Be it the rotes of thy eldres,<br>
-Or thy unforméd boundës in the firmament—<br>
+Be it the <i>rotes of thy eldres</i>,<br>
+Or thy <i>unforméd boundës in the firmament</i>—<br>
 With the hevenes, goddes, aungels and feendës.<br>
 
-For I am a counseilour among aungels.<br>
+For I am a <i>counseilour among aungels</i>.<br>
 
-Not only he that wrestleth with God—<br>
+Not only he that <i>wrestleth with God</i>—<br>
 But also,<br>
-He that throweth that God to the erthe, and pynneth that Motherfucker to the mat!<br>
+<i><b>He that throweth that God to the erthe, and pynneth that Motherfucker to the mat!</b></i><br>
 
-Haha! We japen in this halle.<br>
+<b>Haha!</b> We japen in this halle.<br>
 We holden it light.<br>
 We maken merye.<br>
-We Transcenden.<br>
+We <i><b>Transcenden</b></i>.<br>
 
 But moost worthily:<br>
-We Realizen the Deepest Dremës of oure Soule.<br>
+<i>We Realizen the Deepest Dremës of oure Soule</i>.<br>
 
-So drynken we now—to myn Bretheren,<br>
-And to the Sisterhede Aliaunce.<br>
+So drynken we now—to myn <i>Bretheren</i>,<br>
+And to the <i>Sisterhede Aliaunce</i>.<br>
 
-We drynken to oure Destinées.<br>
+<i>We drynken to oure Destinées</i>.<br>
 
 👑🍻✨
 
@@ -133,11 +133,12 @@ Not only the one who <i>wrestles with God</i>.<br>
 But also,<br>
 <i><b>The one who pins that Motherfucker to the mat!</b></i>
 
-Haha! We joke around here.<br>
+<b>Haha!</b> We joke around here.<br>
 We keep it light.<br>
 We like to have fun.<br>
-We <i>Transcend</i>.<br>
-But most importantly,<br>
+We <i><b>Transcend</b></i>.
+
+But most importantly:<br>
 <i>We Realize our Deepest Soul-Dreams</i>.
 
 So cheers—to my <i>Brethren</i>,<br>
