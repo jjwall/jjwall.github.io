@@ -6,7 +6,7 @@ layout: default
 <b>[Home](./)</b> | <b>[Writings](./writings.html)</b> | <b>[Projects](./projects.html)</b> | <b>[Art](./art.html)</b> | <b>Resume</b>
 * * *
 
-Below you can find a snapshot of my academic and professional endeavors. If you are interested in working with me or would like to see a copy of my resume in PDF format, add and reach out to me on Discord (<b>gizmolo</b>).
+Below you can find a snapshot of my academic and professional endeavors. If you are interested in working with me or would like to see a copy of my resume in PDF format—add and reach out to me on Discord (<b>gizmolo</b>).
 
 # Work Experience
 ## Deloitte
