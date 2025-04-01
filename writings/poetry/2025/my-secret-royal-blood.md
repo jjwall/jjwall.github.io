@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# My Secret Royal Blood
+# My Secreet Kyngly Blode
 <b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
