@@ -82,3 +82,66 @@ And to my <i>Sisterhood Alliances</i>.
 </p>
 
 ---
+
+“Myn Secreet Kyngly Blode”
+April the firste, in the Yere of Oure Lorde, 2025
+
+This nys nat but a rym.
+This nys nat but a worde y-brought by hevene’s whispringe.
+This is myn Kynges Decre.
+Y-spoken in the tunge of poetes,
+Y-written with light, with laughtre,
+And with Godly Auctoritee.
+Lat it washe thee over, as dew on holy hill.
+
+I AM A SECREET KYNG OF LOVE!
+
+Myn Domes ben the Hid Rolling Hillës,
+The Pastures grene, the Forestës depe, and the Lakkës bright—
+Al y-hid from hem that be uninitiate.
+
+If ever thou hast nede of aught—
+Cry upon me, and we shul makë our covenaunt.
+
+I takë myn caffé thus—Americano,
+Oon shote of espresso,
+With a drope of milk and honi swete.
+
+Myn fruyt moost dere is the mangó.
+And I likë cheeseburgers alsó!
+
+Cometh now, and sitten thee beside the clepe
+Of this auncient, kyngly, and Harmonious-Divine Blode.
+
+I shal thee teche that which thou most nede to knowe.
+I shal thee linkë to whom thy soule most shal fynde.
+I shal helpen thee growe in al the craftës thou muste.
+That thou mayest Seën the Kyngdom of God,
+Alreedy y-bielded here…
+On Erthe as it is in Hevene!
+
+I shal thee inspire to hele at echë spere of being—
+Be it the rotes of thy eldres,
+Or thy unforméd boundës in the firmament—
+With the hevenes, goddes, aungels and feendës.
+
+For I am a counseilour among aungels.
+
+Not only he that wrestleth with God—
+But also,
+He that throweth that God to the erthe, and pynneth that Motherfucker to the mat!
+
+Haha! We japen in this halle.
+We holden it light.
+We maken merye.
+We Transcenden.
+
+But moost worthily:
+We Realizen the Deepest Dremës of oure Soule.
+
+So drynken we now—to myn Bretheren,
+And to the Sisterhede Aliaunce.
+
+We drynken to oure Destinées.
+
+[A Coroun. A Cuppe. A Sterre.]
