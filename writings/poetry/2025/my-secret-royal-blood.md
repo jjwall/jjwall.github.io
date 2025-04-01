@@ -72,3 +72,11 @@ And to my <i>Sisterhood Alliances</i>.
 <i>We drink to our destinies.</i>
 
 👑🍻✨
+
+<p align="center">
+    <img
+        alt="King Jacob James I"
+        src="/assets/writings/poetry/2025/my-secret-royal-blood/king-jacob-james-i.png"
+        width="600"
+    />
+</p>
