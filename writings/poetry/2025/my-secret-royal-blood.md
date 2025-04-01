@@ -145,3 +145,11 @@ And to the Sisterhede Aliaunce.<br>
 We drynken to oure Destinées.<br>
 
 👑🍻✨
+
+<p align="center">
+    <img
+        alt="The Scroll of My Secreet Kyngly Blode"
+        src="/assets/writings/poetry/2025/my-secret-royal-blood/my-secreet-kyngly-blode.png"
+        width="600"
+    />
+</p>
