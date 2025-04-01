@@ -50,7 +50,7 @@ Already established here...
 
 I will inspire you to heal at every sphere of existence—<br>
 Be it the <i>roots of your ancestors</i>,<br>
-Or your lacking <i>cosmic boundaries...</i><br>
+Or your <i>lacking cosmic boundaries...</i><br>
 With the heavens, gods, angels or demons.
 
 As I am a <i>counselor among angels</i>.
