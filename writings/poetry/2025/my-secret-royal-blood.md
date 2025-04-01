@@ -66,7 +66,8 @@ We <i>Transcend</i>.<br>
 But most importantly:<br>
 <i>We Realize our Deepest Souls’ Dreams</i>.
 
-So cheers—to my brethren, and to the <i>Sisterhood Alliances</i>.
+So cheers—to my brethren,<br>
+And to my <i>Sisterhood Alliances</i>.
 
 <i>We drink to our destinies.</i>
 
