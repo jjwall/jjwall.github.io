@@ -25,10 +25,10 @@ Let’s break it down. From the lowest to the highest level of identification, t
 - <b>Religious</b>
 - <b>Astral / Spiritual</b>
 - <b>Angelic & Demonic</b>
-- <b>Mythic</b>
-- <b>Cosmic / Proto-Mythic</b>
 - <b>Sanctified</b>
-- <b>Royal</b> <i><~ Highest Ascent!</i>
+- <b>Royal</b>
+- <b>Mythic</b>
+- <b>Cosmic / Proto-Mythic</b> <i><~ Highest Ascent!</i>
 
 <!-- Previous ordering:
 Ancestral <~ lowest descent. In Part I, we are here.
