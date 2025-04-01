@@ -149,7 +149,7 @@ We drynken to oure Destinées.<br>
 <p align="center">
     <img
         alt="The Scroll of My Secreet Kyngly Blode"
-        src="/assets/writings/poetry/2025/my-secret-royal-blood/my-secreet-kyngly-blode.png"
+        src="/assets/writings/poetry/2025/my-secret-royal-blood/my-secreet-kyngly-blode-ii.png"
         width="600"
     />
 </p>
