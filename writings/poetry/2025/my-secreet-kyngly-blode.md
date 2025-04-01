@@ -20,9 +20,9 @@ Lat it washe thee over, as dew on holy hill.<br>
 
 <i><b>I AM A SECREET KYNG OF LOVE!</b></i>
 
-Myn Domes ben the Hid Rolling Hillës,<br>
+Myn Domes ben the <i>Hid Rolling Hillës</i>,<br>
 The Pastures grene, the Forestës depe, and the Lakkës bright—<br>
-Al y-hid from hem that be uninitiate.<br>
+<i>Al y-hid from hem that be uninitiate</i>.<br>
 
 If ever thou hast nede of aught—<br>
 Cry upon me, and we shul makë our covenaunt.<br>
@@ -35,14 +35,15 @@ Myn fruyt moost dere is the mangó.<br>
 And I likë cheeseburgers alsó!<br>
 
 Cometh now, and sitten thee beside the clepe<br>
-Of this auncient, kyngly, and Harmonious-Divine Blode.<br>
+Of this auncient, kyngly, and <i>Harmonious-Divine Blode</i>.<br>
 
 I shal thee teche that which thou most nede to knowe.<br>
 I shal thee linkë to whom thy soule most shal fynde.<br>
 I shal helpen thee growe in al the craftës thou muste.<br>
-That thou mayest Seën the Kyngdom of God,<br>
+That thou mayest Seën the <i>Kyngdom of God</i>,<br>
 Alreedy y-bielded here…<br>
-On Erthe as it is in Hevene!<br>
+
+<i>On Erthe as it is in Hevene!</i>
 
 I shal thee inspire to hele at echë spere of being—<br>
 Be it the rotes of thy eldres,<br>
@@ -116,7 +117,7 @@ Of this ancient, royal, and <i>Harmonious-Divine Blood</i>.
 I will help to teach you what you need to know.<br>
 I will connect you with who you need to connect with.<br>
 I will help grow you in the capacities you need to grow in—<br>
-So you can See God’s Kingdom Realm<br>
+So you can See <i>God’s Kingdom Realm</i><br>
 Already established here...
 
 <i>On Earth as it is in Heaven!</i>
