@@ -21,9 +21,9 @@ And <i>Divine Authority</i>.<br>
 
 <i><b>I AM A SECRET KING OF LOVE!</b></i>
 
-My Domain are the Hidden Rolling Hills,<br>
+My Domain are the <i>Hidden Rolling Hills</i>,<br>
 Pastures, Forests, and Lakes—<br>
-Tucked away from the uninitiated.
+<i>Tucked away from the uninitiated</i>.
 
 If you ever need anything—<br>
 You call on me and we will make arrangements.
