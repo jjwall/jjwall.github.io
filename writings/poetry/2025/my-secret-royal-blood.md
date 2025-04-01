@@ -64,7 +64,7 @@ We keep it light.<br>
 We like to have fun.<br>
 We <i>Transcend</i>.<br>
 But most importantly:<br>
-<i>We Realize our Deepest Souls’ Dreams</i>.
+<i>We Realize our Deepest Soul-Dreams</i>.
 
 So cheers—to my brethren,<br>
 And to my <i>Sisterhood Alliances</i>.
