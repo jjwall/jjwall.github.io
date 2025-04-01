@@ -62,9 +62,9 @@ The one who wrestles with God.
 Haha! We joke around here.<br>
 We keep it light.<br>
 We like to have fun.<br>
-We <i>Transcend</i>.
-
-But most importantly: <i>We Realize our Deepest Souls’ Dreams</i>.
+We <i>Transcend</i>.<br>
+But most importantly:<br>
+<i>We Realize our Deepest Souls’ Dreams</i>.
 
 So cheers—to my brethren, and to the <i>Sisterhood Alliances</i>.
 
