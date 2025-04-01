@@ -55,9 +55,9 @@ With the heavens, gods, angels or demons.
 
 As I am a <i>counselor among angels</i>.
 
-The one who <i>wrestles with God</i>.
-
-<i><b>But also he who pins that Motherfucker to the mat!</b></i>
+Not only the one who <i>wrestles with God</i>.<br>
+But also,<br>
+<i><b>He who pins that Motherfucker to the mat!</b></i>
 
 Haha! We joke around here.<br>
 We keep it light.<br>
