@@ -8,7 +8,7 @@ layout: default
 {% include youtube.html id="UwsLARZN6ro" %}
 
 <i><b>“My Secret Royal Blood”</b></i><br>
-<i>April 1st, 2025 in the Year of Our Lord</i>
+<i>April the first, in the Year of Our Lord, 2025</i>
 
 This is not merely a poem.<br>
 This is not merely a channeled work.<br>
