@@ -148,14 +148,6 @@ And to my <i>Sisterhood Alliances</i>.
 
 👑🍻✨
 
-<p align="center">
-    <img
-        alt="King Jacob James I"
-        src="/assets/writings/poetry/2025/my-secret-royal-blood/king-jacob-james-i.png"
-        width="600"
-    />
-</p>
-
 <p align="left">
     <a href="https://www.instagram.com/p/DH6tV-PyjOl/?img_index=1">     
       <img
@@ -164,4 +156,12 @@ And to my <i>Sisterhood Alliances</i>.
         width="50"
       />
     </a>
+</p>
+
+<p align="center">
+    <img
+        alt="King Jacob James I"
+        src="/assets/writings/poetry/2025/my-secret-royal-blood/king-jacob-james-i.png"
+        width="600"
+    />
 </p>
