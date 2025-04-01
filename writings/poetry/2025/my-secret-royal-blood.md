@@ -20,11 +20,15 @@ Encoded with light, laughter, and <i>Divine Authority</i>.<br>
 
 <i><b>I AM A SECRET KING OF LOVE!</b></i>
 
-My Domains are the Hidden Rolling Hills, Pastures, Forests, and Lakes—tucked away from the uninitiated.
+My Domain are the Hidden Rolling Hills,<br>
+Pastures, Forests, and Lakes—<br>
+Tucked away from the uninitiated.
 
-If you ever need anything—you call on me and we will make arrangements.
+If you ever need anything—<br>
+You call on me and we will make arrangements.
 
-I take my coffee like this—Americano,<br>
+I take my coffee like this—<br>
+Americano,<br>
 One shot espresso,<br>
 With a splash of milk, and honey.
 
