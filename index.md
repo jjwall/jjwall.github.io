@@ -17,7 +17,7 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i>The Tavern<
 [Grandpa Dude and the Demon of Freedom: Reclaiming My Scottish Soul](./writings/blog/2025/reclaiming-my-scottish-soul.html)
 
 ## <i>Featured Poem</i>
-[My Secreet Kyngly Blode](./writings/poetry/2025/my-secreet-kyngly-blode.html.html)
+[My Secreet Kyngly Blode](./writings/poetry/2025/my-secreet-kyngly-blode.html)
 
 ## <i>Featured Music Production</i>
 [Sincerity by Knox Fortune [Full Production Cover]](https://soundcloud.com/jingleheimer-1/sincerity)
