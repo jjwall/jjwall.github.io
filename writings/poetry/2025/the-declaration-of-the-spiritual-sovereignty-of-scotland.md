@@ -83,7 +83,7 @@ By the Secret King of Love,
 In the name of Wallace, of Brighid, of the Flame Eternal,
 And of all Spirits bound and loosed, seen and unseen.
 
-King Jacob James "The Mad & Loving" Wallace I
+~King Jacob James of House Wallace, called 'The Mad and Loving,' Coronated by Spirit and Sword, First of His Name.
 
 ---
 
