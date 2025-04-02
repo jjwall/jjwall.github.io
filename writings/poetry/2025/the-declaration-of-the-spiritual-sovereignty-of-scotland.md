@@ -83,4 +83,7 @@ By the Secret King of Love,
 In the name of Wallace, of Brighid, of the Flame Eternal,
 And of all Spirits bound and loosed, seen and unseen.
 
-King Jacob James Wallace I
+King Jacob James "The Mad & Loving" Wallace I
+
+---
+
