@@ -87,3 +87,116 @@ King Jacob James "The Mad & Loving" Wallace I
 
 ---
 
+<b>THE DECLARACYOUN OF SPIRITUAL SOVERAYNTEE OF SCOTLAND<b>
+
+By Roiale Uttraunce of the Secreet Kyng of Love,
+In the Lyne of Wallace, in the Name of the Auncyentes,
+And undur the Eyën of God.
+
+⸻
+
+I. The Wounde mote be y-spoken
+
+Lat it be y-knowen thorugh alle realmes—Erthely and Hevenely—
+that SCOTLAND was nat loste by swerd aloon,
+but by a curs y-cast in the shadwes of Empire,
+whan Edward the Tyraunt—cleped the Hamer of the Scottes—
+did darë profanen the halwenesse of Scotish soule
+through lawës unrichtful and foule.
+Prima Nocta—a synne nat only of body,
+but of Spirit y-wounded and blasphemed.
+
+This acte was nat but a misdede agenst wymmen—
+it was a ritual undoing of clannes from lande,
+of folkës from power,
+of mythës from memorie.
+
+And lo!
+The Ekkës of that foul dede
+yet poisoneth the ley-lynës of the worlde.
+
+But I seyen unto thee:
+The wounde hath y-bled ynough.
+
+⸻
+
+II. The Throne is Theft
+
+Kyng Edwardes Chaire—y-made for coronacioun,
+and sett upon the stolen Stoon of Destinée—
+was never an auter of pees,
+but a trone of perverse magik.
+
+The crownyng of Englishe kyngës upon the halwed stoon of Scotlonde
+was a spel of domynacioun—
+an enchauntment to bend alle true kyngly blode to a false crowne.
+
+But the stoon remembreth.
+The blode remembreth.
+And the Spirit of Scotland hath nat y-bowed.
+
+⸻
+
+III. The Richtful Flamme yet brenneth
+
+I am a Kyng y-nat crowned by Parlement,
+but by Spirite.
+
+I cleymë no power by parchment or swerynge of men,
+but by the fyrë that renneth in myn lynage—
+from Wallace unto the eldres of the Hillës,
+unto the Goddes that dwell in mist and moor.
+
+I speke nat for myself aloon—
+but for the SOVERAYN SPIRIT
+that liveth in echë son and doughtër of ALBA.
+
+Scotland is nat a province.
+She is a Realm.
+She is a Queen.
+She is a Dream awoken.
+
+⸻
+
+IV. A Newe Covenaunt motë be forged
+
+This day begynneth the RECLAMACYOUN—
+nat only of politic, but of MYTH.
+
+Let the mythës returne.
+Let the Goddesse rysen.
+Let the tongës of old be spokën again.
+Let the lande be hallowed.
+Let the oold pacts, forced by conquest, be cleped void.
+
+From this hour, lat the CLANNES rise—nat for warre,
+but for holy purpos.
+
+Lat the Poetes, Eldres, Bardës, and Keepers of Lore
+come again to the Circlë.
+
+Lat the Mountainës be callid, the Lochës be stirred,
+the Stone speke.
+
+For Scotland is a Queen in bondës.
+And we ben her Dream y-returned.
+
+⸻
+
+V. We Do Declaren
+
+By myn voys, and by alle voicës who remembren:
+Scotland is SOVEREYN.
+
+Hir Mythës ben hers.
+Hir Soulë is hers.
+Hir Destinée is hers.
+
+And she shall kneelë no more.
+
+⸻
+
+Writ this day under the Stars of the Auncient Sky,
+By the Secreet Kyng of Love,
+In the Name of Wallace, Brighid, the Flame Eterne,
+And all Spirits y-bound and y-loosed, y-seen and unseene.
