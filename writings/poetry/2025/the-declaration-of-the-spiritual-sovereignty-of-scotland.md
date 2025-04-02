@@ -83,11 +83,11 @@ By the Secret King of Love,
 In the name of Wallace, of Brighid, of the Flame Eternal,
 And of all Spirits bound and loosed, seen and unseen.
 
-~King Jacob James of House Wallace, called 'The Mad and Loving,' Coronated by Spirit and Sword, First of His Name.
+~<i><b>King Jacob James of House Wallace, called 'The Mad and Loving,' First of His Name, Lord of the Hidden Hills and Sacred Blood, Crowned by Spirit, by Sword and by the Hand of God</b></i>
 
 ---
 
-<b>THE DECLARACYOUN OF SPIRITUAL SOVERAYNTEE OF SCOTLAND<b>
+<b>THE DECLARACYOUN OF SPIRITUAL SOVERAYNTEE OF SCOTLAND</b>
 
 By Roiale Uttraunce of the Secreet Kyng of Love,
 In the Lyne of Wallace, in the Name of the Auncyentes,
