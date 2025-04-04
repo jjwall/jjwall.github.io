@@ -233,9 +233,11 @@ UNTIL THE END OF TIME!</b><br>
 </div>
 ---
 
-<div style="text-align: right"> 
+<div style="text-align: right">
+<i>
 الثاني من أبريل، 2025، في عام ربنا<br>
 ~ إسماعيل، رجل مع الله<br><br>
+</i>
 
 ☪️✡️☦️<br><br>
 </div>
@@ -360,9 +362,11 @@ UNTIL THE END OF TIME!</b><br>
 </div>
 ---
 
-<div style="text-align: right"> 
+<div style="text-align: right">
+<i>
 2 באפריל, 2025, בשנת אדוננו<br>
 ~ ישמעאל, איש עם אלוהים<br><br>
+</i>
 
 ☪️✡️☦️
 </div>
