@@ -225,7 +225,7 @@ UNTIL THE END OF TIME!</b><br>
 حتى نهاية الزمان.
 </b>
 </blockquote>
-<br><br>
+<br>
 </div>
 ---
 <br>
