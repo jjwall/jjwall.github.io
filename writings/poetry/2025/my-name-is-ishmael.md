@@ -90,7 +90,7 @@ Since I came to this chaotic, war-torn world,<br>
 
 ---
 
->STOP DROPPING THE BOMBS.<br>
+><b>STOP DROPPING THE BOMBS.<br>
 STOP KILLING THE WOMEN.<br>
 STOP KILLING THE CHILDREN.<br><br>
 THE VERY MEN YOU KILL…<br>
@@ -104,7 +104,7 @@ FROM THE IRON CROWN OF MAN.<br>
 THE WHITE-GOLD CROWN OF SPIRIT<br>
 WILL REIGN AGAIN.<br>
 FOREVER & EVER.<br>
-UNTIL THE END OF TIME!<br>
+UNTIL THE END OF TIME!</b><br>
 
 ---
 
@@ -117,7 +117,7 @@ UNTIL THE END OF TIME!<br>
 
 <div style="text-align: right"> 
     <i><b>“اسمي إسماعيل”</b></i><br>
-    <i>2 أبريل 2025</i><br>
+    <i>2 أبريل 2025</i><br><br>
 </div>
 ---
 <div style="text-align: right"> 
@@ -169,7 +169,7 @@ UNTIL THE END OF TIME!<br>
 <b>
 الرب.<br>
 ملك الكون.<br>
-ملك الملوك.<br></b>
+ملك الملوك.<br><br></b>
 
 </div>
 ---
@@ -202,11 +202,12 @@ UNTIL THE END OF TIME!<br>
 
 منذ أن جئت إلى هذا العالم الفوضوي الممزق بالحروب،<br>
 <b>
-رسالتي هي:</b><br>
+رسالتي هي:</b><br><br>
 </div>
 ---
 <div style="text-align: right"> 
 <blockquote>
+<b>
 توقفوا عن إسقاط القنابل.<br>
 توقفوا عن قتل النساء.<br>
 توقفوا عن قتل الأطفال.<br><br>
@@ -222,14 +223,17 @@ UNTIL THE END OF TIME!<br>
 وسيملك مجددًا.<br>
 إلى الأبد وإلى الأبد.<br>
 حتى نهاية الزمان.<br>
+</b>
 </blockquote>
+<br><br>
 </div>
 ---
+<br><br>
 <div style="text-align: right"> 
 الثاني من أبريل، 2025، في عام ربنا<br>
 ~ إسماعيل، رجل مع الله<br>
 
-☪️✡️☦️<br>
+☪️✡️☦️<br><br>
 </div>
 
 ---
