@@ -5,7 +5,7 @@ layout: default
 <b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
-{% include youtube.html id="OYQFeZFLyM4&list=OLAK5uy_k59SQ-S1KSjnTUJEOXyilj8FRBtr7VfLc" %}
+{% include youtube.html id="ecohuxm7NV4" %}
 
 <i><b>“My Name is Ishmael”</b></i><br>
 <i>April 2nd, 2025</i>
