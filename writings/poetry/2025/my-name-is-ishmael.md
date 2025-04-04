@@ -54,9 +54,10 @@ to envelop the whole world.<br>
 So it’s best<br>
 if we call Him:<br>
 
+<b>
 Lord.<br>
 The King of the Universe.<br>
-The King of Kings.<br>
+The King of Kings.<br></b>
 
 ---
 
