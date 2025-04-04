@@ -114,6 +114,16 @@ UNTIL THE END OF TIME!</b><br>
 
 ☪️☦️✡️
 
+<p align="left">
+    <a href="https://www.instagram.com/p/DICdjD8ygF0/">     
+      <img
+        alt="Jake Wallace's My Name is Ishmael - English Translation Instagram Post"
+        src="/assets/icons/instagram.png"
+        width="50"
+      />
+    </a>
+</p>
+
 ---
 
 <div style="text-align: right"> 
