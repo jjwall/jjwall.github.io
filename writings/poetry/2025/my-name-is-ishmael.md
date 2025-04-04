@@ -111,7 +111,7 @@ UNTIL THE END OF TIME!</b><br>
 <i>April the Second, 2025, in the Year of Our Lord<br>
 ~ Ishmael, Man with God</i>
 
-☪️✡️☦️
+☪️☦️✡️
 
 ---
 
@@ -239,7 +239,7 @@ UNTIL THE END OF TIME!</b><br>
 ~ إسماعيل، رجل مع الله<br><br>
 </i>
 
-☪️✡️☦️<br><br>
+☪️☦️✡️<br><br>
 </div>
 
 ---
@@ -372,5 +372,5 @@ UNTIL THE END OF TIME!</b><br>
 ~ ישמעאל, איש עם אלוהים<br><br>
 </i>
 
-☪️✡️☦️
+☪️☦️✡️
 </div>
