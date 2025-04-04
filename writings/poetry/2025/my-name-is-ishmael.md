@@ -222,6 +222,8 @@ UNTIL THE END OF TIME!<br>
 الثاني من أبريل، 2025، في عام ربنا<br>
 ~ إسماعيل، رجل مع الله<br>
 
-☪️✡️☦️
-
+<div style="text-align: right"> 
+☪️✡️☦️<br>
 ~ ~ ~
+</div>
+
