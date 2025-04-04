@@ -123,7 +123,7 @@ UNTIL THE END OF TIME!</b><br>
 <div style="text-align: right"> 
 
 <b>
-اسمي إسماعيل.</b><br><br>
+اسمي إسماعيل.</b><br>
 
 ويعني “رجل مع الله” في العبرية.<br>
 
