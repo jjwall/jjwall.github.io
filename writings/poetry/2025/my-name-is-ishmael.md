@@ -73,7 +73,7 @@ to unstrap the strap of His sandal.<br>
 
 And yes,<br>
 though Christ comes through my line,<br>
-<b>even I am unworthy</b>.<br>
+<b>I too am unworthy</b>.<br>
 
 Perhaps the Lord<br>
 would grant me a metamorphosis—<br>
@@ -91,19 +91,19 @@ Since I came to this chaotic, war-torn world,<br>
 
 ---
 
-><b>STOP DROPPING THE BOMBS.<br>
-STOP KILLING THE WOMEN.<br>
-STOP KILLING THE CHILDREN.<br><br>
+><b>STOP DROPPING THE BOMBS!<br>
+STOP KILLING THE WOMEN!<br>
+STOP KILLING THE CHILDREN!<br><br>
 THE VERY MEN YOU KILL…<br>
 ARE YOUR VERY DEAR BROTHERS<br>
-IN OUR LORD JESUS CHRIST.<br><br>
+IN OUR LORD JESUS CHRIST!<br><br>
 WHO IS OF THE SAME LINE<br>
-OF THE LAST PROPHET MOHAMMED.<br><br>
+OF THE LAST PROPHET MOHAMMED!<br><br>
 JESUS IS READY TO RECLAIM<br>
-HIS RIGHTFUL THRONE.<br><br>
+HIS RIGHTFUL THRONE!<br><br>
 FROM THE IRON CROWN OF MAN.<br>
 THE WHITE-GOLD CROWN OF SPIRIT<br>
-WILL REIGN AGAIN.<br>
+WILL REIGN AGAIN!<br>
 FOREVER & EVER.<br>
 UNTIL THE END OF TIME!</b><br>
 
