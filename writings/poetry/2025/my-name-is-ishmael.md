@@ -10,80 +10,105 @@ layout: default
 <i><b>“My Name is Ishmael”</b></i><br>
 <i>April 2nd, 2025</i>
 
-My name is Ishmael.
+---
 
-Which means “Man with God” in Hebrew.
+<b>My name is Ishmael.</b>
 
-I come from the line of Abraham and Hagar.
-I was the first born of Abraham who made a covenant to God that his line through me would be the number of the Stars in the sky.
+Which means <i>“Man with God”</i> in Hebrew.
+
+I come from the line of Abraham and Hagar.<br>
+I was the firstborn of Abraham,<br>
+who made a covenant to God<br>
+that his line through me<br>
+would be as the number of the stars in the sky.<br>
 
 Isaac is my baby brother.
 
-We love each other dearly and don’t understand the split between the Muslims and the Jews.
+We love each other dearly<br>
+and don’t understand<br>
+the split between the Muslims and the Jews.<br>
 
-Jesus the Christ is of my same Lineage.
+Jesus the Christ is of my same lineage.
 
-Through him can both Muslims and Jews united as one people.
+Through Him,<br>
+both Muslims and Jews<br>
+can unite as one people.<br>
 
-Why the conflict?
+<b>Why the conflict?</b>
 
-Don’t you know you are worshipping and singing hymns to the same God?
+Don’t you know<br>
+you are worshipping and singing hymns<br>
+to the same God?<br>
 
-One calls Him Allah
+One calls Him <i>Allah</i>.<br>
+The other calls Him <i>Jehovah</i>.<br>
 
-The other calls Him Jehovah
+<b>I call Him Adonai</b>.
 
-I call him Adonai.
+Because that Name<br>
+has many Holy Pronunciations.<br>
+And One Pronunciation<br>
+has enough Power<br>
+to envelop the whole world.<br>
 
-Because that name has many holy pronunciations.
+So it’s best<br>
+if we call Him:<br>
 
-And one pronunciation has enough power to envelop the whole world.
+Lord.<br>
+The King of the Universe.<br>
+The King of Kings.<br>
 
-So it’s best if we call him Lord.
+---
 
-Or the King of the Universe.
+I know Him as a man.<br>
+As prophesied by John the Baptist—<br>
+the wild man<br>
+who survived off locusts and honey<br>
+in the wilderness.<br>
 
-The King of Kings.
+He said even he<br>
+wasn’t worthy<br>
+to unstrap the strap of His sandal.<br>
 
-I know him as a man.
+And yes,<br>
+though Christ comes through my line,<br>
+<b>even I am unworthy</b>.<br>
 
-As prophesied by John the Baptist.
+Perhaps the Lord<br>
+would grant me a metamorphosis—<br>
+to just be a <b>pebble</b>,<br>
+wedged between the grooves<br>
+of His Jesus Sandal.<br>
 
-The wild man who survived off locusts & honey in the wilderness.
+Where my ego<br>
+can settle in the groove,<br>
+and my soul<br>
+would find the healing it’s seeking.<br>
 
-He said even he wasn’t worthy to “unstrap strap of His sandal on His foot.”
+Since I came to this chaotic, war-torn world,<br>
+<b>my message is this:</b>
 
-And yes, though Christ comes through my line.
+---
 
-Even I am unworthy.
+>STOP DROPPING THE BOMBS.<br>
+STOP KILLING THE WOMEN.<br>
+STOP KILLING THE CHILDREN.<br><br>
+THE VERY MEN YOU KILL…<br>
+ARE YOUR VERY DEAR BROTHERS<br>
+IN OUR LORD JESUS CHRIST.<br><br>
+WHO IS OF THE SAME LINE<br>
+OF THE LAST PROPHET MOHAMMED.<br><br>
+JESUS IS READY TO RECLAIM<br>
+HIS RIGHTFUL THRONE.<br><br>
+FROM THE IRON CROWN OF MAN.<br>
+THE WHITE-GOLD CROWN OF SPIRIT<br>
+WILL REIGN AGAIN.<br>
+FOREVER & EVER.<br>
+UNTIL THE END OF TIME!<br>
 
-Perhaps the Lord would grant me a metamorphosis.
+⸻
 
-To just be a pebble—wedged in-between the grooves of His Jesus Sandal.
+<i>April the Second, 2025, in the Year of Our Lord<br>
+~ Ishmael, Man with God</i>
 
-Where my ego can settle in the groove.
-
-And my Soul would find the healing it’s seeking.
-
-Since I came to this chaotic war torn world.
-
-My message is this:
-
-“STOP DROPPING THE BOMBS.
-STOP KILLING THE WOMEN.
-STOP KILLING THE CHILDREN.
-THE VERY MEN YOU KILL…
-ARE YOUR VERY DEAR BROTHERS
-IN OUR LORD JESUS CHRIST.
-WHO IS OF THE SAME LINE
-OF THE LAST PROPHET MOHAMMED.
-JESUS IS READY TO RECLAIM
-HIS RIGHTFUL THRONE.
-FROM THE IRON CROWN OF MAN.
-THE WHITE-GOLD CROWN OF SPIRIT
-WILL REIGHN AGAIN.
-FOREVER & EVER.
-UNTIL THE END OF TIME.”
-
-April the Second, 2025 in the Year of Our Lord
-~Ishmael
+☪️✡️☦️
