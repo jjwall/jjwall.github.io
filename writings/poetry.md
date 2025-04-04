@@ -13,9 +13,11 @@ My job is to channel whatever that form is, write down what makes sense, and som
 
 People often ask, "how is that you don't medicate?" My medication has been an addiction to both Fear & Love as articulated through my poem of the same name. Emotions are my drug of choice, and I suppose that is what has turned me into a bit of a poet.
 
-Included with the English translations of my poetry are the Spanish translations as well. This is because I feel strong ties to the Latin World, and more specifically, to Mexico and to the Mayan Lineage.
+Included with the English translations, many of my poetry have Spanish translations as well. This is because I feel strong ties to the Latin World, and more specifically, to Mexico and to the Mayan Lineage.
 
-In addition to this, I embed a YouTube Music song with each poem to help further convey the emotional messaging that is embodied in its form.
+In addition to this, some poems feature Middle-English translations (because of my Celtic-Scottish roots), Arabic translations (because of my fascination with Islam) and Hebrew translations (because of my Judeo-Christian faith).
+
+Finally, I embed a YouTube Music song with each poem to help further convey the emotional messaging that is embodied in its form.
 
 ## Contents
 * [The Dark Side of the Moon](./poetry/2025/dark-side-of-the-moon.html)
