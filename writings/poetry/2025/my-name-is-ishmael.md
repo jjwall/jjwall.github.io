@@ -236,12 +236,15 @@ UNTIL THE END OF TIME!</b><br>
 </div>
 
 ---
+<div style="text-align: right"> 
 <i><b>
 “שמי ישמעאל”</b></i><br>
 <i>2 באפריל, 2025
 </i>
+</div>
 
 ---
+<div style="text-align: right"> 
 שמי ישמעאל.<br>
 
 שפירושו “איש עם אלוהים” בעברית.<br>
@@ -286,9 +289,11 @@ UNTIL THE END OF TIME!</b><br>
 ה’<br>
 מלך היקום.<br>
 מלך המלכים.<br>
+</div>
 
 ---
 
+<div style="text-align: right"> 
 אני מכיר אותו כאדם.<br>
 כפי שחזה יוחנן המטביל—<br>
 האדם הפראי<br>
@@ -316,9 +321,11 @@ UNTIL THE END OF TIME!</b><br>
 
 מאז שבאתי לעולם הזה, מלא כאוס ומלחמה,<br>
 המסר שלי הוא:<br>
+</div>
 
 ---
 
+<div style="text-align: right"> 
 הפסיקו להשליך פצצות.<br>
 הפסיקו להרוג נשים.<br>
 הפסיקו להרוג ילדים.<br>
@@ -338,9 +345,11 @@ UNTIL THE END OF TIME!</b><br>
 ימלוך שוב.<br>
 לעולם ועד.<br>
 עד קץ כל הזמנים.<br>
+</div>
 
 ---
 
+<div style="text-align: right"> 
 2 באפריל, 2025, בשנת אדוננו<br>
 ~ ישמעאל, איש עם אלוהים<br>
 
