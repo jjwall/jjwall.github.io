@@ -228,7 +228,7 @@ UNTIL THE END OF TIME!</b><br>
 <br><br>
 </div>
 ---
-<br><br>
+<br>
 <div style="text-align: right"> 
 الثاني من أبريل، 2025، في عام ربنا<br>
 ~ إسماعيل، رجل مع الله<br>
