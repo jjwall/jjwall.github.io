@@ -13,11 +13,11 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i>The Tavern<
 
 [An Invitation to Join The Tavern](https://discord.gg/bhCXfcUXX6)
 
+## <i>Featured Poem</i>
+[My Name is Ishmael](./writings/poetry/2025/my-name-is-ishmael.html)
+
 ## <i>Featured Blogpost</i>
 [Grandpa Dude and the Demon of Freedom: Reclaiming My Scottish Soul](./writings/blog/2025/reclaiming-my-scottish-soul.html)
-
-## <i>Featured Poem</i>
-[My Secreet Kyngly Blode](./writings/poetry/2025/my-secreet-kyngly-blode.html)
 
 ## <i>Featured Music Production</i>
 [Sincerity by Knox Fortune [Full Production Cover]](https://soundcloud.com/jingleheimer-1/sincerity)
