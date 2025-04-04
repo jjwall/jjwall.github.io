@@ -62,3 +62,13 @@ with a rose in my teeth<br>
 and a harem of harmony in my wake.<br>
 
 🧞‍♀️👯‍♀️🧜‍♀️
+
+<p align="left">
+    <a href="https://www.instagram.com/p/DH9ozqQRrjm/">     
+      <img
+        alt="Jake Wallace's Prayer of Voltaire Instagram Post"
+        src="/assets/icons/instagram.png"
+        width="50"
+      />
+    </a>
+</p>
