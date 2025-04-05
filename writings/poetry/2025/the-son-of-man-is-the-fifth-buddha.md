@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-# My Name is Ishmael
+# The Son of Man is the Fifth Buddha
 <b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
-{% include youtube.html id="ecohuxm7NV4" %}
+{% include youtube.html id="whagABibzIY" %}
 
 <i><b>“The Son of Man is the Fifth Buddha”</b></i><br>
 <i>April 2nd, 2025</i>
