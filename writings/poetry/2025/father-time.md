@@ -13,64 +13,64 @@ layout: default
 <i><b>“Respect to Ye Old God, Father Time”</b></i><br>
 <i>April 5th, 2025</i>
 
-Hats off to you, Saturn.
-And to your white-gold spirit crown—
-A crown that’s circular.
-That represents a clock.
-Tic toc. Tick tock.
+Hats off to you, Saturn.<br>
+And to your white-gold spirit crown—<br>
+A crown that’s circular.<br>
+That represents a clock.<br>
+Tic toc. Tick tock.<br>
 
-Ye are certainly a sage of wit—
-A trickster of the most diabolical kind.
-Some call you Satan.
-Some call you Father Time.
+Ye are certainly a sage of wit—<br>
+A trickster of the most diabolical kind.<br>
+Some call you Satan.<br>
+Some call you Father Time.<br>
 
-You surely got us.
-In this short life.
-But I’m a hero of the dungeon,
-Who came to lay the pipe.
+You surely got us.<br>
+In this short life.<br>
+But I’m a hero of the dungeon,<br>
+Who came to lay the pipe.<br>
 
-No more cunning.
-No more smoke.
-No more divine comedy—
-Which is time: the cosmic joke.
+No more cunning.<br>
+No more smoke.<br>
+No more divine comedy—<br>
+Which is time: the cosmic joke.<br>
 
-As Parmenides of Elea taught us,
+As Parmenides of Elea taught us,<br>
 
-A riddle of the Law of All:
-You see—the clock is round.
-All is One, and One is All.
-“We are not time-bound.”
-Is the wisdom of the western myth.
+A riddle of the Law of All:<br>
+You see—the clock is round.<br>
+All is One, and One is All.<br>
+“We are not time-bound.”<br>
+Is the wisdom of the western myth.<br>
 
-And while you rule the solar system—
-You don’t rule the Aeon-writhe.
+And while you rule the solar system—<br>
+You don’t rule the Aeon-writhe.<br>
 
-Because time is not your domain.
-It is not your blade.
-Time is the joker card,
-Your trick of the trade.
+Because time is not your domain.<br>
+It is not your blade.<br>
+Time is the joker card,<br>
+Your trick of the trade.<br>
 
-You surely got us—
-With that concept: the clock.
-But we know it tracks motion,
-Not the tick of the tock.
+You surely got us—<br>
+With that concept: the clock.<br>
+But we know it tracks motion,<br>
+Not the tick of the tock.<br>
 
-So lower your defenses.
-And your illusory blade.
-This hero of the dungeon
-Pulled the winning spade.
+So lower your defenses.<br>
+And your illusory blade.<br>
+This hero of the dungeon<br>
+Pulled the winning spade.<br>
 
-Hats off to you, Saturn.
-Hats off to you, Father Time.
-You once ruled the solar system—
-But no more time to shine.
+Hats off to you, Saturn.<br>
+Hats off to you, Father Time.<br>
+You once ruled the solar system—<br>
+But no more time to shine.<br>
 
-It’s time for the truth.
-It’s time for the pipe.
-For a new cosmic light
-To shine, shine, shine.
+It’s time for the truth.<br>
+It’s time for the pipe.<br>
+For a new cosmic light<br>
+To shine, shine, shine.<br>
 
-Hats off, Father Time—
-Back to hell you go.
-This dungeon’s yours.
-And now we know.
+Hats off, Father Time—<br>
+Back to hell you go.<br>
+This dungeon’s yours.<br>
+And now we know.<br>
