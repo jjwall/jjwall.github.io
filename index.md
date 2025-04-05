@@ -13,7 +13,9 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i>The Tavern<
 
 [An Invitation to Join The Tavern](https://discord.gg/bhCXfcUXX6)
 
-## <i>Featured Poem</i>
+## <i>Featured Poems</i>
+[The Son of Man is the Fifth Buddha](./writings/poetry/2025/the-son-of-man-is-the-fifth-buddha.html)
+
 [My Name is Ishmael](./writings/poetry/2025/my-name-is-ishmael.html)
 
 ## <i>Featured Blogpost</i>
