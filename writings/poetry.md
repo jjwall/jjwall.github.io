@@ -28,5 +28,6 @@ Finally, I embed a YouTube Music song with each poem to help further convey the 
 * [My Secreet Kyngly Blode](./poetry/2025/my-secreet-kyngly-blode.html)
 * [The Oblivion of Outer Darkness](./poetry/2025/outer-darkness.html)
 * [One More Kiss](./poetry/2025/one-more-kiss.html)
+* [Respect to Ye Old God, Father Time](./poetry/2025/father-time.html)
 * [The Prayer of Voltaire](./poetry/2025/prayer-of-voltaire.html)
 * [The Son of Man is the Fifth Buddha](./poetry/2025/the-son-of-man-is-the-fifth-buddha.html)
