@@ -16,43 +16,43 @@ The incarnation of The Name,<br>
 Often pronounced Yahweh,<br>
 But spelled: <b>YHWH</b>.<br>
 
-He is the Hidden Serpent,<br>
-The Dragon King<br>
+He is the <b>Hidden Serpent</b>,<br>
+The <b>Dragon King</b><br>
 Of the Dragon Kings.<br>
 
-Many expect Maitreya,<br>
+Many expect <b>Maitreya</b>,<br>
 But He’s come and gone.<br>
 Though He’s still with us—<br>
-Two thousand years going strong.<br>
+<b>Two thousand years going strong</b>.<br>
 
-The Jews call Him Yeshua,<br>
-The Muslims: Prophet.<br>
-The Christians: Messiah.<br>
+The Jews call Him <b>Yeshua</b>,<br>
+The Muslims: <b>Prophet</b>.<br>
+The Christians: <b>Messiah</b>.<br>
 Yet He’s much, much more—<br>
-Don’t stop it.<br>
+<b>Don’t stop it</b>.<br>
 
-As Buddha met “I AM THAT I AM,”<br>
-And Moses met “I AM GOD THE FATHER,”<br>
-New Egypt knew “I AM GOD THE MOTHER.”<br>
+As <b>Buddha</b> met “I AM THAT I AM,”<br>
+And <b>Moses</b> met “I AM GOD THE FATHER,”<br>
+<b>New Egypt</b> knew “I AM GOD THE MOTHER.”<br>
 And Jesus revealed—<br>
 To the woman at the well,<br>
-In that great & glorious Chapter Four<br>
-Of the Gospel of John:<br>
+In that <b>great & glorious Chapter Four</b><br>
+Of the <i><b>Gospel of John</b></i>:<br>
 
-“I AM GOD THE SON.”<br>
+> <b>“I AM GOD THE SON.”</b><br>
 
 He also said:<br>
 
-“I am The Way, The Truth, and The Life.<br>
-None shall come to The Father except through Me.”<br>
+> <b>“I am The Way, The Truth, and The Life.<br>
+None shall come to The Father except through Me.”</b><br>
 
-So there’s only One Path to the Father.<br>
-Yet every path leads to the Son.<br>
+So there’s only <b>One Path</b> to the Father.<br>
+Yet every path leads to the <b>Son</b>.<br>
 
 Because the Son is much more<br>
 Than meets the eye—<br>
 
-Because the Son is YHWH,<br>
+Because the <b>Son is YHWH</b>,<br>
 Translated as:<br>
 
-“I AM EVERYTHING!”<br>
+> <b>“I AM EVERYTHING!”</b><br>
