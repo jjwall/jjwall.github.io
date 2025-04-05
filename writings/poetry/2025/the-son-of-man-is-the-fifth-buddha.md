@@ -5,7 +5,7 @@ layout: default
 <b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
-{% include youtube.html id="whagABibzIY" %}
+{% include youtube.html id="UDnmO4cTUGc" %}
 
 <i><b>“The Son of Man is the Fifth Buddha”</b></i><br>
 <i>April 2nd, 2025</i>
