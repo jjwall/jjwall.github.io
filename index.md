@@ -8,10 +8,10 @@ layout: default
 ## <i>Immanuel is The Prince of Peace</i>
 {% include youtube.html id="pWTPRvoW-vo" %}
 
-## <i>An Invitation to Join The Tavern</i>
-If you're a fellow <i>creative-adventurer-spirit</i>, please join <i>The Tavern</i> <b>Discord</b> server! This is a place where sensitive souls like yourself can rest in peace & bliss, but also have a safe container to meet, greet, and share your creations with other like-minded creative adventuring spirits!
+## <i>An Invitation to Join The Tavern!</i>
+If you're a fellow <i>creative-adventurer-spirit</i>, please join <i><b>The Tavern Discord Server</b></i>! This is a place where sensitive souls like yourself—the <i><b>dreammakers</b></i>, the <i><b>mythmakers</b></i>, and the <i><b>keysmiths</b></i>—can rest in peace & bliss. It is also a safe container to meet, greet, and share your creations with other like-minded creative adventuring spirits!
 
-[An Invitation to Join The Tavern](https://discord.gg/bhCXfcUXX6)
+[An Invitation to Join The Tavern!](https://discord.gg/bhCXfcUXX6)
 
 ## <i>Featured Poems</i>
 [The Son of Man is the Fifth Buddha](./writings/poetry/2025/the-son-of-man-is-the-fifth-buddha.html)
