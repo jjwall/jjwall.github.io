@@ -123,3 +123,11 @@ He can redeem YOU too!</b><br>
 <b>[Sigils clash. Wings unfurl. The Pit laughs with Heaven.]</b>
 
 😈🦁👼
+
+<p align="center">
+    <img
+        alt="The Wayshower Scroll Draft II"
+        src="/assets/writings/poetry/2025/the-wayshower/the-wayshower-scroll-draft-ii.png"
+        width="600"
+    />
+</p>
