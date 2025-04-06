@@ -59,7 +59,6 @@ Translated as:<br>
 
 🐑☦️🦁
 
-<i><b>The Seal of the Fifth Path:</b></i>
 <p align="center">
     <img
         alt="Seal of the Fifth Path"
@@ -67,3 +66,5 @@ Translated as:<br>
         width="600"
     />
 </p>
+
+<i><b>The Seal of the Fifth Path</b></i>
