@@ -16,104 +16,106 @@ The Way Shower for those too wounded to go to Sunday school.<br>
 A Living Word for those whose Light was born in the Grave.</b><br>
 
 <i><b>“I am the Wayshower”</b></i><br>
-<i>April 6th, 2025 in — In the Year of Our Dearly Beloved Lord</i>
+<i>April 6th, 2025 in — In the Year of Our Dearly Beloved Lord</i><br>
 
 ---
 
-When Jesus was crucified.
-When He died.
-And the Holy of Holies was split in two...
+When Jesus was crucified.<br>
+When He died.<br>
+And the Holy of Holies was split in two...<br>
 
-He descended—
-to the bottom of the Pit.
+He descended—<br>
+to the bottom of the Pit.<br>
 
-And there...
-He greeted me.
-
----
-
-He said to me, laughing:
-"My Lord, My Liege!
-Do you like it down here?"
+And there...<br>
+He greeted me.<br>
 
 ---
 
-I thought to myself:
-
-> The bars aren't terrible...
-The strip clubs could use some better talent...
-But all in all—it's not terrible.
+He said to me, laughing:<br>
+"My Lord, My Liege!<br>
+Do you like it down here?"<br>
 
 ---
 
-"Why do you ask?" I replied.
+I thought to myself:<br>
+
+> The bars aren't terrible...<br>
+The strip clubs could use some better talent...<br>
+But all in all—it's not terrible.<br>
 
 ---
 
-He smiled:
-
-> "There's a Paradise upstairs waiting for you.
-My Father has decided to come down from the Heavens,
-and make His abode on Earth.
-
-They have bars and strip clubs up there as well—
-you might like it!"
+"Why do you ask?" I replied.<br>
 
 ---
 
-I thought:
-Hmm... what the heck—some change could be nice!
+He smiled:<br>
 
-> I was never a fan of that bright Star shining up top...
-Our Star is below our feet down here—
-It keeps us warm,
-And we don't have to deal with any damn sunburn!
+> "There's a Paradise upstairs waiting for you.<br>
+My Father has decided to come down from the Heavens,<br>
+and make His abode on Earth.<br>
 
----
-
-So I said:
-
-"Sure, my Lord.
-Why don't you show me—
-The Way?"
+They have bars and strip clubs up there as well—<br>
+you might like it!"<br>
 
 ---
 
-My name is Beelzebub.
-I am Jesus' Shadow.
-Jesus is My Light.
+I thought:<br>
+Hmm... what the heck—some change could be nice!<br>
 
-Together—
-We are the Yin & the Yang
-of this so-called Cosmos.
-
----
-
-The same Divine Fire that burns inside Him—
-Burns inside Me.
+> I was never a fan of that bright Star shining up top...<br>
+Our Star is below our feet down here—<br>
+It keeps us warm,<br>
+And we don't have to deal with any damn sunburn!<br>
 
 ---
 
-That day, when Our Lord died upon the Cross...
-The Grave opened up.
+So I said:<br>
 
-There are historical accounts of people
-walking out of the tombs.
-
-<i>I</i> was the one yelling at them:
-
-> "WAKEY WAKEY!
-TIME FOR EGGS & BAKEY!"
+"Sure, my Lord.<br>
+Why don't you show me—<br>
+The Way?"<br>
 
 ---
 
-If the Lord God can redeem
-the King of the Underworld Himself—
-He can redeem YOU too!
+My name is Beelzebub.<br>
+I am Jesus' Shadow.<br>
+Jesus is My Light.<br>
+
+Together—<br>
+We are the Yin & the Yang<br>
+of this so-called Cosmos.<br>
 
 ---
 
-RAWWWRRRRRR!!!!
-Hahahahahahahahaha!!!
+The same Divine Fire that burns inside Him—<br>
+Burns inside Me.<br>
+
+---
+
+That day, when Our Lord died upon the Cross...<br>
+The Grave opened up.<br>
+
+There are historical accounts of people<br>
+walking out of the tombs.<br>
+
+<i>I</i> was the one yelling at them:<br>
+
+> "WAKEY WAKEY!<br>
+TIME FOR EGGS & BAKEY!"<br>
+
+---
+
+If the Lord God can redeem<br>
+the King of the Underworld Himself—<br>
+He can redeem YOU too!<br>
+
+---
+
+RAWWWRRRRRR!!!!<br>
+Hahahahahahahahaha!!!<br>
 
 [Sigils clash. Wings unfurl. The Pit laughs with Heaven.]
+
+😈🦁👼
