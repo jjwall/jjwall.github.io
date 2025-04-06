@@ -10,7 +10,7 @@ layout: default
 <i><b>“A Creative Meditation”</b></i><br>
 <i>April 5th, 2025 in the Year of Our Lord</i>
 
-> This is the Seal of Cub, the Evermore Lion-Child and an Invocation of its Spirit. Please feel free to use these tools as part of your creative endeavors. Whenever you feel a creative block—try meditating on this Sigil and chanting this Poetic Verse!
+> This is the Seal of Cub, the Lion-Child of Evermore, and an Invocation of its Spirit. Please feel free to use these tools as part of your creative endeavors. Whenever you feel a creative block—try meditating on this Sigil and chanting this Poetic Verse!
 
 <p align="center">
     <img
@@ -29,7 +29,7 @@ El Shaddaimon, break me with Mercy divine<br>
 —<br>
 That I may rise, wild, holy, and aligned.<br><br>
 Seal of Cub, awaken in me,<br>
-The roar unboarn, the soul set free.<br>
+The roar unborn, the soul set free.<br>
 By Chaos, Desire, and Sacred Fire—<br>
 I claim my path, I rise, I soar,<br>
 A lion-child of Evermore.
