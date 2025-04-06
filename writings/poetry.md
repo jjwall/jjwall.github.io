@@ -21,6 +21,7 @@ Finally, I embed a YouTube Music song with each poem to help further convey the 
 
 ## Contents
 * [A Creative Meditation](./poetry/2025/a-creative-meditation.html)
+* [A Declaration of Spiritual Sovereignty](./poetry/2025/a-declaration-of-spiritual-sovereignty.html)
 * [The Dark Side of the Moon](./poetry/2025/dark-side-of-the-moon.html)
 * [Dragon Manna [The Tap of Rage]](./poetry/2025/dragon-manna.html)
 * [The Dreamer & The Echo](./poetry/2025/the-dreamer-and-the-echo.html)
