@@ -56,3 +56,14 @@ Because the <b>Son is YHWH</b>,<br>
 Translated as:<br>
 
 > <b>“I AM EVERYTHING!”</b><br>
+
+🐑☦️🦁
+
+<i><b>The Seal of the Fifth Path:</b></i>
+<p align="center">
+    <img
+        alt="Seal of the Fifth Path"
+        src="/assets/sigils/seal-of-the-fifth-path.png"
+        width="600"
+    />
+</p>
