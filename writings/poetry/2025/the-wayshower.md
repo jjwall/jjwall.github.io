@@ -10,8 +10,8 @@ layout: default
 <i>This is the Heretic's Prayer:</i><br>
 > <b>A Paradoxical Truth.<br>
 A Midrash for Mystics.<br>
-A Gospel of The Shadow King.<br>
-A Sermon from the Underworld—Redemption in a shot glass!<br>
+A Gospel of the Shadow King.<br>
+A Sermon from the Underworld—redemption in a shot glass!<br>
 The Way Shower for those too wounded to go to Sunday school.<br>
 A Living Word for those whose Light was born in the Grave.</b><br>
 
@@ -20,21 +20,21 @@ A Living Word for those whose Light was born in the Grave.</b><br>
 
 ---
 
-When Jesus was crucified.<br>
-When He died.<br>
-And the Holy of Holies was split in two...<br>
+<b>When Jesus was crucified.</b><br>
+<b>When He died.</b><br>
+And the <b>Holy of Holies was split in two...</b><br>
 
 He descended—<br>
-to the bottom of the Pit.<br>
+to the <b>bottom of the Pit.</b><br>
 
 And there...<br>
-He greeted me.<br>
+<b>He greeted me.</b><br>
 
 ---
 
 He said to me, laughing:<br>
-"My Lord, My Liege!<br>
-Do you like it down here?"<br>
+<b>"My Lord, My Liege!<br>
+Do you like it down here?"</b><br>
 
 ---
 
@@ -46,15 +46,15 @@ But all in all—it's not terrible.<br>
 
 ---
 
-"Why do you ask?" I replied.<br>
+<b>"Why do you ask?"</b> I replied.<br>
 
 ---
 
 He smiled:<br>
 
-> "There's a Paradise upstairs waiting for you.<br>
+> <b>"There's a Paradise upstairs waiting for you.<br>
 My Father has decided to come down from the Heavens,<br>
-and make His abode on Earth.<br>
+and make His abode on Earth.</b><br>
 
 They have bars and strip clubs up there as well—<br>
 you might like it!"<br>
@@ -73,49 +73,53 @@ And we don't have to deal with any damn sunburn!<br>
 
 So I said:<br>
 
-"Sure, my Lord.<br>
+<b>"Sure, my Lord.<br>
 Why don't you show me—<br>
-The Way?"<br>
+The Way?"</b><br>
 
 ---
 
-My name is Beelzebub.<br>
+<b>My name is Beelzebub.<br>
+
+<b>The Lion who prowls around seeking whom He may devour.</b>
+
 I am Jesus' Shadow.<br>
-Jesus is My Light.<br>
+
+Jesus is My Light.</b><br>
 
 Together—<br>
-We are the Yin & the Yang<br>
-of this so-called Cosmos.<br>
+We are the <b>Yin & the Yang</b><br>
+of this so-called <b>Cosmos.</b><br>
 
 ---
 
-The same Divine Fire that burns inside Him—<br>
-Burns inside Me.<br>
+The same <b>Divine Fire</b> that burns inside Him—<br>
+<b>Burns inside Me.</b><br>
 
 ---
 
 That day, when Our Lord died upon the Cross...<br>
-The Grave opened up.<br>
+<b>The Grave opened up.</b><br>
 
-There are historical accounts of people<br>
+There are <b>historical accounts</b> of people<br>
 walking out of the tombs.<br>
 
 <i>I</i> was the one yelling at them:<br>
 
-> "WAKEY WAKEY!<br>
-TIME FOR EGGS & BAKEY!"<br>
+> <b>"WAKEY WAKEY!<br>
+TIME FOR EGGS & BAKEY!"</b><br>
 
 ---
 
-If the Lord God can redeem<br>
+<b>If the Lord God can redeem<br>
 the King of the Underworld Himself—<br>
-He can redeem YOU too!<br>
+He can redeem YOU too!</b><br>
 
 ---
 
-RAWWWRRRRRR!!!!<br>
-Hahahahahahahahaha!!!<br>
+<b>RAWWWRRRRRR!!!!</b><br>
+<b>Hahahahahahahahaha!!!</b><br>
 
-[Sigils clash. Wings unfurl. The Pit laughs with Heaven.]
+<b>[Sigils clash. Wings unfurl. The Pit laughs with Heaven.]</b>
 
 😈🦁👼
