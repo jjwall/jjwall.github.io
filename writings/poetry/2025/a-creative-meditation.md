@@ -5,7 +5,7 @@ layout: default
 <b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
-{% include youtube.html id="UjzrlhD_o84" %}
+{% include youtube.html id="g7IpCJfZW3M" %}
 
 <i><b>“A Creative Meditation”</b></i><br>
 <i>April 5th, 2025 in the Year of Our Lord</i>
