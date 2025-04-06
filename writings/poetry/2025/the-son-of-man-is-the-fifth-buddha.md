@@ -63,7 +63,7 @@ Translated as:<br>
 <p align="center">
     <img
         alt="Seal of the Fifth Path"
-        src="/assets/sigils/seal-of-the-fifth-path.png"
+        src="/assets/sigils/seal-of-the-fifth-path.jpg"
         width="600"
     />
 </p>
