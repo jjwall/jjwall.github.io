@@ -20,8 +20,12 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i><b>The Tave
 
 [My Name is Ishmael](./writings/poetry/2025/my-name-is-ishmael.html)
 
-## <i>Featured Blogpost</i>
+## <i>Featured Blogposts</i>
 [Grandpa Dude and the Demon of Freedom: Reclaiming My Scottish Soul](./writings/blog/2025/reclaiming-my-scottish-soul.html)
+
+[Myth as the Penultimate Truth](./writings/blog/2025/myth-as-the-penultimate-truth.html)
+
+[Jacob's Technological Biography](./writings/blog/2025/tech-bio.html)
 
 ## <i>Featured Music Production</i>
 [Sincerity by Knox Fortune [Full Production Cover]](https://soundcloud.com/jingleheimer-1/sincerity)
