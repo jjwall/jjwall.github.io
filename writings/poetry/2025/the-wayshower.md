@@ -79,13 +79,13 @@ The Way?"</b><br>
 
 ---
 
-<b>My name is Beelzebub.<br>
+<b>My name is Beelzebub.</b><br>
 
 <b>The Lion who prowls around seeking whom He may devour.</b>
 
-I am Jesus' Shadow.<br>
+<b>I am Jesus' Shadow.</b><br>
 
-Jesus is My Light.</b><br>
+<b>Jesus is My Light.</b><br>
 
 Together—<br>
 We are the <b>Yin & the Yang</b><br>
