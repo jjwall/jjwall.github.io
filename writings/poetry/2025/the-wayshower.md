@@ -16,7 +16,7 @@ The Way Shower for those too wounded to go to Sunday school.<br>
 A Living Word for those whose Light was born in the Grave.</b><br>
 
 <i><b>“I am the Wayshower”</b></i><br>
-<i>April 6th, 2025 in — In the Year of Our Dearly Beloved Lord</i><br>
+<i>April 6th, 2025 – In the Year of Our Dearly Beloved Lord</i><br>
 
 ---
 
