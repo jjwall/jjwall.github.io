@@ -16,6 +16,8 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i><b>The Tave
 ## <i>Featured Poems</i>
 [The Son of Man is the Fifth Buddha](./writings/poetry/2025/the-son-of-man-is-the-fifth-buddha.html)
 
+[I am the Wayshower](./writings/poetry/2025/the-wayshower.html)
+
 [Respect to Ye Old God, Father Time](./writings/poetry/2025/father-time.html)
 
 [My Name is Ishmael](./writings/poetry/2025/my-name-is-ishmael.html)

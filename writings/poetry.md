@@ -26,6 +26,7 @@ Finally, I embed a YouTube Music song with each poem to help further convey the 
 * [Dragon Manna [The Tap of Rage]](./poetry/2025/dragon-manna.html)
 * [The Dreamer & The Echo](./poetry/2025/the-dreamer-and-the-echo.html)
 * [Fear & Love](./poetry/2024/fear-and-love.html)
+* [I am the Wayshower](./poetry/2025/the-wayshower.html)
 * [My Name is Ishmael](./poetry/2025/my-name-is-ishmael.html)
 * [My Secreet Kyngly Blode](./poetry/2025/my-secreet-kyngly-blode.html)
 * [The Oblivion of Outer Darkness](./poetry/2025/outer-darkness.html)
