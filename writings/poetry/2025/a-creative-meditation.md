@@ -9,6 +9,14 @@ layout: default
 
 > This is the Seal of Cub, the Evermore Lion-Child and an Invocation of its Spirit. Please feel free to use these tools as part of your creative endeavors. Whenever you feel a creative block—try meditating on this Sigil and chanting this Poetic Verse!
 
+<p align="center">
+    <img
+        alt="Seal of Cub"
+        src="/assets/sigils/seal-of-cub.png"
+        width="600"
+    />
+</p>
+
 > <b> Invocation of the Seal of Cub<br><br>
 By Spiral, by Flame, by Moonlight born—<br>
 I call thee now, O Storm-Heart sworn.<br>
@@ -23,3 +31,13 @@ By Chaos, Desire, and Sacred Fire—<br>
 I claim my path, I rise, I soar,<br>
 A lion-child of Evermore.
 </b>
+
+<p align="center">
+    <img
+        alt="Seal of Cub"
+        src="/assets/invocation-cards/invocation-of-the-lion-child.png"
+        width="600"
+    />
+</p>
+
+🌙🦁☀️
