@@ -7,7 +7,7 @@ layout: default
 
 {% include youtube.html id="w4bnbhIswi8" %}
 
-> A Mythopoeia on the Origin Myth of Pipe World. I helped develop a video game fashioned in this universe with my game development collective. The game is titled, 
+> A Mythopoeia on the origin myth of Pipe World. I helped develop a video game fashioned in this universe with my game development collective. The game is titled, 
 “Is It Okay to Lay Pipe in a Dungeon?”
 
 <i><b>“Respect to Ye Old God, Father Time”</b></i><br>
