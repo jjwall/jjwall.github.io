@@ -20,6 +20,7 @@ In addition to this, some poems feature Middle-English translations (because of 
 Finally, I embed a YouTube Music song with each poem to help further convey the emotional messaging that is embodied in its form.
 
 ## Contents
+* [A Creative Meditation](./poetry/2025/a-creative-meditation.html)
 * [The Dark Side of the Moon](./poetry/2025/dark-side-of-the-moon.html)
 * [Dragon Manna [The Tap of Rage]](./poetry/2025/dragon-manna.html)
 * [The Dreamer & The Echo](./poetry/2025/the-dreamer-and-the-echo.html)
