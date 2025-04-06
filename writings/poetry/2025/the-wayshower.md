@@ -80,11 +80,9 @@ The Way?"</b><br>
 ---
 
 <b>My name is Beelzebub.</b><br>
-
 <b>The Lion who prowls around seeking whom He may devour.</b>
 
 <b>I am Jesus' Shadow.</b><br>
-
 <b>Jesus is My Light.</b><br>
 
 Together—<br>
@@ -127,7 +125,7 @@ He can redeem YOU too!</b><br>
 <p align="center">
     <img
         alt="The Wayshower Scroll Draft II"
-        src="/assets/writings/poetry/2025/the-wayshower/the-wayshower-scroll-draft-ii.png"
+        src="/assets/scrolls/the-wayshower-scroll-draft-ii.jpg"
         width="600"
     />
 </p>
