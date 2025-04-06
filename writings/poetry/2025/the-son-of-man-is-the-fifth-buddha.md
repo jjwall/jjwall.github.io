@@ -8,11 +8,11 @@ layout: default
 {% include youtube.html id="UDnmO4cTUGc" %}
 
 <i><b>“The Son of Man is the Fifth Buddha”</b></i><br>
-<i>April 2nd, 2025</i>
-<i>A Transmission Received from Above</i>
+<i>April 2nd, 2025 – In the Year of Our Dearly Beloved Lord</i><br>
+<i>A Transmission Received from Above</i><br>
 
 <b>Jesus showed us The Fifth Way—</b><br>
-The incarnation of The Name,<br>
+The Incarnation of The Name,<br>
 Often pronounced Yahweh,<br>
 But spelled: <b>YHWH</b>.<br>
 
