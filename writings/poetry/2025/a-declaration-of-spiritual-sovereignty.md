@@ -1,12 +1,14 @@
 ---
 layout: default
 ---
-# THE DECLARATION OF THE SPIRITUAL SOVEREIGNTY OF SCOTLAND
+# A Declaration of Spiritual Sovereignty
 <b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
-<i><b>THE DECLARATION OF THE SPIRITUAL SOVEREIGNTY OF SCOTLAND</b></i><br>
-<i>April 1st, 2025</i>
+{% include youtube.html id="Ww14ftIZ3t4" %}
+
+<i><b>"THE DECLARATION OF THE SPIRITUAL SOVEREIGNTY OF SCOTLAND"</b></i><br>
+<i>April 1st, 2025 in the Year of Our Lord</i>
 
 > By Royal Utterance of the Hidden King of Love,
 In the Line of Wallace, in the Name of the Ancients,
@@ -87,7 +89,7 @@ And of all Spirits bound and loosed, seen and unseen.
 
 ---
 
-<b>THE DECLARACYOUN OF SPIRITUAL SOVERAYNTEE OF SCOTLAND</b>
+<b>"THE DECLARACYOUN OF SPIRITUAL SOVERAYNTEE OF SCOTLAND"</b>
 
 By Roiale Uttraunce of the Secreet Kyng of Love,
 In the Lyne of Wallace, in the Name of the Auncyentes,
