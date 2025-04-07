@@ -5,7 +5,7 @@ layout: default
 <b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
-{% include youtube.html id="LyDcTSmkcD0" %}
+{% include youtube.html id="CXNhn-4Mf1c" %}
 
 > "The Christian ideal has not been tried and found wanting. It has been found difficult; and left untried."<br>
 ~Saint G.K. Chesterton
