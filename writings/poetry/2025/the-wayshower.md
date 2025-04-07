@@ -7,6 +7,9 @@ layout: default
 
 {% include youtube.html id="LyDcTSmkcD0" %}
 
+> "The Christian ideal has not been tried and found wanting. It has been found difficult; and left untried."<br>
+~Saint G.K. Chesterton
+
 <i>This is the Heretic's Prayer:</i><br>
 > <b>A Paradoxical Truth.<br>
 A Midrash for Mystics.<br>
