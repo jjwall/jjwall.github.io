@@ -30,9 +30,9 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i><b>The Tave
 [Jacob's Technological Biography](./writings/blog/2025/tech-bio.html)
 
 ## <i>Featured Music Productions</i>
-[Sincerity by Knox Fortune [Full Production Cover]](https://soundcloud.com/jingleheimer-1/sincerity)
+[Underworld (Battle Theme) [Original]](https://soundcloud.com/jingleheimer-1/underworld)
 
-[So Fly by Childish Gambino [Full Production Cover]](https://soundcloud.com/jingleheimer-1/so-fly)
+[Sincerity by Knox Fortune [Full Production Cover]](https://soundcloud.com/jingleheimer-1/sincerity)
 
 [Dat Jig by Johnny & The Dream Factory [Original]](https://soundcloud.com/jingleheimer-1/dat-jig)
 
