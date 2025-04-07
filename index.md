@@ -32,9 +32,9 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i><b>The Tave
 ## <i>Featured Music Productions</i>
 [Underworld (Battle Theme) [Original]](https://soundcloud.com/jingleheimer-1/underworld)
 
-[Sincerity by Knox Fortune [Full Production Cover]](https://soundcloud.com/jingleheimer-1/sincerity)
+[Dead Flowers (Main Theme) [Original]](https://soundcloud.com/jingleheimer-1/dead-flowers)
 
-[Dat Jig by Johnny & The Dream Factory [Original]](https://soundcloud.com/jingleheimer-1/dat-jig)
+[Sincerity by Knox Fortune [Full Production Cover]](https://soundcloud.com/jingleheimer-1/sincerity)
 
 ## <i>Featured Fictional Excerpt</i>
 [Conversations with the Divine Feminine, Part I](./writings/fiction/2025/convos-w-df-part-1.html)
