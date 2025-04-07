@@ -59,6 +59,16 @@ Translated as:<br>
 
 🐑☦️🦁
 
+<p align="left">
+    <a href="https://www.instagram.com/p/DIH4QJiRmBU/?img_index=1">     
+      <img
+        alt="Jake Wallace's The Son of Man is the Fifth Buddha Poem Instagram Post"
+        src="/assets/icons/instagram.png"
+        width="50"
+      />
+    </a>
+</p>
+
 <p align="center">
     <img
         alt="Seal of the Fifth Path"
