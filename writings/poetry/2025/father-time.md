@@ -82,8 +82,8 @@ This dungeon’s yours.<br>
 <p align="left">
     <a href="https://www.instagram.com/p/DIH4QJiRmBU/?img_index=1">
       <img
-        alt="Underworld (Battle Theme) Song on Jake's SoundCloud"
-        src="/assets/icons/soundcloud.png"
+        alt="Jake Wallace's Respect to Ye Old God, Father Time Poem Instagram Post"
+        src="/assets/icons/instagram.png"
         width="50"
       />
     </a>
