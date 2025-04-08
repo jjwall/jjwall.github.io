@@ -166,13 +166,25 @@ To make matters more interesting, newcomer HappyTrollAngus is quite the renaissa
 
 The sound of these bagpipe pipes can be heard in our <i>“Pipe World”</i> adventure theme music [link to SoundCloud] during the navigation phase of the game which can be heard on SoundCloud here.
 
-[pic of adventure screenshot]
+<p align="center">
+    <img
+        alt="Pipe World's Adventurer Navigation Screen"
+        src="/assets/writings/blog/2025/ludum-dare-57/adventure-screenshot.png"
+        width="600"
+    />
+</p>
 
 For the mythology behind this world of pipes, I wrote a <i>Mythopoeia</i>—an origin myth poem of Pipe World titled, <i>“Respect to Ye Old God, Father Time”</i> which you can read in full on my personal site here [link].
 
 <i><b>The Music Behind Pipe World Continued...</b></i>
 
-[Pic of Music setup]
+<p align="center">
+    <img
+        alt="AKAI MPK mini"
+        src="/assets/writings/blog/2025/ludum-dare-57/akai-mpk-mini.jpg"
+        width="600"
+    />
+</p>
 
 As the musician of the team, I decided to combine these mythological and poetic gifts the Lord God has bestowed on me and infuse them in the music for the game.
 
