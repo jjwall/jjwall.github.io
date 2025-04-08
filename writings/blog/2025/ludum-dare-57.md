@@ -194,7 +194,13 @@ I wrote one other poem for the game that came to me during the third day of the 
 
 I used part of this poem as the lyrics for another piece of music I composed and produced for the game titled, <i>“Underworld,”</i> which plays during battle sequences.
 
-[pic of battle screenshot]
+<p align="center">
+    <img
+        alt="Pipe World's Battle Sequence Screen"
+        src="/assets/writings/blog/2025/ludum-dare-57/battle-screenshot.png"
+        width="600"
+    />
+</p>
 
 You can listen to Underworld on SoundCloud here [link].
 
@@ -206,6 +212,6 @@ To conclude—this hero pulled the winning spade. Indeed, it is fully acceptable
 
 🪐🪈🕰️
 
-[link to LD blogpost from personal site]
+<!-- [link to LD blogpost from personal site]
 
-[link to personal site blogpost from LD]
+[link to personal site blogpost from LD] -->
