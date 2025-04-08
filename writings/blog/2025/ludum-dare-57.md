@@ -7,7 +7,13 @@ layout: default
 
 <i>April 8th, 2025</i>
 
-[pic of main menu screenshot]
+<p align="center">
+    <img
+        alt="Pipe World Game LD57 Thumbnail"
+        src="/assets/writings/blog/2025/ludum-dare-57/pipe-world-thumnbnail.png"
+        width="600"
+    />
+</p>
 
 <i><b>Introduction to Game Jam Competitions</b></i>
 
