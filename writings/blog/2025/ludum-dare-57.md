@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Ludum Dare 57: The Inspiration Behind our Submission for the 72-Hour Game Jam
+# Ludum Dare 57: The Inspiration Behind Pipe World & Comfy Game Dev's Submission for the 72-Hour Game Jam
 <b>[Back to Blogposts](/writings/blog.html)</b>
 * * *
 
