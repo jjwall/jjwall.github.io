@@ -125,6 +125,30 @@ He can redeem YOU too!</b><br>
 
 😈🦁👼
 
+<p align="left">
+    <!-- <a href="https://www.instagram.com/p/DIH4QJiRmBU/?img_index=1">
+      <img
+        alt="Jake Wallace's Respect to Ye Old God, Father Time Poem Instagram Post"
+        src="/assets/icons/instagram.png"
+        width="50"
+      />
+    </a> -->
+    <a href="https://soundcloud.com/jingleheimer-1/dead-flowers">
+      <img
+        alt="Dead Flowers (Main Theme) Song on Jake's SoundCloud"
+        src="/assets/icons/soundcloud.png"
+        width="50"
+      />
+    </a>
+    <a href="https://ldjam.com/events/ludum-dare/57/is-it-wrong-to-try-to-lay-pipe-in-a-sewer-dungeon">
+      <img
+        alt="Is it Wrong to Try to Lay Pipe in a Sewer Dungeon?"
+        src="/assets/icons/ludum-dare2.png"
+        width="50"
+      />
+    </a>
+</p>
+
 <p align="center">
     <img
         alt="The Wayshower Scroll Draft II"
