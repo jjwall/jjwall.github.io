@@ -23,7 +23,7 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i><b>The Tave
 [My Name is Ishmael](./writings/poetry/2025/my-name-is-ishmael.html)
 
 ## <i>Featured Blogposts</i>
-[2025-04-08 Ludum Dare 57: The Inspiration Behind Pipe World & Comfy Game Dev's Submission for the 72-Hour Game Jam](./writings/blog/2025/ludum-dare-57.html)
+[Ludum Dare 57: The Inspiration Behind Pipe World & Comfy Game Dev's Submission for the 72-Hour Game Jam](./writings/blog/2025/ludum-dare-57.html)
 
 [Grandpa Dude and the Demon of Freedom: Reclaiming My Scottish Soul](./writings/blog/2025/reclaiming-my-scottish-soul.html)
 
