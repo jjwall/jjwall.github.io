@@ -90,7 +90,7 @@ This dungeon’s yours.<br>
     <a href="https://soundcloud.com/jingleheimer-1/underworld">
       <img
         alt="Underworld (Battle Theme) Song on Jake's SoundCloud"
-        src="/assets/icons/soundcloud.png"
+        src="/assets/icons/soundcloud2.png"
         width="50"
       />
     </a>

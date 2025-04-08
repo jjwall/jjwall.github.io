@@ -136,7 +136,7 @@ He can redeem YOU too!</b><br>
     <a href="https://soundcloud.com/jingleheimer-1/dead-flowers">
       <img
         alt="Dead Flowers (Main Theme) Song on Jake's SoundCloud"
-        src="/assets/icons/soundcloud.png"
+        src="/assets/icons/soundcloud2.png"
         width="50"
       />
     </a>
