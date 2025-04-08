@@ -135,12 +135,12 @@ Why pipes? Well that’s a great question—one that I think can only be answere
 
 <p align="center">
     <img
-        alt="The Comfy Game Dev Collective"
+        alt="The Dungeon's Utility Room"
         src="/assets/writings/blog/2025/ludum-dare-57/dungeon-utility-room.jpg"
         width="600"
     />
     <img
-        alt="The Comfy Game Dev Collective"
+        alt="The Dungeon's Kitchen"
         src="/assets/writings/blog/2025/ludum-dare-57/dungeon-kitchen.jpg"
         width="600"
     />
@@ -154,7 +154,13 @@ I was quite adamant during the design phase of Friday that if we didn’t featur
 
 To make matters more interesting, newcomer HappyTrollAngus is quite the renaissance man—who as one of his many hobbies—fashioned the <i>pipes of a handmade bagpipe</i> and encouraged me to use the soul-turning vibration of these divine harmonic devices in the music I was creating.
 
-[pic of pipes]
+<p align="center">
+    <img
+        alt="Kylie's Handmade Bagpipe Pipes"
+        src="/assets/writings/blog/2025/ludum-dare-57/kylies-handmade-bagpipe-pipes.jpg"
+        width="600"
+    />
+</p>
 
 > Consider it a done deal, HappyTrollAngus 🤝 
 
