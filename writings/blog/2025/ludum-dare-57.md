@@ -15,9 +15,11 @@ layout: default
     />
 </p>
 
-<i><b>Introduction to Hackathons</b></i>
+<i><b>Preface</b></i>
 
-If you haven’t heard me talk about Ludum Dare before, well it’s probably because I was trying to save you from an ear-beating that is my <i>fascination with</i> and <i>passion for</i> video game development, and more specifically, <i>game jam hackathon competitions</i>.
+If you haven’t heard me talk about <i><b>Ludum Dare</b></i> before, well it’s probably because I was trying to save you from an ear-beating that is my <i>fascination with</i> and <i>passion for</i> video game development, and more specifically, <i>game jam hackathon competitions</i>.
+
+<i><b>Introduction to Hackathons</b></i>
 
 For background, a <i>hackathon</i> is a coding / programming event where technologists gather together, form teams, and attempt to <i>achieve the impossible</i> in a short amount of time.
 
