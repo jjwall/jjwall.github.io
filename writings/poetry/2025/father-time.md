@@ -92,6 +92,7 @@ This dungeon’s yours.<br>
         alt="Underworld (Battle Theme) Song on Jake's SoundCloud"
         src="/assets/icons/soundcloud2.png"
         width="50"
+        style="padding-left:5px;"
       />
     </a>
     <a href="https://ldjam.com/events/ludum-dare/57/is-it-wrong-to-try-to-lay-pipe-in-a-sewer-dungeon">
@@ -99,6 +100,7 @@ This dungeon’s yours.<br>
         alt="Is it Wrong to Try to Lay Pipe in a Sewer Dungeon?"
         src="/assets/icons/ludum-dare.png"
         width="50"
+        style="padding-left:5px;"
       />
     </a>
 </p>

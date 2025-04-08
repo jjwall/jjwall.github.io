@@ -145,6 +145,7 @@ He can redeem YOU too!</b><br>
         alt="Is it Wrong to Try to Lay Pipe in a Sewer Dungeon?"
         src="/assets/icons/ludum-dare.png"
         width="50"
+        style="padding-left:5px;"
       />
     </a>
 </p>
