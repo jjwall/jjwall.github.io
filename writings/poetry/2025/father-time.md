@@ -97,7 +97,7 @@ This dungeon’s yours.<br>
     <a href="https://ldjam.com/events/ludum-dare/57/is-it-wrong-to-try-to-lay-pipe-in-a-sewer-dungeon">
       <img
         alt="Is it Wrong to Try to Lay Pipe in a Sewer Dungeon?"
-        src="/assets/icons/ludum-dare2.png"
+        src="/assets/icons/ludum-dare.png"
         width="50"
       />
     </a>
