@@ -10,7 +10,7 @@ layout: default
 <p align="center">
     <img
         alt="Pipe World Game LD57 Thumbnail"
-        src="/assets/writings/blog/2025/ludum-dare-57/pipe-world-thumnbnail.png"
+        src="/assets/writings/blog/2025/ludum-dare-57/pipe-world-thumbnail.png"
         width="600"
     />
 </p>
