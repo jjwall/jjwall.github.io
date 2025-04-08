@@ -17,7 +17,7 @@ layout: default
 
 <i><b>Preface</b></i>
 
-If you haven’t heard me talk about <i><b>Ludum Dare</b></i> before, well it’s probably because I was trying to save you from an ear-beating that is my <i>fascination with</i> and <i>passion for</i> video game development, and more specifically, <i>game jam hackathon competitions</i>.
+If you haven’t heard me talk about <i><b>Ludum Dare</b></i> before, well, it’s probably because I was trying to save you from an ear-beating that is my <i>fascination with</i> and <i>passion for</i> video game development, and more specifically, <i>game jam hackathon competitions</i>.
 
 <i><b>Introduction to Hackathons</b></i>
 
@@ -26,6 +26,14 @@ For background, a <i>hackathon</i> is a coding / programming event where technol
 Competitions like this are typically kicked off by announcing a <i>theme</i> or a <i>mission</i> and competitors are recommended a set of tools to build a project that would closely <i>resemble</i> that theme or <i>fulfill</i> that mission.
 
 <i><b>The Ludum Dare Online Game Jam Competition</b></i>
+
+<p align="center">
+    <img
+        alt="Pipe World Game LD57 Thumbnail"
+        src="/assets/writings/blog/2025/ludum-dare-57/ludum-dare-logo.png"
+        width="600"
+    />
+</p>
 
 In the case of <i><b>Ludum Dare</b></i>, and other game jam competitions like it—the mission is to build a video game that is as enjoyable as possible.
 
@@ -45,7 +53,13 @@ While tangible treasures are not the prize, <i>notary</i> and a <i>claim-to-fame
 
 > The best rating we’ve achieved thus far was 39th in the “Fun” category for our entry “Tiny Turf Tussle” in the last Ludum Dare competition—LD56.
 
-[pic of how to play screenshot]
+<p align="center">
+    <img
+        alt="Pipe World Game LD57 Thumbnail"
+        src="/assets/writings/blog/2025/ludum-dare-57/how-to-play-screenshot.png"
+        width="600"
+    />
+</p>
 
 <i><b>The Legend of Alchemic “Apples” Appelli</b></i>
 
