@@ -55,7 +55,7 @@ While tangible treasures are not the prize, <i>notary</i> and a <i>claim-to-fame
 
 <p align="center">
     <img
-        alt="Pipe World Game LD57 Thumbnail"
+        alt="How To Play Screenshot"
         src="/assets/writings/blog/2025/ludum-dare-57/how-to-play-screenshot.png"
         width="600"
     />
@@ -74,6 +74,14 @@ While our placement wasn’t stellar, I could’ve cared less. It was safe to sa
 I have Apples to thank for mentoring me in many arenas of game development and high technology over the last eight years of our growing friendship.
 
 <i><b>The Comfy Game Dev Collective</b></i>
+
+<p align="center">
+    <img
+        alt="The Comfy Game Dev Collective"
+        src="/assets/writings/blog/2025/ludum-dare-57/comfy-game-dev-collective.png"
+        width="600"
+    />
+</p>
 
 Fast forward to today and I’ve participated in <i>dozens</i> of game jam competitions over the years including events like <i>Global Game Jam</i> and <i>Game Maker’s Toolkit</i>.
 
