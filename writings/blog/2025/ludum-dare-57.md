@@ -65,7 +65,9 @@ While tangible treasures are not the prize, <i>notary</i> and a <i>claim-to-fame
 
 When Apples’s first introduced me to the concept of <i>game jams</i> back in 2017, my mind was blown. Sure, I had been developing games for about sixteen years at that point in my life—but never in my wildest dreams was I thinking I could build an entire game in 72 hours! That was absolutely unimaginable to me.
 
-Well, Alchemic “Apples” Appelli showed me the way to this potential reality. I joined up for LD41 as my first ever game jam experience along with him and one other and we created “Drunkest Dungeon” [link to LD page] together.
+Well, Alchemic “Apples” Appelli showed me the way to this potential reality. I joined up for LD41 as my first ever game jam experience along with him and one other and we created “Drunkest Dungeon together.
+
+<!-- TODO: Link to Drunkest Dungeon? -->
 
 In my first ever competition, we successfully submitted a game fashioned with art, music, visual & sound effects, as well as actual gameplay and system mechanics.
 
@@ -164,7 +166,7 @@ To make matters more interesting, newcomer HappyTrollAngus is quite the renaissa
 
 > Consider it a done deal, HappyTrollAngus 🤝 
 
-The sound of these bagpipe pipes can be heard in our <i>“Pipe World”</i> adventure theme music [link to SoundCloud] during the navigation phase of the game which can be heard on SoundCloud here.
+The sound of these bagpipe pipes can be heard in our <i>“Pipe World”</i> adventure theme music during the navigation phase of the game which can be heard on SoundCloud here: [Pipe World (Adventure Theme](https://soundcloud.com/jingleheimer-1/pipe-world)).
 
 <p align="center">
     <img
@@ -174,7 +176,8 @@ The sound of these bagpipe pipes can be heard in our <i>“Pipe World”</i> adv
     />
 </p>
 
-For the mythology behind this world of pipes, I wrote a <i>Mythopoeia</i>—an origin myth poem of Pipe World titled, <i>“Respect to Ye Old God, Father Time”</i> which you can read in full on my personal site here [link].
+For the mythology behind this world of pipes, I wrote a <i>Mythopoeia</i>—an origin myth poem of Pipe World titled, <i>“Respect to Ye Old God, Father Time”</i> which you can read in full on my personal site here: [Respect to Ye Old God, Father Time](/writings/poetry/2025/father-time.html).
+
 
 <i><b>The Music Behind Pipe World Continued...</b></i>
 
@@ -188,9 +191,9 @@ For the mythology behind this world of pipes, I wrote a <i>Mythopoeia</i>—an o
 
 As the musician of the team, I decided to combine these mythological and poetic gifts the Lord God has bestowed on me and infuse them in the music for the game.
 
-For the main menu theme, you can hear me give an oral rendition of <i>“Respect to Ye Old God, Father Time”</i> in the game’s song I composed and produced called, <i>“Dead Flowers.”</i> [link to SoundCloud].
+For the main menu theme, you can hear me give an oral rendition of <i>“Respect to Ye Old God, Father Time”</i> in the game’s song I composed and produced called, <i>“Dead Flowers.”</i>. You can listen to the song on SoundCloud here: [Dead Flowers (Main Theme)](https://soundcloud.com/jingleheimer-1/dead-flowers).
 
-I wrote one other poem for the game that came to me during the third day of the competition titled, “I am the Wayshower” which is both a strange and mystical poem about the paradox of truth. You can also read that poem in full here [poem link].
+I wrote one other poem for the game that came to me during the third day of the competition titled, “I am the Wayshower” which is both a strange and mystical poem about the paradox of truth. You can also read that poem in full here: [I am the Wayshower](/writings/poetry/2025/the-wayshower.html).
 
 I used part of this poem as the lyrics for another piece of music I composed and produced for the game titled, <i>“Underworld,”</i> which plays during battle sequences.
 
@@ -202,7 +205,7 @@ I used part of this poem as the lyrics for another piece of music I composed and
     />
 </p>
 
-You can listen to Underworld on SoundCloud here [link].
+You can listen to Underworld on SoundCloud here: [Underworld (Battle Theme)](https://soundcloud.com/jingleheimer-1/underworld).
 
 <i><b>So... Is it Wrong to Try to Lay Pipe in a Sewer Dungeon?</b></i>
 
