@@ -7,8 +7,10 @@ layout: default
 
 {% include youtube.html id="xRc_MIntiFg" %}
 
-> A Mythopoeia on the origin myth of Pipe World.<br> This poem attempts to answer the question: <br>
-“Is It Okay to Lay Pipe in a Dungeon?”
+> A Mythopoeia on the origin myth of Pipe World,<br> 
+the universe behind our game,<br>
+"Is it Wrong to Try to Lay Pipe in a Sewer Dungeon?"<br>
+This poem attempts to answer the question.
 
 <i><b>“Respect to Ye Old God, Father Time”</b></i><br>
 <i>April 5th, 2025</i>
