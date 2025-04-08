@@ -107,13 +107,13 @@ But of course, we didn’t come for any of that. We came for the friendships, th
 
 <i><b>Gaps in the Collective</b></i>
 
-Of the Comfy Game Dev collective, those who were able to make it were myself, Apples, Nicole (Minku), WiredOverload, Karkadan, Montjuleant, and newcomer, <i>HappyTrollAngus</i>, who has been a wonderful addition to the collective.
+Of the Comfy Game Dev collective, those who were able to make it were myself, <i>Apples</i>, <i>Nicole</i> (Minku), <i>WiredOverload</i>, <i>Karkadan</i>, <i>Montjuleant</i>, and newcomer, <i>HappyTrollAngus</i>, who has been a wonderful addition to the collective.
 
 We were anticipating Chume joining us, but with last minute work obligations, he was unfortunately unable to attend.
 
 > Rest in peace our dearest friend, Chume 😌
 
-We were also missing Comfy Game Dev regulars in <i>BigTexington</i>, an artist and play tester extraordinaire, and <i>VetaWulf</i>, our extremely talented musician friend.
+We were also missing Comfy Game Dev regulars in <i>BigTexington</i>, an artist and play tester extraordinaire, <i>xxAtrain223</i> AKA "A-Train," an impressive programmer, sysadmin, and well-rounded full-stack engineer, and <i>VetaWulf</i>, our extremely talented musician friend.
 
 Nicole was able to fill the gaps of BigTex beautifully well and with Veta out, I volunteered to take over the music.
 
@@ -121,13 +121,30 @@ I had yet to do a game jam where my sole focus was music so I figured this would
 
 <i><b>Designing the World of Pipes</b></i>
 
-[pics of design phase]
+<p align="center">
+    <img
+        alt="The Comfy Game Dev Collective"
+        src="/assets/writings/blog/2025/ludum-dare-57/pipe-world-design.jpg"
+        width="600"
+    />
+</p>
 
 What the team ended up creating for LD57 was a whole universe called <i>Pipe World</i> for our game titled, <i>“Is it Wrong to Try to Lay Pipe in a Dungeon?”</i>
 
 Why pipes? Well that’s a great question—one that I think can only be answered with a few interior snapshots of the Labyrinth Dungeon that is the Castle de Appelli.
 
-[ 2 Pics of Kitchen and King Basement]
+<p align="center">
+    <img
+        alt="The Comfy Game Dev Collective"
+        src="/assets/writings/blog/2025/ludum-dare-57/dungeon-utility-room.jpg"
+        width="600"
+    />
+    <img
+        alt="The Comfy Game Dev Collective"
+        src="/assets/writings/blog/2025/ludum-dare-57/dungeon-kitchen.jpg"
+        width="600"
+    />
+</p>
 
 With the unique architecture of this beautiful home—we had access to a plethora of sources for inspiration.
 
