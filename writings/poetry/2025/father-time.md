@@ -7,7 +7,7 @@ layout: default
 
 {% include youtube.html id="xRc_MIntiFg" %}
 
-> A Mythopoeia on the origin myth of Pipe World. I helped develop a video game fashioned in this universe with my game development collective. The game is titled, 
+> A Mythopoeia on the origin myth of Pipe World.<br> This poem attempts to answer the question: <br>
 “Is It Okay to Lay Pipe in a Dungeon?”
 
 <i><b>“Respect to Ye Old God, Father Time”</b></i><br>
@@ -74,3 +74,5 @@ To shine, shine, shine.<br>
 Back to hell you go.<br>
 This dungeon’s yours.<br>
 <b>And now we know</b>.<br>
+
+🕰️🪈🪐
