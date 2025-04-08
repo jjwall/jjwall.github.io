@@ -137,12 +137,12 @@ Why pipes? Well that’s a great question—one that I think can only be answere
     <img
         alt="The Dungeon's Utility Room"
         src="/assets/writings/blog/2025/ludum-dare-57/dungeon-utility-room.jpg"
-        width="600"
+        width="250"
     />
     <img
         alt="The Dungeon's Kitchen"
         src="/assets/writings/blog/2025/ludum-dare-57/dungeon-kitchen.jpg"
-        width="600"
+        width="250"
     />
 </p>
 
