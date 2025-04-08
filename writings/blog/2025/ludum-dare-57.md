@@ -15,21 +15,33 @@ layout: default
     />
 </p>
 
-<i><b>Introduction to Game Jam Competitions</b></i>
+<i><b>Introduction to Hackathons</b></i>
 
-If you haven’t heard me talk about Ludum Dare before, well it’s probably because I was trying to save you from an ear-beating that is my fascination with and passion for video game development, and more specifically, game jam hackathon competitions.
+If you haven’t heard me talk about Ludum Dare before, well it’s probably because I was trying to save you from an ear-beating that is my <i>fascination with</i> and <i>passion for</i> video game development, and more specifically, <i>game jam hackathon competitions</i>.
 
-For background, a hackathon is a programming event where technologists gather together, form teams, and try to achieve the impossible in a short amount of time.
+For background, a <i>hackathon</i> is a coding / programming event where technologists gather together, form teams, and attempt to <i>achieve the impossible</i> in a short amount of time.
 
-Competitions like this are typically given a theme or a mission and a recommended set of tools to build a project that would closely resemble that theme or fulfill the mission.
+Competitions like this are typically kicked off by announcing a <i>theme</i> or a <i>mission</i> and competitors are recommended a set of tools to build a project that would closely <i>resemble</i> that theme or <i>fulfill</i> that mission.
 
-<i><b>On Ludum Dare</b></i>
+<i><b>The Ludum Dare Online Game Jam Competition</b></i>
 
-In the case of Ludum Dare, and other game jam competitions like it, the mission is to build a video game that is as enjoyable as possible, attempting to get high ratings in categories that entrants get judged on by the Ludum Dare community including: fun, innovation, theme, graphics, audio, humor, mood, and the overall rating of the game.
+In the case of <i><b>Ludum Dare</b></i>, and other game jam competitions like it—the mission is to build a video game that is as enjoyable as possible.
 
-> <b>Note</b>: The best rating we’ve achieved thus far was 39th in the “Fun” category for our entry “Tiny Turf Tussle” in the last Ludum Dare competition—LD56.
+Participants of the competition attempt to get high ratings in categories including: fun, innovation, theme, graphics, audio, humor, mood, and the overall rating of the game.
 
-Competitors compete online against other teams or solo participants in the echelons of ~6000 competitors.
+Outside of being just a "competitor," in order for a team or solo developer to be considered a successful entrant to the competition, competitors must submit their game before the 72-hour clock strikes 0:00. 
+
+Successful entrants get judged on the above categories by other successful entrants within the Ludum Dare community for the given competition.
+
+Participants compete online against other teams or solo participants in the echelons of ~6000 competitors.
+
+While there's no "prize" for winning best overall or rating high in any of the categories—Ludum Dare is considered a prestigious game jam competition among grassroots and indie game developers alike. 
+
+<i>Notch</i>, the creator behind <i>MineCraft</i>, among other infamous game developers are notorious for competing and performing well throughout a history of Ludum Dare game jam competitions.
+
+While tangible treasures are not the prize, <i>notary</i> and a <i>claim-to-fame</i> are as any competitor who has rated high in any of the LD submission categories should be proud about.
+
+> The best rating we’ve achieved thus far was 39th in the “Fun” category for our entry “Tiny Turf Tussle” in the last Ludum Dare competition—LD56.
 
 [pic of how to play screenshot]
 
