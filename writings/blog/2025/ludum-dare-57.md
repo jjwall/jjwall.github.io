@@ -234,7 +234,7 @@ You can listen to Underworld on SoundCloud here: [Underworld (Battle Theme)](htt
 
 <i><b>So... Is it Wrong to Try to Lay Pipe in a Sewer Dungeon?</b></i>
 
-If you would like to try out <i>“Is it Wrong to Try to Lay Pipe in a Sewer Dungeon?”</i> you can play the web version of the game on Itch [here](https://alchemical.itch.io/is-it-wrong-to-try-to-lay-pipe-in-a-sewer-dungeon) and you can view the Ludum Dare 57 submission page [here](https://ldjam.com/events/ludum-dare/57/is-it-wrong-to-try-to-lay-pipe-in-a-sewer-dungeon) to learn more.
+If you would like to try out <i>“Is it Wrong to Try to Lay Pipe in a Sewer Dungeon?”</i> you can play the web version of the game on Itch [here](https://alchemical.itch.io/is-it-wrong-to-try-to-lay-pipe-in-a-sewer-dungeon) and you can view the game's Ludum Dare 57 submission page [here](https://ldjam.com/events/ludum-dare/57/is-it-wrong-to-try-to-lay-pipe-in-a-sewer-dungeon) to learn more.
 
 To conclude—this hero pulled the winning spade. Indeed, it is fully acceptable—nay, completely natural—for an adventurer to try to lay pipe in a sewer dungeon.
 
