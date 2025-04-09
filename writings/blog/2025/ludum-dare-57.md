@@ -101,7 +101,7 @@ As of <i>LD55</i>, we’ve started to all meet up in the world for every Ludum D
 
 Last year, we stayed at <i>Chume’s house</i> in <i>Bentonville, Arkansas</i>. This year, the man, the myth, and the legend himself, Apples, graciously invited us to compete at his new house in <i>Kansas City, Kansas</i>.
 
-I call this house <i>Castle de Appelli, “The Labyrinth Dungeon”</i> and you’ll soon find out why.
+> I call this house Castle de Appelli, “The Labyrinth Dungeon” and you’ll soon find out why 🧙‍♂️
 
 <i><b>Castle de Appelli, The Labyrith Dungeon</b></i>
 
