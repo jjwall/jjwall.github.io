@@ -165,7 +165,7 @@ Why pipes? Well that’s a great question—one that I think can only be answere
     />
 </p>
 
-> The Dungeon Kitchem and Dungeon Utility Room in the basement of Castle de Appelli. Please note the pipes.
+> The Dungeon Kitchem and Dungeon Utility Room in the basement of Castle de Appelli. Please note the pipes!
 
 With the unique architecture of this beautiful home—we had access to a plethora of sources for inspiration.
 
