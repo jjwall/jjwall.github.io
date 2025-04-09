@@ -222,7 +222,7 @@ I used part of this poem as the lyrics for another piece of music I composed and
     />
 </p>
 
-> <b>The battle sequence view you will see when fighting the diverse set of sewer monsters found in Pipe World.</b>
+> <b>The battle sequence screen you will see when fighting the diverse set of sewer monsters found in Pipe World.</b>
 
 You can listen to Underworld on SoundCloud here: [Underworld (Battle Theme)](https://soundcloud.com/jingleheimer-1/underworld).
 
