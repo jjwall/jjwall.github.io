@@ -15,7 +15,7 @@ layout: default
     />
 </p>
 
-> <b>Thumbnail of our game submission for LD57.</b>
+> Thumbnail of our game submission for LD57.
 
 <i><b>Preface</b></i>
 
@@ -37,7 +37,7 @@ Competitions like this are typically kicked off by announcing a <i>theme</i> or 
     />
 </p>
 
-> <b>Ludum Dare game jam event organization's logo.</b>
+> Ludum Dare game jam event organization's logo.
 
 In the case of <i><b>Ludum Dare</b></i>, and other game jam competitions like it—the mission is to build a video game that is as enjoyable as possible.
 
@@ -63,7 +63,7 @@ While tangible treasures are not the prize, <i>notary</i> and a <i>claim-to-fame
     />
 </p>
 
-> <b>How To Play guide that teaches players how to navigate Pipe World's esoterica of unique glyphs & sigils.</b>
+> How To Play guide that teaches players how to navigate Pipe World's esoterica of unique glyphs & sigils.
 
 <i><b>The Legend of Alchemic “Apples” Appelli</b></i>
 
@@ -89,7 +89,7 @@ It was safe to say <i>I was hooked</i>.
     />
 </p>
 
-> <b>The Comfy Game Dev collective game jamming in Bentonville, AK for LD55. From left to right that's me, Apples, VetaWulf (on the tablet), Monjuleant, Chume & his dog, Karkadan, A-Train, and WiredOverload.</b>
+> The Comfy Game Dev collective game jamming in Bentonville, AK for LD55. From left to right that's me, Apples, VetaWulf (on the tablet), Monjuleant, Chume & his dog, Karkadan, A-Train, and WiredOverload.
 
 Fast forward to today and I’ve participated in <i>dozens</i> of game jam competitions over the years including events like <i>Global Game Jam</i> and <i>Game Maker’s Toolkit</i>.
 
@@ -113,7 +113,7 @@ I call this house <i>Castle de Appelli, “The Labyrinth Dungeon”</i> and you�
     />
 </p>
 
-> <b>A beautifully massive elm tree in one of the front yards attempting to hide the entrance to Castle de Appelli.</b>
+> A beautifully massive elm tree in one of the front yards attempting to hide the entrance to Castle de Appelli.
 
 This is a beautiful home in a neat neighborhood in the Kansas side of Kansas City. There are plenty of great restaurants and activities to do nearby.
 
@@ -145,7 +145,7 @@ I had yet to do a game jam where my sole focus was music so I figured this would
     />
 </p>
 
-> <b>Some chicken scratch we put together during the design cycle on the first day of the competition.</b>
+> Some chicken scratch we put together during the design cycle on the first day of the competition.
 
 With the theme of LD57 announced to be "Depths" to kick off the game jam, the team decided to create a whole universe called <i>Pipe World</i> for our game which we ended up titling, <i>“Is it Wrong to Try to Lay Pipe in a Dungeon?”</i>
 
@@ -165,7 +165,7 @@ Why pipes? Well that’s a great question—one that I think can only be answere
     />
 </p>
 
-> <b>The Dungeon Kitchem and Dungeon Utility Room in the basement of Castle de Appelli. Please note the pipes.</b>
+> The Dungeon Kitchem and Dungeon Utility Room in the basement of Castle de Appelli. Please note the pipes.
 
 With the unique architecture of this beautiful home—we had access to a plethora of sources for inspiration.
 
@@ -183,7 +183,7 @@ To make matters more interesting, newcomer HappyTrollAngus is quite the renaissa
     />
 </p>
 
-> > <b>HappyTrollAngus' handmade bagpipe pipes. The bag we used for these pipes were our own lungs. Consider it a done deal, HappyTrollAngus 🤝 </b>
+> HappyTrollAngus' handmade bagpipe pipes. The bag we used for these pipes were our own lungs. Consider it a done deal, HappyTrollAngus 🤝
 
 The sound of these bagpipe pipes can be heard in our <i>“Pipe World”</i> adventure theme music during the navigation phase of the game which can be also be heard on SoundCloud here: [Pipe World (Adventure Theme](https://soundcloud.com/jingleheimer-1/pipe-world)).
 
@@ -195,7 +195,7 @@ The sound of these bagpipe pipes can be heard in our <i>“Pipe World”</i> adv
     />
 </p>
 
-> <b>The Adventure screen used to navigate the World of Pipes.</b>
+> The Adventure screen used to navigate the World of Pipes.
 
 For the mythology behind this world of pipes, I wrote a <i>Mythopoeia</i>—an origin myth poem of Pipe World titled, <i>“Respect to Ye Old God, Father Time”</i> which you can read in full on my personal site here: [Respect to Ye Old God, Father Time](/writings/poetry/2025/father-time.html).
 
@@ -210,7 +210,7 @@ For the mythology behind this world of pipes, I wrote a <i>Mythopoeia</i>—an o
     />
 </p>
 
-> <b>An AKAI MPK mini that I bought at Guitar Center a few hours before the competition started. I have an AKAI MPK 49 at home but decided not to mess with the hassle of bringing it on the plane with me.</b>
+> An AKAI MPK mini that I bought at Guitar Center a few hours before the competition started. I have an AKAI MPK 49 at home but decided not to mess with the hassle of bringing it on the plane with me.
 
 As the musician of the team, I decided to combine these mythological and poetic gifts the Lord God has bestowed on me and infuse them in the music for the game.
 
@@ -228,7 +228,7 @@ I used part of this poem as the lyrics for another piece of music I composed and
     />
 </p>
 
-> <b>The battle sequence screen you will see when fighting the diverse set of sewer monsters found in Pipe World.</b>
+> The battle sequence screen you will see when fighting the diverse set of sewer monsters found in Pipe World.
 
 You can listen to Underworld on SoundCloud here: [Underworld (Battle Theme)](https://soundcloud.com/jingleheimer-1/underworld).
 
