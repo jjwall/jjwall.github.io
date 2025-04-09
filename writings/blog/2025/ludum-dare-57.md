@@ -69,7 +69,7 @@ While tangible treasures are not the prize, <i>notary</i> and a <i>claim-to-fame
 
 When Apples’s first introduced me to the concept of <i>game jams</i> back in 2017, my mind was blown. Sure, I had been developing games for about sixteen years at that point in my life—but never in my wildest dreams was I thinking I could build an entire game in 72 hours! That was absolutely unimaginable to me.
 
-Well, Alchemic “Apples” Appelli showed me the way to this potential reality. I joined up for LD41 as my first ever game jam experience along with him and one other and we created “Drunkest Dungeon" together.
+Well, Alchemic “Apples” Appelli showed me the way to this potential reality. He recruited me along with one other to compete in LD40 as my first ever game jam experience and together we created “Drunkest Dungeon."
 
 <!-- TODO: Link to Drunkest Dungeon? -->
 
