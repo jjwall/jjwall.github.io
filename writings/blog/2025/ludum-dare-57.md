@@ -73,7 +73,7 @@ Well, Alchemic “Apples” Appelli showed me the way to this potential reality.
 
 <!-- TODO: Link to Drunkest Dungeon? -->
 
-In my first ever competition, we successfully submitted a game fashioned with art, music, visual & sound effects, as well as actual gameplay and system mechanics. While our placement wasn’t stellar, I could’ve cared less.
+In my first ever competition, we successfully submitted a game fashioned with art, music, level design, visual & sound effects, as well as actual gameplay and system mechanics. While our placement wasn’t stellar, I could’ve cared less.
 
 It was safe to say <i>I was hooked</i>.
 
