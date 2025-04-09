@@ -197,7 +197,7 @@ The sound of these bagpipe pipes can be heard in our <i>“Pipe World”</i> adv
 
 > The Adventure screen used to navigate the World of Pipes.
 
-For the mythology behind this world of pipes, I wrote a <i>Mythopoeia</i>—an origin myth poem of Pipe World titled, <i>“Respect to Ye Old God, Father Time”</i> which you can read in full on my personal site here: [Respect to Ye Old God, Father Time](/writings/poetry/2025/father-time.html).
+For the mythology behind this World of Pipes, I wrote a <i>Mythopoeia</i>—an origin myth poem of Pipe World titled, <i>“Respect to Ye Old God, Father Time”</i> which you can read in full on my personal site here: [Respect to Ye Old God, Father Time](/writings/poetry/2025/father-time.html).
 
 
 <i><b>The Music Behind Pipe World Continued...</b></i>
