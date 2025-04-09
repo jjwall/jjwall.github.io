@@ -119,7 +119,7 @@ This is a beautiful home in a neat neighborhood on the Kansas side of Kansas Cit
 
 But of course, we didn’t come for any of that. We came for the friendships, the house, and for the Ludum Dare 57 game jam competition!
 
-<i>And what a competition it was.</i>
+> And what a competition it was.
 
 <i><b>Gaps in the Collective</b></i>
 
