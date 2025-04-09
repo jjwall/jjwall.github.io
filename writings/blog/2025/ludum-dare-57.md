@@ -147,7 +147,7 @@ Nicole was able to fill the QA engineering gaps of BigTex beautifully well and w
 
 > Some chicken scratch we put together during the design cycle on the first day of the competition.
 
-With the theme of LD57 announced to be "Depths" to kick off the game jam, the team decided to create a whole universe called <i>Pipe World</i> for our game which we ended up titling, <i>“Is it Wrong to Try to Lay Pipe in a Dungeon?”</i>
+With the theme of LD57 announced to be "Depths" to kick off the game jam, the team decided to create a whole universe called <i>Pipe World</i> for our game which we ended up titling, <i>“Is it Wrong to Try to Lay Pipe in a Sewer Dungeon?”</i>
 
 Why pipes? Well that’s a great question—one that I think can only be answered with a few interior snapshots of the Labyrinth Dungeon that is the Castle de Appelli.
 
