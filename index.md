@@ -71,7 +71,7 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i><b>The Tave
 
 {% include youtube.html id="zpxbBkUNjMY" %}
 
-## <i>Featured Scripture</i>
+## <i>Featured Verses of Scripture</i>
 
 <i>“For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace. Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the LORD of hosts will perform this.” <br>
 Isaiah 9:6-7 KJV</i>
