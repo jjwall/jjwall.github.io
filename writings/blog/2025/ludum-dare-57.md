@@ -240,6 +240,17 @@ To conclude—this hero pulled the winning spade. Indeed, it is fully acceptable
 
 🪐🪈🕰️
 
+<p align="left">
+    <a href="https://ldjam.com/events/ludum-dare/57/is-it-wrong-to-try-to-lay-pipe-in-a-sewer-dungeon">
+      <img
+        alt="Is it Wrong to Try to Lay Pipe in a Sewer Dungeon?"
+        src="/assets/icons/ludum-dare3.png"
+        width="50"
+        style="padding-left:5px;"
+      />
+    </a>
+</p>
+
 <!-- [link to LD blogpost from personal site]
 
 [link to personal site blogpost from LD] -->
