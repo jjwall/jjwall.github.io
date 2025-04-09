@@ -63,7 +63,7 @@ While tangible treasures are not the prize, <i>notary</i> and a <i>claim-to-fame
     />
 </p>
 
-> How To Play guide that teaches players how to navigate Pipe World's esoterica of unique glyphs & sigils.
+> The in-game How To Play guide that teaches players how to navigate Pipe World's esoterica of unique glyphs & sigils.
 
 <i><b>The Legend of Alchemic “Apples” Appelli</b></i>
 
