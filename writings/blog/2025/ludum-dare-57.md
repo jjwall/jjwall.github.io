@@ -15,7 +15,7 @@ layout: default
     />
 </p>
 
-> Thumbnail for our LD57 game jam submission.
+> Thumbnail for our LD57 game jam submission 🤓
 
 <i><b>Preface</b></i>
 
@@ -37,7 +37,7 @@ Competitions like this are typically kicked off by announcing a <i>theme</i> or 
     />
 </p>
 
-> Ludum Dare game jam event organization's logo.
+> Ludum Dare game jam event organization's logo 🕹️
 
 In the case of <i><b>Ludum Dare</b></i>, and other game jam competitions like it—the mission is to build a video game that is as enjoyable as possible.
 
@@ -63,7 +63,7 @@ While tangible treasures are not the prize, <i>notary</i> and a <i>claim-to-fame
     />
 </p>
 
-> The in-game How To Play guide that teaches players how to navigate Pipe World's esoterica of unique glyphs & sigils.
+> The in-game How To Play guide that teaches players how to navigate Pipe World's esoterica of unique glyphs & sigils 📜
 
 <i><b>The Legend of Alchemic “Apples” Appelli</b></i>
 
@@ -77,7 +77,7 @@ In my first ever competition, we successfully submitted a game fashioned with ar
 
 It was safe to say <i>I was hooked</i>.
 
-> I have Apples to thank for mentoring me in many arenas of both game development and high technology over the last eight years of our growing friendship.
+> I have Apples to thank for mentoring me in many arenas of both game development and high technology over the last eight years of our growing friendship 👨‍🏫
 
 <i><b>The Comfy Game Dev Collective</b></i>
 
@@ -89,7 +89,7 @@ It was safe to say <i>I was hooked</i>.
     />
 </p>
 
-> The Comfy Game Dev collective as pioneered by our fearless leader, Apples, game jamming in Bentonville, AK for LD55. From left to right that's me (Gizmolo), Apples, VetaWulf (on the tablet), Monjuleant, Chume & his dog, Karkadan, A-Train, and WiredOverload. A mötley crüe if there ever was one 🙌
+> The Comfy Game Dev collective as pioneered by our fearless leader, Apples, game jamming in Bentonville, AK for LD55. From left to right that's me (Gizmolo), Apples, VetaWulf (on the tablet), Monjuleant, Chume & his dog, Karkadan, A-Train, and WiredOverload. A mötley crüe indeed 🙌
 
 Fast forward to today and I’ve participated in <i>dozens</i> of game jam competitions over the years including events like <i>Global Game Jam</i> and <i>Game Maker’s Toolkit</i>.
 
@@ -113,13 +113,13 @@ I call this house <i>Castle de Appelli, “The Labyrinth Dungeon”</i> and you�
     />
 </p>
 
-> A beautifully massive elm tree in one of the front yards attempting to hide the entrance to Castle de Appelli.
+> A beautifully massive elm tree in one of the front yards attempting to hide the entrance to Castle de Appelli 🏰🌳
 
 This is a beautiful home in a neat neighborhood on the Kansas side of Kansas City. There are plenty of great restaurants and activities to do nearby.
 
 But of course, we didn’t come for any of that. We came for the friendships, the house, and for the Ludum Dare 57 game jam competition!
 
-> And what a competition it was.
+> And what a competition it was 😤
 
 <i><b>Gaps in the Collective</b></i>
 
@@ -133,7 +133,7 @@ We were also missing Comfy Game Dev regulars in <i>BigTexington (BigTex)</i>, an
 
 Nicole was able to fill the QA engineering gaps of BigTex beautifully well and with Veta out, I volunteered to take over the music.
 
-> I had yet to do a game jam where my sole focus was music so I figured this would be an exciting opportunity for me!
+> I had yet to do a game jam where my sole focus was music so I figured this would be an exciting opportunity for me! 🎹
 
 <i><b>Designing the World of Pipes</b></i>
 
@@ -145,7 +145,7 @@ Nicole was able to fill the QA engineering gaps of BigTex beautifully well and w
     />
 </p>
 
-> Some chicken scratch we put together during the design cycle on the first day of the competition.
+> Some chicken scratch we put together during the design cycle on the first day of the competition 📝
 
 With the theme of LD57 announced to be "Depths" to kick off the game jam, the team decided to create a whole universe called <i>Pipe World</i> for our game which we ended up titling, <i>“Is it Wrong to Try to Lay Pipe in a Sewer Dungeon?”</i>
 
@@ -165,11 +165,11 @@ Why pipes? Well that’s a great question—one that I think can only be answere
     />
 </p>
 
-> The Dungeon Kitchem and Dungeon Utility Room in the basement of Castle de Appelli. Please note the pipes!
+> The Dungeon Kitchem and Dungeon Utility Room in the basement of Castle de Appelli. Please note the pipes! 👨‍🔧
 
 With the unique architecture of this beautiful home—we had access to a plethora of sources for inspiration.
 
-> I was quite adamant during our design phase on Friday that if we didn’t feature pipes in our game—I was going to riot.
+> I was quite adamant during our design phase on Friday that if we didn’t feature pipes in our game—I was going to riot 🤬
 
 <i><b>The Music Behind Pipe World</b></i>
 
@@ -195,7 +195,7 @@ The sound of these bagpipe pipes can be heard in our <i>“Pipe World”</i> adv
     />
 </p>
 
-> The Adventure screen used to navigate the World of Pipes.
+> The Adventure screen used to navigate the World of Pipes 🗺️
 
 For the mythology behind this World of Pipes, I wrote a <i>Mythopoeia</i>—an origin myth poem of Pipe World titled, <i>“Respect to Ye Old God, Father Time”</i> which you can read in full on my personal site here: [Respect to Ye Old God, Father Time](/writings/poetry/2025/father-time.html).
 
