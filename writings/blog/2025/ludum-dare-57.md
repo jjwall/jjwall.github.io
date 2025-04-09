@@ -53,7 +53,7 @@ While there's no "prize" for winning best overall or rating high in any of the c
 
 While tangible treasures are not the prize, <i>notary</i> and a <i>claim-to-fame</i> are the true rewards. Game jammers who have rated high in any of the LD submission categories should be proud about their achievements.
 
-> The best rating we’ve achieved thus far was 39th in the “Fun” category for our entry “Tiny Turf Tussle” in the last Ludum Dare competition—LD56.
+> The best rating we’ve achieved thus far was 39th in the “Fun” category for our LD56 entry “Tiny Turf Tussle” 🏆
 
 <p align="center">
     <img
