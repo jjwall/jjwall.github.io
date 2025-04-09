@@ -214,7 +214,7 @@ For the mythology behind this World of Pipes, I wrote a <i>Mythopoeia</i>—an o
 
 As the musician of the team, I decided to combine these mythological and poetic gifts the Lord God has bestowed on me and infuse them in the music for the game.
 
-For the main menu theme, you can hear me give an oral rendition of <i>“Respect to Ye Old God, Father Time”</i> in the game’s song I composed and produced called, <i>“Dead Flowers.”</i>. You can listen to the song on SoundCloud here: [Dead Flowers (Main Theme)](https://soundcloud.com/jingleheimer-1/dead-flowers).
+For the main menu theme, you can hear me give an oral rendition of <i>“Respect to Ye Old God, Father Time”</i> in the game’s song I composed and produced called, <i>“Dead Flowers.”</i> You can listen to the song on SoundCloud here: [Dead Flowers (Main Theme)](https://soundcloud.com/jingleheimer-1/dead-flowers).
 
 I wrote one other poem for the game that came to me during the third day of the competition titled, “I am the Wayshower” which is both a strange and mystical poem about the paradox of truth. You can also read that poem in full here: [I am the Wayshower](/writings/poetry/2025/the-wayshower.html).
 
