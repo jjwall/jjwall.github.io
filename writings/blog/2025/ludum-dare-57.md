@@ -185,7 +185,7 @@ To make matters more interesting, newcomer HappyTrollAngus is quite the renaissa
 
 > HappyTrollAngus' handmade bagpipe pipes. The bag we used for these pipes were our own lungs. Consider it a done deal, HappyTrollAngus 🤝
 
-The sound of these bagpipe pipes can be heard in our <i>“Pipe World”</i> adventure theme music during the navigation phase of the game which can be also be heard on SoundCloud here: [Pipe World (Adventure Theme](https://soundcloud.com/jingleheimer-1/pipe-world)).
+The sound of these bagpipe pipes can be heard in our <i>“Pipe World”</i> adventure theme music during the navigation phase of the game which can also be heard on SoundCloud here: [Pipe World (Adventure Theme](https://soundcloud.com/jingleheimer-1/pipe-world)).
 
 <p align="center">
     <img
