@@ -100,7 +100,7 @@ This dungeon’s yours.<br>
         alt="Is it Wrong to Try to Lay Pipe in a Sewer Dungeon?"
         src="/assets/icons/ludum-dare.png"
         width="50"
-        style="padding-left:5px;padding-bottom:10px;"
+        style="padding-left:4px;padding-bottom:10px;"
       />
     </a>
 </p>
