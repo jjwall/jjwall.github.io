@@ -115,7 +115,7 @@ I call this house <i>Castle de Appelli, “The Labyrinth Dungeon”</i> and you�
 
 > A beautifully massive elm tree in one of the front yards attempting to hide the entrance to Castle de Appelli.
 
-This is a beautiful home in a neat neighborhood in the Kansas side of Kansas City. There are plenty of great restaurants and activities to do nearby.
+This is a beautiful home in a neat neighborhood on the Kansas side of Kansas City. There are plenty of great restaurants and activities to do nearby.
 
 But of course, we didn’t come for any of that. We came for the friendships, the house, and for the competition!
 
