@@ -108,7 +108,7 @@ I call this house <i>Castle de Appelli, “The Labyrinth Dungeon”</i> and you�
 <p align="center">
     <img
         alt="Elm Tree in front of Castle de Appelli"
-        src="/assets/writings/blog/2025/ludum-dare-57/castle-elm-tree.png"
+        src="/assets/writings/blog/2025/ludum-dare-57/castle-elm-tree.jpg"
         width="400"
     />
 </p>
