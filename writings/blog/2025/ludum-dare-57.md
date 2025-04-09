@@ -161,7 +161,7 @@ Why pipes? Well that’s a great question—one that I think can only be answere
         alt="The Dungeon's Kitchen"
         src="/assets/writings/blog/2025/ludum-dare-57/dungeon-kitchen.jpg"
         width="200"
-        style="padding-left:25px;padding-top:75px"
+        style="padding-left:25px;"
     />
 </p>
 
