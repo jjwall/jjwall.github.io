@@ -89,7 +89,7 @@ It was safe to say <i>I was hooked</i>.
     />
 </p>
 
-> The Comfy Game Dev collective as pioneered by our fearless leader, Apples, game jamming in Bentonville, AK for LD55. From left to right that's me, Apples, VetaWulf (on the tablet), Monjuleant, Chume & his dog, Karkadan, A-Train, and WiredOverload. A mötley crüe if there ever was one 🙌
+> The Comfy Game Dev collective as pioneered by our fearless leader, Apples, game jamming in Bentonville, AK for LD55. From left to right that's me (Gizmolo), Apples, VetaWulf (on the tablet), Monjuleant, Chume & his dog, Karkadan, A-Train, and WiredOverload. A mötley crüe if there ever was one 🙌
 
 Fast forward to today and I’ve participated in <i>dozens</i> of game jam competitions over the years including events like <i>Global Game Jam</i> and <i>Game Maker’s Toolkit</i>.
 
