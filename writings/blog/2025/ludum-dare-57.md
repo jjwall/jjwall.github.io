@@ -245,7 +245,7 @@ To conclude—this hero pulled the winning spade. Indeed, it is fully acceptable
       <img
         alt="Is it Wrong to Try to Lay Pipe in a Sewer Dungeon?"
         src="/assets/icons/ludum-dare.png"
-        width="75"
+        width="50"
       />
     </a>
 </p>
