@@ -32,18 +32,10 @@ Competitions like this are typically kicked off by announcing a <i>theme</i> or 
 <p align="center">
     <img
         alt="Ludum Dare Logo"
-        src="/assets/writings/blog/2025/ludum-dare-57/ludum-dare-logo.png"
-        width="600"
-    />
-</p>
-
-<!-- <p align="center">
-    <img
-        alt="Ludum Dare Logo"
         src="/assets/logos/ludum-dare-logo.png"
         width="600"
     />
-</p> -->
+</p>
 
 > Ludum Dare game jam event organization's logo 🕹️
 
