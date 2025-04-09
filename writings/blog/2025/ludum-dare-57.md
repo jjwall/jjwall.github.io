@@ -129,7 +129,7 @@ We were anticipating Chume joining us, but with last minute work obligations, he
 
 > Rest in peace our dearest friend, Chume 😌
 
-We were also missing Comfy Game Dev regulars in <i>BigTexington</i>, an artist and play tester extraordinaire, <i>xxAtrain223</i> AKA "A-Train," an impressive programmer, sysadmin, and well-rounded full-stack engineer, and <i>VetaWulf</i>, our extremely talented musician friend.
+We were also missing Comfy Game Dev regulars in <i>BigTexington</i>, an artist and QA engineer extraordinaire, <i>xxAtrain223</i> AKA "A-Train," an impressive programmer, sysadmin, and well-rounded full-stack engineer, and <i>VetaWulf</i>, our extremely talented musician friend.
 
 Nicole was able to fill the gaps of BigTex beautifully well and with Veta out, I volunteered to take over the music.
 
