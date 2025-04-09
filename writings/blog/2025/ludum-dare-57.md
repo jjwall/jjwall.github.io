@@ -15,7 +15,7 @@ layout: default
     />
 </p>
 
-> Thumbnail of our game submission for LD57.
+> Thumbnail for our LD57 game jam submission.
 
 <i><b>Preface</b></i>
 
