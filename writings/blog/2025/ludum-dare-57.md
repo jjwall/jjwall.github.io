@@ -169,7 +169,7 @@ Why pipes? Well that’s a great question—one that I think can only be answere
 
 With the unique architecture of this beautiful home—we had access to a plethora of sources for inspiration.
 
-> I was quite adamant during the design phase of Friday that if we didn’t feature pipes in our game—I was going to riot.
+> I was quite adamant during our design phase on Friday that if we didn’t feature pipes in our game—I was going to riot.
 
 <i><b>The Music Behind Pipe World</b></i>
 
