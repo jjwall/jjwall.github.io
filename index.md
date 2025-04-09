@@ -5,6 +5,24 @@ layout: default
 <b>Home</b> | <b>[Writings](./writings.html)</b> | <b>[Projects](./projects.html)</b> | <b>[Art](./art.html)</b> | <b>[Resume](./resume.html)</b>
 * * *
 
+## <i>Biography</i>
+<i><b>Jacob James Wallace</b></i><br>
+<i>Artist & Entrepreneur</i><br>
+🕹️ Video Game Developer 🤓 <br>
+👨🏼‍💻 Cyber Al Engineering 🤖 <br>
+🐑 Follower of The Way 🦁 <br>
+🎹 Music Producer 🥁 <br>
+🎮 Soul Gamer 🌟 <br>
+⛰️ Terra Firma 🏔️ <br>
+📝 Author ✍️ <br>
+
+> Life is Good. <br>
+God is Great. <br>
+I am Happy! <br>
+I am Healthy! <br>
+I am WHOLE! <br>
+And Love is my Religion.<br>
+
 ## <i>Immanuel is The Prince of Peace</i>
 {% include youtube.html id="pWTPRvoW-vo" %}
 
@@ -53,25 +71,7 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i><b>The Tave
 
 {% include youtube.html id="zpxbBkUNjMY" %}
 
-~ ~ ~
-
-## <i>Biography</i>
-<i><b>Jacob James Wallace</b></i><br>
-<i>Artist & Entrepreneur</i><br>
-🕹️ Video Game Developer 🤓 <br>
-👨🏼‍💻 Cyber Al Engineering 🤖 <br>
-🐑 Follower of The Way 🦁 <br>
-🎹 Music Producer 🥁 <br>
-🎮 Soul Gamer 🌟 <br>
-⛰️ Terra Firma 🏔️ <br>
-📝 Author ✍️ <br>
-
-> Life is Good. <br>
-God is Great. <br>
-I am Happy! <br>
-I am Healthy! <br>
-I am WHOLE! <br>
-And Love is my Religion.<br>
+## <i>Featured Scripture</i>
 
 <i>“For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace. Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the LORD of hosts will perform this.” <br>
 Isaiah 9:6-7 KJV</i>
