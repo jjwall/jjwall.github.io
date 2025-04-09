@@ -123,7 +123,7 @@ But of course, we didn’t come for any of that. We came for the friendships, th
 
 <i><b>Gaps in the Collective</b></i>
 
-Of the Comfy Game Dev collective, those who were able to make it were myself, <i>Apples</i>, <i>Nicole</i> (Minku), <i>WiredOverload</i>, <i>Karkadan</i>, <i>Montjuleant</i>, and newcomer, <i>HappyTrollAngus</i>, who has been a wonderful addition to the collective.
+Of the Comfy Game Dev collective, those who were able to make it were myself (<i>Gizmolo</i>), <i>Apples</i>, <i>Nicole</i> (Minku), <i>WiredOverload</i>, <i>Karkadan</i>, <i>Montjuleant</i>, and newcomer, <i>HappyTrollAngus</i>, who has been a wonderful addition to the collective.
 
 We were anticipating Chume joining us, but with last minute work obligations, he was unfortunately unable to attend.
 
