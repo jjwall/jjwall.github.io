@@ -8,6 +8,7 @@ description:
         alt="Jake Wallace's YouTube Profile"
         src="/assets/icons/youtube.png"
         width="50"
+        style="padding-top:2px;"
       />
     </a>
     <a href="https://www.instagram.com/jakewallace.io/">     
@@ -38,7 +39,7 @@ description:
       <img
         alt="Jake (Gizmolo) Wallace's Ludum Dare Game Submissions"
         src="/assets/icons/ludum-dare.png"
-        width="45"
+        width="50"
         style="padding-left:4px;padding-bottom:8px;"
       />
     </a>
