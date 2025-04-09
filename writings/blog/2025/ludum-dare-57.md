@@ -117,7 +117,7 @@ I call this house <i>Castle de Appelli, “The Labyrinth Dungeon”</i> and you�
 
 This is a beautiful home in a neat neighborhood on the Kansas side of Kansas City. There are plenty of great restaurants and activities to do nearby.
 
-But of course, we didn’t come for any of that. We came for the friendships, the house, and for the competition!
+But of course, we didn’t come for any of that. We came for the friendships, the house, and for the Ludum Dare 57 game jam competition!
 
 <i>And what a competition it was.</i>
 
