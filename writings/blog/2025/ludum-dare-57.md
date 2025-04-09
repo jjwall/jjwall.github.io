@@ -43,7 +43,7 @@ In the case of <i><b>Ludum Dare</b></i>, and other game jam competitions like it
 
 Participants of the competition attempt to get high ratings in categories including: fun, innovation, theme, graphics, audio, humor, mood, and the overall rating of the game.
 
-Outside of being just a "competitor," in order for a team or solo developer to be considered a successful entrant to the competition, competitors must submit their game before the 72-hour clock strikes 0:00. 
+Outside of being just a "competitor," in order for a team or solo developer to be considered a <i>successful entrant</i> to the competition, competitors must submit their game before the 72-hour clock strikes 0:00. 
 
 Successful entrants get judged on the above categories by other successful entrants within the Ludum Dare community for the given competition. Participants compete online against other teams or solo entrants in the echelons of ~6000 total competitors.
 
