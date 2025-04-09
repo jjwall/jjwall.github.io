@@ -216,7 +216,7 @@ As the musician of the team, I decided to combine these mythological and poetic 
 
 For the main menu theme, you can hear me give an oral rendition of <i>“Respect to Ye Old God, Father Time”</i> in the game’s song I composed and produced called, <i>“Dead Flowers.”</i> You can listen to the song on SoundCloud here: [Dead Flowers (Main Theme)](https://soundcloud.com/jingleheimer-1/dead-flowers).
 
-I wrote one other poem for the game that came to me during the third day of the competition titled, “I am the Wayshower” which is both a strange and mystical poem about the paradox of truth. You can also read that poem on my site here: [I am the Wayshower](/writings/poetry/2025/the-wayshower.html).
+I wrote one other poem for the game that came to me during the third day of the competition titled, <i>“I am the Wayshower,”</i> which is both a strange and mystical poem about the paradox of truth. You can also read that poem on my site here: [I am the Wayshower](/writings/poetry/2025/the-wayshower.html).
 
 I used part of this poem as the lyrics for another piece of music I composed and produced for the game titled, <i>“Underworld,”</i> which plays during battle sequences.
 
