@@ -45,9 +45,7 @@ Participants of the competition attempt to get high ratings in categories includ
 
 Outside of being just a "competitor," in order for a team or solo developer to be considered a successful entrant to the competition, competitors must submit their game before the 72-hour clock strikes 0:00. 
 
-Successful entrants get judged on the above categories by other successful entrants within the Ludum Dare community for the given competition.
-
-Participants compete online against other teams or solo participants in the echelons of ~6000 competitors.
+Successful entrants get judged on the above categories by other successful entrants within the Ludum Dare community for the given competition. Participants compete online against other teams or solo entrants in the echelons of ~6000 total competitors.
 
 While there's no "prize" for winning best overall or rating high in any of the categories—Ludum Dare is considered a prestigious game jam competition among grassroots and indie game developers alike. 
 
@@ -71,15 +69,15 @@ While tangible treasures are not the prize, <i>notary</i> and a <i>claim-to-fame
 
 When Apples’s first introduced me to the concept of <i>game jams</i> back in 2017, my mind was blown. Sure, I had been developing games for about sixteen years at that point in my life—but never in my wildest dreams was I thinking I could build an entire game in 72 hours! That was absolutely unimaginable to me.
 
-Well, Alchemic “Apples” Appelli showed me the way to this potential reality. I joined up for LD41 as my first ever game jam experience along with him and one other and we created “Drunkest Dungeon together.
+Well, Alchemic “Apples” Appelli showed me the way to this potential reality. I joined up for LD41 as my first ever game jam experience along with him and one other and we created “Drunkest Dungeon" together.
 
 <!-- TODO: Link to Drunkest Dungeon? -->
 
-In my first ever competition, we successfully submitted a game fashioned with art, music, visual & sound effects, as well as actual gameplay and system mechanics.
+In my first ever competition, we successfully submitted a game fashioned with art, music, visual & sound effects, as well as actual gameplay and system mechanics. While our placement wasn’t stellar, I could’ve cared less.
 
-While our placement wasn’t stellar, I could’ve cared less. It was safe to say <i>I was hooked</i>.
+It was safe to say <i>I was hooked</i>.
 
-I have Apples to thank for mentoring me in many arenas of game development and high technology over the last eight years of our growing friendship.
+> I have Apples to thank for mentoring me in many arenas of both game development and high technology over the last eight years of our growing friendship.
 
 <i><b>The Comfy Game Dev Collective</b></i>
 
@@ -149,7 +147,7 @@ I had yet to do a game jam where my sole focus was music so I figured this would
 
 > <b>Some chicken scratch we put together during the design cycle on the first day of the competition.</b>
 
-What the team ended up creating for LD57 was a whole universe called <i>Pipe World</i> for our game titled, <i>“Is it Wrong to Try to Lay Pipe in a Dungeon?”</i>
+With the theme of LD57 announced to be "Depths" to kick off the game jam, the team decided to create a whole universe called <i>Pipe World</i> for our game which we ended up titling, <i>“Is it Wrong to Try to Lay Pipe in a Dungeon?”</i>
 
 Why pipes? Well that’s a great question—one that I think can only be answered with a few interior snapshots of the Labyrinth Dungeon that is the Castle de Appelli.
 
@@ -171,7 +169,7 @@ Why pipes? Well that’s a great question—one that I think can only be answere
 
 With the unique architecture of this beautiful home—we had access to a plethora of sources for inspiration.
 
-I was quite adamant during the design phase of Friday that if we didn’t feature pipes in our game—I was going to riot.
+> I was quite adamant during the design phase of Friday that if we didn’t feature pipes in our game—I was going to riot.
 
 <i><b>The Music Behind Pipe World</b></i>
 
@@ -187,7 +185,7 @@ To make matters more interesting, newcomer HappyTrollAngus is quite the renaissa
 
 > > <b>HappyTrollAngus' handmade bagpipe pipes. The bag we used for these pipes were our own lungs. Consider it a done deal, HappyTrollAngus 🤝 </b>
 
-The sound of these bagpipe pipes can be heard in our <i>“Pipe World”</i> adventure theme music during the navigation phase of the game which can be heard on SoundCloud here: [Pipe World (Adventure Theme](https://soundcloud.com/jingleheimer-1/pipe-world)).
+The sound of these bagpipe pipes can be heard in our <i>“Pipe World”</i> adventure theme music during the navigation phase of the game which can be also be heard on SoundCloud here: [Pipe World (Adventure Theme](https://soundcloud.com/jingleheimer-1/pipe-world)).
 
 <p align="center">
     <img
