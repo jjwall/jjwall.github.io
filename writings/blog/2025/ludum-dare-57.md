@@ -246,7 +246,6 @@ To conclude—this hero pulled the winning spade. Indeed, it is fully acceptable
         alt="Is it Wrong to Try to Lay Pipe in a Sewer Dungeon?"
         src="/assets/icons/ludum-dare3.png"
         width="50"
-        style="padding-left:5px;"
       />
     </a>
 </p>
