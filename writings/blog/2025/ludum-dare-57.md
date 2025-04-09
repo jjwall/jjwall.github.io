@@ -210,7 +210,7 @@ For the mythology behind this World of Pipes, I wrote a <i>Mythopoeia</i>—an o
     />
 </p>
 
-> An AKAI MPK mini that I bought at Guitar Center a few hours before the competition started. I have an AKAI MPK 49 at home but decided not to mess with the hassle of bringing it on the plane with me.
+> An AKAI MPK mini that I bought at Guitar Center a few hours before the competition started. I have an AKAI MPK 49 at home but decided not to mess with the hassle of bringing it on the plane with me ✈️
 
 As the musician of the team, I decided to combine these mythological and poetic gifts the Lord God has bestowed on me and infuse them in the music for the game.
 
