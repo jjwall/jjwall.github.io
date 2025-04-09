@@ -131,9 +131,9 @@ We were anticipating Chume joining us, but with last minute work obligations, he
 
 We were also missing Comfy Game Dev regulars in <i>BigTexington (BigTex)</i>, an artist and QA engineer extraordinaire, <i>xxAtrain223 (A-Train)</i>, an impressive programmer, sysadmin, and well-rounded full stack engineer, and <i>VetaWulf (Veta)</i>, our extremely talented musician friend.
 
-Nicole was able to fill the gaps of BigTex beautifully well and with Veta out, I volunteered to take over the music.
+Nicole was able to fill the QA engineering gaps of BigTex beautifully well and with Veta out, I volunteered to take over the music.
 
-I had yet to do a game jam where my sole focus was music so I figured this would be an exciting opportunity for me!
+> I had yet to do a game jam where my sole focus was music so I figured this would be an exciting opportunity for me!
 
 <i><b>Designing the World of Pipes</b></i>
 
