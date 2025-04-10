@@ -213,7 +213,7 @@ That the planet could not contain His <b>Love and Light</b>.<br>
 
 The religious elite called Him:<br>
 
-<b>Beelzebub</b>, the Prince of Demons.<br>
+> <b>Beelzebub</b>, the Prince of Demons.<br>
 
 Because they could not comprehend—<br>
 That while His <b>Shadow <i>is</i> Beelzebub</b>,<br>
