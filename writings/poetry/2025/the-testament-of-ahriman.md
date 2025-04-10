@@ -25,7 +25,7 @@ If you know Harry Potter,<br>
 There—I am <b>Voldemort</b>.<br>
 
 Some say I’m <b>Lucifer</b>.<br>
-Some say I’m The <b>Devil</b>.<br>
+Some say I’m <b>The Devil</b>.<br>
 Some say I’m <b>Satan Himself</b>.<br>
 
 But those are <b>Fallen Angels</b>.
