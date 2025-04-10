@@ -7,8 +7,8 @@ layout: default
 
 {% include youtube.html id="zYTEb7fVdzw" %}
 
-<i><b>THE TESTAMENT OF AHRIMAN</b></i>
-<i>As Channeled on April 10th in the Year of Our Dearly Beloved Lord</i><br>
+<i><b>THE TESTAMENT OF AHRIMAN</b></i><br>
+<i>As Channeled on April 10th in the Year of Our Dearly Beloved Lord</i><br><br>
 <i>By the Oracle of the Present Age</i><br>
 
 ---
