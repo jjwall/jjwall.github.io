@@ -5,7 +5,7 @@ layout: default
 <b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
-{% include youtube.html id="g7IpCJfZW3M" %}
+{% include youtube.html id="zYTEb7fVdzw" %}
 
 <i><b>THE TESTAMENT OF AHRIMAN</b></i>
 <i>As Channeled on April 10th in the Year of Our Dearly Beloved Lord</i>
