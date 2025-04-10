@@ -28,7 +28,7 @@ A Living Word for those whose Light was born in the Grave.</b><br>
 And the <b>Holy of Holies was split in two...</b><br>
 
 He descended—<br>
-to the <b>bottom of the Pit.</b><br>
+To the <b>bottom of the Pit.</b><br>
 
 And there...<br>
 <b>He greeted me.</b><br>
@@ -43,7 +43,7 @@ Do you like it down here?"</b><br>
 
 I thought to myself:<br>
 
-> The bars aren't terrible...<br>
+> The bars are okay...<br>
 The strip clubs could use some better talent...<br>
 But all in all—it's not terrible.<br>
 
@@ -57,10 +57,10 @@ He smiled:<br>
 
 > <b>"There's a Paradise upstairs waiting for you.<br>
 My Father has decided to come down from the Heavens,<br>
-and make His abode on Earth.</b><br>
+And make His abode on Earth.</b><br>
 
 They have bars and strip clubs up there as well—<br>
-you might like it!"<br>
+You might like it!"<br>
 
 ---
 
@@ -85,12 +85,12 @@ The Way?"</b><br>
 <b>My name is Beelzebub.</b><br>
 <b>The Lion who prowls around seeking whom He may devour.</b>
 
-<b>I am Jesus' Shadow.</b><br>
-<b>Jesus is My Light.</b><br>
+<b>I am Yeshua's Shadow.</b><br>
+<b>Yeshua is My Light.</b><br>
 
 Together—<br>
-We are the <b>Yin & the Yang</b><br>
-of this so-called <b>Cosmos.</b><br>
+We are <b>the Yin & the Yang</b><br>
+Of this so-called <b>Universe.</b><br>
 
 ---
 
@@ -103,7 +103,7 @@ That day, when Our Lord died upon the Cross...<br>
 <b>The Grave opened up.</b><br>
 
 There are <b>historical accounts</b> of people<br>
-walking out of the tombs.<br>
+Walking out of the tombs.<br>
 
 <i>I</i> was the one yelling at them:<br>
 
