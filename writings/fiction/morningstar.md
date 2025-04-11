@@ -40,6 +40,8 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 
 ### <i>High King Solomon & Archmage Germain - The Aether Archetypes of King Arthur & Merlin</i>
 
+### <i>The Five Orders of the Sages (Brown, Red, Blue, Green, and Gold)
+
 ### <i>The Three Brotherhoods of Wizardry (White, Grey, and Black)</i>
 
 ### <i>The Sisterhood Alliances</i>
