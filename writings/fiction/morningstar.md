@@ -16,7 +16,7 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 
 ### <i>[The Cosmos & Its Divine Beings](./morningstar/the-cosmos.html)</i>
 
-### <i>The Heavens, Aether, and the Underworld</i>
+### <i>The Three Worlds: The Heavens, Aether, and The Underworld</i>
 
 ### <i>The Evil Hosts of Divine Corruption of "The One Who Shall Not Be Named"</i>
 
@@ -40,11 +40,13 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 
 ### <i>The Monsternomicon of the Starblood Lineage</i>
 
-### <i>The Island of Women & Healing</i>
+### <i>The Healing Temples & Rituals of the Island of Women</i>
 
 ### <i>The Emperor-Guru Paul of Aether</i>
 
-### <i>High King Solomon & Archmage Germain - The Aether Archetypes of King Arthur & Merlin</i>
+### <i>The Empress-Oracle Angela of Aether</i>
+
+### <i>High King Solomon & Archmage Germain</i>
 
 ### <i>The Five Orders of the Sages (Brown, Red, Blue, Green, and Gold)
 
