@@ -18,7 +18,7 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 
 ### <i>The Heavens, Aether, and the Underworld</i>
 
-### <i>[The Evil One](./morningstar/the-evil-one.html)</i>
+### <i>The Evil Hosts of Divine Corruption of The One Who Shall Not Be Named</i>
 
 ### <i>The Temples</i>
 
@@ -58,4 +58,6 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 
 ### <i>The Codex of the Son of Starblood: The Grimoire of the Starblood Lineage</i>
 
-### <i>The Monsternomicon of the Son of Starblood
+### <i>The Monsternomicon of the Son of Starblood</i>
+
+### <i>Fragments of The Lost Holy Scriptures</i>
