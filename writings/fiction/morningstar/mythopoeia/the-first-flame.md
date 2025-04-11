@@ -2,7 +2,7 @@
 layout: default
 ---
 # The First Flame
-<b>[Back to Mythopoeia of Morningstar](/fiction/morningstar/mythopoeia.html)</b>
+<b>[Back to Mythopoeia of Morningstar](/writings/fiction/morningstar/mythopoeia.html)</b>
 * * *
 
 <i><b>“The First Flame”</b></i><br>
