@@ -18,7 +18,7 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 
 ### <i>The Heavens, Aether, and the Underworld</i>
 
-### <i>The Evil One</i>
+### <i>[The Evil One](./morningstar/the-evil-one.html)</i>
 
 ### <i>The Temples</i>
 
