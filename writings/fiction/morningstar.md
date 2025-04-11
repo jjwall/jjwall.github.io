@@ -13,6 +13,10 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 
 ## Contents
 ### <i>[Mythopoeia](./morningstar/mythopoeia.html)</i>
+
+### <i>Mythology</i>
+
+### <i>The Cosmos & Its Divine Beings</i>
 ...
 
 <!-- ### <i>[Morningstar Mythology](./fiction/morningstar.html)</i>
