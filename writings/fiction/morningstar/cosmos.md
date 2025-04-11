@@ -5,16 +5,16 @@ layout: default
 <b>[Back to Morningstar Mythology](/writings/fiction/morningstar.html)</b>
 * * *
 
-## Contents
+## Table of Contents
 
-### Divine God-Heads
-* The Tetragrammaton known as A.N.I.E.
+### Divine Godheads
+* The Four-Fold Godhead known as A.N.I.E.
 * The Holy Trinity of Life, Death, & Rebirth
-* Aionel
-* Noqriel
-* Ithriel
-* Eheial
-* The One True God's True Name, Elarion
+* Aionel, The God of Life
+* Noqriel, The God of Death
+* Ithriel, The God of Rebirth
+* Eheial, The Hidden God
+* The One True Godhead's Unknown Name (Elarion)
 * The Evil One
 
 ### The 5 Seraphic Orders
@@ -26,8 +26,23 @@ layout: default
 ### The 7 Archangels
 ...
 
-### The 72 Fallen
+### The 24 Elders
 ...
 
-### The 72 Redeemed
+### The 36 Principalities
+...
+
+### The 64 Keys of the Keysmiths
+...
+
+### The 72 Fallen Angels
+...
+
+### The 72 Redeemed Gods & Goddesses
+...
+
+### The 88 Prayers of the Warrior-Saint
+...
+
+### The Ancient Ones
 ...
