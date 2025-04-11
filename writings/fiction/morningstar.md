@@ -34,6 +34,12 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 
 ### <i>The Mythical Codex of the Holy Trinity</i>
 
+### <i>The Incarnation Cycle of Starblood Royalty</i>
+
+### <i>The Codex of the Son of Starblood: The Grimoire of the Starblood Lineage</i>
+
+### <i>The Monsternomicon of the Starblood Lineage</i>
+
 ### <i>The Island of Women & Healing</i>
 
 ### <i>The Emperor-Guru Paul of Aether</i>
@@ -48,7 +54,7 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 
 ### <i>Indigenious Tribes & Ancient Societies</i>
 
-### <i>The Hidden Religion and Its Oral Traditions</i>
+### <i>The Religion of "The Hidden Ones" and their Oral Traditions</i>
 
 ### <i>Fragments of the Lost Holy Scriptures</i>
 
@@ -81,9 +87,3 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 ### <i>The Aether Cartels & The Black Markets</i>
 
 ### <i>The Tongue of the Starblood</i>
-
-### <i>The Incarnation Cycle of Starblood Royalty</i>
-
-### <i>The Codex of the Son of Starblood: The Grimoire of the Starblood Lineage</i>
-
-### <i>The Monsternomicon of the Starblood Lineage</i>
