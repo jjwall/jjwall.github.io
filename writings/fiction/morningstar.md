@@ -20,6 +20,8 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 
 ### <i>The Evil Hosts of Divine Corruption of The One Who Shall Not Be Named</i>
 
+### <i>Myths, Legends, & Folklore</i>
+
 ### <i>The Temples</i>
 
 ### <i>The Corruption & Redemption of the Temples</i>
@@ -43,6 +45,8 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 ### <i>Indigenious Tribes & Ancient Societies</i>
 
 ### <i>The Hidden Religion and Its Oral Traditions</i>
+
+### <i>Fragments of the Lost Holy Scriptures</i>
 
 ### <i>The Pantheistic & Minor Religions</i>
 
@@ -77,5 +81,3 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 ### <i>The Codex of the Son of Starblood: The Grimoire of the Starblood Lineage</i>
 
 ### <i>The Monsternomicon of the Starblood Lineage</i>
-
-### <i>Fragments of The Lost Holy Scriptures</i>
