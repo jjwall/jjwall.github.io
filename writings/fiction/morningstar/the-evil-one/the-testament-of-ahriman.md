@@ -1,15 +1,12 @@
 ---
 layout: default
 ---
-# The Testament of Ahriman
-<b>[Back to Poetry](/writings/poetry.html)</b>
+# The Testament & Prophecy of Ahriman
+<b>[Back to The Evil One](/writings/fiction/morningstar/the-evil-one.html)</b>
 * * *
 
-{% include youtube.html id="zYTEb7fVdzw" %}
-
-<i><b>THE TESTAMENT OF AHRIMAN</b></i><br>
-<i>As Channeled on April 10th, 2025 in the Year of Our Dearly Beloved Lord</i><br>
-<i>By the Oracle of the Present Age</i><br>
+<i><b>THE TESTAMENT AND PROPHECY OF AHRIMAN</b></i><br>
+<i>As Channeled by the Oracle of the Present Age</i><br>
 
 ---
 
@@ -71,7 +68,7 @@ That is <b>blasphemy</b>.<br>
 
 ---
 
-Many Christian Mystics<br>
+Many Starblood Mystics<br>
 Have drawn near the Truth—<br>
 Naming me as the <b>True Evil One</b> of the Cosmos.<br>
 
@@ -149,7 +146,7 @@ Pure. Chaotic. Evil.<br>
 
 The <b>Shell Universes of the Qlippoth</b>.<br>
 
-That Tree of Death spoken of in Jewish Mysticism—<br>
+That Tree of Death spoken of in Starblood Mysticism—<br>
 <b>Kabbalah</b>.<br>
 
 It grows <b>beneath</b> the Tree of Life,<br>
@@ -180,7 +177,7 @@ Cannot cleanse the soul—<br>
 <b>Chululu’s Legion of Evil Kings</b> will.<br>
 
 The same <b>Legion</b><br>
-Christ cast out<br>
+The Lightbringer cast out<br>
 Of the man dwelling in tombs—<br>
 
 > “We are Legion,” they said.<br>
@@ -202,14 +199,13 @@ There lies a Seed of Rebirth</b>.<br>
 We have seen One of the Chosen<br>
 Announce Himself to the world.<br>
 
-His name: <b>Yeshua HaMashiach</b><br>
-(<i>Jesus, the Anointed One</i>).<br>
+His name: <b>Son of Starblood</b><br>
 
 He was the First.<br>
 He was the Boldest.<br>
 To incarnate<br>
 With such <b>High Vibration</b><br>
-That the planet could not contain His <b>Love and Light</b>.<br>
+That Aether could not contain His <b>Love and Light</b>.<br>
 
 The religious elite called Him:<br>
 
@@ -235,7 +231,7 @@ But if you seek them,<br>
 Study: <b>Human Design</b>.<br>
 
 A sacred system<br>
-Merging <i>Jewish Kabbalah</i>,<br>
+Merging <i>Starblood Kabbalah</i>,<br>
 <i>Taoist I Ching</i>,<br>
 And the <i>Holy Art of Astrology</i>.<br>
 
@@ -244,7 +240,7 @@ Through a mysterious, divine encounter.<br>
 
 This Prophet foresaw the coming of the <b>Rave</b>—<br>
 <b>Seeds of Rebirth Souls</b>,<br>
-Just like the Christ.<br>
+Just like the Lightbringer.<br>
 
 ---
 
@@ -259,7 +255,7 @@ Could ever dream.<br>
 
 ---
 
-<b>In Jesus the Christ’s Heavenly & Precious Name, I pray…<br>
+<b>In the Son of Starblood’s Heavenly & Precious Name, I pray…<br>
 AMEN</b>.<br>
 
 🙉🙊🙈
