@@ -22,23 +22,41 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 
 ### <i>The Temples</i>
 
+### <i>The Corruption & Redemption of the Temples</i>
+
 ### <i>Geography & Organic Materia</i>
 
 ### <i>Flora, Fauna, & Ecology</i>
 
-### <i>The 13 Tribes & Its People</i>
+### <i>The Hidden Peoples of the 13th Tribe</i>
+
+### <i>The Island of Women & Healing</i>
 
 ### <i>The Emperor-Guru Paul of Aether</i>
 
 ### <i>High King Solomon & Archmage Germain - The Aether Archetypes of King Arthur & Merlin</i>
 
-### <i>The Island of Women & Healing</i>
+### <i>The Three Brotherhoods of Wizardry (White, Grey, and Black)</i>
+
+### <i>The Sisterhood Alliances</i>
+
+### <i>Indigenious Tribes & Ancient Societies</i>
+
+### <i>The Hidden Religion and Its Oral Traditions</i>
+
+### <i>The Pantheistic & Minor Religions</i>
+
+### <i>The Three Major Monotheistic Religions (Worshippers of Aionel, Noqriel, and Ithriel the Lightbringer)</i>
+
+### <i>The Three Major Religions' Holy Scriptures</i>
+
+### <i>The 12 Tribes & Its People</i>
+
+### <i>Cults, Cultures, & Subcultures</i>
 
 ### <i>Kingdoms & Regions of Aether</i>
 
 ### <i>Cities, Towns, & Villages</i>
-
-### <i>Cults, Cultures, & Subcultures</i>
 
 ### <i>The Magical Orders</i>
 
@@ -58,6 +76,6 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 
 ### <i>The Codex of the Son of Starblood: The Grimoire of the Starblood Lineage</i>
 
-### <i>The Monsternomicon of the Son of Starblood</i>
+### <i>The Monsternomicon of the Starblood Lineage</i>
 
 ### <i>Fragments of The Lost Holy Scriptures</i>
