@@ -28,7 +28,7 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 
 ### <i>The 13 Tribes & Its People</i>
 
-### <i>The Emperor-Guru of Aether</i>
+### <i>The Emperor-Guru Paul of Aether</i>
 
 ### <i>High King Solomon & Archmage Germain - The Aether Archetypes of King Arthur & Merlin</i>
 
