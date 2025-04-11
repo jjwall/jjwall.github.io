@@ -18,7 +18,7 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 
 ### <i>The Heavens, Aether, and the Underworld</i>
 
-### <i>The Evil Hosts of Divine Corruption of The One Who Shall Not Be Named</i>
+### <i>The Evil Hosts of Divine Corruption of "The One Who Shall Not Be Named"</i>
 
 ### <i>Myths, Legends, & Folklore</i>
 
