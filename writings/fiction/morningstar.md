@@ -12,7 +12,7 @@ The mythology presented in the contents of this page are of a proto-mythic origi
 I call it: <i><b>The Morningstar Mythology</b></i>.
 
 ## Contents
-
+### <i>[Mythopoeia](./morningstar/mythopoeia.html)</i>
 ...
 
 <!-- ### <i>[Morningstar Mythology](./fiction/morningstar.html)</i>
