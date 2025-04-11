@@ -17,6 +17,9 @@ layout: default
 * The One True Godhead's Unknown Name (Elarion)
 * [The Evil One](./the-cosmos/the-testament-of-ahriman.html)
 
+### The Messiah of Aether
+* The Son of Starblood, the Lightbringer
+
 ### The 5 Seraphic Orders
 ...
 
