@@ -9,8 +9,8 @@ layout: default
 
 ### <i>[Poetry](./writings/poetry.html)</i>
 
+### <i>[Fiction](./writings/fiction.html)</i>
+
 ### <i>[Blogposts](./writings/blog.html)</i>
 
-### <i>[Fictional Excerpts](./writings/fiction.html)</i>
-
-### <i>[Tech Tips](./writings/tips.html)</i>
+### <i>[Tips & Quotes](./writings/tips.html)</i>

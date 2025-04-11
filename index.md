@@ -56,8 +56,8 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i><b>The Tave
 
 [Sincerity by Knox Fortune [Full Production Cover]](https://soundcloud.com/jingleheimer-1/sincerity)
 
-## <i>Featured Fictional Excerpt</i>
-[Conversations with the Divine Feminine, Part I](./writings/fiction/2025/convos-w-df-part-1.html)
+<!-- ## <i>Featured Fictional Excerpt</i>
+[Conversations with the Divine Feminine, Part I](./writings/fiction/2025/convos-w-df-part-1.html) -->
 
 ## <i>Featured Podcast Episode</i>
 
