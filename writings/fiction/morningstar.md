@@ -14,7 +14,7 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 ## Table of Contents
 ### <i>[Mythopoeia](./morningstar/mythopoeia.html)</i>
 
-### <i>The Cosmos & Its Divine Beings</i>
+### <i>[The Cosmos & Its Divine Beings](./morningstar/the-cosmos.html)</i>
 
 ### <i>The Heavens, Aether, and the Underworld</i>
 

@@ -15,7 +15,7 @@ layout: default
 * Ithriel, The God of Rebirth
 * Eheial, The Hidden God
 * The One True Godhead's Unknown Name (Elarion)
-* The Evil One
+* [The Evil One](./cosmos/the-testament-of-ahriman.html)
 
 ### The 5 Seraphic Orders
 ...

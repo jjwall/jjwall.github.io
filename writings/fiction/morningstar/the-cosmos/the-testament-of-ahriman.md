@@ -2,7 +2,7 @@
 layout: default
 ---
 # The Testament & Prophecy of Ahriman
-<b>[Back to The Evil One](/writings/fiction/morningstar/the-evil-one.html)</b>
+<b>[Back to The Cosmos and Its Divine Beings](/writings/fiction/morningstar/the-cosmos.html)</b>
 * * *
 
 <i><b>THE TESTAMENT AND PROPHECY OF AHRIMAN</b></i><br>
