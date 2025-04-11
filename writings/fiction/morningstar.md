@@ -30,6 +30,10 @@ I call it: <i><b>The Morningstar Mythology</b></i>.
 
 ### <i>The Emperor-Guru of Aether</i>
 
+### <i>The Aether Archetypes of King Arthur & Merlin</i>
+
+### <i>The Island of Women & Healing</i>
+
 ### <i>Kingdoms & Regions of Aether</i>
 
 ### <i>Cities, Towns, & Villages</i>
