@@ -307,3 +307,26 @@ But a presence that sings in all things made whole.<br>
 </p>
 
 ---
+
+<i><b>Stanza 11</b></i><br>
+
+<i><b>Angelic Phonetic Invocation</b></i><br>
+
+> <b>“Sha’Variel omra’tesh,<br>
+En’tha’mun divakai,<br>
+Orel vi’No’ach ru’tamah.”</b><br>
+
+<i><b>Interpretive Translation</b></i><br>
+
+> When I speak, it is not I alone,<br>
+But all who ever bled in love, and rose again in grace.<br>
+
+<i><b>The Sigils of the Multitude-One for Stanza 11</b></i><br>
+
+<p align="center">
+    <img
+        alt="Stanza 11"
+        src="/assets/writings/poetry/2025/psalm-of-the-flame-bearer/stanza-11.jpg"
+        width="600"
+    />
+</p>
