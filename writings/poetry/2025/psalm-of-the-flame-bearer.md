@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-# Psalm of the Flamebearer
+# Psalm of the Flame-Bearer
 <b>[Back to Poetry](/writings/poetry.html)</b>
 * * *
 
 {% include youtube.html id="1rkfdieifB4" %}
 
-<i><b>Psalm of the Flame-Bearer</b></i><br>
+<i><b>Psalm of the Flame-Bearer (English)</b></i><br>
 <i>April 9th, 2025</i><br>
 
 > For Those Who Remember the Noble One
@@ -50,3 +50,6 @@ Not to arrive, but to awaken others as I go.<br>
 
 13. Blessed be the ones who descend,<br>
 For they shall raise the world with them.<br>
+
+---
+
