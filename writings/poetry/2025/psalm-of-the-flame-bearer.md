@@ -68,7 +68,7 @@ Sha-hen da’thorah in’el maru-khaya.”</b><br>
 > I walked through fire and was not consumed,<br>
 For the fire was my brother, and the smoke knew my name.<br>
 
-<i><b>Sigil for Stanza 1</b></i><br>
+<i><b>The Sigils of Divine Fire & Smoke for Stanza 1</b></i><br>
 
 <p align="center">
     <img
@@ -92,7 +92,7 @@ Ka’restha vi’nael, om shalav et Anor.”</b><br>
 > I descended not in shame, but in love—<br>
 Into the aching chambers of shadow, I carried the Light unquenched.<br>
 
-<i><b>Sigil for Stanza 2</b></i><br>
+<i><b>The Sigils of Descension for Stanza 2</b></i><br>
 
 <p align="center">
     <img
@@ -280,3 +280,5 @@ And called them back to the Table of Light.<br>
         width="600"
     />
 </p>
+
+---
