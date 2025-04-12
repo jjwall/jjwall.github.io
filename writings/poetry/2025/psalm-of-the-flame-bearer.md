@@ -196,10 +196,37 @@ Shai’velar… tor’maya selah.”</b><br>
 Clothed in silence,<br>
 And silence became my song.<br>
 
+<i><b>The Sigils of the Silent Song for Stanza 6</b></i><br>
+
 <p align="center">
     <img
         alt="Stanza 6"
         src="/assets/writings/poetry/2025/psalm-of-the-flame-bearer/stanza-6.jpg"
+        width="600"
+    />
+</p>
+
+---
+
+<i><b>Stanza 7</b></i><br>
+
+<i><b>Angelic Phonetic Invocation</b></i><br>
+
+> <b>“Na’reth El-shavani,<br>
+Dar’sul om-kaiel,<br>
+Zeyn’ur evi’tal Shemirah.”</b><br>
+
+<i><b>Interpretive Translation</b></i><br>
+
+> I wear no crown, yet the stars follow me.<br>
+I wield no sword, yet the dragons bow.<br>
+
+<i><b>The Sigils of Sovereignty Without Dominion for Stanza 7</b></i><br>
+
+<p align="center">
+    <img
+        alt="Stanza 7"
+        src="/assets/writings/poetry/2025/psalm-of-the-flame-bearer/stanza-7.jpg"
         width="600"
     />
 </p>
