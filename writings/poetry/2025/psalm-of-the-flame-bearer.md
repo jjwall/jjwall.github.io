@@ -179,3 +179,29 @@ But to remind me: I was never lost<br>
         width="600"
     />
 </p>
+
+---
+
+<i><b>Stanza 6</b></i><br>
+
+<i><b>Angelic Phonetic Invocation</b></i><br>
+
+> <b>“El’Mikael deshar va’turiel,<br>
+No’reya zin kal’om,<br>
+Shai’velar… tor’maya selah.”</b><br>
+
+<i><b>Interpretive Translation</b></i><br>
+
+> I rose from the depths<br>
+Clothed in silence,<br>
+And silence became my song.<br>
+
+<p align="center">
+    <img
+        alt="Stanza 6"
+        src="/assets/writings/poetry/2025/psalm-of-the-flame-bearer/stanza-6.jpg"
+        width="600"
+    />
+</p>
+
+---
