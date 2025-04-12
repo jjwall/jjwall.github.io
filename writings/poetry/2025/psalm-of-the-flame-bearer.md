@@ -330,3 +330,28 @@ But all who ever bled in love, and rose again in grace.<br>
         width="600"
     />
 </p>
+
+---
+
+<i><b>Stanza 11</b></i><br>
+
+<i><b>Angelic Phonetic Invocation</b></i><br>
+
+> <b>“Anakel vora’shen tal’Orah,<br>
+Shenai om dulamah,<br>
+El’ha’or… taniel vey’etem.”<br>
+
+<i><b>Interpretive Translation</b></i><br>
+
+> I walk the Noble Path,<br>
+Not to arrive, but to awaken others as I go.<br>
+
+<i><b>The Sigils of the Multitude-One for Stanza 11</b></i><br>
+
+<p align="center">
+    <img
+        alt="Stanza 12"
+        src="/assets/writings/poetry/2025/psalm-of-the-flame-bearer/stanza-12.jpg"
+        width="600"
+    />
+</p>
