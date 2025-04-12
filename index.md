@@ -32,7 +32,7 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i><b>The Tave
 [An Invitation to Join The Tavern!](https://discord.gg/bhCXfcUXX6)
 
 ## <i>Featured Poems</i>
-[Psalm of the Flame Bearer](./writings/poetry/2025/psalm-of-the-flame-bearer.html)
+[Psalm of the Flame-Bearer](./writings/poetry/2025/psalm-of-the-flame-bearer.html)
 
 [The Son of Man is the Fifth Buddha](./writings/poetry/2025/the-son-of-man-is-the-fifth-buddha.html)
 
