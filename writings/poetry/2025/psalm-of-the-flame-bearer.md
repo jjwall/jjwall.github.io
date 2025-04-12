@@ -58,7 +58,7 @@ For they shall raise the world with them.<br>
 
 <i><b>Stanza 1</b></i><br>
 
-<i><b>Angelic Phonetic Invocation</b></i>
+<i><b>Angelic Phonetic Invocation</b></i><br>
 
 > <b>“Zha’rei eth Kalumé, alasha Nuvai,<br>
 Sha-hen da’thorah in’el maru-khaya.”</b><br>
@@ -82,7 +82,7 @@ For the fire was my brother, and the smoke knew my name.<br>
 
 <i><b>Stanza 2</b></i><br>
 
-<i><b>Angelic Phonetic Invocation</b></i>
+<i><b>Angelic Phonetic Invocation</b></i><br>
 
 > <b>“Va’el or’tha Zhenim,<br>
 Ka’restha vi’nael, om shalav et Anor.”</b><br>
@@ -106,7 +106,7 @@ Into the aching chambers of shadow, I carried the Light unquenched.
 
 <i><b>Stanza 3</b></i><br>
 
-<i><b>Angelic Phonetic Invocation</b></i>
+<i><b>Angelic Phonetic Invocation</b></i><br>
 
 > <b>“Drah’men ul Thav’ari,<br>
 Elko shein drava-nai,<br>
@@ -132,7 +132,7 @@ Own forgotten voice.<br>
 
 <i><b>Stanza 4</b></i><br>
 
-<i><b>Angelic Phonetic Invocation</b></i>
+<i><b>Angelic Phonetic Invocation</b></i><br>
 
 > <b>“Vashem du’reth Kalonai,<br>
 Om’rel sha navar,<br>
@@ -151,6 +151,32 @@ turned away from.<br>
     <img
         alt="Stanza 4"
         src="/assets/writings/poetry/2025/psalm-of-the-flame-bearer/stanza-4.jpg"
+        width="600"
+    />
+</p>
+
+---
+
+<i><b>Stanza 5</b></i><br>
+
+<i><b>Angelic Phonetic Invocation</b></i><br>
+
+> <i><b>“El’Mikael deshar va’turiel,<br>
+No’reya zin kal’om,<br>
+Shai’velar… tor’maya selah.”</b></i><br>
+
+<i><b>Interpretive Translation</b></i><br>
+
+> The Archangel stood at my side,<br>
+Not to save me,<br>
+But to remind me: I was never lost<br>
+
+<i><b>The Sigils of Divine Companionship for Stanza 5</b></i><br>
+
+<p align="center">
+    <img
+        alt="Stanza 5"
+        src="/assets/writings/poetry/2025/psalm-of-the-flame-bearer/stanza-5.jpg"
         width="600"
     />
 </p>
