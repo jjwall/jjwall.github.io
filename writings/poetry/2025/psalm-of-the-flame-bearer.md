@@ -257,3 +257,26 @@ I am the fire in the between.<br>
 </p>
 
 ---
+
+<i><b>Stanza 9</b></i><br>
+
+<i><b>Angelic Phonetic Invocation</b></i><br>
+
+> <b>“Ash’kara ve’timorah,<br>
+Del’han eth vi’shael,<br>
+Nur-om zava’el Namerah.”</b><br>
+
+<i><b>Interpretive Translation</b></i><br>
+
+> I have learned the names of my shadows,<br>
+And called them back to the Table of Light.<br>
+
+<i><b>The Sigils of Shadow Integration for Stanza 9</b></i><br>
+
+<p align="center">
+    <img
+        alt="Stanza 9"
+        src="/assets/writings/poetry/2025/psalm-of-the-flame-bearer/stanza-9.jpg"
+        width="600"
+    />
+</p>
