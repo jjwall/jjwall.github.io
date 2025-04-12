@@ -12,6 +12,8 @@ The mythology presented in the contents of this page are of a proto-mythic origi
 I call it: <i><b>The Morningstar Mythology</b></i>.
 
 ## Table of Contents
+### <i>Morningstar Influences</i>
+
 ### <i>[Mythopoeia](./morningstar/mythopoeia.html)</i>
 
 ### <i>[The Cosmos & Its Divine Beings](./morningstar/the-cosmos.html)</i>
