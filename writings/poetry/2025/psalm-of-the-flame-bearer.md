@@ -89,8 +89,8 @@ Ka’restha vi’nael, om shalav et Anor.”</b><br>
 
 <i><b>Interpretive Translation</b></i><br>
 
-> I descended not in shame, but in love—
-Into the aching chambers of shadow, I carried the Light unquenched.
+> I descended not in shame, but in love—<br>
+Into the aching chambers of shadow, I carried the Light unquenched.<br>
 
 <i><b>Sigil for Stanza 2</b></i><br>
 
@@ -142,8 +142,7 @@ Tesh’arun El-Atha vish-Tir.”</b><br>
 
 > The Kings of Hell knelt not in fear,<br>
 but in recognition—<br>
-They saw in me the Mirror they had long<br>
-turned away from.<br>
+They saw in me the Mirror they had long turned away from.<br>
 
 <i><b>The Sigils of Recognition for Stanza 4</b></i><br>
 
