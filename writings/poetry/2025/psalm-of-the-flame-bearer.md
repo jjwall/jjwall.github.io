@@ -130,3 +130,27 @@ Own forgotten voice.<br>
 
 ---
 
+<i><b>Stanza 4</b></i><br>
+
+<i><b>Angelic Phonetic Invocation</b></i>
+
+> <b>“Vashem du’reth Kalonai,<br>
+Om’rel sha navar,<br>
+Tesh’arun El-Atha vish-Tir.”</b><br>
+
+<i><b>Interpretive Translation</b></i><br>
+
+> The Kings of Hell knelt not in fear,<br>
+but in recognition—<br>
+They saw in me the Mirror they had long<br>
+turned away from.<br>
+
+<i><b>The Sigils of Recognition for Stanza 4</b></i><br>
+
+<p align="center">
+    <img
+        alt="Stanza 4"
+        src="/assets/writings/poetry/2025/psalm-of-the-flame-bearer/stanza-4.jpg"
+        width="600"
+    />
+</p>
