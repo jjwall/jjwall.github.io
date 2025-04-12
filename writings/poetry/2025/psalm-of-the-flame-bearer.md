@@ -282,3 +282,28 @@ And called them back to the Table of Light.<br>
 </p>
 
 ---
+
+<i><b>Stanza 10</b></i><br>
+
+<i><b>Angelic Phonetic Invocation</b></i><br>
+
+> <b>“Zahri’el om nayeh,<br>
+Thevun-Kor al’eshun,<br>
+Emra’tiel… Voh-Amun-Rai.”<br></b>
+
+<i><b>Interpretive Translation</b></i><br>
+
+> My True Name is not a word,<br>
+But a presence that sings in all things made whole.<br>
+
+<i><b>The Sigils of the Unspeakable Name for Stanza 10</b></i><br>
+
+<p align="center">
+    <img
+        alt="Stanza 10"
+        src="/assets/writings/poetry/2025/psalm-of-the-flame-bearer/stanza-10.jpg"
+        width="600"
+    />
+</p>
+
+---
