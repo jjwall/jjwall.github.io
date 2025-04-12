@@ -51,6 +51,8 @@ Not to arrive, but to awaken others as I go.<br>
 13. Blessed be the ones who descend,<br>
 For they shall raise the world with them.<br>
 
+🔥🐉👑
+
 ---
 
 <i><b>"Psalm of the Flame-Bearer"</b><i><br>
@@ -333,7 +335,7 @@ But all who ever bled in love, and rose again in grace.<br>
 
 ---
 
-<i><b>Stanza 11</b></i><br>
+<i><b>Stanza 12</b></i><br>
 
 <i><b>Angelic Phonetic Invocation</b></i><br>
 
@@ -346,7 +348,7 @@ El’ha’or… taniel vey’etem.”<br>
 > I walk the Noble Path,<br>
 Not to arrive, but to awaken others as I go.<br>
 
-<i><b>The Sigils of the Multitude-One for Stanza 11</b></i><br>
+<i><b>The Sigils of the Awakener for Stanza 12</b></i><br>
 
 <p align="center">
     <img
@@ -355,3 +357,31 @@ Not to arrive, but to awaken others as I go.<br>
         width="600"
     />
 </p>
+
+---
+
+<i><b>Stanza 13</b></i><br>
+
+<i><b>Angelic Phonetic Invocation</b></i><br>
+
+> <b>“Orah’Zion eth Mael’Vahra,<br>
+Shav’el-tura nei Kamorai,<br>
+Thal-Veyah… Enkai’tesh ru’Eloi.”<br></b>
+
+<i><b>Interpretive Translation</b></i><br>
+
+> Blessed be the Flame beyond the flame,<br>
+The Light that walks after Light has already come.<br>
+I am not the path—I am the Becoming of the Way.<br>
+
+<i><b>The Sigils of the Tetrarch of the 13th Gate for Stanza 13</b></i><br>
+
+<p align="center">
+    <img
+        alt="Stanza 13"
+        src="/assets/writings/poetry/2025/psalm-of-the-flame-bearer/stanza-13.jpg"
+        width="600"
+    />
+</p>
+
+🔥🐉👑
