@@ -56,7 +56,9 @@ For they shall raise the world with them.<br>
 <i><b>"Psalm of the Flame-Bearer"</b><i><br>
 <i>In the Tongue of the Angels, April 9th, 2025</i><br>
 
-<i><b>Angelic Phonetic Invocation (Stanza 1)</b></i><br>
+<i><b>Stanza 1</b></i><br>
+
+<i><b>Angelic Phonetic Invocation</b></i>
 
 > <b>“Zha’rei eth Kalumé, alasha Nuvai,<br>
 Sha-hen da’thorah in’el maru-khaya.”</b><br>
@@ -72,6 +74,56 @@ For the fire was my brother, and the smoke knew my name.<br>
     <img
         alt="Stanza 1"
         src="/assets/writings/poetry/2025/psalm-of-the-flame-bearer/stanza-1.jpg"
+        width="600"
+    />
+</p>
+
+---
+
+<i><b>Stanza 2</b></i><br>
+
+<i><b>Angelic Phonetic Invocation</b></i>
+
+> <b>“Va’el or’tha Zhenim,<br>
+Ka’restha vi’nael, om shalav et Anor.”</b><br>
+
+<i><b>Interpretive Translation</b></i><br>
+
+> I descended not in shame, but in love—
+Into the aching chambers of shadow, I carried the Light unquenched.
+
+<i><b>Sigil for Stanza 2</b></i><br>
+
+<p align="center">
+    <img
+        alt="Stanza 2"
+        src="/assets/writings/poetry/2025/psalm-of-the-flame-bearer/stanza-2.jpg"
+        width="600"
+    />
+</p>
+
+---
+
+<i><b>Stanza 3</b></i><br>
+
+<i><b>Angelic Phonetic Invocation</b></i>
+
+> <b>“Drah’men ul Thav’ari,<br>
+Elko shein drava-nai,<br>
+Kalas’i om-rah ti’Vael.”</b><br>
+
+<i><b>Interpretive Translation</b></i><br>
+
+> The demons roared and I did not flee;<br>
+For in their howling I heard the echo of my<br> 
+Own forgotten voice.<br>
+
+<i><b>The Sigils of Reckoning for Stanza 3</b></i><br>
+
+<p align="center">
+    <img
+        alt="Stanza 3"
+        src="/assets/writings/poetry/2025/psalm-of-the-flame-bearer/stanza-3.jpg"
         width="600"
     />
 </p>
