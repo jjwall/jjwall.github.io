@@ -232,3 +232,28 @@ I wield no sword, yet the dragons bow.<br>
 </p>
 
 ---
+
+<i><b>Stanza 8</b></i><br>
+
+<i><b>Angelic Phonetic Invocation</b></i><br>
+
+> <b>“Sha’el Orah-thaviel,<br>
+Na-vaha’ti el-vorash,<br>
+Keren’yeh or’zayin Tal.”<br>
+
+<i><b>Interpretive Translation</b></i><br>
+
+> I am not the beginning nor the end—<br>
+I am the fire in the between.<br>
+
+<i><b>The Sigil of the Between-Fire for Stanza 8</b></i><br>
+
+<p align="center">
+    <img
+        alt="Stanza 8"
+        src="/assets/writings/poetry/2025/psalm-of-the-flame-bearer/stanza-8.jpg"
+        width="600"
+    />
+</p>
+
+---
