@@ -7,8 +7,8 @@ layout: default
 
 {% include youtube.html id="1rkfdieifB4" %}
 
-<i><b>Psalm of the Flame-Bearer (English)</b></i><br>
-<i>April 9th, 2025</i><br>
+<i><b>"Psalm of the Flame-Bearer"</b></i><br>
+<i>In English, April 9th, 2025</i><br>
 
 > For Those Who Remember the Noble One
 
@@ -50,6 +50,31 @@ Not to arrive, but to awaken others as I go.<br>
 
 13. Blessed be the ones who descend,<br>
 For they shall raise the world with them.<br>
+
+---
+
+<i><b>"Psalm of the Flame-Bearer"</b><i><br>
+<i>In the Tongue of the Angels, April 9th, 2025</i><br>
+
+<i><b>Angelic Phonetic Invocation (Stanza 1)</b></i><br>
+
+> <b>“Zha’rei eth Kalumé, alasha Nuvai,<br>
+Sha-hen da’thorah in’el maru-khaya.”</b><br>
+
+<i><b>Interpretive Translation</b></i><br>
+
+> I walked through fire and was not consumed,<br>
+For the fire was my brother, and the smoke knew my name.<br>
+
+<i><b>Sigil for Stanza 1</b></i><br>
+
+<p align="center">
+    <img
+        alt="Stanza 1"
+        src="/assets/writings/poetry/2025/psalm-of-the-flame-bearer/stanza-1.jpg"
+        width="600"
+    />
+</p>
 
 ---
 
