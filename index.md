@@ -32,13 +32,15 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i><b>The Tave
 [An Invitation to Join The Tavern!](https://discord.gg/bhCXfcUXX6)
 
 ## <i>Featured Poems</i>
+[Psalm of the Flame Bearer](./writings/poetry/2025/psalm-of-the-flame-bearer.html)
+
 [The Son of Man is the Fifth Buddha](./writings/poetry/2025/the-son-of-man-is-the-fifth-buddha.html)
+
+[My Name is Ishmael](./writings/poetry/2025/my-name-is-ishmael.html)
 
 [I am the Wayshower](./writings/poetry/2025/the-wayshower.html)
 
 [Respect to Ye Old God, Father Time](./writings/poetry/2025/father-time.html)
-
-[My Name is Ishmael](./writings/poetry/2025/my-name-is-ishmael.html)
 
 ## <i>Featured Blogposts</i>
 [Ludum Dare 57: The Inspiration Behind Pipe World & Comfy Game Dev's Submission for the 72-Hour Game Jam](./writings/blog/2025/ludum-dare-57.html)
