@@ -45,7 +45,7 @@ Engineering manager over all of Cyber AI’s internally developed innovation pro
 ---
 
 <b>Lead Software Developer, Application Modernization & Innovation</b><br>
-<i>Washington, D.C., August 2021 - October 2024</i>
+<i>Washington, D.C., August 2021 - October 2021</i>
 * Tech used: TypeScript, Angular, Node.js, NPM, Webpack, MongoDb, VS Code, Git, GitHub
 * Led development efforts as part of the JAIMI Cross-Military CRM project categorizing weapon systems data across all US Alliances stored in NIPR and SIPR networks.
 
