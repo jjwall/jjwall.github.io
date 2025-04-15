@@ -113,6 +113,24 @@ tokenizing existing and newly added credit card data.
 ---
 
 # Volunteer Service
+## Boardhouse Technology Academy
+<p align="center">
+    <img
+        alt="Boardhouse Technology Academy"
+        src="./assets/logos/bta-logo-2.jpg"
+        width="300"
+    />
+</p>
+
+<b>Founder, Senior Code Mentor </b><br>
+<i>San Diego, CA, October 2022 - January 2024</i>
+* Founded and led a coding mentorship academy offering both paid and scholarship-based “Zero-to-Hero” programs for aspiring and pivoting software developers.
+* Designed, developed, and taught the proprietary Boardhouse Technology Academy Coding Curriculum, guiding students from beginner to industry-ready.
+* Mentored students across all career stages—from first-time coders to experienced professionals seeking upward mobility in the tech industry.
+* Recruited and led a volunteer team of Code Mentors and Executive Student Success Coaches to support mentees’ technical growth and job readiness.
+* Advised students on navigating alternative education pathways and bootcamps, tailoring recommendations to individual financial, time, and learning needs.
+* Supported multiple mentees in securing six-figure job offers, contributing to a high-impact success rate within the Academy’s active period.
+
 ## Codum
 <p align="center">
     <img
