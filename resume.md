@@ -39,7 +39,7 @@ Whether you’re building the next-gen cyber AI platform or seeking operational 
 <i>Cyber Innovations Portfolio (Direct Report to COO, Cyber AI)</i><br>
 <i>San Francisco, CA, April 2025 - Current</i><br>
 * Lead a cross-functional team of engineers and technologists across DevSecOps, MLOps, LLMOps, full stack, QA, test automation, project delivery, and compliance disciplines
-* Oversee the full asset development lifecycle from ideation through business and technical design, team formation and staffing, prototype development, QA and beta testing, and client piloting, culminating in compliance, production, and operational handoff
+* Oversee the full asset development lifecycle from ideation through business and technical design, team formation and staffing, prototype development, QA and beta testing, and client piloting—culminating in compliance, production, and operational handoff
 * Serve as the operational bridge between visionary product ideation and real-world deployment—ensuring each use case is engineered with security, scalability, and precision from day zero
 * Partner closely with the COO to align engineering execution with strategic priorities, accelerating Cyber AI’s product innovation pipeline
 
