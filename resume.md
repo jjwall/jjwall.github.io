@@ -18,7 +18,7 @@ Below you can find a snapshot of my professional, academic, and charitable endea
     />
 </p>
 
-<b>Engineering Manager, Cyber AI Innovations Portfolio</b><br>
+<b>AI Engineering Manager, Cyber AI Innovations Portfolio</b><br>
 <i>San Francisco, CA, June 2024 - Current</i><br>
 Engineering manager over all of Cyber AI’s internally developed innovation projects. This portfolio is comprised of seven (and counting!) asset accelerators—including, but not limited to:
 * <b>TPRM Accelerator</b> - an on-device AI-powered TPRM service accelerator tool that reduces the amount of time TPRM analysts have to spend reviewing TPRM security documentation and answering TPRM questionnaires.
@@ -27,7 +27,7 @@ Engineering manager over all of Cyber AI’s internally developed innovation pro
 
 ---
 
-<b>Technical Lead, Hybrid AI Innovations (Deloitte US Strategy)</b><br>
+<b>AI Technical Lead, Hybrid AI Innovations (Deloitte US Strategy)</b><br>
 <i>Austin, TX, January 2024 - June 2024</i>
 * Tech used: Python, TypeScript, VS Code, VS Code Plugin Extensions Development Framework, Ollama, Huggingface, Intel's OpenVINO, Qualcomm Neural Network
 * Led application engineering, architectural design, and AI development for Dell with the Hybrid AI group under Deloitte US Strategy. Spearheaded the creation of "Neuron," a Copilot-like coding assistant that leverages on-device AI to provide code suggestions while ensuring complete privacy over the AI-scanned codebase. Delivered key innovations that enhanced developer productivity and maintained strict data security protocols.
