@@ -9,6 +9,23 @@ layout: default
 Below you can find a snapshot of my professional, academic, and charitable endeavors. If you are interested in working with me or would like to see a copy of my resume in PDF format—add and reach out to me on Discord (<b>gizmolo</b>).
 
 # Work Experience
+## About
+I am a builder of systems—both technological and human—that scale, secure, and sustain the future of intelligent software.
+
+As the <b>AI DevSecOps & MLOps Engineering Lead</b> within Deloitte’s Cyber Innovations Portfolio, I report directly to the COO of Cyber AI and oversee a cross-functional team of elite engineers and technical functionals, including DevSecOps, MLOps, LLMOps, full stack, QA, test automation, and delivery professionals.
+
+My mission: to <b>secure intelligence by design</b>—embedding trust, scalability, and velocity into every layer of the AI development lifecycle.
+
+From idea to impact, I help usher advanced AI solutions through the full software delivery journey:
+* <b>Ideation → Requirements → Technical Design</b>
+* <b>Team Assembly → Development & Prototyping</b>
+* <b>QA → Beta Testing → Piloting with Journey Clients</b>
+* <b>Compliance → Production Deployment → Operational Handoff</b>
+
+I specialize in navigating the crossroads of security, innovation, and large-scale deployment—ensuring every asset is engineered to thrive in both battlefield and boardroom.
+
+Whether you’re building the next-gen cyber AI platform or seeking operational alchemy, I’m here to light the path forward.
+
 ## Deloitte
 <p align="center">
     <img
