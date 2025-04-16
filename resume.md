@@ -35,17 +35,29 @@ Whether you’re building the next-gen cyber AI platform or seeking operational 
     />
 </p>
 
-<b>AI Engineering Manager, Cyber AI Innovations Portfolio</b><br>
-<i>San Francisco, CA, June 2024 - Current</i><br>
-Engineering manager over all of Cyber AI’s internally developed innovation projects. This portfolio is comprised of seven (and counting!) asset accelerators—including, but not limited to:
+<b>AI DevSecOps & MLOps Engineering Lead</b><br>
+<i>Cyber Innovations Portfolio (Direct Report to COO, Cyber AI)</i><br>
+<i>San Francisco, CA, April 2025 - Current</i><br>
+* Lead a cross-functional team of engineers and technologists across DevSecOps, MLOps, LLMOps, full stack, QA, test automation, project delivery, and compliance disciplines
+* Oversee the full asset development lifecycle from ideation through business and technical design, team formation and staffing, prototype development, QA and beta testing, and client piloting, culminating in compliance, production, and operational handoff
+* Serve as the operational bridge between visionary product ideation and real-world deployment—ensuring each use case is engineered with security, scalability, and precision from day zero
+* Partner closely with the COO to align engineering execution with strategic priorities, accelerating Cyber AI’s product innovation pipeline
+
+---
+
+<b>AI Engineering Manager</b><br>
+<i>Cyber Innovations Portfolio (Direct Report to CTO, Cyber AI)</i><br>
+<i>San Francisco, CA, June 2024 - April 2025</i><br>
+* Engineering manager over all of Cyber AI’s internally developed innovation projects. This portfolio is comprised of seven (and counting!) asset accelerators—including, but not limited to:
 * <b>TPRM Accelerator</b> - an on-device AI-powered TPRM service accelerator tool that reduces the amount of time TPRM analysts have to spend reviewing TPRM security documentation and answering TPRM questionnaires.
 * <b>Digital Analyst</b> - an AI-powered SaaS used by SOC analysts to rapidly support their triage of security alerts using advanced AI techniques to process current security alert information and historical triages.
 * <b>Pathfinder</b> - an AI-powered Cyber Security as a Service platform to facilitate Cyber Security processes across all cyber domains.
 
 ---
 
-<b>AI Technical Lead, Hybrid AI Innovations (Deloitte US Strategy)</b><br>
-<i>Austin, TX, January 2024 - June 2024</i>
+<b>AI Technical Lead</b><br>
+<i>Hybrid AI Innovations (Direct Report to AI Strategy Partner, Deloitte US Strategy)</i><br>
+<i>Austin, TX, January 2024 - June 2024</i><br>
 * Tech used: Python, TypeScript, VS Code, VS Code Plugin Extensions Development Framework, Ollama, Huggingface, Intel's OpenVINO, Qualcomm Neural Network
 * Led application engineering, architectural design, and AI development for Dell with the Hybrid AI group under Deloitte US Strategy. Spearheaded the creation of "Neuron," a Copilot-like coding assistant that leverages on-device AI to provide code suggestions while ensuring complete privacy over the AI-scanned codebase. Delivered key innovations that enhanced developer productivity and maintained strict data security protocols.
 * In addition to this, I was a technical lead over an Deloitte US Strategy platform known as “Celium” supporting Intel which was used to fine tune and optimize on-device AI processes on top of Intel & its competitors’ CPU, GPU, & NPU chip architectures. This project explored open source and commercially available black box technologies to discover the best configuration for on-device AI processing. Some model platforms and frameworks that were used as part of the platform were Intel’s OpenVINO, Huggingface, Ollama, as well as Qualcomm’s QNN.
