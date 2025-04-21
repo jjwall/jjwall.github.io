@@ -45,7 +45,7 @@ Whether you’re building the next-gen cyber AI platform or seeking operational 
 
 ---
 
-<b>AI Engineering Manager</b><br>
+<b>AI & ML Engineering Manager</b><br>
 <i>Cyber Innovations Portfolio (Direct Report to CTO, Cyber AI)</i><br>
 <i>San Francisco, CA, June 2024 - April 2025</i><br>
 * Engineering manager over all of Cyber AI’s internally developed innovation projects. This portfolio is comprised of seven (and counting!) asset accelerators—including, but not limited to:
@@ -55,7 +55,7 @@ Whether you’re building the next-gen cyber AI platform or seeking operational 
 
 ---
 
-<b>AI Technical Lead</b><br>
+<b>AI & ML Technical Lead</b><br>
 <i>Hybrid AI Innovations (Direct Report to AI Strategy Partner, Deloitte US Strategy)</i><br>
 <i>Austin, TX, January 2024 - June 2024</i><br>
 * Tech used: Python, TypeScript, VS Code, VS Code Plugin Extensions Development Framework, Ollama, Huggingface, Intel's OpenVINO, Qualcomm Neural Network
