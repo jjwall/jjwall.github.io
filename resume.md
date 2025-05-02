@@ -87,7 +87,7 @@ Whether you’re building the next-gen cyber AI platform or seeking operational 
     />
 </p>
 
-<b>Mid-Level Software Developer</b><br>
+<b>Mid-Level Security Application Engineer</b><br>
 <i>Dublin, OH, February 2021 - July 2021</i><br>
 * Tech used: TypeScript, Angular, C#, .NET Core, SQL, Git, Azure DevOps
 * Assisted in upgrading existing systems by making them more modular, extendable, 
@@ -104,7 +104,7 @@ tokenizing existing and newly added credit card data.
     />
 </p>
 
-<b>Software Developer</b><br>
+<b>Security Application Engineer</b><br>
 <i>Houston, TX, October 2017 - January 2021</i><br>
 * Tech used: TypeScript, JavaScript, React, Redux, Node.js, NPM, JQuery, C#, ASP.NET MVC, SQL
 * Ensured integrity and security of software for the Support and Admin applications of Hosted Web Application Platform team (HWAP).
@@ -183,7 +183,7 @@ tokenizing existing and newly added credit card data.
     />
 </p>
 
-<b>Sensei</b><br>
+<b>Code Sensei</b><br>
 <i>Houston, TX, July 2019 - October 2022</i>
 * Office administrator for the Tanglewood branch in Houston, TX, the most successful branch by revenue earned across the globe.
 * Curated materials and coursework for the Tanglewood branch's coding curriculum.
