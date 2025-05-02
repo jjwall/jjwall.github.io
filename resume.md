@@ -36,7 +36,7 @@ Whether you’re building the next-gen cyber AI platform or seeking operational 
 </p>
 
 <b>AI DevSecOps & MLOps Engineering Lead</b><br>
-<i>Cyber Innovations Portfolio (Direct Report to COO, Cyber AI)</i><br>
+<i>Commercial Advisory + Consulting Cyber Security Practice - Cyber Innovations Portfolio (Cyber AI Internal Account, Direct Report to Cyber AI COO)</i><br>
 <i>San Francisco, CA, April 2025 - Current</i><br>
 * Lead a cross-functional team of engineers and technologists across DevSecOps, MLOps, LLMOps, full stack, QA, test automation, project delivery, and compliance disciplines
 * Oversee the full asset development lifecycle from ideation through business and technical design, team formation and staffing, prototype development, QA and beta testing, and client piloting—culminating in compliance, production, and operational handoff
@@ -46,7 +46,7 @@ Whether you’re building the next-gen cyber AI platform or seeking operational 
 ---
 
 <b>AI & ML Engineering Manager</b><br>
-<i>Cyber Innovations Portfolio (Direct Report to CTO, Cyber AI)</i><br>
+<i>Commercial Advisory + Consulting Cyber Security Practice - Cyber Innovations Portfolio (Sony, Disney, Motiva, & NYL Accounts - Direct Report to Cyber AI Principal)</i><br>
 <i>San Francisco, CA, June 2024 - April 2025</i><br>
 * Engineering manager over all of Cyber AI’s internally developed innovation projects. This portfolio is comprised of seven (and counting!) asset accelerators—including, but not limited to:
 * <b>TPRM Accelerator</b> - an on-device AI-powered TPRM service accelerator tool that reduces the amount of time TPRM analysts have to spend reviewing TPRM security documentation and answering TPRM questionnaires.
@@ -55,16 +55,19 @@ Whether you’re building the next-gen cyber AI platform or seeking operational 
 
 ---
 
-<b>AI & ML Technical Lead</b><br>
-<i>Hybrid AI Innovations (Direct Report to AI Strategy Partner, Deloitte US Strategy)</i><br>
+<b>AI & ML On-Device Technical Lead</b><br>
+<i>Deloitte US Strategy Practice - Hybrid AI Innovations Portfolio (Dell, Meta, Intel, & Qualcomm Accounts - Direct Report to Dell, Meta, Intel, Qualcomm & Hybrid AI Strategy Partners)</i><br>
 <i>Austin, TX, January 2024 - June 2024</i><br>
 * Tech used: Python, TypeScript, VS Code, VS Code Plugin Extensions Development Framework, Ollama, Huggingface, Intel's OpenVINO, Qualcomm Neural Network
-* Led application engineering, architectural design, and AI development for Dell with the Hybrid AI group under Deloitte US Strategy. Spearheaded the creation of "Neuron," a Copilot-like coding assistant that leverages on-device AI to provide code suggestions while ensuring complete privacy over the AI-scanned codebase. Delivered key innovations that enhanced developer productivity and maintained strict data security protocols.
-* In addition to this, I was a technical lead over an Deloitte US Strategy platform known as “Celium” supporting Intel which was used to fine tune and optimize on-device AI processes on top of Intel & its competitors’ CPU, GPU, & NPU chip architectures. This project explored open source and commercially available black box technologies to discover the best configuration for on-device AI processing. Some model platforms and frameworks that were used as part of the platform were Intel’s OpenVINO, Huggingface, Ollama, as well as Qualcomm’s QNN.
+* Led application engineering, architectural design, and AI development for Dell with the Hybrid AI group under Deloitte US Strategy. Spearheaded the creation of "Neuron," a Copilot-like coding assistant that leverages on-device AI to provide code suggestions while ensuring complete privacy over the AI-scanned codebase. 
+* Delivered key innovations that enhanced developer productivity and maintained strict data security protocols.
+* In addition to this, I was the technical lead over a Deloitte US Strategy platform known as “Celium” supporting the Intel account which was used to fine tune and optimize on-device AI processes on top of Intel & its competitors’ CPU, GPU, & NPU chip architectures. 
+* Celium explored open source and commercially available black box technologies to discover the best configuration for on-device AI processing. Some model platforms and frameworks that were used as part of the platform were Intel’s OpenVINO, Huggingface, Ollama, as well as Qualcomm’s QNN.
 
 ---
 
-<b>Lead Software Architect, Military Health System</b><br>
+<b>Software Architect & DevSecOps Engineering Lead</b><br>
+<i>GPS Digital Health Practice (Military Health System Account - Direct Report to Digital Health's Managing Director Physician)</i><br>
 <i>Washington, D.C., October 2021 - January 2024</i>
 * Tech used: TypeScript, Deno, Node.js, React, React Native, Wickr SDK, AWS Console, AWS CodeCommit, AWS CodePipeline, AWS CodeDeploy
 * Technical lead, developer & architect of METCC-P medic bots built atop AWS Wickr, an NSA approved end-to-end encrypted Voice Over Internet Protocol Communication system. 
@@ -73,10 +76,11 @@ Whether you’re building the next-gen cyber AI platform or seeking operational 
 
 ---
 
-<b>Lead Software Developer, Application Modernization & Innovation</b><br>
+<b>Software Engineering Lead</b><br>
+<i>Application Modernization & Innovation Practice (Navy, Army, Airforce, & Spaceforce Accounts - Direct Report to JAIMI's Director of Product)</i><br>
 <i>Washington, D.C., August 2021 - October 2021</i>
 * Tech used: TypeScript, Angular, Node.js, NPM, Webpack, MongoDb, VS Code, Git, GitHub
-* Led development efforts as part of the JAIMI Cross-Military CRM project categorizing weapon systems data across all US Alliances stored in NIPR and SIPR networks.
+* Led engineering efforts as part of the JAIMI Cross-Military CRM project categorizing weapon systems data across all US Alliances stored in NIPR and SIPR secret security clearance networks.
 
 ## T-Cetra
 <p align="center">
@@ -90,8 +94,7 @@ Whether you’re building the next-gen cyber AI platform or seeking operational 
 <b>Mid-Level Security Application Engineer</b><br>
 <i>Dublin, OH, February 2021 - July 2021</i><br>
 * Tech used: TypeScript, Angular, C#, .NET Core, SQL, Git, Azure DevOps
-* Assisted in upgrading existing systems by making them more modular, extendable, 
-and efficient as a member of the Refactoring Team.
+* Assisted in upgrading existing systems by making them more modular, extendable, efficient, and secure as a member of the Refactoring Team.
 * Implemented third-party APIs to outsource credit card security to TokenEx by 
 tokenizing existing and newly added credit card data.
 
