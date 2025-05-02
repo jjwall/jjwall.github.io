@@ -127,7 +127,7 @@ tokenizing existing and newly added credit card data.
 
 <i>Austin, TX, January 2017 - July 2017</i>
 * Certificate: Full Stack Web Development
-* Powered by: Trilogy Education (now edX)
+* Powered by: Trilogy Education Services (now edX)
 
 ## The University of Texas at Austin
 <p align="center">
