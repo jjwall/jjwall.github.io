@@ -27,7 +27,7 @@ And Love is my Religion.<br>
 {% include youtube.html id="pWTPRvoW-vo" %}
 
 ## <i>An Invitation to Join The Tavern!</i>
-If you're a fellow <i>creative-adventurer-spirit</i>, please join <i><b>The Tavern Discord Server</b></i>! This is a place where sensitive souls like yourself—the <i><b>dreammakers</b></i>, the <i><b>mythmakers</b></i>, and the <i><b>keysmiths</b></i>—can rest in peace & bliss. It is also a safe container to meet, greet, and share your creations with other like-minded creative adventuring spirits!
+If you're a fellow <i>creative-adventurer-spirit</i>, please join <i><b>The Tavern Discord Server</b></i>! This is a place where sensitive souls like yourself—the <i><b>dreamweavers</b></i>, the <i><b>mythmakers</b></i>, and the <i><b>keysmiths</b></i>—can rest in peace & bliss. It is also a safe container to meet, greet, and share your creations with other like-minded creative adventuring spirits!
 
 [An Invitation to Join The Tavern!](https://discord.gg/bhCXfcUXX6)
 
