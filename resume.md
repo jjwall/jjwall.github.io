@@ -145,6 +145,16 @@ tokenizing existing and newly added credit card data.
 ---
 
 # Volunteer Service
+## The Tavern
+
+<b>Alekeeper (Community Manager), Founder</b><br>
+<i>Austin, TX, March 2023 - Current</i>
+* Established a Discord server community for the purpose of tracking my video game development and social media content creation journeys; however, this blossomed into a vibrant community of cross-craft creatives including, but not limited to: high technologists, video game developers, AI engineers, VR & AR software & hardware engineers, embedded engineers, film producers, screenwriters, fiction novelists, artists, musicians, healers, and poets - to name a few!
+* Fostered a consistently growing community that witnesses several new members join on a day-to-day basis.
+* Manage active recruitment of volunteer contributors including: community moderators, event organizers, bot developers, brand ambassors, & member recruiters.
+* The introductory blurb to The Tavern reads: "If you're a fellow <i>creative-adventurer-spirit</i>, please join <i><b>The Tavern Discord Server</b></i>! This is a place where sensitive souls like yourself—the <i><b>dreamweavers</b></i>, the <i><b>mythmakers</b></i>, and the <i><b>keysmiths</b></i>—can rest in peace & bliss. It is also a safe container to meet, greet, and share your creations with other like-minded creative adventuring spirits - [An Invitation to Join The Tavern!](https://discord.gg/bhCXfcUXX6)"
+* On the surface, The Tavern is a community of like-minded creatives. Under the hood, The Tavern operates as a think tank, startup incubator, and business advisory having had multiple partnerships, alliances, and LLCs spun up as a result of The Tavern's two-year lifespan.
+
 ## Boardhouse Technology Academy
 <p align="center">
     <img
