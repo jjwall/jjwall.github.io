@@ -154,7 +154,7 @@ tokenizing existing and newly added credit card data.
     />
 </p>
 
-<b>Founder, Senior Code Mentor </b><br>
+<b>Senior Code Mentor, Founder</b><br>
 <i>San Diego, CA, October 2022 - January 2024</i>
 * Founded and led a coding mentorship academy offering both paid and scholarship-based “Zero-to-Hero” programs for aspiring and pivoting software developers.
 * Designed, developed, and taught the proprietary Boardhouse Technology Academy Coding Curriculum, guiding students from beginner to industry-ready.
@@ -172,7 +172,7 @@ tokenizing existing and newly added credit card data.
     />
 </p>
 
-<b>Software Developer Mentor, Codum Brand Ambassador</b><br>
+<b>Code Mentor, Codum Brand Ambassador</b><br>
 <i>Germany, Upper Bavaria, November 2022 - November 2023</i>
 * Mentored junior developers helping them navigate their coding learning journies as well as their career growth & development.
 * Ambassador for the organization spreading the word through my professional network and social media channels.
