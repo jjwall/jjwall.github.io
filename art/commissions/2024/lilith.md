@@ -9,7 +9,7 @@ layout: default
 
 This is a character I designed known as "Lilith" for a yet-to-be-announced rail-shooter mobile game I have been designing which exists in a Sci-Fi world based on my Morningstar Mythos.
 
-Montjuleant (<b>montjuleant</b> on Discord) is the artist who I commissioned for this portrait of Celeste:
+Montjuleant (<b>montjuleant</b> on Discord) is the artist who I commissioned for this portrait of Lilith:
 
 <p align="center">
     <img
@@ -27,7 +27,7 @@ The inspiration for this fallen form Lilith as an antagonist in the video game m
     <img
         alt="Seal of Lilith Collapsed"
         src="/assets/sigils/lilith/seal-of-lilith-collapsed.png"
-        width="600"
+        width="300"
     />
 </p>
 
@@ -37,7 +37,7 @@ The inspiration for this fallen form Lilith as an antagonist in the video game m
     <img
         alt="Grand Seal of Lilith"
         src="/assets/sigils/lilith/grand-seal-of-lilith.jpg"
-        width="600"
+        width="300"
     />
 </p>
 
@@ -47,7 +47,7 @@ The inspiration for this fallen form Lilith as an antagonist in the video game m
     <img
         alt="Grand Seal of Lilith"
         src="/assets/sigils/lilith/seal-of-lilith-expanded.jpg"
-        width="600"
+        width="300"
     />
 </p>
 
