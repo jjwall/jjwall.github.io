@@ -10,7 +10,8 @@ I often commission art for my video game projects. Here's some of the artwork I'
 ## Contents
 
 ### Original Characters
-* Celeste
+* [Celeste](./commissions/2024/celeste.html)
+* Celeste's Mecha Spaceship
 
 ### Fallen & Redeemed Royalty & Principalities
 * Mother Queen Lilith of the Moon Kingdom -> Lilith-Luxora
