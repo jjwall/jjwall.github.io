@@ -14,7 +14,7 @@ I often commission art for my video game projects. Here's some of the artwork I'
 * Celeste's Mecha Spaceship
 
 ### Fallen & Redeemed Royalty & Principalities
-* Mother Queen Lilith of the Moon Kingdom -> Lilith-Luxora
+* [Queen Lilith, Mother of All the Fallen]()
 * Prince Beelzebub, Lord of the Flies -> Ba'al Zabul
 
 ### The 72 Fallen & Redeemed Angels of the Ars Goetia
