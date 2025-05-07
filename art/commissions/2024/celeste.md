@@ -5,7 +5,7 @@ layout: default
 <b>[Back to Commissioned Art](/art/commissions.html)</b>
 * * *
 
-<i>March 21st, 2024</i>
+<i>December 10th, 2024</i>
 
 This is a character I designed known as "Celeste" for a yet-to-be-announced rail-shooter mobile game I have been designing which exists in a Sci-Fi world based on my Morningstar Mythos.
 
@@ -13,8 +13,8 @@ Montjuleant (<b>montjuleant</b> on Discord) is the artist who I commissioned for
 
 <p align="center">
     <img
-        alt="Montjuleant's Celeste"
-        src="/assets/art/commissions/2024/celeste/celeste.png"
+        alt="Montjuleant's Celeste Draft 1"
+        src="/assets/art/commissions/2024/celeste/celeste_draft1.png"
         width="600"
     />
 </p>
