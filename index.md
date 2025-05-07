@@ -8,10 +8,13 @@ layout: default
 ## <i>Biography</i>
 <i><b>Jacob James Wallace</b></i><br>
 <i>Artist & Entrepreneur</i><br>
+👨🏼‍🔬 Digital Therapeutics R&D 🔬 <br>
+👨🏼‍💻 Al DevSecOps & MLOps 🤖 <br>
 🕹️ Video Game Developer 🤓 <br>
-👨🏼‍💻 Cyber Al Engineering 🤖 <br>
+👨🏼‍💼 Peligro Labs, Founder 📈 <br>
 🐑 Follower of The Way 🦁 <br>
 🎹 Music Producer 🥁 <br>
+☯️ Mythologist 🐦‍🔥 <br>
 🎮 Soul Gamer 🌟 <br>
 ⛰️ Terra Firma 🏔️ <br>
 📝 Author ✍️ <br>
