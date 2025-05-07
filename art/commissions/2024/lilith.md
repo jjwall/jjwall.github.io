@@ -19,7 +19,39 @@ Montjuleant (<b>montjuleant</b> on Discord) is the artist who I commissioned for
     />
 </p>
 
-This version of Lilith is her unredeemed form where her full title is <b>Queen Lilith of the Moon Kingdom, Mother of All the Fallen</b>.
+This version of Lilith is her fallen form where her full title is <b>Queen Lilith of the Moon Kingdom, Mother of All the Fallen</b>.
+
+The inspiration for this fallen form Lilith as an antagonist in the video game mentioned above primarily came from a vision I had in a dream; however, the following sigils are great inspiration for the energy behind this art:
+
+<p align="center">
+    <img
+        alt="Seal of Lilith Collapsed"
+        src="/assets/sigils/lilith/seal-of-lilith-collapsed.png"
+        width="600"
+    />
+</p>
+
+> <b>Fig 1.</b> The Seal of Lilith - collapsed.
+
+<p align="center">
+    <img
+        alt="Grand Seal of Lilith"
+        src="/assets/sigils/lilith/grand-seal-of-lilith.jpg"
+        width="600"
+    />
+</p>
+
+> <b>Fig 2.</b> The Grand Seal of Lilith.
+
+<p align="center">
+    <img
+        alt="Grand Seal of Lilith"
+        src="/assets/sigils/lilith/seal-of-lilith-expanded.jpg"
+        width="600"
+    />
+</p>
+
+> <b>Fig 3.</b> The Seal of Lilith - expanded.
 
 In the current Morningstar Mythos that is being tracked here: [Starblood Wiki Site](https://morninstarmythos.github.io/), Lilith has yet to be redeemed by the <i>Sons of the Starblood Tribe</i>.
 
