@@ -7,7 +7,7 @@ layout: default
 
 <i>May 8th, 2025</i>
 
-### <i>Overview</i>
+### <i>Overview: Astaroth as the Infernal Form</i>
 
 I like to include demon girl characters into my video games inspired by the <i>Ars Goetia</i> (see my blogpost on [A Perspective on Magick](/writings/blog/2025/a-perspective-on-magick.html) for more info) as I weave my Proto-Mythic Morningstar background lore into my games’ story-telling components.
 
@@ -27,9 +27,9 @@ Her Sigil is this, as mentioned in the above description:
     />
 </p>
 
-### <i>Influences</i>
+### <i>Mythic Influences: Persephone, Aphrodite, and Innana Ishtar</i>
 
-This Pure-Spirted (non-evil) Beautiful Girl version of Astaroth is currently being commissioned. Her influences are as follows:
+This Pure-Spirted (non-evil) Beautiful Girl Infernal form of Astaroth is currently being commissioned. Her influences are as follows:
 
 <p align="center">
     <img
@@ -39,7 +39,7 @@ This Pure-Spirted (non-evil) Beautiful Girl version of Astaroth is currently bei
     />
 </p>
 
-> <b>Fig 1.</b> This is [blade4649 on X](https://x.com/blade4649/)'s art of [Aphrodite](https://en.wikipedia.org/wiki/Aphrodite) which is a mythic rhyme of Astaroth's redeemed form Astarte Elyona (see below). You can check out the original X post [here](https://x.com/blade4649/status/1909585366023286977).
+> <b>Fig 1.</b> This is [blade4649 on X](https://x.com/blade4649/)'s art of [Aphrodite](https://en.wikipedia.org/wiki/Aphrodite) which is a mythic rhyme of Astaroth's redeemed form Astarte Elyona (see below). This art could also be interpreted as [Persephone](https://en.wikipedia.org/wiki/Persephone) which is a mythic rhyme of Astaroth in her Infernal form. You can check out the original X post [here](https://x.com/blade4649/status/1909585366023286977).
 
 <p align="center">
     <img
@@ -49,7 +49,7 @@ This Pure-Spirted (non-evil) Beautiful Girl version of Astaroth is currently bei
     />
 </p>
 
-> <b>Fig 2.</b> This is [Reiq on X](https://x.com/reiq/)'s art of Malice from Marvel Rivals. You can check out the original X post [here](https://x.com/reiq/status/1902824674683392345).
+> <b>Fig 2.</b> This is [Reiq on X](https://x.com/reiq/)'s art of Malice from Marvel Rivals. Malice would be a mythic rhyme of Astaroth's Infernal form and Invisible Woman would be a mythic rhyme of Astaroth's Redeemed form. You can check out the original X post [here](https://x.com/reiq/status/1902824674683392345).
 
 <p align="center">
     <img
@@ -100,3 +100,6 @@ And her 8-pointed star which I find fascinating as this would be considered a Sy
 </p>
 
 > <b>Fig 5.</b> "The Star of Ishtar or Star of Inanna is a Mesopotamian symbol of the ancient Sumerian goddess Inanna and her East Semitic counterpart Ishtar. The owl was also one of Ishtar's primary symbols. Ishtar is mostly associated with the planet Venus, which is also known as the morning star." ~from [Star of Ishtar's Wikipedia page](https://en.wikipedia.org/wiki/Star_of_Ishtar).
+
+### <i>Astaroth's Integrated Form</i>
+
