@@ -65,8 +65,24 @@ This Pure-Spirted (non-evil) Beautiful Girl version of Astaroth is currently bei
 
 In the current Morningstar Mythos that is being tracked here: [Starblood Wiki Site](https://morninstarmythos.github.io/), Astaroth has yet to be redeemed by the <i>Sons of the Starblood Tribe</i>.
 
-Once she has gone through the Morninstar Mythological "Fallen Angel Redemption" process, a new commision will be made to reflect her redeemed form where she will be coronated as: <b>High Queen Astarte Elyona of the Underworld, Wife of the High King Ba’al Zabul</b>.
+Once she has gone through the Morninstar Mythological "Fallen Angel Redemption" process, a new commision will be made to reflect her redeemed form where she will be coronated as: <b>High Queen Astarte Elyona of the Underworld, Wife of the High King Ba’al Zabul</b>. Astarte Elyona's Sigil is this:
+
+<p align="center">
+    <img
+        alt="Seal of Astaroth"
+        src="/assets/sigils/astaroth/seal-of-astaroth-redeemed-astarte-elyona.jpg"
+        width="600"
+    />
+</p>
 
 ### <i>Influeces for her Redeemed Form</i>
 
-Inanna Ishtar
+Inanna Ishtar is a mythic rhyme of her Redeemed Form "Astarte Elyona." Inanna Ishtar's Sigil is this:
+
+<!-- <p align="center">
+    <img
+        alt="Seal of Astaroth"
+        src="/assets/sigils/astaroth/seal-of-astaroth-redeemed-astarte-elyona.jpg"
+        width="600"
+    />
+</p> -->
