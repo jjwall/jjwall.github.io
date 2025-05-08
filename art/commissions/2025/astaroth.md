@@ -34,7 +34,7 @@ This Pure-Spirted (non-evil) Beautiful Girl version of Astaroth is currently bei
 <p align="center">
     <img
         alt="BLADE's Queen Poseidon"
-        src="/assets/art/commissions/2025/astaroth/blade-poseidon.png"
+        src="/assets/art/commissions/2025/astaroth/influences/blade-poseidon.png"
         width="600"
     />
 </p>
@@ -44,7 +44,7 @@ This Pure-Spirted (non-evil) Beautiful Girl version of Astaroth is currently bei
 <p align="center">
     <img
         alt="Reiq's Malice"
-        src="/assets/art/commissions/2025/astaroth/reiq-malice.jpg"
+        src="/assets/art/commissions/2025/astaroth/influences/reiq-malice.jpg"
         width="600"
     />
 </p>
@@ -54,7 +54,7 @@ This Pure-Spirted (non-evil) Beautiful Girl version of Astaroth is currently bei
 <p align="center">
     <img
         alt="Sara Cortinez"
-        src="/assets/art/commissions/2025/astaroth/sara-cortinez.jpg"
+        src="/assets/art/commissions/2025/astaroth/influences/sara-cortinez.jpg"
         width="600"
     />
 </p>
