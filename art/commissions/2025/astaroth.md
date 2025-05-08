@@ -77,12 +77,26 @@ Once she has gone through the Morninstar Mythological "Fallen Angel Redemption" 
 
 ### <i>Influeces for her Redeemed Form</i>
 
-Inanna Ishtar is a mythic rhyme of her Redeemed Form "Astarte Elyona." Inanna Ishtar's Sigil is this:
+Inanna Ishtar is a mythic rhyme of her Redeemed Form "Astarte Elyona." Inanna Ishtar's Akkadian Seal is this:
 
-<!-- <p align="center">
+<p align="center">
     <img
-        alt="Seal of Astaroth"
-        src="/assets/sigils/astaroth/seal-of-astaroth-redeemed-astarte-elyona.jpg"
+        alt="Seal of Ishtar"
+        src="/assets/art/commissions/2025/astaroth/ishtar/ishtar-akkadian-seal.jpg"
         width="600"
     />
-</p> -->
+</p>
+
+> <b>Fig 4.</b> "Goddess Ishtar on an Akkadian seal, 2350–2150 BCE. She is equipped with weapons on her back, has a horned helmet, places her foot in a dominant posture upon a lion secured by a leash and is accompanied by the star of Shamash." ~from [Inanna Ishtar's Wikipedia page](https://en.wikipedia.org/wiki/Inanna).
+
+And her 8-pointed star which I find fascinating as this would be considered a Symbol of the Morningstar:
+
+<p align="center">
+    <img
+        alt="Star of Ishtar"
+        src="/assets/art/commissions/2025/astaroth/ishtar/star-of-ishtar.png"
+        width="600"
+    />
+</p>
+
+> <b>Fig 5.</b> "The Star of Ishtar or Star of Inanna is a Mesopotamian symbol of the ancient Sumerian goddess Inanna and her East Semitic counterpart Ishtar. The owl was also one of Ishtar's primary symbols. Ishtar is mostly associated with the planet Venus, which is also known as the morning star." ~from [Star of Ishtar's Wikipedia page](https://en.wikipedia.org/wiki/Star_of_Ishtar).
