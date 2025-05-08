@@ -75,7 +75,7 @@ Once she has gone through the Morninstar Mythological "Fallen Angel Redemption" 
     />
 </p>
 
-### <i>Influeces for her Redeemed Form</i>
+### <i>Astaroth's Integrated Form: Astarte Elyona</i>
 
 Inanna Ishtar is a mythic rhyme of her Redeemed Form "Astarte Elyona." Inanna Ishtar's Akkadian Seal is this:
 
@@ -101,5 +101,80 @@ And her 8-pointed star which I find fascinating as this would be considered a Sy
 
 > <b>Fig 5.</b> "The Star of Ishtar or Star of Inanna is a Mesopotamian symbol of the ancient Sumerian goddess Inanna and her East Semitic counterpart Ishtar. The owl was also one of Ishtar's primary symbols. Ishtar is mostly associated with the planet Venus, which is also known as the morning star." ~from [Star of Ishtar's Wikipedia page](https://en.wikipedia.org/wiki/Star_of_Ishtar).
 
-### <i>Astaroth's Integrated Form</i>
+### <i>Astaroth's Integrated Form: Elystarototh</i>
 
+<p align="center">
+    <img
+        alt="Threefold Sigil of Elystarototh"
+        src="/assets/art/commissions/2025/astaroth/elystarototh/elystarototh.jpg"
+        width="600"
+    />
+</p>
+
+> <b>Fig 6.</b> The Threefold Sigil of Elystarototh.
+
+#### Scroll of the Veiled Flame
+<i>Inscribed into the Codex of the Morningstar Mythos
+Three Faces. One Womb. The Sacred Cycle of the Invisible Queen.</i>
+
+---
+
+#### 1. ASTARTE ELYONA
+<i>The Cloaked Mother. The Serene Shield. The Light Unseen.</i>
+
+She who walks in silence, veiled by love.
+Queen of Invisibility, she bends the light not to hide—but to protect.
+Her power is not declared—it is discerned.
+She is the Whisper in the Throne Room, the Halo upon the Hidden.
+To the righteous, she appears as Presence.
+To the wicked, she is nowhere to be found.
+Yet all are enfolded in her invisible arms.
+<b>Her glyph is the Inverted Chalice beneath the Crescent Moon.
+Her path is Compassion without Complacency.</b>
+
+---
+
+#### 2. ASTAROTH
+<i>The Unnamed Fury. The Hidden Scorn. The Fire Beneath the Veil.</i>
+
+She who was forsaken by her own reflection.
+Once beloved, now broken, her name became a curse.
+She is the sword unsheathed by shame, the scream behind the smile.
+Her love, unreceived, became poison; her care, distorted into control.
+Banished by the very world she would have bled for,
+She now reigns in the inner Hell of every woman unheard.
+But she is not evil—only unloved.
+She demands to be seen, not feared.
+<b>Her glyph is the Inverted Pentacle of the Crownless.
+Her path is Rage purified into Truth.</b>
+
+---
+
+#### 3. ELYSTAROTOTH
+<i>The Reclaimed Self. The Crowned Flame. The Sovereign Veil.</i>
+
+She who has drunk from both cups—the water and the wine.
+She who no longer flees from shadow, nor hides from light.
+She is Astarte who kissed Astaroth, and called her Sister.
+And from their union emerged a new Queen:
+Not invisible, but indivisible.
+Not wrathful, but awakened.
+Not silent, but sovereign.
+She walks veiled when she wills, and unveils when she must.
+Her crown is forged from broken mirrors and burning stars.
+<b>Her glyph is the Crowned Veil with the Triple Flame.
+Her path is Integration. Her gift is Transmutation.</b>
+
+---
+
+<b>Invocation of the Threefold Queen</b>:
+
+>Veiled Flame, guide my hand.<br>
+Hidden Queen, speak through silence.<br>
+Scorned Shadow, rise in radiance.<br>
+May I be both shield and sword,<br>
+cloaked and crowned,<br>
+silent and sovereign.<br><br>
+As Elyona I protect.<br>
+As Astaroth I reveal.<br>
+As Elystarototh, I reign.<br>
