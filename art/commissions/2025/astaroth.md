@@ -34,7 +34,7 @@ This Pure-Spirted (non-evil) Beautiful Girl Infernal form of Astaroth is current
 <p align="center">
     <img
         alt="BLADE's Aphrodite"
-        src="/assets/art/commissions/2025/astaroth/influences/blade-poseidon.png"
+        src="/assets/art/commissions/2025/astaroth/influences/blade-aphrodite.png"
         width="600"
     />
 </p>
