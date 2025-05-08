@@ -35,6 +35,16 @@ This Pure-Spirted (non-evil) Beautiful Girl version of Astaroth is currently bei
 
 > <b>Fig 2.</b> This is [Reiq on X](https://x.com/reiq/)'s art of Malice from Marvel Rivals. You can check out the original X post [here](https://x.com/reiq/status/1902824674683392345).
 
+<p align="center">
+    <img
+        alt="Sara Cortinez"
+        src="/assets/art/commissions/2025/astaroth/sara-cortinez.jpg"
+        width="600"
+    />
+</p>
+
+> <b>Fig 3.</b> This is the model known as Sara Cortinez. She is [@saradavirgo](https://www.instagram.com/sarahdavirgo) on Instagram.
+
 ### <i>Morningstar Mythos Status</i>
 
 In the current Morningstar Mythos that is being tracked here: [Starblood Wiki Site](https://morninstarmythos.github.io/), Astaroth has yet to be redeemed by the <i>Sons of the Starblood Tribe</i>.
