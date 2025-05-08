@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Astaroth
+# (29.) Astaroth
 <b>[Back to Commissioned Art](/art/commissions.html)</b>
 * * *
 
@@ -10,6 +10,12 @@ layout: default
 ### <i>Overview</i>
 
 I like to include demon girl characters into my video games inspired by the <i>Ars Goetia</i> (see my blogpost on [A Perspective on Magick](/writings/blog/2025/a-perspective-on-magick.html) for more info) as I weave my Proto-Mythic Morningstar background lore into my games’ story-telling components.
+
+### <i>Sigil & Invocation</i>
+
+Her description is the following (modified to reflect The Pure-Spirited Beautiful Girl version of Astaroth):
+
+> Hi!
 
 ### <i>Influences</i>
 

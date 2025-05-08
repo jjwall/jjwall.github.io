@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Bune
+# (26.) Bune
 <b>[Back to Commissioned Art](/art/commissions.html)</b>
 * * *
 

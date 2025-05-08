@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Belial (AKA Bell)
+# (68.) Belial (AKA Bell)
 <b>[Back to Commissioned Art](/art/commissions.html)</b>
 * * *
 
