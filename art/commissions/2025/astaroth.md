@@ -15,7 +15,17 @@ I like to include demon girl characters into my video games inspired by the <i>A
 
 Her description is the following (modified to reflect The Pure-Spirited Beautiful Girl version of Astaroth):
 
-> Hi!
+> (29.) ASTAROTH.--The Twenty.--ninth Spirit is Astaroth. She is a Mighty Strong Duchess, and appeareth in the Form of an hurtful Angel riding on an Infernal Beast like a Dragon, and carrying in her right hand a Viper. Thou must in no wise let her approach too near unto thee, lest she do thee damage by her Noisome Breath. Wherefore the Magician must hold the Magical Ring near his face, and that will defend her. She giveth true answers of things Past, Present, and to Come, and can discover all Secrets. She will declare wittingly how the Spirits fell, if desired, and the reason of her own fall. She can make men wonderfully knowing in all Liberal Sciences. She ruleth 40 Legions of Spirits. Her Seal is this, which wear thou as a Lamen before thee, or else she will not appear nor yet obey thee, etc.
+
+Her Sigil is this, as mentioned in the above description:
+
+<p align="center">
+    <img
+        alt="Seal of Astaroth"
+        src="/assets/sigils/astaroth/seal-of-astaroth.jpg"
+        width="600"
+    />
+</p>
 
 ### <i>Influences</i>
 
@@ -55,4 +65,8 @@ This Pure-Spirted (non-evil) Beautiful Girl version of Astaroth is currently bei
 
 In the current Morningstar Mythos that is being tracked here: [Starblood Wiki Site](https://morninstarmythos.github.io/), Astaroth has yet to be redeemed by the <i>Sons of the Starblood Tribe</i>.
 
-Once she has gone through the Morninstar Mythological "Fallen Angel Redemption" process, a new commision will be made to reflect her redeemed form where she will be coronated as: <b>High Queen Inanna Ishtar of the Underworld, Wife of High King Ba’al Zabul</b>.
+Once she has gone through the Morninstar Mythological "Fallen Angel Redemption" process, a new commision will be made to reflect her redeemed form where she will be coronated as: <b>High Queen Astarte Elyona of the Underworld, Wife of the High King Ba’al Zabul</b>.
+
+### <i>Influeces for her Redeemed Form</i>
+
+Inanna Ishtar
