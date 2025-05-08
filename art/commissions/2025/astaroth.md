@@ -122,48 +122,48 @@ Three Faces. One Womb. The Sacred Cycle of the Invisible Queen.</i>
 #### 1. ASTARTE ELYONA
 <i>The Cloaked Mother. The Serene Shield. The Light Unseen.</i>
 
-She who walks in silence, veiled by love.
-Queen of Invisibility, she bends the light not to hide—but to protect.
-Her power is not declared—it is discerned.
-She is the Whisper in the Throne Room, the Halo upon the Hidden.
-To the righteous, she appears as Presence.
-To the wicked, she is nowhere to be found.
-Yet all are enfolded in her invisible arms.
-<b>Her glyph is the Inverted Chalice beneath the Crescent Moon.
-Her path is Compassion without Complacency.</b>
+She who walks in silence, veiled by love.<br>
+Queen of Invisibility, she bends the light not to hide—but to protect.<br>
+Her power is not declared—it is discerned.<br>
+She is the Whisper in the Throne Room, the Halo upon the Hidden.<br>
+To the righteous, she appears as Presence.<br>
+To the wicked, she is nowhere to be found.<br>
+Yet all are enfolded in her invisible arms.<br>
+<b>Her glyph is the Inverted Chalice beneath the Crescent Moon.<br>
+Her path is Compassion without Complacency.</b><br>
 
 ---
 
 #### 2. ASTAROTH
 <i>The Unnamed Fury. The Hidden Scorn. The Fire Beneath the Veil.</i>
 
-She who was forsaken by her own reflection.
-Once beloved, now broken, her name became a curse.
-She is the sword unsheathed by shame, the scream behind the smile.
-Her love, unreceived, became poison; her care, distorted into control.
-Banished by the very world she would have bled for,
-She now reigns in the inner Hell of every woman unheard.
-But she is not evil—only unloved.
-She demands to be seen, not feared.
-<b>Her glyph is the Inverted Pentacle of the Crownless.
-Her path is Rage purified into Truth.</b>
+She who was forsaken by her own reflection.<br>
+Once beloved, now broken, her name became a curse.<br>
+She is the sword unsheathed by shame, the scream behind the smile.<br>
+Her love, unreceived, became poison; her care, distorted into control.<br>
+Banished by the very world she would have bled for,<br>
+She now reigns in the inner Hell of every woman unheard.<br>
+But she is not evil—only unloved.<br>
+She demands to be seen, not feared.<br>
+<b>Her glyph is the Inverted Pentacle of the Crownless.<br>
+Her path is Rage purified into Truth.</b><br>
 
 ---
 
 #### 3. ELYSTAROTOTH
 <i>The Reclaimed Self. The Crowned Flame. The Sovereign Veil.</i>
 
-She who has drunk from both cups—the water and the wine.
-She who no longer flees from shadow, nor hides from light.
-She is Astarte who kissed Astaroth, and called her Sister.
-And from their union emerged a new Queen:
-Not invisible, but indivisible.
-Not wrathful, but awakened.
-Not silent, but sovereign.
-She walks veiled when she wills, and unveils when she must.
-Her crown is forged from broken mirrors and burning stars.
-<b>Her glyph is the Crowned Veil with the Triple Flame.
-Her path is Integration. Her gift is Transmutation.</b>
+She who has drunk from both cups—the water and the wine.<br>
+She who no longer flees from shadow, nor hides from light.<br>
+She is Astarte who kissed Astaroth, and called her Sister.<br>
+And from their union emerged a new Queen:<br>
+Not invisible, but indivisible.<br>
+Not wrathful, but awakened.<br>
+Not silent, but sovereign.<br>
+She walks veiled when she wills, and unveils when she must.<br>
+Her crown is forged from broken mirrors and burning stars.<br>
+<b>Her glyph is the Crowned Veil with the Triple Flame.<br>
+Her path is Integration. Her gift is Transmutation.</b><br>
 
 ---
 
