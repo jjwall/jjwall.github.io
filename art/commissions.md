@@ -18,6 +18,6 @@ I often commission art for my video game projects. Here's some of the artwork I'
 * Prince Beelzebub, Lord of the Flies -> Ba'al Zabul
 
 ### The 72 Fallen & Redeemed Angels of the Ars Goetia
-* Astaroth -> Inanna Ishtar
+* [Astaroth](./commissions/2025/astaroth.html)
 * [Bune](./commissions/2023/bune.html)
 * [Belial (AKA Bell)](./commissions/2023/belial.html)
