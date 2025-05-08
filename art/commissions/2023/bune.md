@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# (26.) Bune
+# (26.) Bune (AKA Bimé)
 <b>[Back to Commissioned Art](/art/commissions.html)</b>
 * * *
 

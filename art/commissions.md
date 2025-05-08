@@ -19,6 +19,6 @@ I often commission art for my video game projects. Here's some of the artwork I'
 
 ### The 72 Fallen & Redeemed Angels of the Ars Goetia
 * (1.) Beelzebub (AKA Bael)
-* [(26.) Bune](./commissions/2023/bune.html)
+* [(26.) Bune (AKA Bimé)](./commissions/2023/bune.html)
 * [(29.) Astaroth](./commissions/2025/astaroth.html)
 * [(68.) Belial (AKA Bell)](./commissions/2023/belial.html)
