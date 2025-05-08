@@ -33,13 +33,13 @@ This Pure-Spirted (non-evil) Beautiful Girl version of Astaroth is currently bei
 
 <p align="center">
     <img
-        alt="BLADE's Queen Poseidon"
+        alt="BLADE's Aphrodite"
         src="/assets/art/commissions/2025/astaroth/influences/blade-poseidon.png"
         width="600"
     />
 </p>
 
-> <b>Fig 1.</b> This is [blade4649 on X](https://x.com/blade4649/)'s art of what I'm calling Queen Poseidon. You can check out the original X post [here](https://x.com/blade4649/status/1909585366023286977).
+> <b>Fig 1.</b> This is [blade4649 on X](https://x.com/blade4649/)'s art of [Aphrodite](https://en.wikipedia.org/wiki/Aphrodite) which is a mythic rhyme of Astaroth's redeemed form Astarte Elyona (see below). You can check out the original X post [here](https://x.com/blade4649/status/1909585366023286977).
 
 <p align="center">
     <img
