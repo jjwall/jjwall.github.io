@@ -7,6 +7,12 @@ layout: default
 
 <i>December 10th, 2024</i>
 
+### <i>Vibe Check</i>
+
+{% include youtube.html id="zA7Mtlrlv1I" %}
+
+### <i>Overview</i>
+
 This is a character I created known as "Celeste" for a yet-to-be-announced rail-shooter mobile game I have been designing which exists in a Sci-Fi world based on my [Morningstar Mythos](https://morninstarmythos.github.io/).
 
 Montjuleant (<b>montjuleant</b> on Discord) is the artist who I commissioned for this portrait of Celeste:
