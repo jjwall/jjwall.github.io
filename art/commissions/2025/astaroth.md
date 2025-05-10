@@ -7,6 +7,10 @@ layout: default
 
 <i>May 8th, 2025</i>
 
+### <i>Vibe Check</i>
+
+{% include youtube.html id="x0DDFJh_bxc" %}
+
 ### <i>Overview: Astaroth as the Infernal Form</i>
 
 I like to include demon girl characters into my video games inspired by the <i>Ars Goetia</i> (see my blogpost on [A Perspective on Magick](/writings/blog/2025/a-perspective-on-magick.html) for more info) as I weave my Proto-Mythic Morningstar background lore into my games’ story-telling components.

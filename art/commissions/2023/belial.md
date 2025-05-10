@@ -7,6 +7,12 @@ layout: default
 
 <i>December 9th, 2023</i>
 
+### <i>Vibe Check (PG-13)</i>
+
+{% include youtube.html id="mqoEplBvXkI" %}
+
+### <i>Overview</i>
+
 I like to include demon girl characters into my video games inspired by the <i>Ars Goetia</i> (see my blogpost on [A Perspective on Magick](/writings/blog/2025/a-perspective-on-magick.html) for more info) as I weave my Proto-Mythic Morningstar background lore into my games’ story-telling components.
 
 Montjuleant (<b>montjuleant</b> on Discord) is the artist who helped me channel this Pure-Spirited Beautiful Girl version of the Demon known as Belial, or Bell for short:
