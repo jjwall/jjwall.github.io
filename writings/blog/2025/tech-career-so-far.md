@@ -76,7 +76,7 @@ My toolkit includes:
 * <b>Languages & Frameworks</b>: Python, GDScript, ActionScript, JavaScript, TypeScript, Golang, C#, C++, Rust, HTML, CSS
 * <b>Front-end, Desktop, & Mobile</b>: React, React Native (Expo), Electron, Cordova, PyQt, Qt
 * <b>Back-end & Infrastructure</b>: pip, PyInstaller, Make, Deno, Node, npm, Webpack, Vite, .NET Core, NuGet
-* <b>Game Engines & Vision</b>: Three.js, Godot, Unity
+* <b>Vision & Game Engines</b>: Three.js, Matplotlib, Godot, Unity, Magic Leap SDK
 * <b>AI & Model Runtimes</b>: Ollama, Huggingface, OpenVINO, QNN, CUDA
 * <b>DevOps Tools</b>: Git/GitHub, CI/CD pipelines, CLI, Bash, PowerShell, cloud-native deployment platforms
 
