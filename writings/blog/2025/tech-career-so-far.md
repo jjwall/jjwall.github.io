@@ -28,7 +28,7 @@ For four of those years, I served at Deloitte, delivering innovation to both gov
 
 At Deloitte, I led development on next-generation field technology for various branches of the U.S. Military through the TATRC Research and Development program and for the Office of the Undersecretary of Defense for Research and Engineering. This included categorizing weapon systems data on classified networks and architecting <b>portable battlefield networks</b>—think Pac Star meets AWS Automan—empowering combat medics to carry secure, high-speed communications in their packs.
 
-These kits came preloaded with an NSA-approved, end-to-end encrypted VOIP platform—not unlike a battlefield-ready Discord—allowing medics to instantly connect with remote care specialists for rapid triage of complex wounds.
+These kits came preloaded with an NSA-approved, end-to-end encrypted VOIP platform—not unlike a battlefield-ready Discord—allowing medics to instantly connect with remote care specialists via a one-finger-tap VOIP bot technologies for rapid triage of complex wounds.
 
 I was also the lead developer behind <b>Sidecar</b>, a React Native mobile app designed to complement the medic bot ecosystem. Built using Expo tooling, Sidecar fulfilled the DoD’s “Store-It-Forward” initiative—ensuring all network communications are securely stored on local devices, enabling mission continuity even in blackout conditions.
 
@@ -38,7 +38,7 @@ These projects remain dear to my heart. They reflect what I believe is essential
 
 ### <i>On-Device AI Engineering</i>
 
-I served as technical lead for <b>Neuron</b>, a Copilot-like coding assistant that runs entirely on-device—offering code suggestions while preserving full privacy over sensitive codebases.
+Being recruited from federal to commerical contracting by the Hybrid AI group, I served as the technical lead for <b>Neuron</b>, a Copilot-like coding assistant that runs entirely on-device—offering code suggestions while preserving full privacy over sensitive codebases.
 
 I also architected <b>Celium</b>, a chip intelligence testing platform for on-device AI. It enabled rapid comparison of model runtimes, SDKs, and AI frameworks across varying chip architectures—CPU, GPU, and NPU—especially for Intel and Qualcomm teams optimizing performance at the silicon level.
 
@@ -46,7 +46,7 @@ I also architected <b>Celium</b>, a chip intelligence testing platform for on-de
 
 ### <i>AI Innovation in Cyber Security</i>
 
-I was recruited from Deloitte’s Hybrid AI practice into <b>Cyber AI</b> as technical hire #1, tasked with founding the engineering culture and team. Once the group matured, I stepped into the role of <b>AI DevSecOps & MLOps Engineering Lead</b>, reporting directly to the COO of Cyber AI.
+Based on Neuron's firm-wide success, I was recruited from Deloitte’s Hybrid AI practice into <b>Cyber AI</b> as technical hire #1, tasked with founding the engineering culture and team. Once the group matured, I stepped into the role of <b>AI DevSecOps & MLOps Engineering Lead</b>, reporting directly to the COO of Cyber AI.
 
 There, I led a cross-functional team of elite engineers spanning DevSecOps, MLOps, LLMOps, full stack, QA, test automation, compliance, and delivery.
 
@@ -82,11 +82,13 @@ My toolkit includes:
 
 ---
 
-### <b>My Passion for Video Game Development</b>
+### <i>My Passion for Video Game Development</i>
 
 Beyond the professional battlefield, I have lived a parallel life as a video game developer <b>since age eight</b>—creating worlds, characters, and stories for the joy of it.
 
-Today, I build games using <b>Godot</b>, <b>Unity</b>, and a custom-built networked engine powered by Node, TypeScript, and Three.js. My favorite open source contribution is [AetherCore](https://github.com/peligrolabs/AetherCore), a 2D/3D MMO-lite game framework featuring a Godot client and a .NET Core backend.
+Today, I build games using <b>Godot</b>, <b>Unity</b>, and a custom-built networked engine powered by Node, TypeScript, and Three.js known as [Boardhouse](https://jjwall.github.io/BoardhouseTS/).
+
+My favorite open source contribution is [AetherCore](https://github.com/peligrolabs/AetherCore), a 2D/3D MMO-lite game framework featuring a Godot client and a .NET Core backend.
 
 To explore my game worlds, visit the [Projects Page on my site](https://jjwall.github.io/projects.html).
 
