@@ -39,3 +39,7 @@ Her Sigils are these, as mentioned in the above description:
         width="600"
     />
 </p>
+
+### <i>Influences</i>
+...
+
