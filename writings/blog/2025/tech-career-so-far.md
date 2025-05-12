@@ -18,7 +18,7 @@ May 12th, 2025
 
 ### <i>Overview</i>
 
-I am a Deep Tech Operator with nearly nine years of professional experience in AI DevSecOps, MLOps engineering leadership, software architecture, security engineering, video game design, and full-stack application development.
+I am a High Tech Operator and Deep Tech Researcher with nearly nine years of professional experience in AI DevSecOps, MLOps engineering leadership, software architecture, security engineering, video game design, and full-stack application development.
 
 For four of those years, I served at Deloitte, delivering innovation to both government and commercial clients—including the Navy, Army, Space Force, AFSOC, Dell, Intel, Qualcomm, and the Cyber AI Innovations portfolio. I’ve held a Public Trust Clearance with the Department of Homeland Security and carried an Army contractor Common Access Card.
 
