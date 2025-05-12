@@ -28,9 +28,9 @@ For four of those years, I served at Deloitte, delivering innovation to both gov
 
 At Deloitte, I led development on next-generation field technology for various branches of the U.S. Military through the TATRC Research and Development program and for the Office of the Undersecretary of Defense for Research and Engineering. This included categorizing weapon systems data on classified networks and architecting <b>portable battlefield networks</b>—think Pac Star meets AWS Automan—empowering combat medics to carry secure, high-speed communications in their packs.
 
-These kits came preloaded with an NSA-approved, end-to-end encrypted VOIP platform—not unlike a battlefield-ready Discord—allowing medics to instantly connect with remote care specialists via a one-finger-tap VOIP bot technologies for rapid triage of complex wounds.
+These kits came preloaded with an NSA-approved, end-to-end encrypted VOIP platform—not unlike a battlefield-ready Discord—allowing medics via one-finger-tap programmed bots to instantly connect with remote care specialists for rapid triage of complex wounds.
 
-I was also the lead developer behind <b>Sidecar</b>, a React Native mobile app designed to complement the medic bot ecosystem. Built using Expo tooling, Sidecar fulfilled the DoD’s “Store-It-Forward” initiative—ensuring all network communications are securely stored on local devices, enabling mission continuity even in blackout conditions.
+I was also the lead developer behind <b>Sidecar</b>, a React Native mobile app designed to complement this medic bot ecosystem. Built using Expo tooling, Sidecar fulfilled the DoD’s “Store-It-Forward” initiative—ensuring all network communications are securely stored on local devices, enabling mission continuity even in blackout conditions.
 
 These projects remain dear to my heart. They reflect what I believe is essential: the modernization of battlefield comms and triage protocols to save lives and serve peacekeeping missions around the globe.
 
