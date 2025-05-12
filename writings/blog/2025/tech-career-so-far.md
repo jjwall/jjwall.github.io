@@ -78,7 +78,7 @@ My toolkit includes:
 * <b>Back-end & Infrastructure</b>: pip, PyInstaller, Make, Deno, Node, npm, Webpack, Vite, .NET Core, NuGet
 * <b>Vision & Game Engines</b>: Three.js, Matplotlib, Godot, Unity, Magic Leap SDK
 * <b>AI & Model Runtimes</b>: Ollama, Huggingface, OpenVINO, QNN, CUDA
-* <b>DevOps Tools</b>: Git/GitHub, CI/CD pipelines, CLI, Bash, PowerShell, cloud-native deployment platforms
+* <b>DevSecOps Tools</b>: Git/GitHub, CI/CD pipelines, CLI, Bash, PowerShell, cloud-native deployment platforms, Prisma, SonarQube
 
 ---
 
