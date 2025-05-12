@@ -75,12 +75,13 @@ Two flagship AI assets I led and helped bring to life:
 ### <i> Technology Mastery</i>
 
 My toolkit includes:
-* <b>Programming Languages</b>: Python, GDScript, ActionScript, JavaScript, TypeScript, Golang, C#, C++, Rust, HTML, CSS
+* <b>Programming Languages</b>: Python, GDScript, ActionScript, JavaScript, TypeScript, Kotlin, Golang, C#, C++, Rust, HTML, CSS
 * <b>Front-end, Desktop, & Mobile Frameworks</b>: React, React Native (Expo), Electron, Cordova, PyQt, Qt
 * <b>Back-end & Infrastructure</b>: pip, PyInstaller, Make, Deno, Node, npm, Webpack, Vite, .NET Core, NuGet
 * <b>Vision & Game Engines</b>: Three.js, Matplotlib, Godot, Unity, Magic Leap SDK
 * <b>AI & Model Runtimes</b>: Ollama, Huggingface, OpenVINO, QNN, CUDA
 * <b>DevSecOps Tools</b>: Git/GitHub, CI/CD pipelines, CLI, Bash, PowerShell, cloud-native deployment platforms, Prisma, SonarQube
+* <b>Operating Systems</b>: Windows (10 & 11), MacOS (Sequoia & Sonoma), Linux (EC2 - Bottlerocket, AL2, AL2023, Ubuntu, Debian, Arch, & Manjaro), iOS (15, 16, 17, & 18), Android (15 - Vanilla Ice Cream)
 
 ---
 
