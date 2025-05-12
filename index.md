@@ -7,7 +7,7 @@ layout: default
 
 ## <i>Biography</i>
 <i><b>Jacob James Wallace</b></i><br>
-<i>Artist & Entrepreneur</i><br>
+<i>Artist, Engineer, & Entrepreneur</i><br>
 👨🏼‍🔬 Digital Therapeutics R&D 🔬 <br>
 👨🏼‍💻 Al DevSecOps & MLOps 🤖 <br>
 🕹️ Video Game Developer 🤓 <br>
