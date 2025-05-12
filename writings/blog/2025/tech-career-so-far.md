@@ -38,7 +38,7 @@ These projects remain dear to my heart. They reflect what I believe is essential
 
 ### <i>On-Device AI Engineering</i>
 
-Being recruited from federal to commerical contracting by the Hybrid AI group, I served as the technical lead for <b>Neuron</b>, a Copilot-like coding assistant that runs entirely on-device—offering code suggestions while preserving full privacy over sensitive codebases.
+Being recruited from federal to commerical contracting by the <b>Hybrid AI</b> group, I served as the technical lead for <b>Neuron</b>, a Copilot-like coding assistant that runs entirely on-device—offering code suggestions while preserving full privacy over sensitive codebases.
 
 I also architected <b>Celium</b>, a chip intelligence testing platform for on-device AI. It enabled rapid comparison of model runtimes, SDKs, and AI frameworks across varying chip architectures—CPU, GPU, and NPU—especially for Intel and Qualcomm teams optimizing performance at the silicon level.
 
