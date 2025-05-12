@@ -16,7 +16,7 @@ layout: default
 
 May 12th, 2025
 
-#### <i>Overview</i>
+### <i>Overview</i>
 
 I am a Deep Tech Operator with nearly nine years of professional experience in AI DevSecOps, MLOps engineering leadership, software architecture, security engineering, video game design, and full-stack application development.
 
