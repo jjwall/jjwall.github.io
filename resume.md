@@ -37,7 +37,7 @@ Whether you’re building the next-gen cyber AI platform or seeking operational 
 
 <b>AI DevSecOps & MLOps Engineering Lead</b><br>
 <i>Commercial Advisory + Consulting Cyber Security Practice - Cyber Innovations Portfolio (Cyber AI Internal Account, Direct Report to Cyber AI COO)</i><br>
-<i>San Francisco, CA, April 2025 - Current</i><br>
+<i>San Francisco, CA, January 2025 - Current</i><br>
 * Lead a cross-functional team of engineers and technologists across DevSecOps, MLOps, LLMOps, full stack, QA, test automation, project delivery, and compliance disciplines
 * Oversee the full asset development lifecycle from ideation through business and technical design, team formation and staffing, prototype development, QA and beta testing, and client piloting—culminating in compliance, production, and operational handoff
 * Serve as the operational bridge between visionary product ideation and real-world deployment—ensuring each use case is engineered with security, scalability, and precision from day zero
@@ -47,7 +47,7 @@ Whether you’re building the next-gen cyber AI platform or seeking operational 
 
 <b>AI & ML Engineering Manager</b><br>
 <i>Commercial Advisory + Consulting Cyber Security Practice - Cyber Innovations Portfolio (Sony, Disney, Motiva, & NYL Accounts - Direct Report to Cyber AI Principal)</i><br>
-<i>San Francisco, CA, June 2024 - April 2025</i><br>
+<i>San Francisco, CA, June 2024 - January 2025</i><br>
 * Engineering manager over all of Cyber AI’s internally developed innovation projects. This portfolio is comprised of seven (and counting!) asset accelerators—including, but not limited to:
 * <b>TPRM Accelerator</b> - an on-device AI-powered TPRM service accelerator tool that reduces the amount of time TPRM analysts have to spend reviewing TPRM security documentation and answering TPRM questionnaires.
 * <b>Digital Analyst</b> - an AI-powered SaaS used by SOC analysts to rapidly support their triage of security alerts using advanced AI techniques to process current security alert information and historical triages.
@@ -78,7 +78,7 @@ Whether you’re building the next-gen cyber AI platform or seeking operational 
 
 <b>Software Engineering Lead</b><br>
 <i>Application Modernization & Innovation Practice (Navy, Army, Airforce, & Spaceforce Accounts - Direct Report to JAIMI's Director of Product)</i><br>
-<i>Washington, D.C., August 2021 - October 2021</i>
+<i>Washington, D.C., August 2021 - December 2021</i>
 * Tech used: TypeScript, Angular, Node.js, NPM, Webpack, MongoDb, VS Code, Git, GitHub
 * Led engineering efforts as part of the JAIMI Cross-Military CRM project categorizing weapon systems data across all US Alliances stored in NIPR and SIPR secret security clearance networks.
 
@@ -91,7 +91,7 @@ Whether you’re building the next-gen cyber AI platform or seeking operational 
     />
 </p>
 
-<b>Mid-Level Security Application Engineer</b><br>
+<b>Mid-Level Application Security Engineer</b><br>
 <i>Dublin, OH, February 2021 - July 2021</i><br>
 * Tech used: TypeScript, Angular, C#, .NET Core, SQL, Git, Azure DevOps
 * Assisted in upgrading existing systems by making them more modular, extendable, efficient, and secure as a member of the Refactoring Team.
@@ -107,7 +107,7 @@ tokenizing existing and newly added credit card data.
     />
 </p>
 
-<b>Security Application Engineer</b><br>
+<b>Application Security Engineer</b><br>
 <i>Houston, TX, October 2017 - January 2021</i><br>
 * Tech used: TypeScript, JavaScript, React, Redux, Node.js, NPM, JQuery, C#, ASP.NET MVC, SQL
 * Ensured integrity and security of software for the Support and Admin applications of Hosted Web Application Platform team (HWAP).
@@ -184,7 +184,7 @@ tokenizing existing and newly added credit card data.
 
 <b>Code Mentor, Codum Brand Ambassador</b><br>
 <i>Germany, Upper Bavaria, November 2022 - November 2023</i>
-* Mentored junior developers helping them navigate their coding learning journies as well as their career growth & development.
+* Mentored junior developers helping them navigate their coding learning journeys as well as their career growth & development.
 * Ambassador for the organization spreading the word through my professional network and social media channels.
 
 ## Code Ninjas
