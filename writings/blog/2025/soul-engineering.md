@@ -5,6 +5,14 @@ layout: default
 <b>[Back to Blogposts](/writings/blog.html)</b>
 * * *
 
+<p align="center">
+    <img
+        alt="Soul Engineering Banner"
+        src="/assets/writings/blog/2025/soul-engineering/banner1.png"
+        width="600"
+    />
+</p>
+
 <i>April 2nd, 2025</i>
 
 ### <i>Prompting ChatGPT to Help Unfold Your Mytho-Poetic Odyssey</i>
