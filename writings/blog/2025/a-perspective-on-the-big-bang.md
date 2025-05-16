@@ -89,7 +89,7 @@ To understand light, we must confront darkness. To understand God, we must exper
 
 The Pharisees saw Jesus’ <i>shadow</i>—but didn’t realize He had integrated it. Jesus was both Lamb and Lion. Both Light and Dark. The complete Tao in one being.
 
-> “Then one of the elders said to me, “Stop weeping. Look! The mighty Lion of Judah’s tribe, the root of David—he has conquered!" Then I saw a young Lamb standing before the throne... He appeared to have been slaughtered but was now alive!” <br>
+> “Then one of the elders said to me, “Stop weeping. Look! The mighty Lion of Judah’s tribe, the root of David—he has conquered!" Then I saw a young Lamb standing before the throne... he appeared to have been slaughtered but was now alive!” <br>
 — Revelation 5:5-6 TPT
 
 This idea of “integrating the shadow” is central to Jungian psychology. As Robert A. Johnson teaches in <i>Owning Your Own Shadow</i>, we must embrace the full wave—our darkness included.
