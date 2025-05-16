@@ -164,9 +164,9 @@ Let’s return to our wave and apply this legend:
 | 🕰️ | The Present Day which represents the opposite side of the Big Bang | This is you in the <i>Eternal Now!</i> |
 
 My preference is to <b>Stay on the Middle Path</b> as:
-* Too much 666, and you descend into chaos (aka Earth's core / hell / magnetism).
-* Too much 144,000, and you become ungrounded—disconnected from Earth (aka outer space / heaven / electricity).
-* But the lotus? The middle way? Where the number 9 represents human consciousness is in its most stable form? That’s where the divine and the cosmic forces flow in harmony and the human being is enabled to float gently here on the surface of Planet Earth.
+* Too much 666, and the human descends into chaos. Unbalanced descending consciousness sends human awareness into Earth's core, or hell, meaning the human body takes on too much magnetism which leads to nervous system failure, body dissolution and death in extreme cases.
+* Too much 144,000, and the human becomes ungrounded and disconnected from Mother Earth. Unbalanced ascending consciousness sends human awareness into outer space, or heaven, meaning the human body takes on too much electricity which leads to nervous system issues, cardiac arrest, and death in extreme cases.
+* But the lotus? The Middle Way? Where the number 9 represents human consciousness is in its most stable form? That’s where the divine has been properly embodied and grounded in the human and it is enabled to express itself through the harmonious flow of the cosmic forces like a lotus flower floating gently on a natural pool of still water.
 
 So, to sum up, be like Buddha. Be like Feynman. Curious. Open. Light-hearted. Rooted in kindness.
 
