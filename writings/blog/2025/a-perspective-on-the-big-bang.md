@@ -150,7 +150,7 @@ The 144,000 are those whose consciousness is purified, or, redeemed—those who 
     />
 </p>
 
-> <b>Fig 2</b>. The same graph of our sine wave with the below legend's emojis applied.
+> <b>Fig 2</b>. The same graph of our sine wave marked with the below legend's emojis.
 
 Let’s return to our wave and apply this legend:
 
