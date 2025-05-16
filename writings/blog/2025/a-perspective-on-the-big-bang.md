@@ -138,7 +138,8 @@ Let’s return to our wave and apply this legend:
 * 💥 The Big Bang represented by the Theta Point "θ" = Consciousness' Starting Point
 * 🐑 The Lamb, represented by the number "666" = Consciousness' Descending Form / The Left-Hand Path
 * 🦁 The Lion, represented by the number "144,000" = Consciousness' Ascending Form / The Right-Hand Path
-* 🪷 The Lotus, represented by the number "9" = Consciousness' Stable From / The Middle Path / The Way of Buddha
+* 🪷 The Lotus, represented by the number "9" = Consciousness' Stable Form as it is Ascending / The Middle Path / The Way of Buddha
+* 🧘 The Buddha, represented by the number "9" = Conscousness' Stable Form as it is descending / The Middle Path / The Way of Buddha
 * 🕰️ Present day (opposite Big Bang)
 
 My suggestion: <b>Stay on the Middle Path</b> as:
