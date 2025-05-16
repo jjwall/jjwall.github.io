@@ -125,7 +125,7 @@ This time, the 9 represents consciousness in its <b>ascending</b> form. The Lamb
 
 The 144,000 are those whose consciousness is purified, or, redeemed—those who learn the “new song.”
 
-> <b>Note</b>: And although 144,000 is a more "pure" representation of the number 9 than 666 (since it only takes one numerological operation to get to 9, i.e. 1 + 4 + 4 + 0 + 0 + 0 = 9), 9 by itself is obviously the most pure form of 9. Therefore, 9 by itself should be the intention. See the Buddha's "Middle Path" below.
+> <b>Note</b>: And although the number 144,000 is a more "pure" representation of the number 9 than the number 666 (since it only takes one numerological operation to get to 9, i.e. 1 + 4 + 4 + 0 + 0 + 0 = 9), 9 by itself is obviously the most pure form of 9. Therefore, 9 by itself should be the intention. See the Buddha's "Middle Path" below.
 
 ---
 
