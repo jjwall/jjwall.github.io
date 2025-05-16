@@ -46,15 +46,15 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i><b>The Tave
 [Respect to Ye Old God, Father Time](./writings/poetry/2025/father-time.html)
 
 ## <i>Featured Blogposts</i>
-[My Tech Career So Far: Building Bridges Between Code, Combat, and Creativity](./writings/blog/2025/tech-career-so-far.md)
+[A Christian's Perspective on the Big Bang: Understanding the Beginning of Time through Frequency, Consciousness, and Numerology](./writings/blog/2025/a-perspective-on-the-big-bang.html)
+
+[My Tech Career So Far: Building Bridges Between Code, Combat, and Creativity](./writings/blog/2025/tech-career-so-far.html)
 
 [Ludum Dare 57: The Inspiration Behind Pipe World & Comfy Game Dev's Submission for the 72-Hour Game Jam](./writings/blog/2025/ludum-dare-57.html)
 
 [Grandpa Dude and the Demon of Freedom: Reclaiming My Scottish Soul](./writings/blog/2025/reclaiming-my-scottish-soul.html)
 
 [Myth as the Penultimate Truth](./writings/blog/2025/myth-as-the-penultimate-truth.html)
-
-[Jacob's Technological Biography](./writings/blog/2025/tech-bio.html)
 
 ## <i>Featured Music Productions</i>
 [Underworld (Battle Theme) [Original]](https://soundcloud.com/jingleheimer-1/underworld)
