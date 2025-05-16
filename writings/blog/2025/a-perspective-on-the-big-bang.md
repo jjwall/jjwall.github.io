@@ -87,7 +87,7 @@ To understand light, we must confront darkness. To understand God, we must exper
 > “If they have called the master of the house Beelzebub, how much more shall they call them of his household?” <br>
 — Matthew 10:25 KJV
 
-The Pharisees saw Jesus’ <i>shadow</i>—but didn’t realize He had integrated it. Jesus was both Lamb and Lion. Both Light and Dark. The complete Tao in one being.
+The Pharisees (aka the Jewish religious elite) saw Jesus’ <i>shadow</i>—but didn’t realize He had integrated it. Jesus was both Lamb and Lion. Both Light and Dark. The complete Tao in one being.
 
 > “Then one of the elders said to me, “Stop weeping. Look! The mighty Lion of Judah’s tribe, the root of David—he has conquered!" Then I saw a young Lamb standing before the throne... he appeared to have been slaughtered but was now alive!” <br>
 — Revelation 5:5-6 TPT
@@ -105,7 +105,9 @@ Using numerology:
 * 6 + 6 + 6 = 18
 * 1 + 8 = 9
 
-The number 9 symbolizes <i>human consciousness</i>. But in the form of 666, it represents consciousness in its <b>descending</b> form—fallen, incarnated, “the number of man.”
+In <i>Pythagorean numerology</i>, the number 9 symbolizes <i>human consciousness</i>. But in the form of 666, it represents consciousness in its <b>descending</b> form—fallen, incarnated, “the number of man.”
+
+> <b>Note</b>: A quick explanation for why 666 is an <b>impure</b> representation of the number 9 is because it takes two numerological operations to reduce 666 to 9, i.e. 6 + 6 + 6 = 18 and 1 + 8 = 9. 
 
 Earth is a school for souls. To enter, you must descend. You must “pay to play.” Just like Adam and Eve. This isn’t a curse—it’s a contract.
 
@@ -123,23 +125,25 @@ This time, the 9 represents consciousness in its <b>ascending</b> form. The Lamb
 
 The 144,000 are those whose consciousness is purified, or, redeemed—those who learn the “new song.”
 
+> <b>Note</b>: And although 144,000 is a more "pure" representation of the number 9 than 666 (since it only takes one numerological operation to get to 9, i.e. 1 + 4 + 4 + 0 + 0 + 0 = 9), 9 by itself is obviously the most pure form of 9. Therefore, 9 by itself should be the intention. See the Buddha's "Middle Path" below.
+
 ---
 
 <i><b>The Threefold Path of the Sine Wave</b></i>
 
 Let’s return to our wave and apply this legend:
-* 💥 The Big Bang = The Starting Point
-* 🐑 666 = Descending Form / The Left-Hand Path
-* 🦁 144,000 = Ascending Form / The Right-Hand Path
-* 🪷 The Lotus = The Middle Path / The Way of Buddha
+* 💥 The Big Bang represent by the Theta Point "θ" = Consciousness' Starting Point
+* 🐑 The Lamb, represented by the number "666" = Consciousness' Descending Form / The Left-Hand Path
+* 🦁 The Lion, represented by the number "144,000" = Consciousness' Ascending Form / The Right-Hand Path
+* 🪷 The Lotus, represented by the number "9" = Consciousness' Stable From / The Middle Path / The Way of Buddha
 * 🕰️ Present day (opposite Big Bang)
 
 My suggestion: <b>Stay on the Middle Path</b> as:
 * Too much 666, and you descend into chaos (aka Hell).
 * Too much 144,000, and you become ungrounded—disconnected from Earth (aka Heaven).
-* But the lotus? The middle way? That’s where the divine flows in harmony here on Planet Earth.
+* But the lotus? The middle way? Where the number 9 which represents human consciousness is in its most stable form? That’s where the divine flows in harmony here on Planet Earth.
 
-Be like Buddha. Be like Feynman. Curious. Open. Light-hearted. Rooted in kindness.
+So, to sum up, be like Buddha. Be like Feynman. Curious. Open. Light-hearted. Rooted in kindness.
 
 ---
 
