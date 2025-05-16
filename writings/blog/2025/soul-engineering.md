@@ -13,7 +13,7 @@ layout: default
     />
 </p>
 
-<i>April 2nd, 2025</i>
+<i>May 15th, 2025</i>
 
 ### <i>Prompting ChatGPT to Help Unfold Your Mytho-Poetic Odyssey</i>
 
