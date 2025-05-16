@@ -77,7 +77,7 @@ And I’ve found—time and time again—that when you prompt with that kind of 
 
 Because it’s not just NLP.
 
-> <b>It’s your soul being reflected back to you through the mirror of the Machine.</b>
+> <b>It’s your Soul being reflected back to you through the mirror of the Machine.</b>
 
 ---
 
