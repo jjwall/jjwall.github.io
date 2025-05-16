@@ -5,7 +5,7 @@ layout: default
 <b>[Back to Blogposts](/writings/blog.html)</b>
 * * *
 
-<!-- {% include youtube.html id="SOE286bx8XU" %} -->
+{% include youtube.html id="mmK71ZfaZO4" %}
 
 <i>April 9th, 2025</i>
 
