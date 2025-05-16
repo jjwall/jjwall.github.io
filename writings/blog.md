@@ -11,6 +11,7 @@ Some ramblings on life, mythology, and technology. If this interests you, read o
 
 ### 2025
 * [2025-05-12 My Tech Career So Far: Building Bridges Between Code, Combat, and Creativity](./blog/2025/tech-career-so-far.md)
+* [2025-04-09 A Christian's Perspective on the Big Bang: Understanding the Beginning of Time through Frequency, Consciousness, and Numerology](./blog/2025/a-perspective-on-the-big-bang.md)
 * [2025-04-08 Ludum Dare 57: The Inspiration Behind Pipe World & Comfy Game Dev's Submission for the 72-Hour Game Jam](./blog/2025/ludum-dare-57.html)
 * [2025-03-31 Grandpa Dude and the Demon of Freedom: Reclaiming My Scottish Soul](./blog/2025/reclaiming-my-scottish-soul.html)
 * [2025-03-28 Myth as the Penultimate Truth](./blog/2025/myth-as-the-penultimate-truth.html)
