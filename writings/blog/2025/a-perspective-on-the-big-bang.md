@@ -64,7 +64,15 @@ This is the mystery of quantum mechanics. The Big Bang was the improbable collis
 
 <b>The Sin(e) Wave of Consciousness</b>
 
-(insert picture of Sin Wave)
+<p align="center">
+    <img
+        alt="A Sine Wave"
+        src="/assets/writings/blog/2025/a-perspective-on-the-big-bang/sine-wave.jpg"
+        width="600"
+    />
+</p>
+
+> <b>Fig 1</b>. A graph of a sine wave. Image by Sabrina Jiang, Investopedia 2020.
 
 Let’s visualize the primordial sound of the Big Bang as a <b>sine wave</b>—a beautiful waveform that ascends, descends, and passes through a still center. (And yes, we’re playing with the pun: <i>sin</i> wave.)
 
@@ -133,6 +141,16 @@ The 144,000 are those whose consciousness is purified, or, redeemed—those who 
 
 > “If you only knew the magnificence of the 3, 6, and 9, then you would have the key to the universe."<br>
 ~Nikola Tesla
+
+<p align="center">
+    <img
+        alt="A Sine Wave with Legend Emojis Applied"
+        src="/assets/writings/blog/2025/a-perspective-on-the-big-bang/sine-wave-with-legend.jpg"
+        width="600"
+    />
+</p>
+
+> <b>Fig 2</b>. The same graph of our sine wave with the below legend's emojis applied.
 
 Let’s return to our wave and apply this legend:
 * 💥 The Big Bang represented by the Theta Point "θ" = Consciousness' Starting Point
