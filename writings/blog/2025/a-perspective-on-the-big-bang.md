@@ -164,7 +164,7 @@ Let’s return to our wave and apply this legend:
 
 | Emoji  | Representation  | Meaning  |
 | ------------- | ------------- | ------------- |
-| 💥 | The Big Bang represented by the Theta Point "θ"  | The Starting Point of Consciousness. The "A" of AUM_  |
+| 💥 | The Big Bang represented by the Theta Point "θ"  | The Starting Point of Consciousness. The "A" of AUM_ |
 | 🦁 | The Lion, represented by the number "144,000"  | Consciousness in its Ascending Form known as the "Right-Hand Path" in spirituality. The "U" of AUM_ |
 | 🐑  | The Lamb, represented by the number "666"  | Consciousness in its Descending Form known as the "Left-Hand Path" in spirituality. The "M" of AUM_ |
 | 🧘 | The Buddha, represented by the number "9" | Conscousness in its Stable Form as it is descending. This is known as the "Middle Path" or "The Way" of Buddha / Jesus. The "\_" of AUM_ |
