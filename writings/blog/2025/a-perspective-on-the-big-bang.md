@@ -163,7 +163,7 @@ Let’s return to our wave and apply this legend:
 | 🪷 | The Lotus which represents the number "9" expressing itself  | Consciousness in its Stable Form as it is Ascending. This is known as the "Middle Path" or "The Way" of Buddha / Jesus in spirituality. The "\_" of AUM_ |
 | 🕰️ | The Present Day which represents the opposite side of the Big Bang | This is you in the <i>Eternal Now!</i> |
 
-My suggestion: <b>Stay on the Middle Path</b> as:
+My preference is to <b>Stay on the Middle Path</b> as:
 * Too much 666, and you descend into chaos (aka Earth's core / hell / magnetism).
 * Too much 144,000, and you become ungrounded—disconnected from Earth (aka outer space / heaven / electricity).
 * But the lotus? The middle way? Where the number 9 which represents human consciousness is in its most stable form? That’s where the divine, or the cosmic forces, flows in harmony where the human being floats gently here on the surface of Planet Earth.
