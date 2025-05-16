@@ -170,3 +170,5 @@ So, to sum up, be like Buddha. Be like Feynman. Curious. Open. Light-hearted. Ro
 ---
 
 <b>May you walk the wave wisely. May you sing the new song. May your frequency be love. God bless!</b>
+
+🪷🧘💓
