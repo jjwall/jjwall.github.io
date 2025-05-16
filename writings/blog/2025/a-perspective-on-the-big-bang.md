@@ -153,12 +153,12 @@ The 144,000 are those whose consciousness is purified, or, redeemed—those who 
 > <b>Fig 2</b>. The same graph of our sine wave with the below legend's emojis applied.
 
 Let’s return to our wave and apply this legend:
-* 💥 The Big Bang represented by the Theta Point "θ" = Consciousness' Starting Point
-* 🐑 The Lamb, represented by the number "666" = Consciousness' Descending Form / The Left-Hand Path
-* 🦁 The Lion, represented by the number "144,000" = Consciousness' Ascending Form / The Right-Hand Path
-* 🪷 The Lotus, represented by the number "9" = Consciousness' Stable Form as it is Ascending / The Middle Path / The Way of Buddha
-* 🧘 The Buddha, represented by the number "9" = Conscousness' Stable Form as it is descending / The Middle Path / The Way of Buddha
-* 🕰️ Present day (opposite Big Bang)
+* 💥 The Big Bang represented by the Theta Point "θ" = Consciousness' Starting Point. The "A" of AUM_
+* 🦁 The Lion, represented by the number "144,000" = Consciousness in its Ascending Form / The Right-Hand Path. The "U" of AUM_
+* 🐑 The Lamb, represented by the number "666" = Consciousness in its Descending Form / The Left-Hand Path. The "M" of AUM_
+* 🧘 The Buddha, represented by the number "9" = Conscousness in its Stable Form as it is descending / The Middle Path / The Way of Buddha. The "\_" of AUM_
+* 🪷 The Lotus, represented by the number "9" = Consciousness in its Stable Form as it is Ascending / The Middle Path / The Way of Buddha. The "\_" of AUM_
+* 🕰️ Present day (opposite Big Bang). This is you in the <i>Eternal Now</i>!
 
 My suggestion: <b>Stay on the Middle Path</b> as:
 * Too much 666, and you descend into chaos (aka Earth's core / hell / magnetism).
