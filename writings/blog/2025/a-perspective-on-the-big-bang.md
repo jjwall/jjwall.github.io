@@ -25,10 +25,10 @@ But what exactly <i>is</i> frequency, and why does it matter—especially from a
 <i><b>In the Beginning Was the Sound</b></i>
 
 > “In the beginning God created the heavens and the earth… And the Spirit of God was hovering over the surface of the waters. Then God said, ‘Let there be light,’ and there was light.” <br>
-— Genesis 1:1–3, NLT
+— Genesis 1:1–3 NLT
 
 > “In the beginning was the Word, and the Word was with God, and the Word was God.” <br>
-— John 1:1, KJV
+— John 1:1 KJV
 
 It’s clear that in the Christian creation mythos, the origin of the universe begins with a sound—a divine utterance. “Then God said…” evokes frequency, vibration, and the power of spoken Word.
 
@@ -73,7 +73,7 @@ This waveform has been vibrating since the dawn of time—and still is.
 Much like this oscillation, <b>consciousness</b> fluctuates. We have high points and low points. Joy and grief. Light and dark.
 
 > “And the light shineth in darkness; and the darkness comprehended it not.” <br>
-— John 1:5, KJV
+— John 1:5 KJV
 
 > “And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness.” <br>
 — Genesis 1:3-4 KJV
@@ -85,9 +85,12 @@ To understand light, we must confront darkness. To understand God, we must exper
 <i><b>Jesus, the Integrated One</b></i>
 
 > “If they have called the master of the house Beelzebub, how much more shall they call them of his household?” <br>
-— Matthew 10:25, KJV
+— Matthew 10:25 KJV
 
 The Pharisees saw Jesus’ <i>shadow</i>—but didn’t realize He had integrated it. Jesus was both Lamb and Lion. Both Light and Dark. The complete Tao in one being.
+
+> “Then one of the elders said to me, “Stop weeping. Look! The mighty Lion of Judah’s tribe, the root of David—he has conquered!" Then I saw a young Lamb standing before the throne... He appeared to have been slaughtered but was now alive!” <br>
+— Revelation 5:5-6 TPT
 
 This idea of “integrating the shadow” is central to Jungian psychology. As Robert A. Johnson teaches in <i>Owning Your Own Shadow</i>, we must embrace the full wave—our darkness included.
 
