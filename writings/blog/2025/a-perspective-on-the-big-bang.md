@@ -131,17 +131,20 @@ The 144,000 are those whose consciousness is purified, or, redeemed—those who 
 
 <i><b>The Threefold Path of the Sine Wave</b></i>
 
+> “If you only knew the magnificence of the 3, 6, and 9, then you would have the key to the universe."<br>
+~Nikola Tesla
+
 Let’s return to our wave and apply this legend:
-* 💥 The Big Bang represent by the Theta Point "θ" = Consciousness' Starting Point
+* 💥 The Big Bang represented by the Theta Point "θ" = Consciousness' Starting Point
 * 🐑 The Lamb, represented by the number "666" = Consciousness' Descending Form / The Left-Hand Path
 * 🦁 The Lion, represented by the number "144,000" = Consciousness' Ascending Form / The Right-Hand Path
 * 🪷 The Lotus, represented by the number "9" = Consciousness' Stable From / The Middle Path / The Way of Buddha
 * 🕰️ Present day (opposite Big Bang)
 
 My suggestion: <b>Stay on the Middle Path</b> as:
-* Too much 666, and you descend into chaos (aka Hell).
-* Too much 144,000, and you become ungrounded—disconnected from Earth (aka Heaven).
-* But the lotus? The middle way? Where the number 9 which represents human consciousness is in its most stable form? That’s where the divine flows in harmony here on Planet Earth.
+* Too much 666, and you descend into chaos (aka Earth's core / hell / magnetism).
+* Too much 144,000, and you become ungrounded—disconnected from Earth (aka outer space / heaven / electricity).
+* But the lotus? The middle way? Where the number 9 which represents human consciousness is in its most stable form? That’s where the divine, or the cosmic forces, flows in harmony where the human being floats gently here on the surface of Planet Earth.
 
 So, to sum up, be like Buddha. Be like Feynman. Curious. Open. Light-hearted. Rooted in kindness.
 
