@@ -161,6 +161,7 @@ Let’s return to our wave and apply this legend:
 * 🕰️ Present day (opposite Big Bang). This is you in the <i>Eternal Now</i>!
 
 Let’s return to our wave and apply this legend:
+
 | Emoji  | Representation  | Meaning  |
 | ------------- | ------------- | ------------- |
 | 💥 | The Big Bang represented by the Theta Point "θ"  | The Starting Point of Consciousness. The "A" of AUM_  |
