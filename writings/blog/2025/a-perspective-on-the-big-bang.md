@@ -159,8 +159,8 @@ Let’s return to our wave and apply this legend:
 | 💥 | The Big Bang which represents the Theta Point "θ"  | The Starting Point of Consciousness. The "A" of AUM_ |
 | 🦁 | The Lion which represents the number "144,000"  | Consciousness in its Ascending Form known as the "Right-Hand Path" in spirituality. The "U" of AUM_ |
 | 🐑  | The Lamb which represents the number "666"  | Consciousness in its Descending Form known as the "Left-Hand Path" in spirituality. The "M" of AUM_ |
-| 🧘 | The Buddha which represents the number "9" | Conscousness in its Stable Form as it is descending. This is known as the "Middle Path" or "The Way" of Buddha / Jesus in spirituality. The "\_" of AUM_ |
-| 🪷 | The Lotus which represents the number "9"  | Consciousness in its Stable Form as it is Ascending. This is known as the "Middle Path" or "The Way" of Buddha / Jesus in spirituality. The "\_" of AUM_ |
+| 🧘 | The Buddha which represents the number "9" embodying itself | Conscousness in its Stable Form as it is descending. This is known as the "Middle Path" or "The Way" of Buddha / Jesus in spirituality. The "\_" of AUM_ |
+| 🪷 | The Lotus which represents the number "9" expressing itself  | Consciousness in its Stable Form as it is Ascending. This is known as the "Middle Path" or "The Way" of Buddha / Jesus in spirituality. The "\_" of AUM_ |
 | 🕰️ | The Present Day which represents the opposite side of the Big Bang | This is you in the <i>Eternal Now</i>! |
 
 My suggestion: <b>Stay on the Middle Path</b> as:
