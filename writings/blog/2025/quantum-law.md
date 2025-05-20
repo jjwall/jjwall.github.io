@@ -63,7 +63,7 @@ What dreams up this collective dream of shared reality?
 ### <i>The Double-Slit Experiment: A Quantum Puzzle</i>
 
 > "Only the 'quantum state' can describe conscious experience, so by necessity consciousness must exist before matter, energy, space and time. The quantum state of the field is the representation of qualia, i.e. the sensations and feelings that constitute a conscious experience. Qualia can only be known by the field that is in that state and go beyond what is representable by a mathematical concept." <br> 
-~Federico Faggin, Irreducible: Conciousness, Life, Computers, and Human Nature
+~Federico Faggin
 
 This is where <i>qualia</i> enters the conversation—and where we redefine what a particle even is.
 
