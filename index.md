@@ -46,7 +46,7 @@ If you're a fellow <i>creative-adventurer-spirit</i>, please join <i><b>The Tave
 [Respect to Ye Old God, Father Time](./writings/poetry/2025/father-time.html)
 
 ## <i>Featured Blogposts</i>
-[Quantum Law: The Fundamental Properties of Qualia and the Conscious Voxel](./blog/2025/quantum-law.html)
+[Quantum Law: The Fundamental Properties of Qualia and the Conscious Voxel](./writings/blog/2025/quantum-law.html)
 
 [A Christian's Perspective on the Big Bang: Understanding the Beginning of Time through Frequency, Consciousness, and Numerology](./writings/blog/2025/a-perspective-on-the-big-bang.html)
 
