@@ -13,9 +13,9 @@ layout: default
     />
 </p>
 
-> “To awaken in the dream is to take responsibility for the dream.”
-
 <i>May 20th, 2025</i>
+
+> “To awaken in the dream is to take responsibility for the dream.”
 
 ---
 
