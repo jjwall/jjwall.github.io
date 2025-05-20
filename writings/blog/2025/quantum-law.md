@@ -159,7 +159,7 @@ Your brain is your bridge.
 
 ### <i>To Awaken in the Dream</i>
 
-> “If you think about consciousness long enough, you either become a panpsychist or you go into administration.”
+> “If you think about consciousness long enough, you either become a panpsychist or you go into administration.”<br>
 ~John Perry
 
 Whether this is a dream, video game, or a quantum holographic simulation, our duty remains the same:
