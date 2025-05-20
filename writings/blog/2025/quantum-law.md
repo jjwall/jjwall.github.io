@@ -46,7 +46,7 @@ To approach that mystery, we must first turn to the theories of David Bohm and t
 
 Bohm introduced the concept of two interwoven realms:
 * <b>The Explicate Order</b>: the physical, external world of form, measurable by the five senses.
-* <b>The Implicate Order</b>: a deeper, hidden field of potential where all things are enfolded together—a realm beyond and more fundamental than time, space, or matter, where everything is intimately connected.
+* <b>The Implicate Order</b>: a deeper, hidden field of potential where all things are enfolded together—a realm beyond—and more fundamental than—time, space, and matter—where everything is holistically connected.
 
 The explicate is the shadow. The implicate is the source.
 
@@ -71,7 +71,7 @@ In philosphical terms, <b>qualia</b> are the units of subjective experience—th
 
 Historically, classical physics viewed particles as tangible, measurable units of matter. That paradigm was shattered in 1905 with Einstein’s study of the <b>Photoelectric Effect</b>, revealing that light behaves not only as a wave but as a particle—introducing <b>wave-particle duality</b>. This dual nature was further confirmed by the <b>double-slit experiment</b>—a cornerstone of quantum theory.
 
-> <b>Wave-particle duality</b> means that quantum entities like photons and electrons act as wave—interfence patterns—until observed, at which point they collapse into particles.<br>
+> <b>Wave-particle duality</b> means that quantum entities like photons and electrons act as waves—interfence patterns—until observed, at which point they collapse into particles.<br>
 This suggest that observation, or consciousness, plays a mysterious role in shaping reality.
 
 So we are left with a mystery that science has yet to resolve:
@@ -84,7 +84,7 @@ So we are left with a mystery that science has yet to resolve:
 
 In <i>Developing Supersensible Perception</i>, Shelli Renée Joye offers a radical insight:<br>
 
-> <b>Reality is quantized, a cosmic projection built from Planck-scale building blocks</b>.
+> <b>Reality is quantized as a cosmic projection, digital at its core—composed of Planck-scale building blocks</b>.
 
 * <b>Planck Length</b> (~1.616×10⁻³⁵ meters): the smallest meaningful unit of space
 * <b>Planck Time</b> (~5.39×10⁻⁴⁴ seconds): the shortest measurable interval of time
@@ -107,7 +107,7 @@ I call this foundational unit the <b>Conscious Voxel</b>.
 
 A voxel (short for “volumetric pixel”) is the 3D equivalent of a pixel—used in medical imaging, simulation engines, and video games like Minecraft. While pixels represent 2D light points, <b>voxels define cubic data points in 3D space</b>.
 
-> If we accept the holographic view of the universe, then our 3D world is not continuous, but composed of discrete, concious data-units—<b>voxels woven with awareness</b>.
+> If we accept the holographic view of the universe, then our 3D world is not continuous, but composed of discrete, conscious data-units—<b>voxels woven with awareness</b>.
 
 But here’s the twist:
 
@@ -123,9 +123,9 @@ Each conscious voxel isn't inert—it is aware. It is a witness—sacred and div
 
 This dreamlike model of reality is not a call to escapism, nihilism, or moral relativism. Quite the opposite.
 
-To believe the universe is holographic is not to imagine you're in Grand Theft Auto with no consequences. Rather, it's to recognize that every thought, every intention, every act reverberates through the implicate field.
+To believe the universe is holographic is not to imagine you're in Grand Theft Auto with zero consequences. Rather, it's to recognize that every thought, every intention, every act reverberates through the implicate field.
 
-The <b>Concious Voxel</b> is not passive—it <i>feels</i>.
+The <b>Conscious Voxel</b> is not passive—it <i>feels</i>.
 
 You are made of trillions of them.<br>
 Your thoughts ripple across dimensions as you participate in this sacred, responsive, and meaning-drenched reality.<br>
@@ -140,18 +140,17 @@ To see yourself as made of conscious voxels is to know:
 
 ### <i>Consciousness as a Fundamental Aspect of Reality</i>
 
-> "How can a three-pound mass of jelly that you can hold in your palm imagine angels, contemplate the meaning of infinity, and even question its own place in the cosmos? Especially awe inspiring is the fact that any single brain, including yours, is made up of atoms that were forged in the hearts of countless, far-flung stars billions of years ago. These particles drifted for eons and light-years until gravity and change brought them together here, now. These atoms now form a conglomerate- your brain- that can not only ponder the very stars that gave it birth but can also think about its own ability to think and wonder about its own ability to wonder. With the arrival of humans, it has been said, the universe has suddenly become conscious of itself. This, truly, it the greatest mystery of all." <br>
+> "How can a three-pound mass of jelly that you can hold in your palm imagine angels, contemplate the meaning of infinity, and even question its own place in the cosmos?
+With the arrival of humans, it has been said, the universe has suddenly become conscious of itself. This, truly, it the greatest mystery of all." <br>
 ~V.S. Ramachandran, The Tell-Tale Brain: A Neuroscientist's Quest for What Makes Us Human
-
-Traditionally, science placed consciousness downstream of the brain—an emergent property of complex matter. But new frontiers in both neuroscience and quantum physics challenge this.
 
 Traditionally, science has viewed consciousness as emergent—an epiphenomenon arising from the brain. But both neuroscience and quantum physics are reshaping this view.
 
-Recent models suggest the brain isn't a <b>generator</b> or consciousness—it's a <b>filter</b>.
+Recent models suggest the brain isn't a <b>generator</b> of consciousness—it's a <b>filter</b>.
 
 > The universe may be infinite in awareness, and the human brain is simply the device that focuses and filters this infinite awareness into a usable stream known as the ego-identity—allowing you to survive, eat, speak, and love in a world of form. 
 
-The body is simply the lens through which a soul enters density and consciousness, then, is not produced by the brain, but <i>channeled</i> through it.
+The body is simply the lens through which a soul enters density. Consciousness, then, is not produced by the brain, but <i>channeled</i> through it.
 
 You are not your brain.<br>
 Your brain is your bridge.
@@ -177,7 +176,7 @@ If the world trembles, sing peace into its bones.<br>
 You are dreaming it, and being dreamed.
 
 For you are made of trillions of conscious voxels.<br>
-Your light matters.<br>
+And your light truly matters.<br>
 
 ---
 
