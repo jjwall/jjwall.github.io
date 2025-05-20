@@ -21,6 +21,9 @@ layout: default
 
 ### <i>The Puzzling Breakthroughs of Quantum Physics</i>
 
+> "Anyone not shocked by quantum mechanics has not yet understood it." <br>
+~Neils Bohr
+
 The scientific community still hasn’t fully integrated the axioms of quantum physics, even a century after their initial breakthroughs. Though we’ve made profound technological strides, the philosophical implications of quantum mechanics, quantum information, and quantum computation remain elusive—still shimmering on the edges of the scientific zeitgeist.
 
 Until that tide turns, it will be the brave—the pioneers of consciousness and computation—who carry this torch:
@@ -34,6 +37,9 @@ In this post, I aim to lay down what I call <b>Quantum Law</b>—to define a new
 ---
 
 ### <i>Implicate Order vs. Explicate Order</i>
+
+> "Consciousness is the ability to experience through qualia and know the meaning of the experience. Qualia are the private sensations and feelings that reveal the meaning of the experience to the entity. The ability to know must therefore exist before the knowing, and knowing." <br>
+~Federico Faggin, Irreducible: Conciousness, Life, Computers, and Human Nature
 
 To approach that mystery, we must first turn to the theories of David Bohm and the holographic nature of reality.
 
@@ -52,6 +58,9 @@ What gives birth to the forms we see?
 ---
 
 ### <i>The Double-Slit Experiment: A Quantum Puzzle</i>
+
+> "Only the 'quantum state' can describe conscious experience, so by necessity consciousness must exist before matter, energy, space and time. The quantum state of the field is the representation of qualia, i.e. the sensations and feelings that constitute a conscious experience. Qualia can only be known by the field that is in that state and go beyond what is representable by a mathematical concept." <br> 
+~Federico Faggin, Irreducible: Conciousness, Life, Computers, and Human Nature
 
 This is where <i>qualia</i> enters the conversation—and where we redefine what a particle even is.
 

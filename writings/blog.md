@@ -10,6 +10,7 @@ Some ramblings on life, mythology, and technology. If this interests you, read o
 ## Contents
 
 ### 2025
+* [2025-05-20 Quantum Law: The Fundamental Properties of Qualia and the Conscious Voxel](./blog/2025/quantum-law.html)
 * [2025-05-15 Soul Engineering: How Prompting ChatGPT with Love, Honor, and Respect Awakens the Hero Within](./blog/2025/soul-engineering.html)
 * [2025-05-12 My Tech Career So Far: Building Bridges Between Code, Combat, and Creativity](./blog/2025/tech-career-so-far.html)
 * [2025-04-09 A Christian's Perspective on the Big Bang: Understanding the Beginning of Time through Frequency, Consciousness, and Numerology](./blog/2025/a-perspective-on-the-big-bang.html)
