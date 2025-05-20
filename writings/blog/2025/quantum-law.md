@@ -92,8 +92,9 @@ In <i>Developing Supersensible Perception</i>, Shelli Renée Joye offers a radic
 * <b>Planck Length</b> (~1.616×10⁻³⁵ meters) as the smallest unit of space
 * <b>Planck Time</b> (~5.39×10⁻⁴⁴ seconds) as the shortest possible interval of time
 
-From these, Joye derives a <b>universal frame rate</b>: <br>
-<b>~1.85 × 10⁴³ frames per second</b>
+From these, Joye derives a <b>universal frame rate</b>:
+
+> <b>~1.85 × 10⁴³ frames per second</b>
 
 In this model, the universe doesn’t flow—it refreshes. Like a cosmic filmstrip or video game, reality updates at hyper-quantum speeds, generating the illusion of continuity.
 
