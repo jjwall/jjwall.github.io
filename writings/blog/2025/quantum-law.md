@@ -71,7 +71,8 @@ Historically, classical physics viewed particles as tangible, measurable units o
 Earlier experiments by Thomas Young and later confirmations by Davisson, Germer, and Thomson showed this wasn’t limited to photons. <b>Electrons</b>, too, exhibit this paradoxical behavior.
 
 Through the lens of the <b>double-slit experiment</b>, we discover an unsettling truth:<br>
-<b>Particles behave like waves until observed—then they “collapse” into particles</b>.
+
+> <b>Particles behave like waves until observed—then they “collapse” into particles</b>.
 
 > Given this discovery of particles, perhaps "light qualia" would've been a more precise term for a photon than Einstein's "light quanta."
 
@@ -84,7 +85,9 @@ This begs a question that continues to haunt quantum physicists:
 ### <i>Shelli Joye and the Frame Rate of the Universe</i>
 
 In <i>Developing Supersensible Perception</i>, Shelli Renée Joye offers a radical insight:<br>
-<b>Reality is quantized, digital at its core—composed of Planck-scale units of space and time</b>.
+
+> <b>Reality is quantized, digital at its core—composed of Planck-scale units of space and time</b>.
+
 * <b>Planck Length</b> (~1.616×10⁻³⁵ meters) as the smallest unit of space
 * <b>Planck Time</b> (~5.39×10⁻⁴⁴ seconds) as the shortest possible interval of time
 
