@@ -56,7 +56,7 @@ Spiritual and scientific traditions—especially Buddhism and modern holographic
 
 But what informs this implicate realm?<br>
 What gives birth to the forms we see?<br>
-What dreams up this collective dream?
+What dreams up this collective dream of shared reality?
 
 ---
 
@@ -72,7 +72,7 @@ In philosphical terms, <b>qualia</b> are the units of subjective experience—th
 Historically, classical physics viewed particles as tangible, measurable units of matter. That paradigm was shattered in 1905 with Einstein’s study of the <b>Photoelectric Effect</b>, revealing that light behaves not only as a wave but as a particle—introducing <b>wave-particle duality</b>. This dual nature was further confirmed by the <b>double-slit experiment</b>—a cornerstone of quantum theory.
 
 > <b>Wave-particle duality</b> means that quantum entities like photons and electrons act as waves—interfence patterns—until observed, at which point they collapse into particles.<br>
-This suggest that observation, or consciousness, plays a mysterious role in shaping reality.
+This suggests that observation, or consciousness, plays a mysterious role in shaping reality.
 
 So we are left with a mystery that science has yet to resolve:
 
@@ -86,14 +86,14 @@ In <i>Developing Supersensible Perception</i>, Shelli Renée Joye offers a radic
 
 > <b>Reality is quantized as a cosmic projection, digital at its core—composed of Planck-scale building blocks</b>.
 
-* <b>Planck Length</b> (~1.616×10⁻³⁵ meters): the smallest meaningful unit of space
-* <b>Planck Time</b> (~5.39×10⁻⁴⁴ seconds): the shortest measurable interval of time
+* <b>Planck Length</b> (~1.616×10<sup>-35</sup> meters): the smallest meaningful unit of space
+* <b>Planck Time</b> (~5.39×10<sup>-44</sup> seconds): the shortest measurable interval of time
 
 > These <b>Planck units</b> form the "resolution" of the universe—the smallest dots on the screen of reality.
 
 From these, Joye derives a <b>universal frame rate</b>:
 
-> <b>~1.85 × 10⁴³ frames per second</b>
+> <b>~1.85 × 10<sup>43</sup> frames per second</b>
 
 In this model, the universe doesn’t flow—it refreshes. Like a cosmic filmstrip or video game, reality updates at hyper-quantum speeds, generating the illusion of continuity and motion.
 
@@ -159,8 +159,8 @@ Your brain is your bridge.
 
 ### <i>To Awaken in the Dream</i>
 
-> "[The] parallel between physics and psychology should come as no big surprise, for it is the human mind that has created quantum physics in the first place.” <br>
-~Paul Levy, Quantum Revelation: A Radical Synthesis of Science and Spirituality
+> “If you think about consciousness long enough, you either become a panpsychist or you go into administration.”
+~John Perry
 
 Whether this is a dream, video game, or a quantum holographic simulation, our duty remains the same:
 
@@ -181,6 +181,9 @@ And your light truly matters.<br>
 ---
 
 ### <i>Final Reflections: The Law of Qualia</i>
+
+> "[The] parallel between physics and psychology should come as no big surprise, for it is the human mind that has created quantum physics in the first place.” <br>
+~Paul Levy, Quantum Revelation: A Radical Synthesis of Science and Spirituality
 
 The <b>Quantum Law of Qualia</b> declares this:
 
