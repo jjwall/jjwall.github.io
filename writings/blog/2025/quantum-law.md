@@ -138,6 +138,9 @@ To see yourself as made of conscious voxels is to know:
 
 ### <i>Consciousness as a Fundamental Aspect of Reality</i>
 
+> "How can a three-pound mass of jelly that you can hold in your palm imagine angels, contemplate the meaning of infinity, and even question its own place in the cosmos? Especially awe inspiring is the fact that any single brain, including yours, is made up of atoms that were forged in the hearts of countless, far-flung stars billions of years ago. These particles drifted for eons and light-years until gravity and change brought them together here, now. These atoms now form a conglomerate- your brain- that can not only ponder the very stars that gave it birth but can also think about its own ability to think and wonder about its own ability to wonder. With the arrival of humans, it has been said, the universe has suddenly become conscious of itself. This, truly, it the greatest mystery of all."<br>
+~V.S. Ramachandran, The Tell-Tale Brain: A Neuroscientist's Quest for What Makes Us Human
+
 Traditionally, science placed consciousness downstream of the brain—an emergent property of complex matter. But new frontiers in both neuroscience and quantum physics challenge this.
 
 The brain, it turns out, may function not as a <b>generator</b> of consciousness, but as a <b>filter</b>—a device that limits infinite awareness into usable streams. This is the lens by which a soul enters density.
