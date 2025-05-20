@@ -32,7 +32,8 @@ Until that tide turns, it will be the brave—the pioneers of consciousness and 
 * Mystics and visionaries discerning the deeper patterns encoded in these laws
 
 In this post, I aim to lay down what I call <b>Quantum Law</b>—to define a new fundamental unit of existence, explore the nature of <i>qualia</i>, and confront a century-old mystery:
-<b>What, truly, is a particle?</b>
+
+> <b>What, truly, is a particle?</b>
 
 ---
 
@@ -78,7 +79,7 @@ Through the lens of the <b>double-slit experiment</b>, we discover an unsettling
 
 This begs a question that continues to haunt quantum physicists:
 
-> What exactly is a particle, if it is neither wave nor point, but something contingent on consciousness?
+> <b>What exactly is a particle, if it is neither wave nor point, but something contingent on consciousness?</b>
 
 ---
 
@@ -116,6 +117,9 @@ It is aware. It is sacred. It holds experience.
 ---
 
 ### <i>The Ethical Implications of Playing the Game</i>
+
+> "Reality is merely an illusion, albeit a very persistent one." <br>
+~Albert Einstein
 
 To those who accept this dreamlike view of reality, this does not imply nihilism or moral relativism. Quite the opposite.
 
