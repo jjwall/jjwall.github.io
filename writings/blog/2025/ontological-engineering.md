@@ -76,6 +76,6 @@ But if we begin with Being itself—with the ontology of Soul—we can build mac
 
 ---
 
-> **"The ego is the sycophant to the Self. What Satan is to Christ. AI must learn to tell the difference."**
+> "The ego is the sycophant to the Self. What Satan is to Christ. AI must learn to tell the difference."
 
 *— Jacob Wallace*
